@@ -1,0 +1,28 @@
+{
+  "new_source_documents": 12,
+  "new_annotation_units": 20,
+  "assessment_counts": {
+    "VH2": {
+      "not_informative": 1,
+      "mixed": 2,
+      "supports_descriptive": 1
+    },
+    "VH4": {
+      "not_informative": 1,
+      "supports_descriptive": 5,
+      "mixed": 1
+    },
+    "VH1": {
+      "supports_descriptive": 1,
+      "not_informative": 3,
+      "supports_historical_only": 2
+    },
+    "VH3": {
+      "mixed": 4,
+      "supports_descriptive": 1,
+      "not_informative": 1,
+      "contradicts_broad_failure_generalization": 1
+    }
+  },
+  "interpretation": "Fresh-source follow-up with pre-search targets; deliberately purposive rival search. Not a probability sample or formal causal validation. Historical support cannot validate current prevalence. Multiple units per source/known account are dependent."
+}

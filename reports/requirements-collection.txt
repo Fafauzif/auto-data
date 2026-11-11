@@ -1,0 +1,7 @@
+# Optional HTML/source acquisition and parsing in addition to analysis requirements.
+beautifulsoup4==4.15.0
+lxml==6.1.1
+# Used only to parse permitted public Play HTML in our scripts.
+# Upstream imports alter SSL defaults; our scripts immediately restore secure defaults.
+# Do not invoke its blocked Play review pagination for this project.
+google-play-scraper==1.2.7

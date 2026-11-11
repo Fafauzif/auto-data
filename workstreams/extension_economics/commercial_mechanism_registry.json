@@ -1,0 +1,128 @@
+[
+  {
+    "mechanism_id": "EE-M01",
+    "business_lines": "Sales",
+    "mechanism": "Delivered vehicle flow",
+    "relationship": "Additional deliveries × realized vehicle contribution",
+    "rival": "Price/model availability/credit approval rather than digital engagement changes deliveries",
+    "missing_identifying_inputs": "Completed deliveries, net revenue, direct vehicle cost, discounts",
+    "interpretive_boundary": "New sales are not installed service base"
+  },
+  {
+    "mechanism_id": "EE-M02",
+    "business_lines": "Services",
+    "mechanism": "Jobs due × dealer capture",
+    "relationship": "Eligible vehicles × work due × dealer capture × net contribution per work unit",
+    "rival": "Less work due can mimic defection",
+    "missing_identifying_inputs": "Model/age/km/program, due jobs, completed jobs, labor costs",
+    "interpretive_boundary": "Same visits can contain different work"
+  },
+  {
+    "mechanism_id": "EE-M03",
+    "business_lines": "Spare Parts",
+    "mechanism": "Attached and standalone parts",
+    "relationship": "Net parts revenue minus attributable direct parts cost",
+    "rival": "Parts in a service package may already be in another total",
+    "missing_identifying_inputs": "SKU/quantity/payer/discount/cost and linkage to work order",
+    "interpretive_boundary": "Do not count attached parts as another independent customer visit"
+  },
+  {
+    "mechanism_id": "EE-M04",
+    "business_lines": "Body & Paint",
+    "mechanism": "Collision/repair incidence and claim routing",
+    "relationship": "Repair demand × capture × realized repair contribution",
+    "rival": "Collision demand and insurer routing differ from scheduled service cadence",
+    "missing_identifying_inputs": "Repair scope, authorization, parts/labor, insurer terms, downtime",
+    "interpretive_boundary": "Lower engine-maintenance needs do not identify body-repair demand"
+  },
+  {
+    "mechanism_id": "EE-M05",
+    "business_lines": "All4S",
+    "mechanism": "Booking-channel migration",
+    "relationship": "Holding completed work, price and direct cost fixed: incremental transaction GP=0",
+    "rival": "A channel move is miscounted as new work",
+    "missing_identifying_inputs": "Same-customer/work-order linkage and actual outcomes",
+    "interpretive_boundary": "Cost saving or genuinely induced demand is a separate mechanism"
+  },
+  {
+    "mechanism_id": "EE-M06",
+    "business_lines": "Services/Parts/B&P",
+    "mechanism": "Payer substitution",
+    "relationship": "Same work with different payer can change realized price, denial risk or collection time",
+    "rival": "Changing payer alone is credited as an added job",
+    "missing_identifying_inputs": "Customer/OEM/insurer allocations and realized reimbursements",
+    "interpretive_boundary": "Zero customer cash does not imply zero dealer GP"
+  },
+  {
+    "mechanism_id": "EE-M07",
+    "business_lines": "Services/Parts",
+    "mechanism": "Entitlement boundary",
+    "relationship": "Covered program events versus later customer-paid work",
+    "rival": "Cohort aging or benefit expiry is mistaken for defection",
+    "missing_identifying_inputs": "VIN/model/cohort/eligible work/program status",
+    "interpretive_boundary": "Maximum years are not actual on-time event count"
+  },
+  {
+    "mechanism_id": "EE-M08",
+    "business_lines": "All4S",
+    "mechanism": "Mix and realization",
+    "relationship": "DeltaGP = deltaQ×unitGP0 + Q1×deltaUnitGP",
+    "rival": "Margin percentage or payer mix shifts while job count is unchanged",
+    "missing_identifying_inputs": "Matched scope and period, net receipts and direct cost",
+    "interpretive_boundary": "An exact bridge is not causal attribution"
+  },
+  {
+    "mechanism_id": "EE-M09",
+    "business_lines": "All4S",
+    "mechanism": "Within-dealer cannibalization",
+    "relationship": "Additional retained contribution less displaced existing contribution",
+    "rival": "A customer would have used another Auto2000 branch/offer anyway",
+    "missing_identifying_inputs": "Dealer-wide outcomes and feasible alternative path",
+    "interpretive_boundary": "Branch/app credit is not necessarily company incrementality"
+  },
+  {
+    "mechanism_id": "EE-M10",
+    "business_lines": "Services/B&P",
+    "mechanism": "Binding specialist capacity",
+    "relationship": "Acceptable incremental contribution > displaced alternative contribution + added capacity cost",
+    "rival": "Positive stand-alone job GP is assumed enough",
+    "missing_identifying_inputs": "Real duration, relevant bottleneck and next-best feasible work",
+    "interpretive_boundary": "No job-hour margins or capacity measured here"
+  },
+  {
+    "mechanism_id": "EE-M11",
+    "business_lines": "All4S",
+    "mechanism": "Operating profit versus GP",
+    "relationship": "Incremental operating profit = incremental GP − incremental operating expenses",
+    "rival": "Revenue or GP is presented as net business benefit",
+    "missing_identifying_inputs": "Real incremental staffing, partner, marketing and running costs",
+    "interpretive_boundary": "Classify depreciation consistently; do not subtract capex twice"
+  },
+  {
+    "mechanism_id": "EE-M12",
+    "business_lines": "All4S",
+    "mechanism": "Timing and cash",
+    "relationship": "Track receipts, costs, investment, guarantee settlement and recoveries by period",
+    "rival": "A future liability or delayed recovery disappears from a short horizon",
+    "missing_identifying_inputs": "Cohort timelines, receivable terms and actual obligations",
+    "interpretive_boundary": "The2026–2028investment cap is not a proof of later obligation limits"
+  },
+  {
+    "mechanism_id": "EE-M13",
+    "business_lines": "Replacement sale/trade-in",
+    "mechanism": "Inspection evidence",
+    "relationship": "Permitted condition evidence may change appraisal confidence or executable offer",
+    "rival": "Digital certificate already exists and adds no valuation information",
+    "missing_identifying_inputs": "Appraiser acceptance, matched offers, agreed data access",
+    "interpretive_boundary": "Certificate retrieval is not price protection or funded risk transfer"
+  },
+  {
+    "mechanism_id": "EE-M14",
+    "business_lines": "Replacement sale/trade-in",
+    "mechanism": "Contracted downside obligation",
+    "relationship": "Dealer residual = promised shortfall − eligible recoveries",
+    "rival": "Per-unit/aggregate insurer limits are called complete protection",
+    "missing_identifying_inputs": "Signed promise, actual coverage, valuation and aggregate rules",
+    "interpretive_boundary": "Limit on insurer payment does not cap a separate full-floor promise"
+  }
+]

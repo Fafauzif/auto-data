@@ -1,0 +1,19 @@
+{
+  "wholesale2025": 803687,
+  "category_total_check": 803687,
+  "hybrid_total2025_source": 65943,
+  "Toyota_hybrid2025_source": 30110,
+  "Toyota_hybrid_share_computed": 0.45660646315757547,
+  "Toyota_Zenix_share_of_Toyota_hybrid_computed": 0.7948854201262039,
+  "Toyota_Zenix_share_of_total_hybrid_computed": 0.3629498202993494,
+  "Toyota_selected_three_models_share_of_Toyota_hybrid": 0.970275655928263,
+  "market_hybrid_growth_computed_2024to2025": 0.10082967464066916,
+  "first9months2026_total_computed_from_category_chart": 679202,
+  "2026_monthly_cells_transcribed": 72,
+  "limits": [
+    "No powertrain decomposition from vehicle-category chart",
+    "Hybrid source includes mild hybrids; not necessarily homogeneous technology",
+    "2025 retail brand list incomplete; no total market denominator invented",
+    "2025 brand Toyota_hybrid30110 is source figure distinct from case33950 estimated electrified"
+  ]
+}

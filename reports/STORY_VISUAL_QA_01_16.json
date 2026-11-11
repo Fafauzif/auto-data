@@ -1,0 +1,193 @@
+{
+  "reviewed_at_utc": "2026-11-11T04:54:06.669381+00:00",
+  "reviewer": "AI visual review only; not human review",
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "reviewed_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "current_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "hash_matches": true,
+  "pdf_version": "41-page visual story; old long-draft QA does not apply",
+  "rendering": "Parent-supplied96dpi PNGs under/tmp/auto2000_story_final",
+  "assigned_pages": [
+    1,
+    16
+  ],
+  "contact_sheets_reviewed": [
+    "contact-01.png",
+    "contact-02.png",
+    "contact-03.png",
+    "contact-04.png"
+  ],
+  "full_pages_reviewed": [
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "status": "passes visual readability/rendering checks with two minor polish observations",
+  "blocking_issues": 0,
+  "comparison_to_reference": "Short finding-led pages, dominant charts/evidence panels, readable body text, generous whitespace and nearby sources reflect the requested reading rhythm. No factual content or artwork from the visual reference appears in the inspected pages.",
+  "checks": {
+    "clipping_detected": false,
+    "overlap_detected": false,
+    "missing_glyphs_detected": false,
+    "card_overflow_detected": false,
+    "orphaned_headings_detected": false,
+    "unreadable_chart_labels_detected": false,
+    "page_numbers_and_source_notes_readable": true,
+    "text_wall_detected": false
+  },
+  "issues": [
+    {
+      "id": "STORY-VIS-01",
+      "severity": "minor",
+      "pages": [
+        1,
+        6,
+        7,
+        8,
+        12,
+        14,
+        15,
+        16
+      ],
+      "category": "numeric_spacing_in_small_copy",
+      "observed": "Some small-copy strings still join words and numeric tokens:27concepts;illustration,59;spesifikasi;11;doi:10... immediately after date;Deloitte2026/fieldworkOct-Nov;codesT151andT155;page;2026XTRAannouncement;as2026prices/observed11Nov2026/March2024. Main body prose is substantially cleaner.",
+      "recommendation": "Add ordinary spaces in descriptive source/caption/limit copy, preserving exact URLs, evidence IDs and model identifiers.",
+      "blocking": false
+    },
+    {
+      "id": "STORY-VIS-02",
+      "severity": "minor",
+      "pages": [
+        15
+      ],
+      "category": "ambiguous_excluded_event_symbol",
+      "observed": "Legacy GBSB row shows six filled circles plus a pale circle numbered7. Prose correctly states six covered events, but the pale numbered seventh slot has no explicit not-covered legend.",
+      "recommendation": "Remove the pale7 or explicitly label it as not covered so that the visual cannot imply a seventh benefit.",
+      "blocking": false
+    }
+  ],
+  "coverage": [
+    {
+      "page": 1,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Readable finding-led cover, three large navigation cards and local confidence key; minor27concepts spacing."
+    },
+    {
+      "page": 2,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page chart check: all category/value/percentage labels and axes readable; source explicitly labels case assumptions."
+    },
+    {
+      "page": 3,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page waterfall check: value labels, separate scale/mix interpretation and source caveat readable; no clipping."
+    },
+    {
+      "page": 4,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Three large accounting cards and short explanatory text retain clear hierarchy; no overflow."
+    },
+    {
+      "page": 5,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Five-row capability map is readable; VIN and desktop-only boundaries explicit."
+    },
+    {
+      "page": 6,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page matched finance chart checked: separate Rp-million axes, direct values, scenario labels and59-payment setting legible; minor source spacing."
+    },
+    {
+      "page": 7,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page7311 evidence panel checked: research-redraw label and engineering-meaning limit explicit; no fabricated UI impression."
+    },
+    {
+      "page": 8,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page four-card mechanism comparison checked: all text fits; preference/delivery distinction and local source readable."
+    },
+    {
+      "page": 9,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page16-block review display and three metric cards checked:7/5/4 labels legible; selected-record limitation clear."
+    },
+    {
+      "page": 10,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page listing-view chart checked:19/20and3/20 direct labels fit inside page; selected-view limit visible."
+    },
+    {
+      "page": 11,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Review date bars and source-date/relaunch caveats are readable; no clipping or wall of text."
+    },
+    {
+      "page": 12,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page survey chart checked: all labels, percentages and denominator source are readable; minor source spacing."
+    },
+    {
+      "page": 13,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page state diagram checked: observed/not performed/stated/not observed labels distinguish outcomes; mobile/native0 and concrete blockers explicit."
+    },
+    {
+      "page": 14,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page branch cards checked: connector arrows render correctly; two separate vehicle/branch pairs fit; minor branch-code spacing."
+    },
+    {
+      "page": 15,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page programme-event visual checked: labels fit, six-versus-seven prose clear; pale7 needs clearer excluded-event encoding."
+    },
+    {
+      "page": 16,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page stacked estimate chart checked: labor/parts legend, visit labels, direct totals and March2024 caveat readable; minor limit/source spacing."
+    }
+  ],
+  "limitations": "Layout/readability review, not fresh verification of every substantive claim. Parent programmatic bbox checks and other agents cover remaining pages. No PDF edit performed."
+}

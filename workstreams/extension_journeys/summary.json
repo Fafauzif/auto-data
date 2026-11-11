@@ -1,0 +1,15 @@
+{
+  "registered_tests": 8,
+  "live_ui_test_groups": 7,
+  "unsupported_mobile_checks": 1,
+  "finance_illustrations": 5,
+  "service_estimate_rows": 22,
+  "source_urls": 13,
+  "observed_customer_outcomes": 0,
+  "bookings_or_leads_submitted": 0,
+  "mobile_journeys": 0,
+  "first_wave_files_overwritten": false,
+  "local_mobile_browser_launch": "failed_before_navigation_socket_permission",
+  "native_app_setup": "not_available",
+  "bev_visits8_11_listed_total_idr": 9101000
+}

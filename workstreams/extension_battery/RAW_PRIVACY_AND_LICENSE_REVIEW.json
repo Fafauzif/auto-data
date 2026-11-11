@@ -1,0 +1,27 @@
+{
+  "dataset_doi": "10.17632/7vdkzpnjgj.2",
+  "license": "CC BY-NC3.0",
+  "source_catalogue": "https://data.mendeley.com/datasets/7vdkzpnjgj/2",
+  "actual_expected_numeric_fields": [
+    "Curr",
+    "Volt",
+    "SoC",
+    "Temp",
+    "TimeCurr",
+    "TimeVolt",
+    "TimeSoC",
+    "TimeTemp",
+    "TimeEpoch",
+    "Epoch"
+  ],
+  "actual_selected_files_fieldset_matches": true,
+  "GPS_VIN_owner_contact_fields_detected": false,
+  "absolute_epoch_time_present": true,
+  "source_context": "Public research data from one Audi e-tron in San Francisco Bay Area,2019\u20132020",
+  "publication_qualification": "No direct identity/location fields detected; retain published absolute timing metadata in exact licensed research source files. Timing can support linkage if combined with external records, so no claim of full anonymization or absence of all privacy risk. No owner identity, live location or personal contact extracted or inferred.",
+  "source_license_not_blanket_package_license": true,
+  "raw_mat_files_unmodified": true,
+  "source_paper_fulltext_excluded_from_release": true,
+  "source_readme_included_under_dataset_license": true,
+  "separate_manifest_preserves_existing17_entry_manifest": true
+}

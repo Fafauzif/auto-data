@@ -1,0 +1,24 @@
+{
+  "snapshot_success_pages": 164,
+  "snapshot_total_pages": 206,
+  "reviewed": 24,
+  "families": {
+    "adviser": 1,
+    "catalogue": 1,
+    "editorial": 7,
+    "local_branch": 1,
+    "product_eksterior": 1,
+    "product_galeri": 1,
+    "product_interior": 1,
+    "product_kredit": 2,
+    "product_overview": 1,
+    "product_spesifikasi": 1,
+    "product_tipe": 1,
+    "product_ulasan": 1,
+    "product_video": 1,
+    "product_warna": 1,
+    "service_utility": 3
+  },
+  "all_reviews_by": "AI",
+  "not_prevalence": "URL-topic/family-purposive snapshot; not sitewide prevalence"
+}

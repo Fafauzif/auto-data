@@ -1,0 +1,38 @@
+[
+  {
+    "model": "Agya",
+    "variant": "Agya 1.2 A/T",
+    "events": "8,9,10,11",
+    "labor_estimate_total_idr": 1917000,
+    "parts_estimate_total_idr": 4276000,
+    "combined_estimate_total_idr": 6193000,
+    "highest_event_estimate_idr": 2528000,
+    "lowest_event_estimate_idr": 980000,
+    "data_status": "Derived sum of dated retail estimates; unmatched models, not a powertrain effect",
+    "source_refs": "XT04"
+  },
+  {
+    "model": "All New BZ4X Battery EV",
+    "variant": "All New BZ4X Panoramic View",
+    "events": "8,9,10,11",
+    "labor_estimate_total_idr": 4349000,
+    "parts_estimate_total_idr": 4752000,
+    "combined_estimate_total_idr": 9101000,
+    "highest_event_estimate_idr": 3713000,
+    "lowest_event_estimate_idr": 847000,
+    "data_status": "Derived sum of dated retail estimates; unmatched models, not a powertrain effect",
+    "source_refs": "XT04"
+  },
+  {
+    "model": "All New Yaris Cross Hybrid EV",
+    "variant": "All New Yaris Cross 1.5 S HEV CVT TSS",
+    "events": "8,9,10,11",
+    "labor_estimate_total_idr": 3692000,
+    "parts_estimate_total_idr": 4808000,
+    "combined_estimate_total_idr": 8500000,
+    "highest_event_estimate_idr": 3247000,
+    "lowest_event_estimate_idr": 1376000,
+    "data_status": "Derived sum of dated retail estimates; unmatched models, not a powertrain effect",
+    "source_refs": "JX03"
+  }
+]

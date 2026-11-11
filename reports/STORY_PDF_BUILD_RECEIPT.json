@@ -1,0 +1,22 @@
+{
+  "file": "output/pdf/Auto2000_Research_Findings.pdf",
+  "edition": "readable_visual_story",
+  "pages": 41,
+  "words_extracted": 7359,
+  "bytes": 1156530,
+  "sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "actual_chart_files": 15,
+  "source_assets": [
+    "story_assets/economic_story.json",
+    "story_assets/data_story.json",
+    "story_assets/review_story.json",
+    "reports/story_assets/journey_story.json",
+    "story_assets/mechanism_story.json",
+    "reports/story_assets/solution_cards.json"
+  ],
+  "research_scope_reduced": false,
+  "full_research_reports_and_raw_in_zip": true,
+  "visual_qa_pending": false,
+  "created_utc": "2026-11-11T05:06:48.734774+00:00",
+  "final_qa_receipt": "reports/STORY_FINAL_QA.json"
+}

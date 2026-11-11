@@ -1,0 +1,83 @@
+[
+  {
+    "option_id": "R1",
+    "friend_direction": "Powertrain fit and ownership-cost comparison",
+    "existing_baseline": "Existing catalogue/comparison, finance simulation, SAM product/pricing context and dated OEM service-cost tool.",
+    "evidence_refs": "FC04;FC14;FC32;UX02;UX03;UX04;JX03",
+    "unresolved_distinction": "Personal route/charging fit and transparent lifecycle assumptions are distinct from finance and are not refuted by its existence. Absence and customer value remain unverified.",
+    "strongest_economic_rival": "Accurate information or advisor help may resolve the same job without another interface.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "R2",
+    "friend_direction": "Model/job/capability-aware booking",
+    "existing_baseline": "Existing Digiroom booking, coarse branch/service filter, MSA, Reminder Service; 31 reported EV outlets.",
+    "evidence_refs": "FC05;FC12;FC14;FC33;UX06;UX08;JX05",
+    "unresolved_distinction": "Job-specific capability and credible capacity visibility are not established by a 31-outlet total; public walkthrough stopped before vehicle qualification.",
+    "strongest_economic_rival": "Vehicle-first questions may be necessary for fit; no observed abandonment or incremental completed work.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "R3",
+    "friend_direction": "Warranty and inspection next step",
+    "existing_baseline": "Toyota Hybrid Health Check, digital certificate retrieval and existing service booking/reminders.",
+    "evidence_refs": "FC05;FC14;FC31;M015;JX02",
+    "unresolved_distinction": "Eligibility explanation and accessible official results are candidate gaps; certificate issuance/retrieval already exists for eligible vehicles.",
+    "strongest_economic_rival": "A paid visit or GP uplift cannot be assumed from a free inspection or repeated reminder.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "M1",
+    "friend_direction": "Home-charger coordination",
+    "existing_baseline": "Toyota charging network and existing PLN/home-charging services.",
+    "evidence_refs": "FC13;M018;M019",
+    "unresolved_distinction": "Installer/status access and unresolved lead stage are not publicly established.",
+    "strongest_economic_rival": "Referral can merely move an already-planned purchase; any commission requires an actual agreement.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "M2",
+    "friend_direction": "Battery-history-to-trade-in evidence",
+    "existing_baseline": "Existing Toyota certificate retrieval, BEV trade-in selector, Trade Cycle Management, OLXmobbi network.",
+    "evidence_refs": "FC18;FC19;FC31;FC34;M015;JX02;JX04;JX07",
+    "unresolved_distinction": "Appraiser acceptance, permissible data linkage and incremental valuation information remain open.",
+    "strongest_economic_rival": "A certificate is not a residual-value guarantee and need not raise executable bids.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "M3",
+    "friend_direction": "EV protection and repair navigation",
+    "existing_baseline": "Existing ecosystem insurance and after-sales; friend cites available EV-insurance products.",
+    "evidence_refs": "FC14;FC30",
+    "unresolved_distinction": "Policy wording, model/job coverage and customer fit need distinct verification; this task does not confirm a new product.",
+    "strongest_economic_rival": "Insurance, warranty, wear, capacity degradation and resale price are different risks.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "O1",
+    "friend_direction": "Extended real-life test drive",
+    "existing_baseline": "Existing test-drive request with branch/calendar preview and explicit subsequent staff confirmation.",
+    "evidence_refs": "FC14;UX05;JX06",
+    "unresolved_distinction": "A longer trial changes duration/cost rather than creating the first test-drive path.",
+    "strongest_economic_rival": "Demo capacity, selection and insurance costs may consume the margin of induced purchases.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "O2",
+    "friend_direction": "Future trade-in price protection",
+    "existing_baseline": "Existing appraisal/trade-in, not evidence of a funded future-price floor.",
+    "evidence_refs": "FC18;FC19;UX07",
+    "unresolved_distinction": "Public sources checked do not confirm this exact contract or a sharia residual-value insurer.",
+    "strongest_economic_rival": "General market-price falls can raise both unit loss and exercise probability; group affiliation does not transfer that liability.",
+    "status": "Research candidate; not selected; no implementation design"
+  },
+  {
+    "option_id": "O3",
+    "friend_direction": "Replacement mobility during repair",
+    "existing_baseline": "Toyota ecosystem mobility services and existing service journeys.",
+    "evidence_refs": "FC17;FC30",
+    "unresolved_distinction": "No confirmation of universal eligible EV-repair replacement-car entitlement in the checked sources.",
+    "strongest_economic_rival": "Retained job contribution must exceed vehicle/rental and displacement costs; service footprint is not spare fleet capacity.",
+    "status": "Research candidate; not selected; no implementation design"
+  }
+]

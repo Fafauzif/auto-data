@@ -1,0 +1,29 @@
+[
+  {
+    "order": "Scale first, then mix",
+    "scale_units": -5120.950714418005,
+    "mix_units": -904.0492855819939,
+    "change_units": -6025,
+    "sum_units": -6024.999999999999,
+    "data_status": "Derived accounting from observed portfolio counts; not causal attribution",
+    "source_refs": "AR2025 printed140/PDF142;FC-N12–FC-N15"
+  },
+  {
+    "order": "Mix first, then scale",
+    "scale_units": -4978.816831643872,
+    "mix_units": -1046.183168356127,
+    "change_units": -6025,
+    "sum_units": -6024.999999999999,
+    "data_status": "Derived accounting from observed portfolio counts; not causal attribution",
+    "source_refs": "AR2025 printed140/PDF142;FC-N12–FC-N15"
+  },
+  {
+    "order": "Symmetric Shapley average",
+    "scale_units": -5049.883773030939,
+    "mix_units": -975.1162269690604,
+    "change_units": -6025,
+    "sum_units": -6024.999999999999,
+    "data_status": "Derived accounting from observed portfolio counts; not causal attribution",
+    "source_refs": "AR2025 printed140/PDF142;FC-N12–FC-N15"
+  }
+]

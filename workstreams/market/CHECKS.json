@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-11-11T02:57:23.890501+00:00",
+  "sources": 24,
+  "ownership_clusters": 15,
+  "evidence_records": 47,
+  "deloitte_numeric_cells": 28,
+  "solution_directions": 12,
+  "checks": [
+    "unique IDs",
+    "all fact-to-source links",
+    "all option-to-fact links",
+    "question-specific bases",
+    "page mapping",
+    "printed zero retains caveat"
+  ],
+  "limitations": [
+    "not a source truth certification",
+    "not participant or causal validation",
+    "all private PDF/PNG evidence excluded from release"
+  ],
+  "result": "passed"
+}

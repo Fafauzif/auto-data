@@ -1,0 +1,43 @@
+{
+  "source_doi": "10.17632/7vdkzpnjgj.2",
+  "scope": "AUXILIARY_SINGLE_VEHICLE_NOT_AUTO2000",
+  "signal_scalar_values": 56507201,
+  "scalar_values_exclude": [
+    "timestamp arrays",
+    "Epoch alignment values"
+  ],
+  "raw_mat_bytes": 283141466,
+  "raw_mat_plus_source_README_bytes": 283242120,
+  "raw_max_single_MAT_bytes": 95036227,
+  "gap30_segments": 106,
+  "strict_gap1_supported_hours": 51.973665686389175,
+  "IV_clocks_identical_bundle_count": 5,
+  "SOC_clocks_identical_bundle_count": 2,
+  "temperature_clocks_identical_bundle_count": 0,
+  "drive_folder2_naive_extra_absolute_terminal_integral_pct": 47.51828349714737,
+  "drive_folder2_naive_extra_signed_Ah_pct": 60.36450605527317,
+  "specified_gap_1_30_300_energy_integrals_agree": true,
+  "charge_sign_diagnostic": "Overwhelmingly negative, source-consistent;239rare positive samples are a narrow exception to always-negative wording, not sign reversal",
+  "charge_negative_sample_percentages": {
+    "Folder1": 99.85086191486175,
+    "Folder7": 99.90957134143231
+  },
+  "eligible_partial_charge_intervals": 4,
+  "Ah_per_SOC_percentage_point_range": [
+    1.5701242035612515,
+    2.1948078904307136
+  ],
+  "capacity_SOH_ground_truth_public": false,
+  "reference_data_qualification": "README states Figure2 data confidential and not public; paper capacity estimator is proprietary. No capacity/SOH ground-truth field among ten actual variables.",
+  "no_capacity_SOH_accuracy_or_efficiency_claim": true,
+  "raw_no_direct_GPS_VIN_owner_contact_field_detected": true,
+  "raw_absolute_epoch_timing_retained": true,
+  "privacy_complete_certification": false,
+  "source_license": "CC BY-NC3.0",
+  "qa_checks_passed": 49,
+  "qa_checks_failed": 0,
+  "figures": [
+    "01_gap_integral_sensitivity.png",
+    "02_sign_and_partial_interval_diagnostics.png"
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "expected_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "hash_matches": true,
+  "page_count": 41,
+  "overall": "PASS",
+  "blocking_defects": [],
+  "nonblocking_copy_observations": [],
+  "assigned_pages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "coverage": [
+    {
+      "page": 29,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 30,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 31,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 32,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 33,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 34,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 35,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 36,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 37,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 38,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Full-page visual inspection of changed page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 39,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Full-page visual inspection of changed page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 40,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    },
+    {
+      "page": 41,
+      "contact": 11,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false,
+      "final_v4_review_method": "Pixel-identical to previously visually reviewed v3 page",
+      "current_hash_supported": true
+    }
+  ],
+  "method": "Final v4 AI visual inspection of full pages38/39; RGB pixel identity against the visually reviewed v3 render proved for other assigned pages29-37,40,41. All prior card identity, field completeness, family counts, exact paths and confidence-label checks remain supported by identical pixels.",
+  "card_checks": [
+    {
+      "solution_id": "SOL-01",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-02",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-03",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-04",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-05",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-06",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-07",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-08",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-09",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-10",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-11",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-12",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-13",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-14",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-15",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-16",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-17",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-18",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-19",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-20",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-21",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-22",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-23",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-24",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-25",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-26",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-27",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    }
+  ],
+  "all_27_exact_titles_present": true,
+  "all_81_source_field_strings_present": true,
+  "all_cards_one_page": true,
+  "seven_family_counts": [
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "eight_family_page_counts": [
+    4,
+    3,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "service_family_continued_heading": true,
+  "corrected_audit_paths_by_page": {
+    "29": true,
+    "30": true,
+    "31": true,
+    "32": true,
+    "33": true,
+    "34": true,
+    "35": true,
+    "36": true
+  },
+  "all_eight_audit_paths_correct": true,
+  "page39_Deloitte_scope": {
+    "year2025_present": true,
+    "62_percent_present": true,
+    "178_base_present": true,
+    "1004_not_full_base_explicit": true
+  },
+  "page41_straightforward_headline": true,
+  "human_review_claimed": false,
+  "pdf_modified": false,
+  "typographic_or_layout_issues_observed": [],
+  "changed_pages_full_visual_review": [
+    38,
+    39
+  ],
+  "changed_page_spacing_checks": {
+    "page38_on_255414": true,
+    "page38_with_617703": true,
+    "page39_71pct_maintenance": true,
+    "page39_28pct_awareness": true
+  },
+  "unchanged_assigned_pages_rgb_proof": [
+    {
+      "page": 29,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "773a4a91d891cad942585db3cc0e6282180400b1207d0cc59716291e0c8a9152",
+      "v4_rgb_sha256": "773a4a91d891cad942585db3cc0e6282180400b1207d0cc59716291e0c8a9152"
+    },
+    {
+      "page": 30,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "c9d1612c220365ffec29e67f90acdb4b67bffe688deb73f9e0aff7d9993d8f4b",
+      "v4_rgb_sha256": "c9d1612c220365ffec29e67f90acdb4b67bffe688deb73f9e0aff7d9993d8f4b"
+    },
+    {
+      "page": 31,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "adc57844323a2a8304e9cd2e285a0ebc1494d3656b2ebd274aaca3a45be9f509",
+      "v4_rgb_sha256": "adc57844323a2a8304e9cd2e285a0ebc1494d3656b2ebd274aaca3a45be9f509"
+    },
+    {
+      "page": 32,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "ecac5ecc3426e34964cfebd04b9db0ade347869af92daec92f056072403ccb91",
+      "v4_rgb_sha256": "ecac5ecc3426e34964cfebd04b9db0ade347869af92daec92f056072403ccb91"
+    },
+    {
+      "page": 33,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "9e201ad3522b06453d942990d202a1c9dc94637701f4d8e244c8e0a83dd1ddba",
+      "v4_rgb_sha256": "9e201ad3522b06453d942990d202a1c9dc94637701f4d8e244c8e0a83dd1ddba"
+    },
+    {
+      "page": 34,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "14d63c47d70aa4cb1800ed3672966ce05caeee76f16f88c561e6233ad265dbe2",
+      "v4_rgb_sha256": "14d63c47d70aa4cb1800ed3672966ce05caeee76f16f88c561e6233ad265dbe2"
+    },
+    {
+      "page": 35,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "fabc092c320506cc1b863212cb2a9cb539d7b376bbb182ce84f2d4f29050fc90",
+      "v4_rgb_sha256": "fabc092c320506cc1b863212cb2a9cb539d7b376bbb182ce84f2d4f29050fc90"
+    },
+    {
+      "page": 36,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "8dcbe169eb48f5acbc6491f6dc211a4b0f2b7a716ea211e91c30b08ac037664b",
+      "v4_rgb_sha256": "8dcbe169eb48f5acbc6491f6dc211a4b0f2b7a716ea211e91c30b08ac037664b"
+    },
+    {
+      "page": 37,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "d7004ecc722989a4dde95bd83c5f64d5c411ab9a9917261f34bf0fad3de9e30a",
+      "v4_rgb_sha256": "d7004ecc722989a4dde95bd83c5f64d5c411ab9a9917261f34bf0fad3de9e30a"
+    },
+    {
+      "page": 40,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "90bfa5da22ed8740cd5d4c33c3906ccaa0f35439e8df05f9f5a9d23fe9036989",
+      "v4_rgb_sha256": "90bfa5da22ed8740cd5d4c33c3906ccaa0f35439e8df05f9f5a9d23fe9036989"
+    },
+    {
+      "page": 41,
+      "dimensions_equal": true,
+      "rgb_pixels_identical": true,
+      "v3_rgb_sha256": "62f9f5da14c9aee637b94d54eff81c02fc15d5667c276d3158978cf8b26b300b",
+      "v4_rgb_sha256": "62f9f5da14c9aee637b94d54eff81c02fc15d5667c276d3158978cf8b26b300b"
+    }
+  ],
+  "all11_unchanged_pages_pixel_identical": true,
+  "qa_history": [
+    {
+      "path": "reports/STORY_VISUAL_QA_29_41.json",
+      "sha256_reviewed": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "applies_to_current_pdf": false
+    },
+    {
+      "path": "reports/STORY_FINAL_VISUAL_QA_29_41_3bc178b6.json",
+      "sha256_reviewed": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+      "applies_to_current_pdf": false
+    }
+  ]
+}

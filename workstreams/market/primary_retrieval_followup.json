@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ipb_utaut",
+    "url": "https://journal.ipb.ac.id/jabm/article/download/61101/31604/364864",
+    "status": 200,
+    "request_id": "8bf86d82793c434f89a41ff3a6bca863",
+    "bytes": 406367,
+    "error": "",
+    "final_url": "https://journal.ipb.ac.id/jabm/article/download/61101/31604/364864",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "ipb_environment",
+    "url": "https://journal.ipb.ac.id/jabm/article/download/52902/28366/284213",
+    "status": 200,
+    "request_id": "4c3487f6e9784711ba70768d66bad868",
+    "bytes": 1397592,
+    "error": "",
+    "final_url": "https://journal.ipb.ac.id/jabm/article/download/52902/28366/284213",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "deloitte_sea",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "status": 200,
+    "request_id": "816d75aa002740ef87e6b9a70c03afc3",
+    "bytes": 23651212,
+    "error": "",
+    "final_url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "pdf_to_text_returncode": 0
+  }
+]

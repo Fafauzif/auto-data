@@ -1,0 +1,38 @@
+{
+  "calculated_utc": "2026-11-11T04:21:06.963394+00:00",
+  "raw_input_unique_n": 148,
+  "new_public_rows": 148,
+  "old_new_overlap_n": 0,
+  "combined_unique_review_ids": 358,
+  "new_evidence_ids_unique": true,
+  "new_source_urls_n": 9,
+  "new_source_request_ids_n": 9,
+  "source_text_hash_matches_n": 148,
+  "captured_source_timestamp_joined_n": 148,
+  "ratings_in_1_5": true,
+  "complete_source_locators": true,
+  "no_author_contact_or_review_text_columns": true,
+  "source_inspected_by_one_ai_n": 148,
+  "source_inspected_by_second_ai_n": 16,
+  "human_validation": false,
+  "independent_service_outcomes_measured": false,
+  "status_counts": {
+    "self_reported_app_job": 114,
+    "unknown": 26,
+    "branch_experience": 6,
+    "product_review": 2
+  },
+  "report_type_counts": {
+    "constraint_or_failure_report": 99,
+    "generic_nonjob": 19,
+    "recovery_report": 2,
+    "success_report": 9,
+    "feature_request_or_concern": 7,
+    "mixed_or_unclear": 12
+  },
+  "vehicle_context_counts": {
+    "vehicle_unspecified": 112,
+    "car_explicit": 30,
+    "motorcycle_explicit": 6
+  }
+}

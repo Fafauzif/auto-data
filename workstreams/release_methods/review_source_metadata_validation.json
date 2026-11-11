@@ -1,0 +1,11 @@
+{
+  "source_records": 210,
+  "unique_platform_review_ids": 210,
+  "unique_public_page_captures": 12,
+  "google_timestamp_epochs_recovered": 180,
+  "all_have_capture_hash": true,
+  "missing_source_provenance": [],
+  "no_review_text_or_author_fields_exported": true,
+  "duplicate_text_hash_records": 0,
+  "counts_are_not_independent_people": true
+}

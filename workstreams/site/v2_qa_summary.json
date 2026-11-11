@@ -1,0 +1,42 @@
+{
+  "n_fixed_sample": 24,
+  "families": {
+    "adviser": 1,
+    "catalogue": 1,
+    "editorial": 7,
+    "local_branch": 1,
+    "product_eksterior": 1,
+    "product_galeri": 1,
+    "product_interior": 1,
+    "product_kredit": 2,
+    "product_overview": 1,
+    "product_spesifikasi": 1,
+    "product_tipe": 1,
+    "product_ulasan": 1,
+    "product_video": 1,
+    "product_warna": 1,
+    "service_utility": 3
+  },
+  "version_counts": {
+    "2.0": 24
+  },
+  "check_pass_counts": {
+    "selector_matches": 24,
+    "word_count_matches": 24,
+    "content_hash_matches": 24,
+    "main_link_target_set_matches": 24,
+    "title_cap_matches": 24,
+    "canonical_exact_rel_matches": 24,
+    "h1_global_matches": 24,
+    "forms_global_matches": 24,
+    "rp_flag_matches_selected_content": 24,
+    "capture_time_matches_transport": 24
+  },
+  "contact_leak_pages": 0,
+  "article_page_numeric_outside_not_inside_n": 4,
+  "zero_word_selected_pages_n": 2,
+  "snapshot_utc": "2026-11-11T03:09:30.042924+00:00",
+  "new_network_requests": 0,
+  "human_validation": false,
+  "scope": "fixed purposeful24 v1sources; notsiteprevalence"
+}

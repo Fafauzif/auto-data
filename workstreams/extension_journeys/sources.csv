@@ -1,0 +1,14 @@
+source_id,url,role,access_state,observed_date,ownership_cluster
+XTS01,https://auto2000.co.id/mobil-baru-toyota/p/bz4x,Live product and calculator,observed,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS02,https://auto2000.co.id/mobil-baru-toyota/p/bz4x/spesifikasi,Live selected specification accordion,observed,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS03,https://auto2000.co.id/layanan-bengkel,Workshop qualification selector,observed to identifier boundary,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS04,https://aftersales.toyota.astra.co.id/t-care,Live model/variant programme cost tool,observed; March2024 estimate basis,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS05,https://aftersales.toyota.astra.co.id/warranty,Public category warranty page,observed,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS06,https://toyota.astra.co.id/ownership,"Direct non-www navigation, separate from clicked target",remote connection failure; clicked target XTS13 loaded,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS07,https://auto2000.co.id/testdrive/new-car/BZ4X,BEV branch/calendar/FAQ,observed preview; no request,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS08,https://auto2000.co.id/search/global?text=cek%20kesehatan%20baterai,Indonesian exact-query state,observed0results,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS09,https://auto2000.co.id/dealer-toyota/jakarta-pusat/auto2000juanda,Named branch metadata and product links,observed,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS10,https://auto2000.co.id/testdrive/new-car/bz4x?branchCode=T151,Actual Juanda product link destination,loaded Juanda andbZ4X,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS11,https://auto2000.co.id/dealer-toyota/jakarta-pusat/auto2000cempakaputih,Named workshop branch metadata and product links,observed,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS12,https://auto2000.co.id/testdrive/new-car/hiace?branchCode=T155,Actual Cempaka Putih product link destination,loaded Cempaka Putih andHiace,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators
+XTS13,https://www.toyota.astra.co.id/ownership,Separate tab opened by actual Warranty detail click,accessible owner-manual landing; model warranty document not opened,2026-11-11,Astra/Toyota affiliated official sites; not independent corroborators

@@ -1,0 +1,205 @@
+{
+  "checks_total": 49,
+  "passed": 49,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "Five exact source bundles",
+      "pass": true
+    },
+    {
+      "check": "Actual scientific signal count excluding clocks and Epoch",
+      "pass": true
+    },
+    {
+      "check": "Clock scalar count kept separate",
+      "pass": true
+    },
+    {
+      "check": "Epoch values kept separate",
+      "pass": true
+    },
+    {
+      "check": "No nonfinite source scalars",
+      "pass": true
+    },
+    {
+      "check": "Five source payload bytes reconcile",
+      "pass": true
+    },
+    {
+      "check": "Largest source file byte count",
+      "pass": true
+    },
+    {
+      "check": "Current and voltage clocks actually identical in every bundle",
+      "pass": true
+    },
+    {
+      "check": "SOC exact-clock matches only two bundles",
+      "pass": true
+    },
+    {
+      "check": "Temperature exact-clock matches no bundle",
+      "pass": true
+    },
+    {
+      "check": "Sign counts partition current samples",
+      "pass": true
+    },
+    {
+      "check": "Rare charge positive values correctly counted",
+      "pass": true
+    },
+    {
+      "check": "Charge convention overwhelmingly negative",
+      "pass": true
+    },
+    {
+      "check": "Current recorded on integer grid",
+      "pass": true
+    },
+    {
+      "check": "Signed Ah equals separate positive less negative integrals",
+      "pass": true
+    },
+    {
+      "check": "Signed energy equals positive less negative integrals",
+      "pass": true
+    },
+    {
+      "check": "Absolute terminal integral equals sum of magnitudes",
+      "pass": true
+    },
+    {
+      "check": "Retained duration nondecreasing Folder1",
+      "pass": true
+    },
+    {
+      "check": "Energy stable across specified gap bounds Folder1",
+      "pass": true
+    },
+    {
+      "check": "Unbounded time equals source span Folder1",
+      "pass": true
+    },
+    {
+      "check": "Retained duration nondecreasing Folder16",
+      "pass": true
+    },
+    {
+      "check": "Energy stable across specified gap bounds Folder16",
+      "pass": true
+    },
+    {
+      "check": "Unbounded time equals source span Folder16",
+      "pass": true
+    },
+    {
+      "check": "Retained duration nondecreasing Folder2",
+      "pass": true
+    },
+    {
+      "check": "Energy stable across specified gap bounds Folder2",
+      "pass": true
+    },
+    {
+      "check": "Unbounded time equals source span Folder2",
+      "pass": true
+    },
+    {
+      "check": "Retained duration nondecreasing Folder7",
+      "pass": true
+    },
+    {
+      "check": "Energy stable across specified gap bounds Folder7",
+      "pass": true
+    },
+    {
+      "check": "Unbounded time equals source span Folder7",
+      "pass": true
+    },
+    {
+      "check": "Retained duration nondecreasing Folder8",
+      "pass": true
+    },
+    {
+      "check": "Energy stable across specified gap bounds Folder8",
+      "pass": true
+    },
+    {
+      "check": "Unbounded time equals source span Folder8",
+      "pass": true
+    },
+    {
+      "check": "Gap30 segments106 rather than source files or trips",
+      "pass": true
+    },
+    {
+      "check": "Common support no longer than segment duration",
+      "pass": true
+    },
+    {
+      "check": "Four eligible partial charging diagnostics",
+      "pass": true
+    },
+    {
+      "check": "Partial diagnostic slope arithmetic matches exact table",
+      "pass": true
+    },
+    {
+      "check": "No health groundtruth claim",
+      "pass": true
+    },
+    {
+      "check": "Published time metadata explicitly retained and qualified",
+      "pass": true
+    },
+    {
+      "check": "Separate raw manifest has five MAT files and README",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Charge/Folder1/Raw.mat",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder2/Raw.mat",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Charge/Folder7/Raw.mat",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder8/Raw.mat",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat",
+      "pass": true
+    },
+    {
+      "check": "Exact source SHA256 raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/README_source.pdf",
+      "pass": true
+    },
+    {
+      "check": "Earlier manifest remains separate17entries",
+      "pass": true
+    },
+    {
+      "check": "No full paper in telemetry raw appendix",
+      "pass": true
+    },
+    {
+      "check": "All reproduction scripts compile",
+      "pass": true
+    },
+    {
+      "check": "All JSON and CSV parse",
+      "pass": true
+    }
+  ],
+  "visual_qa": "Analysis agent inspected both figures and revised the gap-integration chart to readable linear percentage excess. No human field validation claimed.",
+  "scope": "This new receipt covers telemetry files and calculations only; it is separate from earlier17-source-file QA. It does not validate source accuracy, health inference or anonymity."
+}

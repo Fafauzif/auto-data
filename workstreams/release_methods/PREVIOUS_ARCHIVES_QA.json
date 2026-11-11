@@ -1,0 +1,35 @@
+[
+  {
+    "archive": "Auto2000_Expanded_Research_Plan_v2.zip",
+    "files": 19,
+    "file_type_counts": {
+      ".docx": 1,
+      ".md": 11,
+      ".json": 3,
+      ".csv": 2,
+      ".zip": 1,
+      "": 1
+    },
+    "candidate_paths": [
+      "Auto2000_Expanded_Research_Plan_v2/Auto2000_Expanded_Research_Plan.docx"
+    ],
+    "special_document_or_dependency_candidates_n": 1,
+    "candidate_interpretation": "Only candidate is the previously generated research-plan DOCX, not a supplied private casebook",
+    "inspection_scope": "Archive path/type inventory only; no human privacy certification"
+  },
+  {
+    "archive": "Auto2000_Public_Research_Initial_2026.zip",
+    "files": 47,
+    "file_type_counts": {
+      "": 1,
+      ".md": 22,
+      ".json": 5,
+      ".csv": 15,
+      ".py": 4
+    },
+    "candidate_paths": [],
+    "special_document_or_dependency_candidates_n": 0,
+    "candidate_interpretation": "No candidate private document/dependency paths in inspected archive listing",
+    "inspection_scope": "Archive path/type inventory only; no human privacy certification"
+  }
+]

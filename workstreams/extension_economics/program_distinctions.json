@@ -1,0 +1,62 @@
+[
+  {
+    "program": "T-CARE",
+    "cohort": "Eligible purchases from July2022; model exclusions apply",
+    "covered_scheduled_events": 7,
+    "max_years": 3,
+    "max_km": 60000,
+    "scheduled_labor": "Included subject terms",
+    "scheduled_parts": "Specified items included subject terms",
+    "next_period": "XTRA states customer-paid events8–11 when eligible",
+    "source": "EE-S01;EE-S04",
+    "status": "Operator published program"
+  },
+  {
+    "program": "T-CARE Lite",
+    "cohort": "Eligible LCGC purchases from January2023",
+    "covered_scheduled_events": 7,
+    "max_years": 3,
+    "max_km": 60000,
+    "scheduled_labor": "Included subject terms",
+    "scheduled_parts": "Not the same automatic parts benefit as full T-CARE",
+    "next_period": "Parts can be customer-paid inside labor-covered window",
+    "source": "EE-S01;EE-S03",
+    "status": "Operator published program"
+  },
+  {
+    "program": "T-CARE Lite+",
+    "cohort": "Optional additional package for eligible LCGC; available from April2023",
+    "covered_scheduled_events": 6,
+    "max_years": 3,
+    "max_km": 60000,
+    "scheduled_labor": "Separate Lite labor program",
+    "scheduled_parts": "Purchased package for scheduled events2–7",
+    "next_period": "Prepayment changes customer cash timing, not proof of dealer GP",
+    "source": "EE-S01;EE-S03",
+    "status": "Operator published program"
+  },
+  {
+    "program": "GBSB",
+    "cohort": "Current page identifies eligible January2020–June2022 purchases; legacy PDF has model rollout dates",
+    "covered_scheduled_events": 6,
+    "max_years": 4,
+    "max_km": 50000,
+    "scheduled_labor": "Included subject terms",
+    "scheduled_parts": "Listed items only; service book governs",
+    "next_period": "Outside-program event count is not observed paid demand",
+    "source": "EE-S01;EE-S11 PDF1",
+    "status": "Current page plus historical primary program PDF"
+  },
+  {
+    "program": "T-CARE XTRA",
+    "cohort": "Eligible post-T-CARE service; current page excludes GBSB",
+    "covered_scheduled_events": 0,
+    "max_years": 2,
+    "max_km": 40000,
+    "scheduled_labor": "Events8–11 customer-paid in announcement",
+    "scheduled_parts": "Events8–11 customer-paid in announcement",
+    "next_period": "Conditional six-month/10,000km warranty increments; not free scheduled-service extension",
+    "source": "EE-S01;EE-S04",
+    "status": "Operator published program; eligibility required"
+  }
+]

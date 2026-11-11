@@ -1,0 +1,385 @@
+{
+  "figures": [
+    {
+      "figure": "figures/story/economic_01.png",
+      "asset": "economic_story.json",
+      "page_id": "EC01",
+      "plot_data": [
+        {
+          "business_line": "Vehicle sales",
+          "gross_profit_idr_billion": 3600,
+          "revenue_idr_billion": 60000,
+          "share_of_case_gp_pct": 53.333333333333336,
+          "display_share_pct": 53.3
+        },
+        {
+          "business_line": "Services",
+          "gross_profit_idr_billion": 1320,
+          "revenue_idr_billion": 2400,
+          "share_of_case_gp_pct": 19.555555555555557,
+          "display_share_pct": 19.6
+        },
+        {
+          "business_line": "Spare parts",
+          "gross_profit_idr_billion": 1200,
+          "revenue_idr_billion": 4800,
+          "share_of_case_gp_pct": 17.77777777777778,
+          "display_share_pct": 17.8
+        },
+        {
+          "business_line": "Body and paint",
+          "gross_profit_idr_billion": 630,
+          "revenue_idr_billion": 1800,
+          "share_of_case_gp_pct": 9.333333333333334,
+          "display_share_pct": 9.3
+        }
+      ]
+    },
+    {
+      "figure": "figures/story/economic_02.png",
+      "asset": "economic_story.json",
+      "page_id": "EC02",
+      "plot_data": [
+        {
+          "label": "2024 xEV sales",
+          "bar_type": "total",
+          "start_vehicles": 0,
+          "end_vehicles": 37693,
+          "value_vehicles": 37693
+        },
+        {
+          "label": "Portfolio scale term",
+          "bar_type": "accounting_change",
+          "start_vehicles": 37693,
+          "end_vehicles": 32643.11622696906,
+          "value_vehicles": -5049.883773030939
+        },
+        {
+          "label": "xEV mix term",
+          "bar_type": "accounting_change",
+          "start_vehicles": 32643.11622696906,
+          "end_vehicles": 31668,
+          "value_vehicles": -975.1162269690604
+        },
+        {
+          "label": "2025 xEV sales",
+          "bar_type": "total",
+          "start_vehicles": 0,
+          "end_vehicles": 31668,
+          "value_vehicles": 31668
+        }
+      ]
+    },
+    {
+      "figure": "figures/story/economic_04.png",
+      "asset": "economic_story.json",
+      "page_id": "EC04",
+      "plot_data": [
+        {
+          "service_event": 8,
+          "labor_estimate_idr": 847000,
+          "parts_estimate_idr": 0,
+          "total_estimate_idr": 847000
+        },
+        {
+          "service_event": 9,
+          "labor_estimate_idr": 1582000,
+          "parts_estimate_idr": 2112000,
+          "total_estimate_idr": 3694000
+        },
+        {
+          "service_event": 10,
+          "labor_estimate_idr": 847000,
+          "parts_estimate_idr": 0,
+          "total_estimate_idr": 847000
+        },
+        {
+          "service_event": 11,
+          "labor_estimate_idr": 1073000,
+          "parts_estimate_idr": 2640000,
+          "total_estimate_idr": 3713000
+        }
+      ]
+    },
+    {
+      "figure": "figures/story/economic_05.png",
+      "asset": "economic_story.json",
+      "page_id": "EC05",
+      "plot_data": [
+        {
+          "design": "Capped top-up",
+          "valid_offer_idr": 160000000,
+          "topup_idr": 10000000,
+          "customer_credit_idr": 170000000,
+          "minimum_floor_promised": false,
+          "full_floor_shortfall_idr": null,
+          "conditional_insurer_payment_idr": null,
+          "dealer_full_floor_residual_idr": null
+        },
+        {
+          "design": "Full floor with assumed insurer layer",
+          "valid_offer_idr": 160000000,
+          "topup_idr": null,
+          "customer_credit_idr": 200000000,
+          "minimum_floor_promised": true,
+          "full_floor_shortfall_idr": 40000000,
+          "conditional_insurer_payment_idr": 15000000,
+          "dealer_full_floor_residual_idr": 25000000
+        }
+      ]
+    },
+    {
+      "figure": "figures/story/economic_06.png",
+      "asset": "economic_story.json",
+      "page_id": "EC06",
+      "plot_data": [
+        {
+          "world": "Dispersed",
+          "stress_state": "A",
+          "eligible_units": 20,
+          "units_with_low_offer": 10,
+          "full_floor_shortfall_idr": 400000000,
+          "conditional_recovery_before_aggregate_idr": 150000000,
+          "effective_conditional_recovery_idr": 100000000,
+          "dealer_residual_idr": 300000000,
+          "capped_topup_total_idr": 100000000
+        },
+        {
+          "world": "Dispersed",
+          "stress_state": "B",
+          "eligible_units": 20,
+          "units_with_low_offer": 10,
+          "full_floor_shortfall_idr": 400000000,
+          "conditional_recovery_before_aggregate_idr": 150000000,
+          "effective_conditional_recovery_idr": 100000000,
+          "dealer_residual_idr": 300000000,
+          "capped_topup_total_idr": 100000000
+        },
+        {
+          "world": "Synchronized",
+          "stress_state": "A",
+          "eligible_units": 20,
+          "units_with_low_offer": 20,
+          "full_floor_shortfall_idr": 800000000,
+          "conditional_recovery_before_aggregate_idr": 300000000,
+          "effective_conditional_recovery_idr": 100000000,
+          "dealer_residual_idr": 700000000,
+          "capped_topup_total_idr": 200000000
+        },
+        {
+          "world": "Synchronized",
+          "stress_state": "B",
+          "eligible_units": 20,
+          "units_with_low_offer": 0,
+          "full_floor_shortfall_idr": 0,
+          "conditional_recovery_before_aggregate_idr": 0,
+          "effective_conditional_recovery_idr": 0,
+          "dealer_residual_idr": 0,
+          "capped_topup_total_idr": 0
+        }
+      ]
+    },
+    {
+      "figure": "figures/story/data_01.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_01",
+      "plot_data": {
+        "type": "grouped_bar",
+        "title": "How many of 28 locations have another mapped option nearby?",
+        "categories": [
+          "Within 1 km",
+          "Within 5 km"
+        ],
+        "series": [
+          {
+            "name": "All mapped alternatives",
+            "values": [
+              20,
+              27
+            ],
+            "color": "#245A78"
+          },
+          {
+            "name": "Conservative map filter",
+            "values": [
+              8,
+              26
+            ],
+            "color": "#B97032"
+          }
+        ],
+        "y_label": "Auto2000-name source locations, out of 28",
+        "y_min": 0,
+        "y_max": 28,
+        "show_integer_labels": true
+      }
+    },
+    {
+      "figure": "figures/story/data_02.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_02",
+      "plot_data": {
+        "type": "horizontal_bar",
+        "title": "Distance between two published map points",
+        "categories": [
+          "Balikpapan Sudirman",
+          "Tangerang",
+          "Kapuk",
+          "BSD City",
+          "Cibinong"
+        ],
+        "values": [
+          55.25785206473802,
+          0.1345324136679173,
+          0.0283420233008334,
+          0.0142362106999351,
+          0.0085368068720736
+        ],
+        "display_values": [
+          "55.258 km",
+          "0.135 km",
+          "0.028 km",
+          "0.014 km",
+          "0.009 km"
+        ],
+        "x_label": "Straight-line difference (km)",
+        "x_min": 0,
+        "highlight_category": "Balikpapan Sudirman",
+        "highlight_color": "#B97032",
+        "other_color": "#245A78",
+        "small_value_note": "The four shorter differences are all below 0.135 km.",
+        "avoid_log_axis_for_plain_English": true
+      }
+    },
+    {
+      "figure": "figures/story/data_03.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_03",
+      "plot_data": {
+        "type": "dumbbell",
+        "title": "Mapped sites per 100,000 passenger vehicles",
+        "categories": [
+          "West Papua, old boundary",
+          "Papua, old boundary"
+        ],
+        "before_name": "Direct code match",
+        "after_name": "Aligned old boundaries",
+        "before_values": [
+          48.804294777940456,
+          22.682594888855284
+        ],
+        "after_values": [
+          19.191555715485187,
+          13.436405492802566
+        ],
+        "before_display": [
+          "48.80",
+          "22.68"
+        ],
+        "after_display": [
+          "19.19",
+          "13.44"
+        ],
+        "x_label": "Sites per 100,000 passenger vehicles",
+        "x_min": 0,
+        "before_color": "#B97032",
+        "after_color": "#245A78",
+        "rank_labels": [
+          "1 \u2192 10",
+          "9 \u2192 19"
+        ]
+      }
+    },
+    {
+      "figure": "figures/story/data_05.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_05",
+      "plot_data": {
+        "type": "horizontal_bar",
+        "title": "Signals sharing the current clock exactly",
+        "categories": [
+          "Voltage",
+          "State of charge",
+          "Temperature"
+        ],
+        "values": [
+          5,
+          2,
+          0
+        ],
+        "display_values": [
+          "5 of 5 bundles",
+          "2 of 5 bundles",
+          "0 of 5 bundles"
+        ],
+        "x_label": "Selected source bundles",
+        "x_min": 0,
+        "x_max": 5,
+        "show_integer_labels": true,
+        "color": "#245A78"
+      }
+    },
+    {
+      "figure": "figures/story/data_06.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_06",
+      "plot_data": {
+        "type": "bar",
+        "title": "Drive Folder2: the effect of bridging long gaps",
+        "categories": [
+          "Keep supported intervals",
+          "Bridge every gap"
+        ],
+        "values": [
+          156.20635349582608,
+          230.4329313905289
+        ],
+        "display_values": [
+          "156.206 kWh",
+          "230.433 kWh"
+        ],
+        "y_label": "Absolute pack-terminal integral (kWh)",
+        "y_min": 0,
+        "colors": [
+          "#245A78",
+          "#B97032"
+        ],
+        "callout": "+47.52% unsupported extra integral"
+      }
+    },
+    {
+      "figure": "figures/story/data_07.png",
+      "asset": "data_story.json",
+      "page_id": "DATA_STORY_07",
+      "plot_data": {
+        "type": "bar",
+        "title": "Observed charge per reported SOC percentage point",
+        "categories": [
+          "Interval A",
+          "Interval B",
+          "Interval C",
+          "Interval D"
+        ],
+        "values": [
+          1.5701242035612517,
+          2.186959247251795,
+          2.1948078904307136,
+          2.1616206494397527
+        ],
+        "display_values": [
+          "1.570",
+          "2.187",
+          "2.195",
+          "2.162"
+        ],
+        "y_label": "Observed negative Ah / SOC percentage point",
+        "y_min": 0,
+        "y_max": 2.4,
+        "color": "#245A78"
+      }
+    }
+  ],
+  "new_collection": false,
+  "readable_figures_from_existing_verified_inputs": true,
+  "note": "No effect size imported or inferred. Review and survey chart arrays are separately verified in the story assets and source CSVs."
+}

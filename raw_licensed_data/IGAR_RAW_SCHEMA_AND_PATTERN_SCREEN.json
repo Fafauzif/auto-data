@@ -1,0 +1,52 @@
+[
+  {
+    "file": "Rating_labeled.csv",
+    "rows": 617722,
+    "columns": [
+      "Unnamed: 0",
+      "app",
+      "content",
+      "translation",
+      "score",
+      "at",
+      "appVersion",
+      "labelScoreBase"
+    ],
+    "explicit_reviewer_handle_column": false,
+    "raw_text_preserved": true,
+    "pattern_screen_counts": {
+      "content_rows_with_email_like_pattern": 0,
+      "content_rows_with_long_digit_sequence_pattern": 190,
+      "translation_rows_with_email_like_pattern": 0,
+      "translation_rows_with_long_digit_sequence_pattern": 169
+    },
+    "screen_limit": "Pattern hits are not validated personal identifiers and not a complete disclosure audit. Free text can contain self-disclosed information; raw source files are unmodified."
+  },
+  {
+    "file": "VADER_labeled.csv",
+    "rows": 617722,
+    "columns": [
+      "app",
+      "content",
+      "score",
+      "at",
+      "appVersion",
+      "translation",
+      "vader_neg",
+      "vader_neu",
+      "vader_pos",
+      "vader_compound",
+      "vader_label",
+      "vader_confidence"
+    ],
+    "explicit_reviewer_handle_column": false,
+    "raw_text_preserved": true,
+    "pattern_screen_counts": {
+      "content_rows_with_email_like_pattern": 0,
+      "content_rows_with_long_digit_sequence_pattern": 190,
+      "translation_rows_with_email_like_pattern": 0,
+      "translation_rows_with_long_digit_sequence_pattern": 169
+    },
+    "screen_limit": "Pattern hits are not validated personal identifiers and not a complete disclosure audit. Free text can contain self-disclosed information; raw source files are unmodified."
+  }
+]

@@ -1,0 +1,782 @@
+{
+  "reviewed_utc": "2026-11-11T04:56:27.434805+00:00",
+  "pdf_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "expected_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "page_count": 41,
+  "pages_reviewed": [
+    2,
+    3,
+    4,
+    15,
+    16,
+    26,
+    27,
+    39
+  ],
+  "assertions": 40,
+  "passed": 40,
+  "failed": 0,
+  "blocking_findings": [],
+  "nonblocking_editorial_notes": [
+    {
+      "id": "EC-N01",
+      "page": 15,
+      "severity": "optional wording",
+      "note": "Headline says more visits; adding covered before visits would match the ordinal covered-event claim more precisely. Body and matrix already make the intended scope clear. Not blocking."
+    },
+    {
+      "id": "EC-N02",
+      "page": 39,
+      "severity": "optional clarity/typography",
+      "note": "The61/62%box correctly warns about question bases but prints only older n178. A compact2025:62%,n178;2026:61%,n223label would remove edition ambiguity. Whitespace in this page’s copy could also be cleaned. Current claim is qualified and not false. Not blocking."
+    }
+  ],
+  "method": "Independent frozen-input arithmetic, final PDF text, chart-generator inputs and AI inspection of the eight rendered pages. Not a repeat of old80-pageQA.",
+  "human_review": false,
+  "new_network_requests": 0,
+  "pdf_modified": false,
+  "assertions_detail": [
+    {
+      "check_id": "SEC01",
+      "pdf_pages": [
+        2,
+        3,
+        4,
+        15,
+        16,
+        26,
+        27,
+        39
+      ],
+      "assertion": "PDF SHA256 matches the requested final version",
+      "result": "PASS",
+      "observed": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "expected": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "method": "File hash",
+      "evidence_refs": "output/pdf/Auto2000_Research_Findings.pdf",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC02",
+      "pdf_pages": [
+        2,
+        3,
+        4,
+        15,
+        16,
+        26,
+        27,
+        39
+      ],
+      "assertion": "Final PDF has41pages",
+      "result": "PASS",
+      "observed": 41,
+      "expected": 41,
+      "method": "PDF structure",
+      "evidence_refs": "Final PDF",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC03",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "Four rendered caseGP bars match case-exhibit inputs",
+      "result": "PASS",
+      "observed": [
+        3600,
+        1320,
+        1200,
+        630
+      ],
+      "expected": [
+        3600,
+        1320,
+        1200,
+        630
+      ],
+      "method": "AI visual inspection of page002 plus source-data comparison",
+      "evidence_refs": "Casebook Exhibit3p10;economic_story.jsonEC01",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC04",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "CaseGP total is6750billion",
+      "result": "PASS",
+      "observed": 6750,
+      "expected": 6750,
+      "method": "Recalculation",
+      "evidence_refs": "Casebook Exhibit3p10",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC05",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "Rendered caseGP shares match the6750denominator",
+      "result": "PASS",
+      "observed": [
+        53.3,
+        19.6,
+        17.8,
+        9.3
+      ],
+      "expected": [
+        53.3,
+        19.6,
+        17.8,
+        9.3
+      ],
+      "method": "AI visual labels plus recalculation",
+      "evidence_refs": "Page002;Casebook Exhibit3p10",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC06",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "After-sales caseGP is3150billion",
+      "result": "PASS",
+      "observed": 3150,
+      "expected": 3150,
+      "method": "Recalculation",
+      "evidence_refs": "Casebook Exhibit3p10",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC07",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "Case scope and not-audited limitation are explicit",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page2 source/limit",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC08",
+      "pdf_pages": [
+        2
+      ],
+      "assertion": "Rendered GP axis is Rp billion and zero-based",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "AI visual inspection of page002",
+      "evidence_refs": "page002.png",
+      "scope_limit": "Numeric axis and labels checked visually; no human review claimed."
+    },
+    {
+      "check_id": "SEC09",
+      "pdf_pages": [
+        3
+      ],
+      "assertion": "Portfolio endpoints match37693and31668",
+      "result": "PASS",
+      "observed": [
+        37693,
+        31668
+      ],
+      "expected": [
+        37693,
+        31668
+      ],
+      "method": "Input comparison and AI visual endpoint labels",
+      "evidence_refs": "AR2025printed140/PDF142;page003",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC10",
+      "pdf_pages": [
+        3
+      ],
+      "assertion": "Symmetric terms reconcile−6025",
+      "result": "PASS",
+      "observed": -6024.999999999999,
+      "expected": -6025.0,
+      "method": "Independent arithmetic",
+      "evidence_refs": "portfolio_inputs_and_method.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC11",
+      "pdf_pages": [
+        3
+      ],
+      "assertion": "Rounded plotted changes are−5050and−975",
+      "result": "PASS",
+      "observed": [
+        -5050,
+        -975
+      ],
+      "expected": [
+        -5050,
+        -975
+      ],
+      "method": "AI visual labels plus independent rounding",
+      "evidence_refs": "page003.png;portfolio inputs",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC12",
+      "pdf_pages": [
+        3
+      ],
+      "assertion": "Toyota/Lexus scope and accounting-only interpretation remain explicit",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page3 body/source",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC13",
+      "pdf_pages": [
+        3
+      ],
+      "assertion": "Scale and mix are allocations rather than named causal effects",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text and chart-label inspection",
+      "evidence_refs": "Page3",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC14",
+      "pdf_pages": [
+        4
+      ],
+      "assertion": "Framework preserves an all-channel counterfactual",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text and AI visual inspection",
+      "evidence_refs": "Page4",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC15",
+      "pdf_pages": [
+        4
+      ],
+      "assertion": "Displacement cannot be deducted twice",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page4",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC16",
+      "pdf_pages": [
+        4
+      ],
+      "assertion": "GP and extra operating cost remain separate and unmeasured",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page4",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC17",
+      "pdf_pages": [
+        15
+      ],
+      "assertion": "T-CARE source has7events/3years/60000km",
+      "result": "PASS",
+      "observed": [
+        7,
+        3,
+        60000
+      ],
+      "expected": [
+        7,
+        3,
+        60000
+      ],
+      "method": "Frozen operator-source data and rendered-vector comparison",
+      "evidence_refs": "program_distinctions.json;page015",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC18",
+      "pdf_pages": [
+        15
+      ],
+      "assertion": "Legacy GBSB source has6events/4years/50000km",
+      "result": "PASS",
+      "observed": [
+        6,
+        4,
+        50000
+      ],
+      "expected": [
+        6,
+        4,
+        50000
+      ],
+      "method": "Frozen source data and rendered-vector comparison",
+      "evidence_refs": "program_distinctions.json;EE-S11PDF1",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC19",
+      "pdf_pages": [
+        15
+      ],
+      "assertion": "Vector matrix uses7dark T-CARE/7dark Lite/6dark GBSBcircles",
+      "result": "PASS",
+      "observed": [
+        7,
+        7,
+        6
+      ],
+      "expected": [
+        7,
+        7,
+        6
+      ],
+      "method": "AI visual count in page015; legacy7th circle is pale",
+      "evidence_refs": "page015.png",
+      "scope_limit": "Event axis is ordinal; pale7th legacy cell is outside the covered count."
+    },
+    {
+      "check_id": "SEC20",
+      "pdf_pages": [
+        15
+      ],
+      "assertion": "Lite labor-only scope and no paid-return/GP inference are explicit",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page15",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC21",
+      "pdf_pages": [
+        15
+      ],
+      "assertion": "Whichever-first and eligibility conditions survive the source note",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page15source",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC22",
+      "pdf_pages": [
+        16
+      ],
+      "assertion": "Four rendered bZ4Xcolumn totals match847k/3694k/847k/3713k",
+      "result": "PASS",
+      "observed": [
+        847000,
+        3694000,
+        847000,
+        3713000
+      ],
+      "expected": [
+        847000,
+        3694000,
+        847000,
+        3713000
+      ],
+      "method": "AI visible total labels and independent labor+parts arithmetic",
+      "evidence_refs": "XT04;page016.png",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC23",
+      "pdf_pages": [
+        16
+      ],
+      "assertion": "Four dated bZ4Xestimates sum9101000",
+      "result": "PASS",
+      "observed": 9101000,
+      "expected": 9101000,
+      "method": "Independent sum",
+      "evidence_refs": "service_estimates_extension.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC24",
+      "pdf_pages": [
+        16
+      ],
+      "assertion": "Stacked labor amounts match frozen observed rows",
+      "result": "PASS",
+      "observed": [
+        847000,
+        1582000,
+        847000,
+        1073000
+      ],
+      "expected": [
+        847000,
+        1582000,
+        847000,
+        1073000
+      ],
+      "method": "Chart generator/source comparison and AI visual stacks",
+      "evidence_refs": "make_story_charts.py;XT04",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC25",
+      "pdf_pages": [
+        16
+      ],
+      "assertion": "Stacked parts amounts match frozen observed rows",
+      "result": "PASS",
+      "observed": [
+        0,
+        2112000,
+        0,
+        2640000
+      ],
+      "expected": [
+        0,
+        2112000,
+        0,
+        2640000
+      ],
+      "method": "Chart generator/source comparison and AI visual stacks",
+      "evidence_refs": "make_story_charts.py;XT04",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC26",
+      "pdf_pages": [
+        16
+      ],
+      "assertion": "Estimate unit/date and non-GP/TCO limits remain explicit",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text and AI visible Rp-million axis inspection",
+      "evidence_refs": "Page16",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC27",
+      "pdf_pages": [
+        26
+      ],
+      "assertion": "Illustrative customer credit160/170/200matches plotted values",
+      "result": "PASS",
+      "observed": [
+        160,
+        170,
+        200
+      ],
+      "expected": [
+        160,
+        170,
+        200
+      ],
+      "method": "Independent arithmetic and AI visual labels",
+      "evidence_refs": "Page26;constructed_contract_tail.csv",
+      "scope_limit": "All values Rp million, entirely illustrative."
+    },
+    {
+      "check_id": "SEC28",
+      "pdf_pages": [
+        26
+      ],
+      "assertion": "Illustrative full-floor shortfall40splits15recovery/25dealer",
+      "result": "PASS",
+      "observed": [
+        40,
+        15,
+        25
+      ],
+      "expected": [
+        40,
+        15,
+        25
+      ],
+      "method": "Independent arithmetic and AI visual stack labels",
+      "evidence_refs": "Page26;constructed contract inputs",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC29",
+      "pdf_pages": [
+        26
+      ],
+      "assertion": "Constructed/conditional/unavailable-policy qualifications are visible",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text plus AI visual ILLUSTRATION titles",
+      "evidence_refs": "Page26",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC30",
+      "pdf_pages": [
+        26
+      ],
+      "assertion": "Capped credit is not relabelled as a guaranteed200floor",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page26",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC31",
+      "pdf_pages": [
+        27
+      ],
+      "assertion": "Four rendered retained-loss bars are300/300/700/0m",
+      "result": "PASS",
+      "observed": [
+        300.0,
+        300.0,
+        700.0,
+        0.0
+      ],
+      "expected": [
+        300.0,
+        300.0,
+        700.0,
+        0.0
+      ],
+      "method": "AI visual labels plus source comparison",
+      "evidence_refs": "Page27;constructed_aggregate_risk.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC32",
+      "pdf_pages": [
+        27
+      ],
+      "assertion": "Dealer residual equals gross promised shortfall less conditional recovery",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Independent arithmetic",
+      "evidence_refs": "constructed_aggregate_risk.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC33",
+      "pdf_pages": [
+        27
+      ],
+      "assertion": "No actual correlation, probability or expected-loss claim appears",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text inspection",
+      "evidence_refs": "Page27",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC34",
+      "pdf_pages": [
+        27
+      ],
+      "assertion": "Illustrative100m aggregate cap and twenty-unit scope are explicit",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "Final PDF text and AI visual axis inspection",
+      "evidence_refs": "Page27",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC35",
+      "pdf_pages": [
+        39
+      ],
+      "assertion": "Survey audit source has43scoped claims",
+      "result": "PASS",
+      "observed": 43,
+      "expected": 43,
+      "method": "Frozen source table count",
+      "evidence_refs": "survey_claims.json;Page39source",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC36",
+      "pdf_pages": [
+        39
+      ],
+      "assertion": "Older charging home share62uses178question base",
+      "result": "PASS",
+      "observed": [
+        62,
+        178
+      ],
+      "expected": [
+        62,
+        178
+      ],
+      "method": "Source-table comparison with displayed olderQ43n178",
+      "evidence_refs": "survey_claims.jsonD25_HOME",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC37",
+      "pdf_pages": [
+        39
+      ],
+      "assertion": "Newer home share61has its own223base",
+      "result": "PASS",
+      "observed": [
+        61,
+        223
+      ],
+      "expected": [
+        61,
+        223
+      ],
+      "method": "Source-table check of combined61/62label",
+      "evidence_refs": "survey_claims.jsonD26_HOME",
+      "scope_limit": "Final box does not print223; exact newer base remains in full audit. Optional clarity note below."
+    },
+    {
+      "check_id": "SEC38",
+      "pdf_pages": [
+        39
+      ],
+      "assertion": "PwC71is conditional on owners considering return toICE",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "PDF/source cohort comparison",
+      "evidence_refs": "P25_COST;Page39",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC39",
+      "pdf_pages": [
+        39
+      ],
+      "assertion": "Supplied57/28awareness remains unverified",
+      "result": "PASS",
+      "observed": true,
+      "expected": true,
+      "method": "PDF/source-status comparison",
+      "evidence_refs": "RAK_BYD;RAK_TOYOTA;Page39",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "SEC40",
+      "pdf_pages": [
+        2,
+        3,
+        4,
+        15,
+        16,
+        26,
+        27,
+        39
+      ],
+      "assertion": "PDF stayed unchanged throughout audit",
+      "result": "PASS",
+      "observed": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "expected": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "method": "End-of-audit file hash",
+      "evidence_refs": "Final PDF",
+      "scope_limit": ""
+    }
+  ],
+  "rendered_pages": [
+    {
+      "path": "/tmp/auto2000_story_final/page-002.png",
+      "sha256": "a9a7bf1664d0c3a10d28bdf15a0fb34c412618d3f0eccc96f2e4a520d69fbd51"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-003.png",
+      "sha256": "5605d47fe99955bce482919c4f27abffc704766e6ba162b0a924a898e69cdb97"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-004.png",
+      "sha256": "3cf86f7e7829ce1fcebd45cc13267ce199988c48288a840febcb020e7bd6d47c"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-015.png",
+      "sha256": "231873b13123c9cc971c923d5ff0de9961b02a62c46bdfe1ea12b298df53dcaa"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-016.png",
+      "sha256": "f2c00dec10dbeca2bf464d66dfb19235c3cb434c0b485a6b77237cefbb4301f6"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-026.png",
+      "sha256": "492a2c832cda0feec0d571ed91958b9766a631f4beb7a2943875c9b403765393"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-027.png",
+      "sha256": "5e696de206d3515c422dd88831c441ac84f3c636f0952311778427ff07fb385a"
+    },
+    {
+      "path": "/tmp/auto2000_story_final/page-039.png",
+      "sha256": "66b741bc1129bbf03ca30aed32ed8d0e31bfeb8299233cc9de30bdd52d506bf3"
+    }
+  ],
+  "source_manifest": [
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+      "sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "bytes": 1166379
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/story_assets/economic_story.json",
+      "sha256": "d449146de25603018693d79bb0ba612e913c9c7a984ab6415b2e3e3bf8c9ef6b",
+      "bytes": 32034
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/shared/make_story_charts.py",
+      "sha256": "d9d67af7a1c3114e43b1869520d764f6046067121c7b4cb07e267e69dec9b266",
+      "bytes": 8741
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_economics/portfolio_inputs_and_method.json",
+      "sha256": "91e960d9379988354e0612c4b39fd3a73a8fb5594dc3fa07a3d420cc01922690",
+      "bytes": 439
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_economics/program_distinctions.json",
+      "sha256": "ae16204bfc110807f7df681cc588f7ed22f3489d224fe9033dae1530f698c44c",
+      "bytes": 2445
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/service_estimates_extension.csv",
+      "sha256": "2cd65a64a11364c7b8978cce5fbe5b9e8e2036f0469993c647986f9f1fb451df",
+      "bytes": 5891
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_economics/constructed_aggregate_risk.json",
+      "sha256": "a1ec2bce6e8aeb88754810cfbfbc9d116eda727458b411bf5ea7c7d31df6bfd3",
+      "bytes": 2222
+    },
+    {
+      "path": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_surveys/survey_claims.json",
+      "sha256": "31edc2f31c42005bce051ea242462c4b46f4c37771164144c0c32ff167b96095",
+      "bytes": 30302
+    }
+  ]
+}

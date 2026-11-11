@@ -1,0 +1,81 @@
+{
+  "findings": [
+    {
+      "id": "GEO_EXT_01",
+      "finding": "Five-kilometre mapped proximity mostly survives conservative filtering, while one-kilometre proximity does not",
+      "original_all_mapped": {
+        "candidate_sites": 2426,
+        "within1km": 20,
+        "within5km": 27,
+        "anchor_n": 28,
+        "median_km": 0.3228190793294573
+      },
+      "original_conservative_proxy": {
+        "candidate_sites": 1051,
+        "within1km": 8,
+        "within5km": 26,
+        "anchor_n": 28,
+        "median_km": 1.4125667056924114
+      },
+      "median_ratio": 4.375722490215015,
+      "official_five_branch_candidate_scenario": {
+        "within1km": 9,
+        "within5km": 27,
+        "anchor_n": 28,
+        "median_km": 1.254237402951684
+      },
+      "limit": "Straight-line mapped alternatives, not verified usable chargers. All 28 anchors are source name matches, not the full Auto2000 network.",
+      "table": "nearest_scenario_summary.csv",
+      "figure": "01_nearest_candidate_robustness.png"
+    },
+    {
+      "id": "GEO_EXT_02_Papua_Barat",
+      "finding": "Historical charging-source boundaries require pooling new BPS provinces in2025",
+      "province": "Papua Barat",
+      "direct_denominator": 16392,
+      "pooled_denominator": 41685,
+      "direct_sites_per100000_passenger_vehicles": 48.804294777940456,
+      "pooled_sites_per100000_passenger_vehicles": 19.191555715485187,
+      "direct_rank": 1,
+      "pooled_rank": 10,
+      "limit": "Conditional boundary alignment; not BEV demand or adequacy. 2026 mapped sites divided by2025 all-passenger-vehicle stocks.",
+      "table": "province_ratio_scenarios.csv",
+      "figure": "02_boundary_ratio_sensitivity.png"
+    },
+    {
+      "id": "GEO_EXT_02_Papua",
+      "finding": "Historical charging-source boundaries require pooling new BPS provinces in2025",
+      "province": "Papua",
+      "direct_denominator": 66130,
+      "pooled_denominator": 111637,
+      "direct_sites_per100000_passenger_vehicles": 22.682594888855284,
+      "pooled_sites_per100000_passenger_vehicles": 13.436405492802566,
+      "direct_rank": 9,
+      "pooled_rank": 19,
+      "limit": "Conditional boundary alignment; not BEV demand or adequacy. 2026 mapped sites divided by2025 all-passenger-vehicle stocks.",
+      "table": "province_ratio_scenarios.csv",
+      "figure": "02_boundary_ratio_sensitivity.png"
+    },
+    {
+      "id": "GEO_EXT_03",
+      "finding": "Source sites and charger-box records produce different provincial rankings",
+      "maximum_absolute_rank_shift": 8,
+      "example": "Kalimantan Selatan rank25by sites to17by charger-box rows",
+      "limit": "Hardware-record counts are not power, capacity, connectors compatible with a vehicle, or uptime.",
+      "table": "province_rank_sensitivity.csv",
+      "figure": "03_units_and_point_locations.png"
+    },
+    {
+      "id": "GEO_EXT_04",
+      "finding": "Published passenger-stock discontinuities weaken smooth demand-growth interpretations",
+      "exploratory_absolute_change_threshold_pct": 25,
+      "historical_boundary_provinces_flagged_2022_2023": 8,
+      "limit": "Exploratory screen. It does not identify organic fleet growth, source errors, or a known methodological cause.",
+      "table": "published_stock_discontinuity_diagnostics.csv"
+    }
+  ],
+  "input_and_arithmetic_qa_passed": 32,
+  "input_and_arithmetic_qa_failed": 0,
+  "source_license": "SPKLU CC BY-NC3.0; original derived analysis with attribution",
+  "source_doi": "10.17632/z2bvd5r574.2"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "candidate_id": "EXT-OPT01",
+    "title": "VIN-specific safety-campaign completion across custody changes",
+    "canonical_job_id": "LC20",
+    "material_difference": "Safety campaign eligibility and completion are an OEM-triggered job, unlike optional paid preventive service or generic reminder engagement.",
+    "existing_baseline": "Toyota already supplies VIN lookup, campaign FAQs, helpline and dealer booking; no missing Auto2000 capability is demonstrated.",
+    "possible_unresolved_difference": "If evidence later shows owners or buyers cannot establish campaign completion across custody/branch changes, make that completion evidence useful within existing authorized channels.",
+    "support_evidence_ids": [
+      "EXT-E12",
+      "EXT-E13",
+      "EXT-E20",
+      "EXT-E14"
+    ],
+    "counterevidence": "The OEM lookup and official-dealer process may already resolve the task fully.",
+    "decision_rights": "OEM controls affected VINs/remedy; branch completes authorized work; current owner consents and attends.",
+    "benefit_hypothesis": "Avoid missed eligible safety action and unresolved buyer uncertainty; no incident reduction, revenue or completion uplift estimated.",
+    "commercial_mechanism": "Any authorized reimbursement or downstream trust effect is unverified; do not justify through paid upsell.",
+    "cost_status": "Unknown",
+    "excluded_customers": "Hard-to-reach current owners, distant/immobilized vehicles, and VINs not in a campaign require distinct handling.",
+    "failure_condition": "Current process already provides usable completion evidence, or no meaningful unresolved completion job exists.",
+    "status": "Separate research candidate, not appended to frozen 27 menu; no implementation or winner"
+  }
+]

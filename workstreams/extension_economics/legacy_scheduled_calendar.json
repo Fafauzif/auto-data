@@ -1,0 +1,56 @@
+[
+  {
+    "service_event": 1,
+    "recommended_month": 1,
+    "recommended_km": 1000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  },
+  {
+    "service_event": 2,
+    "recommended_month": 6,
+    "recommended_km": 10000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  },
+  {
+    "service_event": 3,
+    "recommended_month": 12,
+    "recommended_km": 20000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  },
+  {
+    "service_event": 4,
+    "recommended_month": 18,
+    "recommended_km": 30000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  },
+  {
+    "service_event": 5,
+    "recommended_month": 24,
+    "recommended_km": 40000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  },
+  {
+    "service_event": 6,
+    "recommended_month": 30,
+    "recommended_km": 50000,
+    "source": "EE-S11 PDF1 table",
+    "vehicle_scope": "Legacy GBSB petrol/diesel tables, not a current BEV manual",
+    "time_or_distance": "whichever first; model/terms apply",
+    "first_event_parts_note": "No replacement parts at first event; does not mean no inspection or labor"
+  }
+]

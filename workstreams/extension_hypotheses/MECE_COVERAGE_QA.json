@@ -1,0 +1,33 @@
+{
+  "groups": {
+    "A": {
+      "title": "Eligible job opportunities",
+      "definition": "Vehicle-period population times job eligibility and incidence, before dealer choice."
+    },
+    "B": {
+      "title": "Completed dealer capture",
+      "definition": "Share of eligible jobs actually completed at the relevant Auto2000 entity, after customer decisions and operational handoffs."
+    },
+    "C": {
+      "title": "Contribution per completed job",
+      "definition": "Job revenue less the direct costs recognized in gross profit, including product/work mix and actual payer. Each cost is assigned once."
+    },
+    "D": {
+      "title": "Additional cost, displacement and risk",
+      "definition": "Counterfactual resource, capacity and risk checks. Operating costs below gross profit remain separate; displacement already reflected in completed volumes is not subtracted again."
+    }
+  },
+  "primary_counts": {
+    "A": 4,
+    "B": 18,
+    "C": 1,
+    "D": 2
+  },
+  "coverage_complete_for_original25": true,
+  "primary_assignments_unique": true,
+  "cross_links_are_not_additional_hypotheses": true,
+  "external_primary_studies_or_instruments": 7,
+  "new_raw_customer_rows_from_these_studies": 0,
+  "plan_sha256": "a5abbed83238d650933b5d2f711816a2ff154b6df4cb6a21d3b7ab907676bce4",
+  "limits": "MECE for accounting categories under a stated business perimeter, not causal independence or exhaustive knowledge."
+}

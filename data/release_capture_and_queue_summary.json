@@ -1,0 +1,17 @@
+{
+  "offline_generated": true,
+  "http_calls": 0,
+  "requested_url_records": 345,
+  "completed_status_policy": [
+    200,
+    404,
+    410
+  ],
+  "completed_without_error": 337,
+  "limit_including_completed": 1200,
+  "pending_reconstructed": 863,
+  "inventory_unique_urls": 7687,
+  "capture_index_rows": 555,
+  "capture_rows_are_requests_not_unique_sources": true,
+  "queue_note": "Reconstructed deterministically after interruption from v3 selection, saved robots rules and final status records. Not a claim that pending URLs were fetched. Recheck source rules before future network work."
+}

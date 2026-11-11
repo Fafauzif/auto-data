@@ -1,0 +1,62 @@
+[
+  {
+    "dataset_doi": "10.17632/z2bvd5r574.2",
+    "folder": "data",
+    "filename": "spklu_chargers.csv",
+    "source_file_id": "e2821aba-70d2-4b7f-a6bc-447d4bbbd0f3",
+    "source_sha256": "a0063074a802c8fcd6f5bf58ee5798b07ac60c5116a39acfd048ce92a245bc3a",
+    "retrieved_sha256": "a0063074a802c8fcd6f5bf58ee5798b07ac60c5116a39acfd048ce92a245bc3a",
+    "hash_matches": true,
+    "source_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/e2821aba-70d2-4b7f-a6bc-447d4bbbd0f3/file_downloaded",
+    "status": 200,
+    "license": "CC BY-NC 3.0"
+  },
+  {
+    "dataset_doi": "10.17632/z2bvd5r574.2",
+    "folder": "data",
+    "filename": "spklu_stations.csv",
+    "source_file_id": "97a13127-0d91-492a-a53a-8c462fbf6c9f",
+    "source_sha256": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef",
+    "retrieved_sha256": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef",
+    "hash_matches": true,
+    "source_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/97a13127-0d91-492a-a53a-8c462fbf6c9f/file_downloaded",
+    "status": 200,
+    "license": "CC BY-NC 3.0"
+  },
+  {
+    "dataset_doi": "10.17632/z2bvd5r574.2",
+    "folder": "reference",
+    "filename": "spklu_province_coverage.csv",
+    "source_file_id": "c2284f1c-4c4e-473c-9cfb-b60adabf198f",
+    "source_sha256": "8420ae0975caca5e0c873938085d2a62c777af413b185cdffed0f2a70ff2e7ef",
+    "retrieved_sha256": "8420ae0975caca5e0c873938085d2a62c777af413b185cdffed0f2a70ff2e7ef",
+    "hash_matches": true,
+    "source_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/c2284f1c-4c4e-473c-9cfb-b60adabf198f/file_downloaded",
+    "status": 200,
+    "license": "CC BY-NC 3.0"
+  },
+  {
+    "dataset_doi": "10.17632/z2bvd5r574.2",
+    "folder": "reference",
+    "filename": "spklu_province_indicators.csv",
+    "source_file_id": "e9f81401-c0f2-47a3-b595-35dafaf02058",
+    "source_sha256": "d7db2ae6b2e763a3097baa7785205461c9067874fc693abef207844d245245c3",
+    "retrieved_sha256": "d7db2ae6b2e763a3097baa7785205461c9067874fc693abef207844d245245c3",
+    "hash_matches": true,
+    "source_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/e9f81401-c0f2-47a3-b595-35dafaf02058/file_downloaded",
+    "status": 200,
+    "license": "CC BY-NC 3.0"
+  },
+  {
+    "dataset_doi": "10.17632/z2bvd5r574.2",
+    "folder": "reference",
+    "filename": "spklu_regency_codes.csv",
+    "source_file_id": "2abb9361-276f-42bf-bc4f-370821b04384",
+    "source_sha256": "57b5e60afd14a3217b6cbaedd027ff2e0f4a6760a0eb606f3a32f3d5eae71e24",
+    "retrieved_sha256": "57b5e60afd14a3217b6cbaedd027ff2e0f4a6760a0eb606f3a32f3d5eae71e24",
+    "hash_matches": true,
+    "source_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/2abb9361-276f-42bf-bc4f-370821b04384/file_downloaded",
+    "status": 200,
+    "license": "CC BY-NC 3.0"
+  }
+]

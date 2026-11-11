@@ -1,0 +1,9 @@
+{
+  "insights": 16,
+  "distinct_evidence_refs": 112,
+  "missing_refs": 0,
+  "draft_option_universe": 45,
+  "human_validation": false,
+  "causal_effects_established": 0,
+  "strategy_selected": false
+}

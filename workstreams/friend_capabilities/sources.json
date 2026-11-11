@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "FC-S01",
+    "title": "Astra Annual Report 2025",
+    "url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf",
+    "ownership_cluster": "Astra corporate reporting",
+    "year_covered": 2025,
+    "source_type": "Issuer primary annual report",
+    "sha256": "713cc7b9ab22df7c8c80af27c66aa323838e5027f8804b61ba3a3754fddc5628",
+    "independence_note": "Independently retrieved from official public host; same issuer and underlying document as friend citation, not a new independent corroborating study.",
+    "limits": "Operating capability statements are issuer descriptions. Do not extend financial-statement audit assurance to every operational claim; no branch usage logs, APIs, uptime or causal effects."
+  },
+  {
+    "source_id": "FC-S02",
+    "title": "Astra Annual Report 2024",
+    "url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2024.pdf",
+    "ownership_cluster": "Astra corporate reporting",
+    "year_covered": 2024,
+    "source_type": "Issuer primary annual report",
+    "sha256": "84f812b5011ada65188737598fd2ae411b9086f43d734024eb9b8a995baae170",
+    "independence_note": "Same issuer as FC-S01; longitudinal disclosure, not independent corroboration.",
+    "limits": "Historical disclosure, not a current availability or adoption audit."
+  },
+  {
+    "source_id": "FC-S03",
+    "title": "Astra: Making Sales Activity Management Work Across Devices",
+    "url": "https://suitmedia.com/work/astra-sam",
+    "ownership_cluster": "Suitmedia vendor case study",
+    "year_covered": "Page labels project 2016–2016; publication date not established",
+    "source_type": "Primary supplier description",
+    "sha256": "5d43f5ec47a5def9e304a724a0adca5fdf45cb37a20420c8bfd4722f66203464",
+    "independence_note": "Separate supplier ownership but commercial interest; implementation description, not an independent outcome evaluation.",
+    "limits": "Do not assume described SAM Advance version, interfaces or access rights remain current. No measured adoption denominator or causal design."
+  }
+]

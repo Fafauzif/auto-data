@@ -1,0 +1,82 @@
+{
+  "freeze_timestamp_utc": "2026-11-11T03:00:51.088303+00:00",
+  "inputs": [
+    {
+      "path": "/workspace/scratch/70444ed5f561/plan_expansion/instruments/initial_hypotheses.csv",
+      "bytes": 10598,
+      "sha256": "1dc46ab780d7865694a312d3c7c281f1b57a76547b237f54a6106aa570d6db3d"
+    },
+    {
+      "path": "workstreams/market/evidence.json",
+      "bytes": 43631,
+      "sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+    },
+    {
+      "path": "workstreams/market/economic_calculations.json",
+      "bytes": 3428,
+      "sha256": "460ba329dee2bc6e15df4c584808911041c4868418d2c5350dfeea4cd87765c4"
+    },
+    {
+      "path": "workstreams/competition/evidence_matrix.json",
+      "bytes": 53797,
+      "sha256": "c0618bf9d30c062620cef60f6cb00612cdc88fc03a9bb49cc530a09bc562aab6"
+    },
+    {
+      "path": "workstreams/reviews/reviews_derived.csv",
+      "bytes": 97025,
+      "sha256": "c1c47a349c0d683e873ff79bf3a54de00d82f90f31d438cde570022efa494cb9"
+    },
+    {
+      "path": "workstreams/reviews/FINDINGS.md",
+      "bytes": 11533,
+      "sha256": "f76ec5a39183e5d107ed05c39f31c99432211b255d082bd8cecbdfd7424ee264"
+    },
+    {
+      "path": "workstreams/narratives/narrative_units.csv",
+      "bytes": 39896,
+      "sha256": "367a65f523e7851c8ae53b91cd2968dd5baaf905e18640d5b4abcd2fbefa4889"
+    },
+    {
+      "path": "workstreams/narratives/validation_units.csv",
+      "bytes": 10864,
+      "sha256": "fb93ae9eb8ddd982d4c99e279afc78eeff177a081956b9573c1304d3eb40625b"
+    },
+    {
+      "path": "workstreams/narratives/validation_summary.json",
+      "bytes": 827,
+      "sha256": "283f4e2c51d9daea750d0b65f05ce23244ff8c5fac9f56fcdd7a4c40e3392352"
+    },
+    {
+      "path": "workstreams/datasets/market_analysis_summary.json",
+      "bytes": 921,
+      "sha256": "e2d0cc72e1b0b94bdf4e0a6e75b4f32e1dcaf50197641b30dd3b07cd94c84206"
+    },
+    {
+      "path": "workstreams/datasets/spklu_analysis_summary.json",
+      "bytes": 919,
+      "sha256": "1d1bbf8ca5a2f337cfd76c2f2532cd80d7c0f19299def1e5e3d406ed3a95457b"
+    },
+    {
+      "path": "workstreams/site/page_observations.csv",
+      "bytes": 36353,
+      "sha256": "377d058afa84c90d9788a6db51d335e8d906ab8810ffe9b4ce7225e79a6a3bf8"
+    },
+    {
+      "path": "workstreams/site/summary.json",
+      "bytes": 1211,
+      "sha256": "1aafb101ff446bc6ccdb7bdb016bef98d89bd4d8248fdd9104d3f33f88e30af4"
+    },
+    {
+      "path": "workstreams/journeys/journey_observations.json",
+      "bytes": 14847,
+      "sha256": "33b519bdb46d0d5221c35eb7b24a48739e9205240167017fb58bc3231b688ba0"
+    },
+    {
+      "path": "workstreams/journeys/finance_scenarios.csv",
+      "bytes": 2267,
+      "sha256": "409bb5abd99f3249cc96ed35db3e3c510b1a128d59d6233728ebbc6a7c8728d7"
+    }
+  ],
+  "warning": "Files may evolve after freeze. Reassess material new evidence before final publication. Count changes do not automatically change mechanism conclusions.",
+  "source_provenance": "References use namespace and record ID. See hypothesis_reference_index.json."
+}

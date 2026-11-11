@@ -1,0 +1,657 @@
+{
+  "purpose": "Seven plain-English visual-page briefs drawn only from existing verified study files; no new retrieval or external visual-reference data.",
+  "pages": [
+    {
+      "id": "DATA_STORY_01",
+      "title": "Nearby depends on which sites we count",
+      "takeaway": "The 5 km result holds up. The 1 km result changes sharply.",
+      "body": "Across 28 Auto2000-name locations, a conservative map filter cuts nearby options within 1 km from 20 to 8. At 5 km, the count changes only from 27 to 26. The nearest-option median rises from 0.323 to 1.413 km. This shows that close-range convenience depends on which sites we count. The filter still does not verify whether a driver can use them.",
+      "chart": {
+        "type": "grouped_bar",
+        "title": "How many of 28 locations have another mapped option nearby?",
+        "categories": [
+          "Within 1 km",
+          "Within 5 km"
+        ],
+        "series": [
+          {
+            "name": "All mapped alternatives",
+            "values": [
+              20,
+              27
+            ],
+            "color": "#245A78"
+          },
+          {
+            "name": "Conservative map filter",
+            "values": [
+              8,
+              26
+            ],
+            "color": "#B97032"
+          }
+        ],
+        "y_label": "Auto2000-name source locations, out of 28",
+        "y_min": 0,
+        "y_max": 28,
+        "show_integer_labels": true
+      },
+      "supporting_cards": [
+        {
+          "label": "Median straight-line distance",
+          "before_value": 0.3228190793294573,
+          "after_value": 1.4125667056924114,
+          "unit": "km",
+          "before_display": "0.323 km",
+          "after_display": "1.413 km"
+        }
+      ],
+      "evidence_limit": "The filter uses operator and venue names. It does not verify access, connector compatibility, opening hours or uptime.",
+      "chart_note": "Original source coordinates. All distances are straight-line; 28 name matches are not the full Auto2000 branch network.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_geography/nearest_scenario_summary.csv",
+          "sha256": "aada7a8ff2d8454411ed1561e1d917496f28e4dc49d8949c4a7387fadbb0838d"
+        }
+      ],
+      "attribution": "SPKLU June 2026; Wiputra and Santiadi, DOI10.17632/z2bvd5r574.2, CC BY-NC 3.0. Original derived analysis.",
+      "body_word_count": 61
+    },
+    {
+      "id": "DATA_STORY_02",
+      "title": "One published location differs by 55 km",
+      "takeaway": "Check the location before trusting a proximity score.",
+      "body": "We compared five charging-source points with current official branch directions. Four pairs are within 135 metres. Balikpapan Sudirman differs by 55.26 km. Replacing that point changes the nearest-site result, so a broad map summary can hide a local problem. This comparison identifies a published-data conflict. It does not tell us where the charger was physically located on either date.",
+      "chart": {
+        "type": "horizontal_bar",
+        "title": "Distance between two published map points",
+        "categories": [
+          "Balikpapan Sudirman",
+          "Tangerang",
+          "Kapuk",
+          "BSD City",
+          "Cibinong"
+        ],
+        "values": [
+          55.25785206473802,
+          0.1345324136679173,
+          0.0283420233008334,
+          0.0142362106999351,
+          0.0085368068720736
+        ],
+        "display_values": [
+          "55.258 km",
+          "0.135 km",
+          "0.028 km",
+          "0.014 km",
+          "0.009 km"
+        ],
+        "x_label": "Straight-line difference (km)",
+        "x_min": 0,
+        "highlight_category": "Balikpapan Sudirman",
+        "highlight_color": "#B97032",
+        "other_color": "#245A78",
+        "small_value_note": "The four shorter differences are all below 0.135 km.",
+        "avoid_log_axis_for_plain_English": true
+      },
+      "supporting_data": [
+        {
+          "station_id": 2397,
+          "branch": "Balikpapan Sudirman",
+          "source_latitude": -0.783154,
+          "source_longitude": 116.920497,
+          "official_candidate_latitude": -1.27477,
+          "official_candidate_longitude": 116.847903,
+          "difference_km": 55.25785206473802
+        },
+        {
+          "station_id": 2408,
+          "branch": "Tangerang",
+          "source_latitude": -6.193324,
+          "source_longitude": 106.636479,
+          "official_candidate_latitude": -6.194134,
+          "official_candidate_longitude": 106.635575,
+          "difference_km": 0.1345324136679173
+        },
+        {
+          "station_id": 2154,
+          "branch": "Kapuk",
+          "source_latitude": -6.124975,
+          "source_longitude": 106.730815,
+          "official_candidate_latitude": -6.1249,
+          "official_candidate_longitude": 106.73057,
+          "difference_km": 0.0283420233008334
+        },
+        {
+          "station_id": 2144,
+          "branch": "BSD City",
+          "source_latitude": -6.288881,
+          "source_longitude": 106.638733,
+          "official_candidate_latitude": -6.288919,
+          "official_candidate_longitude": 106.638856,
+          "difference_km": 0.0142362106999351
+        },
+        {
+          "station_id": 2400,
+          "branch": "Cibinong",
+          "source_latitude": -6.473579,
+          "source_longitude": 106.84764,
+          "official_candidate_latitude": -6.47364264285346,
+          "official_candidate_longitude": 106.84759678592498,
+          "difference_km": 0.0085368068720736
+        }
+      ],
+      "evidence_limit": "Official branch directions are a second published source, not field confirmation of charging hardware.",
+      "chart_note": "Charging-source snapshot: 16 June 2026. Official branch pages checked: 11 November 2026. Preserve both coordinate versions.",
+      "source_files": [
+        {
+          "path": "workstreams/datasets/five_branch_coordinate_crosscheck.csv",
+          "sha256": "9491882b33b12e5e058631b544a2c40b0f5711525b7fa4d26b7c97cdf9aca7ea"
+        }
+      ],
+      "attribution": "SPKLU CC BY-NC 3.0; current official Auto2000 branch directions. Original comparison.",
+      "body_word_count": 59
+    },
+    {
+      "id": "DATA_STORY_03",
+      "title": "A boundary mismatch changes the provincial leader",
+      "takeaway": "West Papua falls from rank 1 to rank 10 after boundary alignment.",
+      "body": "The charging source uses older provincial boundaries. The 2025 vehicle table separates four newer Papua provinces. A direct code match drops 70,800 cars from the denominator. Pooling those provinces back into the older boundaries lowers West Papua’s ratio from 48.80 to 19.19 and Papua’s from 22.68 to 13.44. The original apparent ranking depended on a mismatched join.",
+      "chart": {
+        "type": "dumbbell",
+        "title": "Mapped sites per 100,000 passenger vehicles",
+        "categories": [
+          "West Papua, old boundary",
+          "Papua, old boundary"
+        ],
+        "before_name": "Direct code match",
+        "after_name": "Aligned old boundaries",
+        "before_values": [
+          48.804294777940456,
+          22.682594888855284
+        ],
+        "after_values": [
+          19.191555715485187,
+          13.436405492802566
+        ],
+        "before_display": [
+          "48.80",
+          "22.68"
+        ],
+        "after_display": [
+          "19.19",
+          "13.44"
+        ],
+        "x_label": "Sites per 100,000 passenger vehicles",
+        "x_min": 0,
+        "before_color": "#B97032",
+        "after_color": "#245A78",
+        "rank_labels": [
+          "1 → 10",
+          "9 → 19"
+        ]
+      },
+      "supporting_data": [
+        {
+          "source_area_name": "Papua Barat",
+          "label": "West Papua, old boundary",
+          "before_ratio": 48.804294777940456,
+          "after_ratio": 19.191555715485187,
+          "before_denominator": 16392,
+          "after_denominator": 41685,
+          "before_rank": 1,
+          "after_rank": 10,
+          "site_numerator": 8
+        },
+        {
+          "source_area_name": "Papua",
+          "label": "Papua, old boundary",
+          "before_ratio": 22.682594888855284,
+          "after_ratio": 13.436405492802566,
+          "before_denominator": 66130,
+          "after_denominator": 111637,
+          "before_rank": 9,
+          "after_rank": 19,
+          "site_numerator": 15
+        }
+      ],
+      "supporting_cards": [
+        {
+          "label": "Cars omitted by the direct match",
+          "value": 70800,
+          "display": "70,800"
+        },
+        {
+          "label": "Share of national passenger stock",
+          "display": "0.339%",
+          "numerator": 70800,
+          "denominator": 20907972
+        }
+      ],
+      "evidence_limit": "These ratios use all passenger vehicles, not BEVs; boundary alignment does not measure charging adequacy.",
+      "chart_note": "June 2026 mapped sites divided by 2025 BPS/Polri stocks. This corrects the first-wave direct-join interpretation.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_geography/province_ratio_scenarios.csv",
+          "sha256": "f6e4834df73e3e85198dd66b233dae3b9ee8389119207ec4fda2873d0b03c431"
+        },
+        {
+          "path": "workstreams/extension_geography/boundary_stock_conservation.csv",
+          "sha256": "09ff67193c29914be984035da9418f738e1d8a992321d86521c448f0812d2616"
+        }
+      ],
+      "attribution": "SPKLU CC BY-NC 3.0; BPS/Polri published vehicle stocks. Original boundary-alignment analysis.",
+      "body_word_count": 57
+    },
+    {
+      "id": "DATA_STORY_04",
+      "title": "Four charging counts mean four different things",
+      "takeaway": "A site count is not a capacity measure.",
+      "body": "The same source contains 2,454 station records, 3,767 charger-box records, 7,593 reconstructed charger units and 4,665 connectors. These quantities describe different levels of the source data. They cannot be added or substituted for one another. None tells us how many compatible vehicles can charge at once today. Choosing a different unit can also change provincial rankings.",
+      "chart": {
+        "type": "unit_cards",
+        "title": "Keep each number attached to its unit",
+        "cards": [
+          {
+            "label": "Station records",
+            "value": 2454,
+            "display": "2,454",
+            "meaning": "Consolidated source locations"
+          },
+          {
+            "label": "Charger-box records",
+            "value": 3767,
+            "display": "3,767",
+            "meaning": "Separate hardware records"
+          },
+          {
+            "label": "Source charger units",
+            "value": 7593,
+            "display": "7,593",
+            "meaning": "Counts reconstructed by the source"
+          },
+          {
+            "label": "Source connectors",
+            "value": 4665,
+            "display": "4,665",
+            "meaning": "Recorded connector counts"
+          }
+        ],
+        "do_not_stack_or_sum": true,
+        "do_not_label_capacity": true
+      },
+      "supporting_cards": [
+        {
+          "label": "Largest site-versus-box rank shift",
+          "value": 8,
+          "unit": "places",
+          "display": "8 places"
+        }
+      ],
+      "evidence_limit": "Hardware counts do not establish usable power, simultaneous charging capacity, vehicle compatibility or uptime.",
+      "chart_note": "Source snapshot: 16 June 2026. Exact coordinate duplicates were already consolidated by the source.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_geography/ROBUSTNESS_SUMMARY.json",
+          "sha256": "19566be90333f71677a404fa6dcb5a5622b8219cff3008578e90801bcf18fcb4"
+        },
+        {
+          "path": "workstreams/extension_geography/province_rank_sensitivity.csv",
+          "sha256": "ca55c1c44813042731cbbe9720c55cb1806138d58bee37bca77292b87fd55240"
+        }
+      ],
+      "attribution": "Wiputra and Santiadi, Mendeley V2, DOI10.17632/z2bvd5r574.2, CC BY-NC 3.0.",
+      "body_word_count": 56
+    },
+    {
+      "id": "DATA_STORY_05",
+      "title": "56 million values still cannot validate a health certificate",
+      "takeaway": "The missing reference matters more than the row count.",
+      "body": "One historical Audi in California supplies 56.5 million stored electrical and BMS signal values. They support signal analysis, not a Toyota health certificate. The paper’s capacity reference is withheld. Current and voltage share a clock in all five bundles, but SOC does so in only two and temperature in none. The measurements need careful alignment before any health claim can be tested.",
+      "chart": {
+        "type": "horizontal_bar",
+        "title": "Signals sharing the current clock exactly",
+        "categories": [
+          "Voltage",
+          "State of charge",
+          "Temperature"
+        ],
+        "values": [
+          5,
+          2,
+          0
+        ],
+        "display_values": [
+          "5 of 5 bundles",
+          "2 of 5 bundles",
+          "0 of 5 bundles"
+        ],
+        "x_label": "Selected source bundles",
+        "x_min": 0,
+        "x_max": 5,
+        "show_integer_labels": true,
+        "color": "#245A78"
+      },
+      "supporting_cards": [
+        {
+          "label": "Stored signal values",
+          "value": 56507201,
+          "display": "56,507,201"
+        },
+        {
+          "label": "Vehicles represented",
+          "value": 1,
+          "display": "1 Audi, California"
+        },
+        {
+          "label": "Public health-reference field",
+          "display": "Not available"
+        }
+      ],
+      "evidence_limit": "Counts exclude clocks and epoch metadata. Values are not independent customers, trips or synchronized rows.",
+      "chart_note": "Five folder windows from a single Audi e-tron, 2019–2020. SOC means state of charge, not state of health.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_battery/BATTERY_SUMMARY.json",
+          "sha256": "90b1ef17a655047a42cbbde1f337fe0db28b35ac33e210d3607ff0a1451f02c6"
+        },
+        {
+          "path": "workstreams/extension_battery/bundle_signal_audit.csv",
+          "sha256": "98c65037bdb56e3587547cc09955c0e9779bdea60bc44ee9519acbef72f46c14"
+        },
+        {
+          "path": "workstreams/extension_battery/scalar_count_receipt.csv",
+          "sha256": "0c967487f5756094e55bb531627ad829cb291c6b2b7983f8f8056bef22419521"
+        }
+      ],
+      "attribution": "Pozzato et al., Mendeley V2, DOI10.17632/7vdkzpnjgj.2, CC BY-NC 3.0. README excludes confidential capacity data.",
+      "body_word_count": 62
+    },
+    {
+      "id": "DATA_STORY_06",
+      "title": "A simple integration mistake adds 47.5% to the result",
+      "takeaway": "Do not treat days between logs as measured driving.",
+      "body": "Across five bundles, the one-second gap rule retains 51.97 supported hours. Folder16 alone spans 50.82 calendar days, yet contains only 17.19 such hours. Bridging every gap inflates Folder2’s absolute terminal integral from 156.206 to 230.433 kWh. The extra 47.52% comes from an unsupported calculation across missing intervals. The tested 1-, 30- and 300-second limits agree here.",
+      "chart": {
+        "type": "bar",
+        "title": "Drive Folder2: the effect of bridging long gaps",
+        "categories": [
+          "Keep supported intervals",
+          "Bridge every gap"
+        ],
+        "values": [
+          156.20635349582608,
+          230.4329313905289
+        ],
+        "display_values": [
+          "156.206 kWh",
+          "230.433 kWh"
+        ],
+        "y_label": "Absolute pack-terminal integral (kWh)",
+        "y_min": 0,
+        "colors": [
+          "#245A78",
+          "#B97032"
+        ],
+        "callout": "+47.52% unsupported extra integral"
+      },
+      "supporting_cards": [
+        {
+          "label": "Supported time, five bundles",
+          "value": 51.973665686389175,
+          "display": "51.974 hours",
+          "gap_limit_seconds": 1
+        },
+        {
+          "label": "Folder16 calendar span",
+          "value": 50.823658639131935,
+          "display": "50.824 days"
+        },
+        {
+          "label": "Folder16 supported time",
+          "value": 17.190227168888864,
+          "display": "17.190 hours",
+          "gap_limit_seconds": 1
+        }
+      ],
+      "evidence_limit": "This is a signed-signal throughput calculation, not battery capacity, charger wall energy, efficiency or a production-system failure.",
+      "chart_note": "Absolute integral adds positive and negative energy magnitudes. Current and voltage clocks match in these files.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_battery/gap_aware_signed_integrals.csv",
+          "sha256": "1a6fb6c3da0d42a8d460c737df4f6c1552d3e4091c55c971bfe59332a4cc5510"
+        },
+        {
+          "path": "workstreams/extension_battery/BATTERY_SUMMARY.json",
+          "sha256": "90b1ef17a655047a42cbbde1f337fe0db28b35ac33e210d3607ff0a1451f02c6"
+        },
+        {
+          "path": "workstreams/extension_battery/bundle_signal_audit.csv",
+          "sha256": "98c65037bdb56e3587547cc09955c0e9779bdea60bc44ee9519acbef72f46c14"
+        }
+      ],
+      "attribution": "Pozzato et al. CC BY-NC 3.0 source data. Original gap-sensitivity analysis.",
+      "body_word_count": 56
+    },
+    {
+      "id": "DATA_STORY_07",
+      "title": "Four partial-charge slopes are not four health scores",
+      "takeaway": "A partial charge cannot become a health score without validation.",
+      "body": "Four supported charge intervals give 1.570 to 2.195 Ah per reported SOC percentage point. Their current, temperature and SOC windows differ. Every stored current value lies on an integer-ampere grid, but the sensor’s accuracy bound is unknown. These ratios describe the selected intervals. Rescaling them into battery capacity or state of health would add an assumption this dataset cannot validate.",
+      "chart": {
+        "type": "bar",
+        "title": "Observed charge per reported SOC percentage point",
+        "categories": [
+          "Interval A",
+          "Interval B",
+          "Interval C",
+          "Interval D"
+        ],
+        "values": [
+          1.5701242035612517,
+          2.186959247251795,
+          2.1948078904307136,
+          2.1616206494397527
+        ],
+        "display_values": [
+          "1.570",
+          "2.187",
+          "2.195",
+          "2.162"
+        ],
+        "y_label": "Observed negative Ah / SOC percentage point",
+        "y_min": 0,
+        "y_max": 2.4,
+        "color": "#245A78"
+      },
+      "supporting_data": [
+        {
+          "display_interval": "Interval A",
+          "folder": "Folder1",
+          "source_segment": 1,
+          "SOC_gain_percentage_points": 5.8500000000000085,
+          "negative_Ah_common_support": 9.185226590833334,
+          "Ah_per_SOC_percentage_point": 1.5701242035612517,
+          "mean_pack_temperature_C": 23.88805095957285
+        },
+        {
+          "display_interval": "Interval B",
+          "folder": "Folder7",
+          "source_segment": 1,
+          "SOC_gain_percentage_points": 51.3,
+          "negative_Ah_common_support": 112.1910093840171,
+          "Ah_per_SOC_percentage_point": 2.186959247251795,
+          "mean_pack_temperature_C": 15.983446214377953
+        },
+        {
+          "display_interval": "Interval C",
+          "folder": "Folder7",
+          "source_segment": 2,
+          "SOC_gain_percentage_points": 23.14999999999999,
+          "negative_Ah_common_support": 50.80980266347101,
+          "Ah_per_SOC_percentage_point": 2.1948078904307136,
+          "mean_pack_temperature_C": 13.510078341826135
+        },
+        {
+          "display_interval": "Interval D",
+          "folder": "Folder7",
+          "source_segment": 4,
+          "SOC_gain_percentage_points": 17.85000000000001,
+          "negative_Ah_common_support": 38.5849285924996,
+          "Ah_per_SOC_percentage_point": 2.1616206494397527,
+          "mean_pack_temperature_C": 17.701498855123532
+        }
+      ],
+      "supporting_cards": [
+        {
+          "label": "Recorded current grid",
+          "display": "Integer amperes"
+        },
+        {
+          "label": "Calibrated accuracy bound",
+          "display": "Not supplied"
+        }
+      ],
+      "evidence_limit": "Four nonrandom intervals from one vehicle cannot establish degradation, capacity, health-score accuracy or a temperature effect.",
+      "chart_note": "SOC is state of charge. Common observed support only; no endpoint extrapolation. The health reference is not public.",
+      "source_files": [
+        {
+          "path": "workstreams/extension_battery/charging_interval_soc_slope_diagnostics.csv",
+          "sha256": "ff99f19cef8ccfa9e7ca95edd8367cb35373d9eee52b0174a0b3f622177ac8ea"
+        },
+        {
+          "path": "workstreams/extension_battery/current_numeric_resolution_audit.csv",
+          "sha256": "fb2d316216fbf51ca3cd38a53679dc6b05feb75cff13420da31d091f53df63f7"
+        }
+      ],
+      "attribution": "Pozzato et al. CC BY-NC 3.0 source data. Original partial-interval diagnostic.",
+      "body_word_count": 60
+    }
+  ],
+  "quality_checks": {
+    "total": 26,
+    "passed": 26,
+    "failed": 0,
+    "checks": [
+      {
+        "check": "Exactly seven visual pages",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_01 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_01 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_02 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_02 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_03 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_03 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_04 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_04 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_05 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_05 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_06 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_06 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_07 body no more than70words",
+        "pass": true
+      },
+      {
+        "check": "DATA_STORY_07 all source paths exist",
+        "pass": true
+      },
+      {
+        "check": "Page1 exact counts28anchors",
+        "pass": true
+      },
+      {
+        "check": "Coordinate conflict exact55.257852km",
+        "pass": true
+      },
+      {
+        "check": "Other four coordinate differences below135m",
+        "pass": true
+      },
+      {
+        "check": "Boundary source denominator conservation",
+        "pass": true
+      },
+      {
+        "check": "Papua rank changes1to10and9to19",
+        "pass": true
+      },
+      {
+        "check": "Charging quantities distinct verified source counts",
+        "pass": true
+      },
+      {
+        "check": "Telemetry exact scientific scalar count",
+        "pass": true
+      },
+      {
+        "check": "Clock matches5/2/0",
+        "pass": true
+      },
+      {
+        "check": "Gap plot exact persisted integral values",
+        "pass": true
+      },
+      {
+        "check": "Four partial slopes correct persisted order",
+        "pass": true
+      },
+      {
+        "check": "No unrelated PEF source used",
+        "pass": true
+      }
+    ]
+  },
+  "layout_guidance": {
+    "body_max_words": 70,
+    "primary_chart_per_page": 1,
+    "show_source_and_one_evidence_limit": true,
+    "do_not_import_data_from_visual_reference_PDF": true,
+    "do_not_hide_unverified_access_or_missing_health_reference": true,
+    "counts_not_to_stack": [
+      "station records",
+      "charger boxes",
+      "source charger units",
+      "connectors"
+    ],
+    "color_before_or_unfiltered": "#245A78",
+    "color_alternative_or_warning": "#B97032"
+  }
+}

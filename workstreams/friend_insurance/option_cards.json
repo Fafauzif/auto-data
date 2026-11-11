@@ -1,0 +1,151 @@
+[
+  {
+    "option_id": "OPT-I01",
+    "title": "Compare the selected EV coverage package",
+    "evidence_ids": [
+      "INS-001",
+      "INS-003",
+      "INS-004",
+      "INS-005",
+      "INS-006"
+    ],
+    "benefit_hypothesis": "A voluntary comparison could make limits, deductible and repair eligibility understandable.",
+    "strongest_rival": "Existing insurer RIPLAY already provides the terms; customers may understand them or prioritize price.",
+    "existing_capability": "Existing Zurich product and summary; no new product category claimed.",
+    "conditional_economic_link": "Only incremental eligible sales/fees or retained repair contribution, after costs; fee share unknown.",
+    "kill_condition": "No consequential misunderstanding or permissible added dealer role.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I02",
+    "title": "Clarify warranty, covered damage and resale-risk boundaries",
+    "evidence_ids": [
+      "INS-007",
+      "INS-012",
+      "INS-020"
+    ],
+    "benefit_hypothesis": "Route an unresolved question to the party that controls the relevant promise.",
+    "strongest_rival": "Existing warranty/insurer/appraiser advice may be sufficient.",
+    "existing_capability": "Existing motor cover, OEM programmes and international RVI remain distinct.",
+    "conditional_economic_link": "Possible reduction in repeated handling or retained suitable demand; no measured uplift.",
+    "kill_condition": "No current confusion or decision consequence.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I03",
+    "title": "Connect an existing insurer claim to an eligible repair job",
+    "evidence_ids": [
+      "INS-005",
+      "INS-008",
+      "INS-013",
+      "INS-016"
+    ],
+    "benefit_hypothesis": "An additional dealer role might preserve authorized repair context.",
+    "strongest_rival": "AMC/myGarda already provide claims and repair status; integration may duplicate them.",
+    "existing_capability": "Existing insurer channels and workshop authorization are the baseline.",
+    "conditional_economic_link": "Only captured authorized jobs or realizable handling savings; insurer decisions and costs remain external.",
+    "kill_condition": "No specific broken handoff, data permission or accepted repair route.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I04",
+    "title": "Consider a plainly capped trade-in benefit",
+    "evidence_ids": [
+      "INS-017",
+      "INS-019"
+    ],
+    "benefit_hypothesis": "A limited commercial benefit could matter to a next-purchase decision.",
+    "strongest_rival": "It may only subsidize already loyal buyers or attract adverse redemptions.",
+    "existing_capability": "Manufacturer resale programmes are precedents, not equivalent Auto2000 offers.",
+    "conditional_economic_link": "Incremental delivered contribution minus actual top-up and associated costs; no assumed repeat-sale incrementality.",
+    "kill_condition": "Expected and stressed subsidy exceed additional contribution, or consumers misunderstand the cap.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I05",
+    "title": "Investigate a full residual floor as a different obligation",
+    "evidence_ids": [
+      "INS-017",
+      "INS-018",
+      "INS-019"
+    ],
+    "benefit_hypothesis": "A qualifying minimum could address uncertainty if demand and funding exist.",
+    "strongest_rival": "Eligibility is restrictive, price declines and exercise may co-move, and no feasible funding exists.",
+    "existing_capability": "Hyundai detailed terms and VinFast qualified headline are distinct manufacturer precedents.",
+    "conditional_economic_link": "Additional contribution must exceed retained loss, capital, administration and any cover premium.",
+    "kill_condition": "No valid economic exposure estimate or credible capacity to honor the full customer promise.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I06",
+    "title": "Investigate a bespoke B2B risk-transfer layer",
+    "evidence_ids": [
+      "INS-020",
+      "INS-021",
+      "INS-022",
+      "INS-024"
+    ],
+    "benefit_hypothesis": "An actual insurer contract might transfer some eligible residual exposure.",
+    "strongest_rival": "No suitable locally available product, acceptable risk definition or affordable contribution exists.",
+    "existing_capability": "International custom B2B RVI is confirmed; local syariah availability is unresolved.",
+    "conditional_economic_link": "Net benefit depends on recoverable claims minus premium, exclusions, timing and retained exposure.",
+    "kill_condition": "No verified underwriting offer or product-specific regulatory/sharia basis.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I07",
+    "title": "Treat syariah preference as a real priced choice",
+    "evidence_ids": [
+      "INS-001",
+      "INS-011",
+      "INS-023",
+      "INS-024"
+    ],
+    "benefit_hypothesis": "Voluntary choice may serve some buyers when real benefits and contributions are clear.",
+    "strongest_rival": "Religious population share need not predict actual product selection.",
+    "existing_capability": "Existing syariah motor products; no automatic dealer fee or approval.",
+    "conditional_economic_link": "Only actual incremental fee/vehicle/repair contribution; not all insurer revenue.",
+    "kill_condition": "Preference disappears with realistic contribution and exclusion information.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  },
+  {
+    "option_id": "OPT-I08",
+    "title": "Explain how much of a promise remains outside insurance",
+    "evidence_ids": [
+      "INS-005",
+      "INS-006",
+      "INS-021",
+      "INS-022"
+    ],
+    "benefit_hypothesis": "Separate customer floor, insurer recovery, workshop eligibility and out-of-pocket amounts.",
+    "strongest_rival": "Existing contracts may already explain the limits adequately.",
+    "existing_capability": "Existing product deductibles and customized RVI illustrate separate obligations.",
+    "conditional_economic_link": "Potential lower rework or better suitable choice; no standalone GP assumption.",
+    "kill_condition": "No consequential boundary confusion or information is unavailable/unreliable.",
+    "unmet_Auto2000_need": "unconfirmed by this documentary workstream",
+    "status": "direction for user assessment only",
+    "overlap": "May refine an existing competition option; do not count as globally novel feature",
+    "implementation": "none"
+  }
+]

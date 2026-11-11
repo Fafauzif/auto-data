@@ -1,0 +1,149 @@
+year,province_label,code,value_units,historical_34_code
+2022,Aceh,11,174453.0,11
+2022,Sumatera Utara,12,730264.0,12
+2022,Sumatera Barat,13,285254.0,13
+2022,Riau,14,380764.0,14
+2022,Jambi,15,182176.0,15
+2022,Sumatera Selatan,16,409464.0,16
+2022,Bengkulu,17,110743.0,17
+2022,Lampung,18,299817.0,18
+2022,Kepulauan Bangka Belitung,19,85621.0,19
+2022,Kepulauan Riau,21,159694.0,21
+2022,DKI Jakarta,31,3772850.0,31
+2022,Jawa Barat,32,3803808.0,32
+2022,Jawa Tengah,33,1450700.0,33
+2022,DI Yogyakarta,34,377930.0,34
+2022,Jawa Timur,35,2039556.0,35
+2022,Banten,36,263103.0,36
+2022,Bali,51,479690.0,51
+2022,Nusa Tenggara Barat,52,103331.0,52
+2022,Nusa Tenggara Timur,53,61325.0,53
+2022,Kalimantan Barat,61,165951.0,61
+2022,Kalimantan Tengah,62,104914.0,62
+2022,Kalimantan Selatan,63,242522.0,63
+2022,Kalimantan Timur,64,300897.0,64
+2022,Kalimantan Utara,65,14846.0,65
+2022,Sulawesi Utara,71,136876.0,71
+2022,Sulawesi Tengah,72,96717.0,72
+2022,Sulawesi Selatan,73,559426.0,73
+2022,Sulawesi Tenggara,74,195136.0,74
+2022,Gorontalo,75,37948.0,75
+2022,Sulawesi Barat,76,22980.0,76
+2022,Maluku,81,25558.0,81
+2022,Maluku Utara,82,21383.0,82
+2022,Papua Barat,91,36730.0,91
+2022,Papua,94,36435.0,94
+2023,Aceh,11,202765.0,11
+2023,Sumatera Utara,12,812499.0,12
+2023,Sumatera Barat,13,360373.0,13
+2023,Riau,14,431667.0,14
+2023,Jambi,15,201812.0,15
+2023,Sumatera Selatan,16,439359.0,16
+2023,Bengkulu,17,126355.0,17
+2023,Lampung,18,338003.0,18
+2023,Kepulauan Bangka Belitung,19,94813.0,19
+2023,Kepulauan Riau,21,221401.0,21
+2023,DKI Jakarta,31,2272301.0,31
+2023,Jawa Barat,32,2819163.0,32
+2023,Jawa Tengah,33,1627049.0,33
+2023,DI Yogyakarta,34,374670.0,34
+2023,Jawa Timur,35,5439502.0,35
+2023,Banten,36,1005073.0,36
+2023,Bali,51,522639.0,51
+2023,Nusa Tenggara Barat,52,119552.0,52
+2023,Nusa Tenggara Timur,53,69960.0,53
+2023,Kalimantan Barat,61,183665.0,61
+2023,Kalimantan Tengah,62,123296.0,62
+2023,Kalimantan Selatan,63,260934.0,63
+2023,Kalimantan Timur,64,331652.0,64
+2023,Kalimantan Utara,65,22197.0,65
+2023,Sulawesi Utara,71,160618.0,71
+2023,Sulawesi Tengah,72,98223.0,72
+2023,Sulawesi Selatan,73,604468.0,73
+2023,Sulawesi Tenggara,74,192491.0,74
+2023,Gorontalo,75,39307.0,75
+2023,Sulawesi Barat,76,25081.0,76
+2023,Maluku,81,30428.0,81
+2023,Maluku Utara,82,23855.0,82
+2023,Papua Barat,91,39189.0,91
+2023,Papua Barat Daya,92,,91
+2023,Papua,94,96074.0,94
+2023,Papua Selatan,95,,94
+2023,Papua Tengah,96,,94
+2023,Papua Pegunungan,97,,94
+2024,Aceh,11,212271.0,11
+2024,Sumatera Utara,12,846797.0,12
+2024,Sumatera Barat,13,382896.0,13
+2024,Riau,14,451849.0,14
+2024,Jambi,15,213927.0,15
+2024,Sumatera Selatan,16,456941.0,16
+2024,Bengkulu,17,129846.0,17
+2024,Lampung,18,349498.0,18
+2024,Kepulauan Bangka Belitung,19,97855.0,19
+2024,Kepulauan Riau,21,232978.0,21
+2024,DKI Jakarta,31,2333391.0,31
+2024,Jawa Barat,32,2965471.0,32
+2024,Jawa Tengah,33,1683498.0,33
+2024,DI Yogyakarta,34,392241.0,34
+2024,Jawa Timur,35,5544750.0,35
+2024,Banten,36,1039527.0,36
+2024,Bali,51,544640.0,51
+2024,Nusa Tenggara Barat,52,123894.0,52
+2024,Nusa Tenggara Timur,53,75317.0,53
+2024,Kalimantan Barat,61,195794.0,61
+2024,Kalimantan Tengah,62,134107.0,62
+2024,Kalimantan Selatan,63,276122.0,63
+2024,Kalimantan Timur,64,348451.0,64
+2024,Kalimantan Utara,65,23544.0,65
+2024,Sulawesi Utara,71,166580.0,71
+2024,Sulawesi Tengah,72,118953.0,72
+2024,Sulawesi Selatan,73,631062.0,73
+2024,Sulawesi Tenggara,74,198262.0,74
+2024,Gorontalo,75,43116.0,75
+2024,Sulawesi Barat,76,28280.0,76
+2024,Maluku,81,31569.0,81
+2024,Maluku Utara,82,26466.0,82
+2024,Papua Barat,91,39069.0,91
+2024,Papua Barat Daya,92,,91
+2024,Papua,94,105545.0,94
+2024,Papua Selatan,95,,94
+2024,Papua Tengah,96,,94
+2024,Papua Pegunungan,97,,94
+2025,Aceh,11,223567.0,11
+2025,Sumatera Utara,12,872015.0,12
+2025,Sumatera Barat,13,386835.0,13
+2025,Riau,14,472776.0,14
+2025,Jambi,15,227145.0,15
+2025,Sumatera Selatan,16,478605.0,16
+2025,Bengkulu,17,134151.0,17
+2025,Lampung,18,370097.0,18
+2025,Kepulauan Bangka Belitung,19,101724.0,19
+2025,Kepulauan Riau,21,244363.0,21
+2025,DKI Jakarta,31,2336960.0,31
+2025,Jawa Barat,32,2980773.0,32
+2025,Jawa Tengah,33,1741611.0,33
+2025,DI Yogyakarta,34,403714.0,34
+2025,Jawa Timur,35,5588804.0,35
+2025,Banten,36,1066756.0,36
+2025,Bali,51,569311.0,51
+2025,Nusa Tenggara Barat,52,132806.0,52
+2025,Nusa Tenggara Timur,53,80827.0,53
+2025,Kalimantan Barat,61,208654.0,61
+2025,Kalimantan Tengah,62,145990.0,62
+2025,Kalimantan Selatan,63,290821.0,63
+2025,Kalimantan Timur,64,365121.0,64
+2025,Kalimantan Utara,65,28488.0,65
+2025,Sulawesi Utara,71,174059.0,71
+2025,Sulawesi Tengah,72,127088.0,72
+2025,Sulawesi Selatan,73,660750.0,73
+2025,Sulawesi Tenggara,74,205394.0,74
+2025,Gorontalo,75,44716.0,75
+2025,Sulawesi Barat,76,30776.0,76
+2025,Maluku,81,33022.0,81
+2025,Maluku Utara,82,26931.0,82
+2025,Papua Barat,91,16392.0,91
+2025,Papua Barat Daya,92,25293.0,91
+2025,Papua,94,66130.0,94
+2025,Papua Selatan,95,15580.0,94
+2025,Papua Tengah,96,26021.0,94
+2025,Papua Pegunungan,97,3906.0,94

@@ -1,0 +1,9 @@
+{
+  "document": "reports/AUTO2000_RESEARCH_REPORT.docx",
+  "sha256": "5525a806af0878f0f451954660a20df770628c52b4052cb14070b7d62bbc63cd",
+  "rendered_pages": 9,
+  "all_final_pages_ai_visually_inspected": true,
+  "image_caption_orphan_corrected": true,
+  "observations": "No clipping, overlap or blank pages observed. Internal render files excluded from release.",
+  "human_review": false
+}

@@ -1,0 +1,13 @@
+{
+  "total_2024": 291566,
+  "total_2025": 251954,
+  "xev_2024": 37693,
+  "xev_2025": 31668,
+  "mix_2024": 0.1292777621533375,
+  "mix_2025": 0.1256896100081761,
+  "xev_change": -6025,
+  "interaction_units": 142.13388277413313,
+  "shapley_scale": -5049.883773030939,
+  "shapley_mix": -975.1162269690604,
+  "interpretation": "Symmetrically splits the interaction between both factors; exact arithmetic, not causes or Auto2000 attribution."
+}

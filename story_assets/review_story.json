@@ -1,0 +1,509 @@
+{
+  "schema_version": "1.0",
+  "prepared_utc": "2026-11-11T04:36:17.804665+00:00",
+  "purpose": "Four visual-memo page briefs from existing frozen evidence; no new collection or outcomes",
+  "review_baseline_sha256": "c1c47a349c0d683e873ff79bf3a54de00d82f90f31d438cde570022efa494cb9",
+  "review_extension_sha256": "0befcca7f1d134dc3dbc637976b1a0f0e7a214fcd2ea4ad1d41244e6729fc792",
+  "second_ai_new_check_receipt": "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/SECOND_AI_CHECK_RECEIPT.json",
+  "visual_reference_use": "Layout only. No facts from the unrelated PEF reference are imported.",
+  "pages": [
+    {
+      "page_id": "review_01_wrong_object",
+      "headline": "A good rating may be about something else",
+      "body": "Sixteen of the 20 displayed Digiroom reviews in the Indonesian Google Play view had four or five stars. Seven describe a specific app interaction. Five do not give enough detail to tell. Four describe another experience or come before a service was used. Even a specific app interaction can be a failed attempt. These records show why favorable stars alone cannot tell us whether someone booked successfully, completed a service or bought a vehicle. They describe this selected view, rather than all users.",
+      "implication": "Measure the task and its outcome before treating a rating as evidence of success.",
+      "suggested_visual": "One row of 16 equal tiles, grouped 7 / 5 / 4, with three large count labels. Use count labels as well as color.",
+      "plot": {
+        "type": "unit_waffle_single_row",
+        "unit": "one displayed review rated 4 or 5 stars",
+        "denominator": 16,
+        "all_displayed_cohort_n": 20,
+        "chart_title": "What the 16 favorable ratings describe",
+        "subtitle": "Digiroom | Indonesian-language Google Play view",
+        "legend_labels": [
+          "Specific app interaction",
+          "Not enough detail",
+          "Other experience / not used yet"
+        ],
+        "series": [
+          {
+            "label": "Specific app interaction",
+            "value": 7,
+            "color_role": "primary_blue",
+            "evidence_ids": [
+              "REV-0003",
+              "REV-0005",
+              "REV-0010",
+              "REV-0012",
+              "REV-0013",
+              "REV-0014",
+              "REV-0018"
+            ]
+          },
+          {
+            "label": "Not enough detail",
+            "value": 5,
+            "color_role": "neutral_gray",
+            "evidence_ids": [
+              "REV-0006",
+              "REV-0008",
+              "REV-0015",
+              "REV-0016",
+              "REV-0019"
+            ]
+          },
+          {
+            "label": "Other experience / not used yet",
+            "value": 4,
+            "color_role": "accent_orange",
+            "evidence_ids": [
+              "REV-0001",
+              "REV-0004",
+              "REV-0011",
+              "REV-0020"
+            ]
+          }
+        ],
+        "favorable_threshold": "rating >= 4 on a 1–5 scale",
+        "show_percentages": false
+      },
+      "evidence_ids": [
+        "REV-0001",
+        "REV-0003",
+        "REV-0004",
+        "REV-0005",
+        "REV-0006",
+        "REV-0008",
+        "REV-0010",
+        "REV-0011",
+        "REV-0012",
+        "REV-0013",
+        "REV-0014",
+        "REV-0015",
+        "REV-0016",
+        "REV-0018",
+        "REV-0019",
+        "REV-0020"
+      ],
+      "source_paths": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/reviews/reviews_derived.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/ER_T01_rating_experience_crosstab.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/ER_T02_classification_sensitivity.csv"
+      ],
+      "source_locator": "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID",
+      "limits": [
+        "Selected displayed records, not a representative user sample.",
+        "Specific interaction includes failed attempts and does not establish completed service.",
+        "AI source coding; no human validation or independently verified customer outcomes."
+      ],
+      "one_line_chart_note": "Specific app interaction includes failures. No completed transaction was independently verified.",
+      "confidence": "certain_for_reconciled_counts_and_scope_only",
+      "body_word_count": 83,
+      "main_text_style": "plain_English_finding_first_no_question_and_answer_framing"
+    },
+    {
+      "page_id": "review_02_source_selection",
+      "headline": "Two listing views tell very different stories",
+      "body": "The same BYD app has 19 favorable ratings among the 20 records displayed in its Indonesian-language view, but three among the 20 in its English-language view. Both views used the same store country setting and the same four-or-five-star rule. The two sets share no review IDs. Their dates also differ. This contrast shows how the selected view can change the apparent story. It does not identify reviewer nationality or establish a language effect on satisfaction, and it cannot support a brand league table.",
+      "implication": "Keep source selection consistent before comparing results.",
+      "suggested_visual": "Two rows of 20 equal tiles on the same scale. Fill favorable tiles blue and other tiles gray. Print 19 of 20 and 3 of 20 beside the rows; show 0 shared review IDs as a small annotation.",
+      "plot": {
+        "type": "two_row_unit_waffle",
+        "unit": "one displayed review",
+        "chart_title": "BYD: ratings of 4 or 5 stars",
+        "subtitle": "Same app and store country setting; different requested language",
+        "legend_labels": [
+          "4–5 stars",
+          "1–3 stars"
+        ],
+        "series": [
+          {
+            "label": "Indonesian-language view",
+            "n": 20,
+            "favorable_n": 19,
+            "other_n": 1,
+            "rating_counts": {
+              "1": 1,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 19
+            },
+            "evidence_ids": [
+              "REV-0041",
+              "REV-0042",
+              "REV-0043",
+              "REV-0044",
+              "REV-0045",
+              "REV-0046",
+              "REV-0047",
+              "REV-0048",
+              "REV-0049",
+              "REV-0050",
+              "REV-0051",
+              "REV-0052",
+              "REV-0053",
+              "REV-0054",
+              "REV-0055",
+              "REV-0056",
+              "REV-0057",
+              "REV-0058",
+              "REV-0059",
+              "REV-0060"
+            ]
+          },
+          {
+            "label": "English-language view",
+            "n": 20,
+            "favorable_n": 3,
+            "other_n": 17,
+            "rating_counts": {
+              "1": 6,
+              "2": 5,
+              "3": 6,
+              "4": 1,
+              "5": 2
+            },
+            "evidence_ids": [
+              "REV-0191",
+              "REV-0192",
+              "REV-0193",
+              "REV-0194",
+              "REV-0195",
+              "REV-0196",
+              "REV-0197",
+              "REV-0198",
+              "REV-0199",
+              "REV-0200",
+              "REV-0201",
+              "REV-0202",
+              "REV-0203",
+              "REV-0204",
+              "REV-0205",
+              "REV-0206",
+              "REV-0207",
+              "REV-0208",
+              "REV-0209",
+              "REV-0210"
+            ]
+          }
+        ],
+        "favorable_threshold": "rating >= 4 on a 1–5 scale",
+        "shared_review_ids_n": 0,
+        "unique_union_review_ids_n": 40,
+        "same_country_parameter": "ID",
+        "same_scale_denominator": 20,
+        "brand_ranking": false,
+        "nationality_comparison": false,
+        "causal_language_effect": false
+      },
+      "evidence_ids": [
+        "REV-0041",
+        "REV-0042",
+        "REV-0043",
+        "REV-0044",
+        "REV-0045",
+        "REV-0046",
+        "REV-0047",
+        "REV-0048",
+        "REV-0049",
+        "REV-0050",
+        "REV-0051",
+        "REV-0052",
+        "REV-0053",
+        "REV-0054",
+        "REV-0055",
+        "REV-0056",
+        "REV-0057",
+        "REV-0058",
+        "REV-0059",
+        "REV-0060",
+        "REV-0191",
+        "REV-0192",
+        "REV-0193",
+        "REV-0194",
+        "REV-0195",
+        "REV-0196",
+        "REV-0197",
+        "REV-0198",
+        "REV-0199",
+        "REV-0200",
+        "REV-0201",
+        "REV-0202",
+        "REV-0203",
+        "REV-0204",
+        "REV-0205",
+        "REV-0206",
+        "REV-0207",
+        "REV-0208",
+        "REV-0209",
+        "REV-0210"
+      ],
+      "source_paths": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/reviews/reviews_derived.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/ER_T03_original_locale_pair_sensitivity.csv"
+      ],
+      "source_locators": [
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID"
+      ],
+      "limits": [
+        "Both selected cohorts contain 20 records; the favorable threshold is aligned at rating >= 4.",
+        "Zero overlap concerns source IDs, not verified unique people.",
+        "Language and storefront do not verify geography or nationality.",
+        "Displayed selection and date mix can change; this is not a causal language test."
+      ],
+      "one_line_chart_note": "Selected listing records. Requested language does not establish reviewer location.",
+      "confidence": "certain_for_reconciled_counts_and_scope_only",
+      "body_word_count": 83,
+      "main_text_style": "plain_English_finding_first_no_question_and_answer_framing"
+    },
+    {
+      "page_id": "review_03_recency",
+      "headline": "Most captured Digiroom reviews predate the relaunch",
+      "body": "The first-wave Digiroom collection contains 50 reviews across Google Play and Apple. Thirty-seven carry dates before the 6 December 2025 relaunch; 13 are dated on or after it. Six of those 13 describe a specific app interaction. The rest do not establish one. Older accounts can reveal useful tasks and earlier friction, but they cannot describe the relaunched experience by themselves. A review date is also different from the date of the experience or proof of the installed app build. No before-and-after effect is identified.",
+      "implication": "Check the current journey directly before using old complaints to set priorities.",
+      "suggested_visual": "A 50-unit bar split into 37 before and 13 on/after the relaunch. Place a separate callout next to the 13-unit segment: 6 describe a specific app interaction. Do not draw a conversion funnel.",
+      "plot": {
+        "type": "dated_cohort_split_with_subset_callout",
+        "unit": "one captured Digiroom review ID",
+        "chart_title": "When the 50 Digiroom reviews were dated",
+        "boundary_date": "2025-12-06",
+        "boundary_label": "Relaunch: 6 Dec 2025",
+        "denominator": 50,
+        "legend_labels": [
+          "Before relaunch",
+          "On or after relaunch"
+        ],
+        "series": [
+          {
+            "label": "Before relaunch",
+            "value": 37,
+            "evidence_ids": [
+              "REV-0007",
+              "REV-0010",
+              "REV-0011",
+              "REV-0012",
+              "REV-0014",
+              "REV-0015",
+              "REV-0016",
+              "REV-0017",
+              "REV-0018",
+              "REV-0019",
+              "REV-0121",
+              "REV-0122",
+              "REV-0123",
+              "REV-0124",
+              "REV-0125",
+              "REV-0126",
+              "REV-0127",
+              "REV-0128",
+              "REV-0129",
+              "REV-0130",
+              "REV-0152",
+              "REV-0153",
+              "REV-0154",
+              "REV-0156",
+              "REV-0157",
+              "REV-0158",
+              "REV-0159",
+              "REV-0160",
+              "REV-0161",
+              "REV-0162",
+              "REV-0163",
+              "REV-0164",
+              "REV-0166",
+              "REV-0167",
+              "REV-0168",
+              "REV-0169",
+              "REV-0170"
+            ]
+          },
+          {
+            "label": "On or after relaunch",
+            "value": 13,
+            "evidence_ids": [
+              "REV-0001",
+              "REV-0002",
+              "REV-0003",
+              "REV-0004",
+              "REV-0005",
+              "REV-0006",
+              "REV-0008",
+              "REV-0009",
+              "REV-0013",
+              "REV-0020",
+              "REV-0151",
+              "REV-0155",
+              "REV-0165"
+            ]
+          }
+        ],
+        "subset_callout": {
+          "parent_label": "On or after relaunch",
+          "parent_n": 13,
+          "label": "Specific app interaction",
+          "n": 6,
+          "other_or_unknown_n": 7,
+          "evidence_ids": [
+            "REV-0002",
+            "REV-0003",
+            "REV-0005",
+            "REV-0013",
+            "REV-0151",
+            "REV-0165"
+          ]
+        },
+        "source_platform_counts": {
+          "google_play": 40,
+          "apple_app_store": 10
+        },
+        "is_conversion_funnel": false,
+        "is_causal_before_after_test": false
+      },
+      "evidence_ids": [
+        "REV-0001",
+        "REV-0002",
+        "REV-0003",
+        "REV-0004",
+        "REV-0005",
+        "REV-0006",
+        "REV-0007",
+        "REV-0008",
+        "REV-0009",
+        "REV-0010",
+        "REV-0011",
+        "REV-0012",
+        "REV-0013",
+        "REV-0014",
+        "REV-0015",
+        "REV-0016",
+        "REV-0017",
+        "REV-0018",
+        "REV-0019",
+        "REV-0020",
+        "REV-0121",
+        "REV-0122",
+        "REV-0123",
+        "REV-0124",
+        "REV-0125",
+        "REV-0126",
+        "REV-0127",
+        "REV-0128",
+        "REV-0129",
+        "REV-0130",
+        "REV-0151",
+        "REV-0152",
+        "REV-0153",
+        "REV-0154",
+        "REV-0155",
+        "REV-0156",
+        "REV-0157",
+        "REV-0158",
+        "REV-0159",
+        "REV-0160",
+        "REV-0161",
+        "REV-0162",
+        "REV-0163",
+        "REV-0164",
+        "REV-0165",
+        "REV-0166",
+        "REV-0167",
+        "REV-0168",
+        "REV-0169",
+        "REV-0170"
+      ],
+      "source_paths": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/reviews/reviews_derived.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/ER_T04_digiroom_relaunch_date_context.csv"
+      ],
+      "limits": [
+        "The date is source-reported review date, not verified experience date or installed-build exposure.",
+        "The 50 records are a selected historical/current mix, not a panel.",
+        "Specific interaction includes failures; completion remains unverified."
+      ],
+      "one_line_chart_note": "Source review dates; no installed-build exposure or before/after effect is established.",
+      "confidence": "certain_for_reconciled_counts_and_scope_only",
+      "body_word_count": 85,
+      "main_text_style": "plain_English_finding_first_no_question_and_answer_framing"
+    },
+    {
+      "page_id": "review_04_source_footprint",
+      "headline": "Different evidence answers different questions",
+      "body": "The direct review collection contains 358 unique platform review IDs: 210 from the first wave and 148 added later. Separately, the narrative work contains 95 annotated units drawn from 38 public URLs. A unit can be a personal account, advice or a research finding. These quantities describe different objects and should not be added into one customer count. Several passages can come from the same document, and source IDs do not verify unique people. The package supports diagnosis and further questions rather than verified customer outcomes.",
+      "implication": "Match each source to the question, then seek customer and branch outcome data.",
+      "suggested_visual": "Two separate evidence cards, without a shared numerical axis or grand total. Card 1 shows 358 review IDs with a small 210 + 148 split. Card 2 shows 95 annotated units from 38 source URLs, keeping the nested relationship explicit.",
+      "plot": {
+        "type": "separate_evidence_cards",
+        "chart_title": "The direct evidence footprint",
+        "cards": [
+          {
+            "label": "App review IDs",
+            "value": 358,
+            "unit": "unique platform review IDs",
+            "parts": [
+              {
+                "label": "First wave",
+                "value": 210
+              },
+              {
+                "label": "Extension",
+                "value": 148
+              }
+            ],
+            "is_count_of_people": false
+          },
+          {
+            "label": "Narrative annotations",
+            "value": 95,
+            "unit": "annotated units",
+            "nested_source_count": 38,
+            "nested_source_label": "public source URLs",
+            "parts": [
+              {
+                "label": "Initial annotations",
+                "value": 75,
+                "source_urls_n": 26
+              },
+              {
+                "label": "Follow-up annotations",
+                "value": 20,
+                "new_source_urls_n": 12
+              }
+            ],
+            "is_count_of_people": false
+          }
+        ],
+        "legend_labels": [
+          "Review records",
+          "Annotated passages / findings",
+          "Source documents"
+        ],
+        "shared_numeric_axis": false,
+        "grand_total": null,
+        "add_cards_together": false
+      },
+      "evidence_ids": {
+        "review_ids": "REV-0001 through REV-0210; ER-0001 through ER-0148",
+        "narrative_source": "combined_metrics.json total_annotation_units and unique_source_urls"
+      },
+      "source_paths": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/reviews/reviews_derived.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/new_reviews_derived.csv",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/validation.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/narratives/combined_metrics.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_reviews/SECOND_AI_CHECK_RECEIPT.json"
+      ],
+      "limits": [
+        "358 review IDs, 95 annotation units and 38 URLs are distinct units, not additive customer counts.",
+        "Several annotations may share one document or originate from related sources.",
+        "Large auxiliary datasets remain separate from direct automotive consumer evidence.",
+        "The new 16 targeted nonblind AI checks are separate from the first-wave 30 checks; neither is human validation or independent outcome verification."
+      ],
+      "one_line_chart_note": "Counts describe records, annotations and documents. They are not counts of verified customers.",
+      "confidence": "certain_for_reconciled_counts_and_scope_only",
+      "body_word_count": 86,
+      "main_text_style": "plain_English_finding_first_no_question_and_answer_framing"
+    }
+  ]
+}

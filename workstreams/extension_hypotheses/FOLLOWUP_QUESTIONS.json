@@ -1,0 +1,37 @@
+{
+  "created_utc": "2026-11-11T03:49:03.260063+00:00",
+  "label": "Prespecified follow-up questions; earlier results and some new source discovery already known. Not blind preregistration.",
+  "questions": [
+    {
+      "test_id": "EX01",
+      "proposition": "Information improves consideration",
+      "challenge": "Look separately for hypothetical choice and completed purchases; a null field result challenges guaranteed conversion.",
+      "hypotheses": "H05,H15,H19,H20,H24"
+    },
+    {
+      "test_id": "EX02",
+      "proposition": "Battery evidence improves a resale decision",
+      "challenge": "Separate technical evidence, perceived usefulness, willingness to pay, appraiser acceptance and completed transaction price.",
+      "hypotheses": "H09,H24"
+    },
+    {
+      "test_id": "EX03",
+      "proposition": "Cash timing matters independently of nominal price",
+      "challenge": "Look for timing-preference evidence and distinguish tax incentives from vehicle-loan insurance financing.",
+      "hypotheses": "H05"
+    },
+    {
+      "test_id": "EX04",
+      "proposition": "A vehicle or charging directory solves access",
+      "challenge": "Challenge proximity with source quality, eligibility and boundary definitions.",
+      "hypotheses": "H06,H11,H25"
+    },
+    {
+      "test_id": "EX05",
+      "proposition": "Digital activity produces incremental contribution",
+      "challenge": "Distinguish eligible need, dealer capture, contribution per job and additional/displaced costs; cross-check all original hypotheses.",
+      "hypotheses": "H01-H25"
+    }
+  ],
+  "scope": "Finite accounting and lifecycle coverage, not every cause or every web source. No Auto2000 intervention or implementation."
+}

@@ -1,0 +1,153 @@
+{
+  "reviewed_at_utc": "2026-11-11T04:16:53.199231+00:00",
+  "reviewer": "independent second AI researcher",
+  "human_validation": false,
+  "reviewed_input_sha256": {
+    "REPORT.md": "b1ac5a5519716ee9050a0011b3210c9b6c7c787d540b872f929211b7a0f84420",
+    "EXTERNAL_MECHANISM_EVIDENCE.json": "bc3927ae79f866117b219e615c66e9f0f0303060963076fed0293e4fc39d691e",
+    "MECE_HYPOTHESIS_COVERAGE.csv": "24a0bc8d0b46c3ec33f1e444d8a3b463601be25a58a0d6b2eefa704cc65a6f84"
+  },
+  "verdict": "Core7source summaries and updated accounting are supportable within stated limits; no blocking factual correction. Improve exact locators and retain nonidentification boundaries.",
+  "source_reviews": [
+    {
+      "id": "EXT-H-S01",
+      "status": "supported_with_access_and_precision_limits",
+      "primary_url": "https://www.sciencedirect.com/science/article/pii/S1361920925003311",
+      "doi": "https://doi.org/10.1016/j.trd.2025.104921",
+      "locator": "Publisher-indexed discussion section5 and conclusion section6; direct open returned403",
+      "checked": "Two Irish experiments have different endpoints: stated choices and actual showroom sales. The stated-choice finding and no detected overall showroom effect are supported by the indexed original publisher text.",
+      "limits": "Full design, treatment compliance, standard errors and confidence intervals were not independently re-audited. Do not describe the showroom result as an equivalence test or proof of zero effect.",
+      "correction": "No substantive correction required; preserve no detected overall effect and the foreign-setting boundary.",
+      "retrieval_ref": "turn343381626search1"
+    },
+    {
+      "id": "EXT-H-S02",
+      "status": "supported_at_official_abstract_level",
+      "primary_url": "https://www.research-collection.ethz.ch/entities/publication/df705303-f16e-4697-b433-7a1ec3dbe1e6",
+      "doi": "https://doi.org/10.3929/ethz-b-000663125",
+      "locator": "Official ETH research collection abstract; working paper24/390; official working-paper PDF open timed out",
+      "checked": "Official indexed abstract supports randomized information treatments among3181 car owners and increased stated BEV purchase preferences, particularly TCO.",
+      "limits": "This independent pass did not audit the full randomization, attrition, effect precision or the UK geography statement in the locator. Driving/parking-based personalization should not be silently upgraded to verified telemetry.",
+      "correction": "Add the exact official presentation locator supporting UK scope if retained; otherwise abstract-level evidence remains sufficient for the stated preference claim.",
+      "retrieval_ref": "turn595776202search6"
+    },
+    {
+      "id": "EXT-H-S03",
+      "status": "supported_from_official_full_instrument",
+      "primary_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=960420",
+      "doi": "https://doi.org/10.6028/NIST.DCI.008",
+      "locator": "PDF page4, printed i, abstract; survey instrument from printed6",
+      "checked": "The document provides example questions and a potential discrete-choice survey varying vehicle and battery attributes. It does not report an estimated certificate premium.",
+      "limits": "An instrument is neither a completed willingness-to-pay result nor an observed appraiser/transaction outcome.",
+      "correction": "No substantive correction required.",
+      "retrieval_ref": "turn998179572view3"
+    },
+    {
+      "id": "EXT-H-S04",
+      "status": "supported_from_official_full_report",
+      "primary_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=958584",
+      "doi": "https://doi.org/10.6028/NIST.TN.2328",
+      "locator": "Abstract PDF4/printed i; sample PDF16/printed8; questions PDF14/printed6; discussion PDF29-30/printed21-22",
+      "checked": "Official report gives1490 completed/validated2023 US responses,490BEV owners and1000non-BEV respondents. It distinguishes information types, warranty/guarantee wording and stated usefulness.",
+      "limits": "No appraisal acceptance, observed price premium or treatment-caused sales result. Do not substitute another report’s1443analysis sample or sum potentially overlapping NIST samples.",
+      "correction": "Strengthen the sample locator to printed8/PDF16; no numeric correction required.",
+      "retrieval_ref": "turn696451038view2"
+    },
+    {
+      "id": "EXT-H-S05",
+      "status": "supported_from_author_original_abstract",
+      "primary_url": "https://www.jhelvy.com/research/2022-environmental-research-letters/",
+      "doi": "https://doi.org/10.1088/1748-9326/ac7df3",
+      "locator": "Author publication page, abstract paragraphs1-3",
+      "checked": "The original author-hosted abstract supports2170US conjoint respondents and greater stated valuation of immediate rebates than the compared tax mechanisms.",
+      "limits": "Incentive type combines timing, form, salience and tax-related conditions; it is not a pure isolated liquidity estimate. It is not a study of financing insurance premiums.",
+      "correction": "No substantive correction required; retain mechanism analogy only, without transferred dollars or uplift.",
+      "retrieval_ref": "turn998179572view0"
+    },
+    {
+      "id": "EXT-H-S06",
+      "status": "supported_from_author_original_abstract",
+      "primary_url": "https://www.jhelvy.com/research/2024-environmental-research-letters/",
+      "doi": "https://doi.org/10.1088/1748-9326/ad3fce",
+      "locator": "Author publication page, abstract paragraphs2-4",
+      "checked": "Original author abstract supports a9million-online-listed-car US database for2016-2022 and heterogeneous retention by model year, range and brand.",
+      "limits": "Observational listing values are not verified realized transaction prices or a certificate treatment effect. Nine million is the external study scale, not data acquired by this project or necessarily9million unique people.",
+      "correction": "No substantive correction required; retain not acquired and listing-price qualifiers.",
+      "retrieval_ref": "turn696451038view0"
+    },
+    {
+      "id": "EXT-H-S07",
+      "status": "supported_from_authors_institutional_abstract",
+      "primary_url": "https://bloustein.rutgers.edu/new-research-on-used-evs-loh-noland/",
+      "doi": "https://doi.org/10.1016/j.trd.2024.104086",
+      "locator": "Rutgers research article abstract, paragraphs1-2; dated5February2024",
+      "checked": "Institutional original abstract supports Facebook/Reddit survey recruitment in September-October2022,1669responses and1167usable. Concern findings concern those self-selected owners.",
+      "limits": "Retrospective pre-purchase concern among surviving used-EV owners is not a representative prospect sample, passive scraped content or causal estimate of adoption barriers.",
+      "correction": "No substantive correction required.",
+      "retrieval_ref": "turn998179572view2"
+    }
+  ],
+  "accounting_checks": [
+    {
+      "id": "MR01",
+      "status": "pass",
+      "finding": "All25original hypotheses have exactly one primary accounting tag. CountsA4/B18/C1/D2 reconcile; secondary links do not create new hypotheses or profit pools."
+    },
+    {
+      "id": "MR02",
+      "status": "resolved_after_root_revision",
+      "finding": "The updated REPORT explicitly defines job GP as revenue minus recognized direct cost, separates below-GP operating cost, assigns each cost/discount/benefit/recovery/risk once and prevents subtracting displacement/cannibalization already in all-channel counterfactual volumes. The earlier double-counting ambiguity is resolved in the reviewed revision."
+    },
+    {
+      "id": "MR03",
+      "status": "interpretation_boundary",
+      "finding": "Primary tags are analytical choices, not mutually independent causes or proof that the original25hypotheses exhaust the business domain. H22crosses incidence,capture and per-job economics; placing it inC is acceptable as a convention, not empirical attribution."
+    },
+    {
+      "id": "MR04",
+      "status": "coverage_gap_not_verified_market_gap",
+      "finding": "The original set has little direct scrutiny of recognized net job revenue/direct cost, discounts/refunds/reimbursements and actual cohort incidence. These require explicit measurement if an economic claim is later made; the18capture tags do not establish capture as the largest profit opportunity."
+    },
+    {
+      "id": "MR05",
+      "status": "coverage_gap_not_verified_market_gap",
+      "finding": "The independent lifecycle review also identifies delivery/registration closure, recall/remedy completion, adverse-decision correction and terminal ownership/account closure. They fit within existing accounting components; they do not require extra additive profit categories or establish missing Auto2000 capabilities."
+    },
+    {
+      "id": "MR06",
+      "status": "required_boundary_preserved",
+      "finding": "Mutually exclusive completed jobs, entity/business perimeter, period, payer, vehicle cohort and all-channel counterfactual must remain explicit. One customer can legitimately have multiple different jobs; the same transaction, transfer payment or risk recovery must not be counted twice."
+    },
+    {
+      "id": "MR07",
+      "status": "pass",
+      "finding": "No original Auto2000 causal mechanism is upgraded to confirmed. Foreign experiments and observational studies inform mechanism plausibility or rivals, not local effect magnitude."
+    },
+    {
+      "id": "MR08",
+      "status": "pass_with_access_limits",
+      "finding": "Rutgers raw-data403 and Zenodo429 routes were not requested by this reviewer. ETH entity open returned403 and publisher direct open returned403; indexed official originals were used with narrower claims. A public official working-paper PDF timed out; no forcing, login or proxy attempted."
+    }
+  ],
+  "primary_tag_counts": {
+    "A": 4,
+    "B": 18,
+    "D": 2,
+    "C": 1
+  },
+  "pdf_ready_critical_summary": [
+    "Better evidence changes the diagnosis, but it still does not establish an Auto2000 sales or profit effect. The seven external items support narrower questions about information, payment design, battery evidence and used-car uncertainty. They do not validate the complete chain from app exposure to a delivered vehicle or fulfilled workshop job.",
+    "Personalized cost information has mixed evidence across different endpoints. The ETH working paper reports improved stated BEV purchase preferences after personalized information. The Irish study finds a stated-choice response but no detected overall showroom-sales response. Those results are compatible: a hypothetical preference, a decision already researched before entering a showroom and an actual funded purchase are different outcomes. The undetected showroom effect is not proof of zero effect; this review did not audit confidence intervals or establish equivalence. Price, liquidity, offer fit, timing, adviser behavior and fulfillment remain competing explanations.",
+    "Battery evidence also has several links. NIST TN2328 studies perceived usefulness among1490US respondents, including490BEV owners. It does not measure appraiser acceptance or an actual transaction-price premium. NIST DCI008 supplies a potential survey instrument, not a completed willingness-to-pay estimate. Its research objective cannot be promoted into a finding. The existing Toyota certificate route therefore leaves distinct questions about valid measurement, comprehension, trusted source, permission to use the evidence, acceptance by a decision owner and a changed transaction.",
+    "The resale study describes9million online-listed cars in a US study, not9million new project records or people. Retention varies with model, age/range, brand, incentives and market conditions. Listing values differ from realized sale prices. A battery condition record can help address one source of uncertainty without insuring product obsolescence, market depreciation or every funding risk. The US incentive conjoint likewise supports a distinction between nominal amount and delivery form, but does not estimate the value of an Auto2000 insurance-financing choice.",
+    "The social-media study is a recruited owner survey, not passive scraping. Its1669responses and1167usable observations describe self-selected used-EV owners, many with particular demographic characteristics. Their remembered concerns cannot establish how all prospects behave, why nonbuyers abstain or what will change Indonesian dealer capture. Foreign evidence remains useful as a rival or mechanism check, while local prevalence and magnitude remain unknown.",
+    "The accounting check now passes at the stated scope. Every original hypothesis has one primary tag: four opportunity, eighteen capture, one per-job contribution and two cost/risk checks. These tags are not independent causes, additive profit pools or weights of importance. The updated ledger defines GP after recognized direct costs, keeps below-GP operating costs separate and prevents counting displaced jobs twice when already represented in an all-channel counterfactual. Any later economic interpretation still needs actual eligible cohorts, completed capture, recognized revenue/direct cost, payer and a defensible comparison.",
+    "The remaining coverage gaps concern measurement and lifecycle boundaries. Actual job incidence and realized per-job economics are less developed than digital-capture hypotheses. Delivery closure, safety-remedy completion, correction of disputed decisions and ownership/account exit deserve explicit representation if that lifecycle is claimed to be complete. Their absence from a menu does not prove a failed or missing Auto2000 service. No new implementation, final solution choice or portable uplift follows from this review."
+  ],
+  "not_done": [
+    "No raw external-study datasets acquired or replicated.",
+    "No full statistical-design, power or confidence-interval audit for the Irish/ETH trials.",
+    "No independent verification of a separate1443analysis; TN2328source identity and1490sample independently checked.",
+    "No local Auto2000 causal test, human validation, implementation or winner selection."
+  ]
+}

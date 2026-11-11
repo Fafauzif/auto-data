@@ -1,0 +1,11 @@
+observation_id,observed_date,source_url,model,colour,location,price_idr,base_dp_percent,base_dp_idr,insurance_payment,first_instalment,income_entered,tenor_months,total_upfront_idr,monthly_idr,displayed_remaining_months,is_binding_quote
+UX03,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,upfront,ADDM,False,60,154847741,9271161,59,False
+UX03,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,upfront,ADDM,False,48,147757967,10743507,47,False
+UX03,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,upfront,ADDM,False,36,141531144,13126344,35,False
+UX03,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,upfront,ADDM,False,24,136883953,18277313,23,False
+UX03,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,upfront,ADDM,False,12,143240273,34431793,11,False
+UX04,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,instalments,ADDM,False,60,109533402,10403402,59,False
+UX04,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,instalments,ADDM,False,48,110846515,11816515,47,False
+UX04,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,instalments,ADDM,False,36,113073636,14143636,35,False
+UX04,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,instalments,ADDM,False,24,118057733,19227733,23,False
+UX04,2026-11-11,https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid,New Innova Zenix2.0G HV CVT,Gray Metallic,Jakarta Pusat,475400000,20,95080000,instalments,ADDM,False,12,134074235,35344235,11,False

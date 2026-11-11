@@ -1,0 +1,13 @@
+{
+  "calculated_utc": "2026-11-11T03:56:37.355833+00:00",
+  "original_counterexample_n": 10,
+  "new_ai_report_type_n": 148,
+  "new_favorable_rating_n": 45,
+  "new_favorable_constraint_n": 9,
+  "new_favorable_mixed_n": 7,
+  "old_primary_annotations_modified": false,
+  "suzuki_vehicle_context_check_post_acquisition": true,
+  "human_validation": false,
+  "population_or_task_completion_measurement": false,
+  "plan_sha256": "bf2b21366f6beba5d61d6202f7989b781345bcad316a6d5c0a1ad29e3d958fb6"
+}

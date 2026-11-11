@@ -1,0 +1,815 @@
+[
+  {
+    "option_id": "OPT-C01",
+    "title": "Explain the distinct roles of ecosystem apps",
+    "option_class": "information and role clarity",
+    "affected_stakeholders": [
+      "customer",
+      "Toyota OEM",
+      "digital owner"
+    ],
+    "evidence_ids": [
+      "COMP-001",
+      "COMP-002",
+      "COMP-007"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Clarify which existing route owns a customer task and what information it can reliably show.",
+    "proposed_benefit": "Reduce choosing the wrong route or repeating a search.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Users already understand the roles; low activity reflects infrequent need.",
+    "existing_similar_feature": "mToyota advertises ownership and purchase functions; SEVA supplies finance routes.",
+    "differentiation_and_transfer_limit": "Value would be role clarity, not a new version of an existing feature; app integration remains unknown.",
+    "stakeholder_tradeoff": "Central consistency versus dealer-specific propositions.",
+    "conditional_gp_mechanism": "Only useful if more eligible opportunities are retained or realizable servicing effort falls.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Current users find the right existing route without consequential uncertainty.",
+    "auto2000_gap_status": "Role confusion or integration gap not established.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX12"
+    ],
+    "existing_auto2000_capability_observed": "Website already has app-store destinations; destination/app/deep-link behavior unverified.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C02",
+    "title": "Preserve a customer task summary into human assistance",
+    "option_class": "cross-channel continuity",
+    "affected_stakeholders": [
+      "customer",
+      "adviser",
+      "CRM owner"
+    ],
+    "evidence_ids": [
+      "COMP-010",
+      "COMP-013",
+      "COMP-038"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Make the unresolved question, prior information and decision stage clear at a handoff.",
+    "proposed_benefit": "Reduce re-explanation and inconsistent expectations.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Qualification and physical verification require fresh information regardless of earlier digital activity.",
+    "existing_similar_feature": "SEVA partner handoff; OLXmobbi inspection; Honda dealer confirmation.",
+    "differentiation_and_transfer_limit": "Potential context continuity, not assumed system interoperability or permission to share all data.",
+    "stakeholder_tradeoff": "Adviser usefulness versus collection and privacy burden.",
+    "conditional_gp_mechanism": "Additional fulfilled contribution or economically realizable adviser-time savings.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Actual handoffs already retain context or summary adds no consequential value.",
+    "auto2000_gap_status": "Actual context transfer to staff/app untested; do not label failed continuity.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX05",
+      "UX06",
+      "UX07",
+      "UX12"
+    ],
+    "existing_auto2000_capability_observed": "Test-drive, workshop, trade-in and app routes exist with task-specific prerequisites.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C03",
+    "title": "Distinguish requested, reviewed and confirmed booking states",
+    "option_class": "service decision transparency",
+    "affected_stakeholders": [
+      "owner",
+      "service adviser",
+      "branch manager"
+    ],
+    "evidence_ids": [
+      "COMP-019",
+      "COMP-020",
+      "COMP-038"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain the difference between a requested time and an accepted appointment.",
+    "proposed_benefit": "Make the customer expectation match the represented process.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Customers understand the current states and confirmations are timely.",
+    "existing_similar_feature": "Honda guide explicitly uses awaiting confirmation; Astrido publishes booking lead time.",
+    "differentiation_and_transfer_limit": "State clarity may transfer; actual capacity cannot be inferred from an interface.",
+    "stakeholder_tradeoff": "Fast-looking conversion versus honest appointment commitment.",
+    "conditional_gp_mechanism": "Could retain eligible completed jobs or reduce wasted contacts; uplift unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No current Auto2000 state confusion or material consequence is found.",
+    "auto2000_gap_status": "Some status qualification is already present; do not propose confirmation wording as wholly absent.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX05",
+      "UX08"
+    ],
+    "existing_auto2000_capability_observed": "Test-drive page says team will contact customer; tentative date windows exist. B&P calendar was inspected only partially.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C04",
+    "title": "Show task-specific preparation before a visit",
+    "option_class": "customer preparation",
+    "affected_stakeholders": [
+      "owner",
+      "appraiser",
+      "service adviser"
+    ],
+    "evidence_ids": [
+      "COMP-013",
+      "COMP-014",
+      "COMP-020"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain required documents, vehicle checks and arrival requirements for the chosen task.",
+    "proposed_benefit": "Reduce unproductive visits or appraisal delays.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Customers receive adequate advice through existing channels.",
+    "existing_similar_feature": "OLXmobbi document/inspection process and Astrido appointment terms.",
+    "differentiation_and_transfer_limit": "Preparation should be scoped to the actual job; unnecessary document requests must not be inferred.",
+    "stakeholder_tradeoff": "Upfront clarity versus overload at early consideration.",
+    "conditional_gp_mechanism": "More completed eligible work per visit or lower repeat-handling cost.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Missing preparation is rare or later reminders solve it adequately.",
+    "auto2000_gap_status": "Need for additional preparation guidance is untested; field necessity not judged.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX05",
+      "UX06",
+      "UX07"
+    ],
+    "existing_auto2000_capability_observed": "Existing task forms specify purchase/vehicle/plate/mileage requirements before later stages.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C05",
+    "title": "Explain coverage eligibility for the actual vehicle cohort",
+    "option_class": "ownership information",
+    "affected_stakeholders": [
+      "owner",
+      "OEM",
+      "service adviser"
+    ],
+    "evidence_ids": [
+      "COMP-003",
+      "COMP-004",
+      "COMP-026",
+      "COMP-027"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish included work, warranty scope, age/mileage limits and continuation conditions.",
+    "proposed_benefit": "Support an accurate ownership decision at the relevant moment.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Owners understand the terms or do not need more detail.",
+    "existing_similar_feature": "Toyota T-Care/XTRA and Hyundai battery/vehicle distinctions.",
+    "differentiation_and_transfer_limit": "No universal entitlement should be promised; exact vehicle contract governs.",
+    "stakeholder_tradeoff": "Simple message versus accurate exceptions.",
+    "conditional_gp_mechanism": "May improve capture of eligible work; existing demand may simply migrate channels.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Terms are already clear and no consequential uncertainty appears.",
+    "auto2000_gap_status": "Untested gap; competitor programme complexity alone is not demand.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No current full entitlement comprehension or vehicle-linked programme walkthrough in these12cells.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C06",
+    "title": "Clarify what changes when ownership transfers",
+    "option_class": "resale information",
+    "affected_stakeholders": [
+      "used buyer",
+      "seller",
+      "appraiser"
+    ],
+    "evidence_ids": [
+      "COMP-013",
+      "COMP-034",
+      "COMP-036"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Separate original-owner campaign benefits from protections available to a subsequent owner.",
+    "proposed_benefit": "Prevent mistaken comparisons of used-vehicle protection.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Transfer terms are already disclosed and buyers are primarily price constrained.",
+    "existing_similar_feature": "Historical Wuling/Chery first-owner or campaign conditions; OLXmobbi actual appraisal.",
+    "differentiation_and_transfer_limit": "Current contracts must be verified; historical offers cannot diagnose current entitlements.",
+    "stakeholder_tradeoff": "Resale reassurance versus honest disclosure of lost benefits.",
+    "conditional_gp_mechanism": "Only if information changes a viable retained trade-in or sale, net of verification cost.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No relevant transfer restriction applies or buyers already understand it.",
+    "auto2000_gap_status": "Untested gap; first-owner restrictions cannot imply actual resale confusion.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No ownership-transfer entitlement walkthrough or participant evidence.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C07",
+    "title": "Separate fleet use from private-use benefit comparisons",
+    "option_class": "fleet decision support",
+    "affected_stakeholders": [
+      "fleet buyer",
+      "procurement",
+      "finance partner"
+    ],
+    "evidence_ids": [
+      "COMP-034",
+      "COMP-036"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Keep commercial-use eligibility explicit when comparing ownership propositions.",
+    "proposed_benefit": "Avoid using a retail warranty headline in a fleet decision.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Fleet procurement already receives correct contract-specific advice.",
+    "existing_similar_feature": "Selected historical lifetime campaigns exclude commercial use.",
+    "differentiation_and_transfer_limit": "Not evidence that Auto2000 lacks a fleet route or that all rival programmes exclude fleets.",
+    "stakeholder_tradeoff": "Retail simplicity versus contract-specific fleet information.",
+    "conditional_gp_mechanism": "Potential qualified fleet opportunity value; actual account contribution unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No fleet eligibility mismatch or reachable fleet demand exists.",
+    "auto2000_gap_status": "Untested audience need, terms and route; no fleet product recommendation.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No fleet-specific journey was tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C08",
+    "title": "Explain the meaning and limits of battery-check results",
+    "option_class": "health evidence comprehension",
+    "affected_stakeholders": [
+      "owner",
+      "warranty adviser",
+      "OEM"
+    ],
+    "evidence_ids": [
+      "COMP-005",
+      "COMP-006"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish check date/result, eligibility and the separate warranty validation decision.",
+    "proposed_benefit": "Reduce false reassurance or mistaken expectation of automatic replacement.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Existing certificate and adviser explanations are sufficient.",
+    "existing_similar_feature": "Toyota already issues eligible health certificates and validates adverse results.",
+    "differentiation_and_transfer_limit": "This is an explanation opportunity, not a claim that battery checking is new.",
+    "stakeholder_tradeoff": "Customer reassurance versus technical/contractual precision.",
+    "conditional_gp_mechanism": "Could support captured eligible work; no certificate-to-GP effect is measured.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Users correctly interpret certificates and no material confusion appears.",
+    "auto2000_gap_status": "Existing OEM certificate must remain baseline; current Auto2000 gap unknown.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No current Digiroom/website battery-certificate interpretation task was tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C09",
+    "title": "Connect verified ownership evidence to appraisal questions",
+    "option_class": "transaction evidence",
+    "affected_stakeholders": [
+      "seller",
+      "buyer",
+      "appraiser",
+      "OEM"
+    ],
+    "evidence_ids": [
+      "COMP-005",
+      "COMP-013",
+      "COMP-014"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Use valid dated health/history evidence to answer relevant appraisal uncertainty without promising residual value.",
+    "proposed_benefit": "Make an inspection conversation better informed.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Physical inspection and market demand dominate valuation; prior records add no value.",
+    "existing_similar_feature": "Toyota certificate and OLXmobbi physical appraisal already exist separately.",
+    "differentiation_and_transfer_limit": "Partner acceptance and transferable evidence rights are unknown; no resale uplift may be assumed.",
+    "stakeholder_tradeoff": "Seller convenience versus appraisal independence and liability.",
+    "conditional_gp_mechanism": "Additional retained trade-ins/deliveries or appraisal effort savings, conditional on partner use.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Appraisers do not use the evidence or it adds no decision value.",
+    "auto2000_gap_status": "No estimate or evidence exchange generated; appraiser acceptance and value untested.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX07"
+    ],
+    "existing_auto2000_capability_observed": "Auto2000 already describes professional inspection and subsequent trade-in offer.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C10",
+    "title": "Make indicative and inspected trade-in values visibly different",
+    "option_class": "valuation transparency",
+    "affected_stakeholders": [
+      "seller",
+      "appraiser",
+      "sales adviser"
+    ],
+    "evidence_ids": [
+      "COMP-012",
+      "COMP-013"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain when and why the initial estimate can change and when a sale is agreed.",
+    "proposed_benefit": "Set accurate expectations before committing time or a new-car purchase.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Current users already understand the estimate is nonbinding.",
+    "existing_similar_feature": "OLXmobbi explicitly distinguishes indicative and actual valuation.",
+    "differentiation_and_transfer_limit": "No binding price or guaranteed purchase should be invented.",
+    "stakeholder_tradeoff": "Early certainty appeal versus honest condition risk.",
+    "conditional_gp_mechanism": "Potential fewer lost viable trade-ins; margin and volume effect unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No consequential misunderstanding or alternative wording is needed.",
+    "auto2000_gap_status": "Distinction may already be adequate; partial boundary prevents assessment of estimate presentation.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX07"
+    ],
+    "existing_auto2000_capability_observed": "Professional inspection and subsequent offer are already explained on the trade-in page.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C11",
+    "title": "Clarify when transaction timing starts",
+    "option_class": "transaction transparency",
+    "affected_stakeholders": [
+      "seller",
+      "customer service",
+      "payment partner"
+    ],
+    "evidence_ids": [
+      "COMP-012",
+      "COMP-013",
+      "COMP-014"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "State which prerequisites precede an advertised payment or completion time.",
+    "proposed_benefit": "Prevent interpreting a conditional time promise from the first digital action.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "The current promise is clear and customers ask no timing questions.",
+    "existing_similar_feature": "OLXmobbi times payment after deal and complete documents.",
+    "differentiation_and_transfer_limit": "Do not copy the timing unless the responsible provider guarantees it for the actual transaction.",
+    "stakeholder_tradeoff": "Compelling headline versus qualified, accurate promise.",
+    "conditional_gp_mechanism": "Could reduce rework and retain viable transactions; no time-based causal uplift measured.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No current expectation mismatch appears.",
+    "auto2000_gap_status": "No timing mismatch established; OLX operator terms are not Auto2000 achieved performance.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX07"
+    ],
+    "existing_auto2000_capability_observed": "Trade-in prerequisites were observed but no completed transaction/payment timing.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C12",
+    "title": "Explain prequalification validity and decision authority",
+    "option_class": "finance information",
+    "affected_stakeholders": [
+      "buyer",
+      "lender",
+      "sales adviser"
+    ],
+    "evidence_ids": [
+      "COMP-007",
+      "COMP-009",
+      "COMP-010"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish simulation, credit-opportunity check, partner decision and expiry.",
+    "proposed_benefit": "Help buyers know which uncertainty is resolved and which remains.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "The main obstacle is true affordability or creditworthiness.",
+    "existing_similar_feature": "SEVA already offers these routes and partner/expiry terms.",
+    "differentiation_and_transfer_limit": "No approval guarantee or lender model should be implied.",
+    "stakeholder_tradeoff": "Fast progress signal versus accurate financial status.",
+    "conditional_gp_mechanism": "More eligible financed deliveries or less repeated handling; no acceptance uplift assumed.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Users already understand status or offer economics dominate.",
+    "auto2000_gap_status": "Do not propose a missing simulator or hidden-fee diagnosis; prequalification/approval/expiry remain different untested states.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX03",
+      "UX04"
+    ],
+    "existing_auto2000_capability_observed": "A functioning no-contact simulator returns multiple tenor options; insurance/first-installment timing is disclosed.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C13",
+    "title": "Explain household inputs needed for a finance decision",
+    "option_class": "household decision support",
+    "affected_stakeholders": [
+      "applicant",
+      "spouse/payer",
+      "lender",
+      "privacy owner"
+    ],
+    "evidence_ids": [
+      "COMP-010"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain the purpose and decision stage of required household information.",
+    "proposed_benefit": "Support informed preparation without collecting unnecessary sensitive data.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Existing lender communication already supplies sufficient context.",
+    "existing_similar_feature": "SEVA terms mention spouse KTP for married applicants.",
+    "differentiation_and_transfer_limit": "Does not justify sharing documents through an unapproved app or infer household coordination pain.",
+    "stakeholder_tradeoff": "Application completeness versus sensitive-data burden.",
+    "conditional_gp_mechanism": "Fewer avoidable incomplete eligible applications; actual frequency/cost unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No material household-information confusion or incomplete demand is found.",
+    "auto2000_gap_status": "Roles can differ, but household financial coordination pain remains unmeasured.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX11"
+    ],
+    "existing_auto2000_capability_observed": "Toyota OEM form explicitly allows delivery by someone else; not a household finance task.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C14",
+    "title": "Explain parts compatibility and warranty conditions together",
+    "option_class": "parts information",
+    "affected_stakeholders": [
+      "owner",
+      "parts adviser",
+      "warranty owner"
+    ],
+    "evidence_ids": [
+      "COMP-025",
+      "COMP-034"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Clarify fit, original-part requirements and the applicable coverage boundary for an actual job.",
+    "proposed_benefit": "Help users assess an appropriate part/service offer.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Price and stock dominate; compatibility is already clear.",
+    "existing_similar_feature": "BYD and historical Wuling terms reference original parts.",
+    "differentiation_and_transfer_limit": "No claim that every aftermarket part voids all coverage; exact causal/contract terms govern.",
+    "stakeholder_tradeoff": "Accessible choice information versus overbroad warranty claims.",
+    "conditional_gp_mechanism": "Captured suitable parts jobs net of returns/rework; unknown realized margin.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No compatibility uncertainty or benefit from extra explanation exists.",
+    "auto2000_gap_status": "Untested gap; warranty terms do not establish compatibility friction.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No fitment/parts purchase task in the available12cells.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C15",
+    "title": "Compare ownership cost with service entitlements included",
+    "option_class": "decision support",
+    "affected_stakeholders": [
+      "shopper",
+      "owner",
+      "finance director"
+    ],
+    "evidence_ids": [
+      "COMP-003",
+      "COMP-004",
+      "COMP-011",
+      "COMP-027"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish paid work from included labour/parts/coverage when comparing ownership options.",
+    "proposed_benefit": "Avoid counting benefits or costs twice.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Upfront affordability, vehicle fit or stock decides the choice.",
+    "existing_similar_feature": "Toyota service programmes, OLXmobbi benefits and priced Hyundai extension.",
+    "differentiation_and_transfer_limit": "Requires comparable model, usage, offer date, tax and warranty scope; no generic cost-saving percentage.",
+    "stakeholder_tradeoff": "Helpful comparison versus false precision.",
+    "conditional_gp_mechanism": "Incremental suitable deliveries only; no assumed conversion effect from a calculator.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Reliable comparable inputs are absent or comparison does not affect viable choices.",
+    "auto2000_gap_status": "New value must address a specific unresolved ownership comparison; affordability and comprehension remain unmeasured.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX02",
+      "UX03",
+      "UX04"
+    ],
+    "existing_auto2000_capability_observed": "Model comparison and repeatable credit scenarios already exist; insurance timing changes cash/cicilan outputs.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C16",
+    "title": "Explain a paid protection extension as a separate choice",
+    "option_class": "commercial comparison",
+    "affected_stakeholders": [
+      "owner",
+      "CFO",
+      "OEM warranty team"
+    ],
+    "evidence_ids": [
+      "COMP-004",
+      "COMP-028"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Compare coverage continuation conditions and a priced extension without equating them.",
+    "proposed_benefit": "Help users understand a protection decision and its cost.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Eligible owners do not value extra cover or already receive adequate advice.",
+    "existing_similar_feature": "Toyota conditional XTRA versus Hyundai published IONIQ5 extension.",
+    "differentiation_and_transfer_limit": "Different models/contracts; Hyundai price is not Auto2000 cost or willingness to pay.",
+    "stakeholder_tradeoff": "Customer certainty versus exclusion and price disclosure.",
+    "conditional_gp_mechanism": "Potential incremental net programme contribution, but provider split and cost are unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No unmet decision or feasible control over the offered product exists.",
+    "auto2000_gap_status": "Untested gap; rival package price is not Auto2000 cost or willingness to pay.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No paid-protection decision task tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C17",
+    "title": "Match specialist repair needs to a suitable branch",
+    "option_class": "task-specific discovery",
+    "affected_stakeholders": [
+      "owner",
+      "B&P team",
+      "branch manager"
+    ],
+    "evidence_ids": [
+      "COMP-018",
+      "COMP-019"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Make general repair, B&P and home service capability distinctions relevant to the customer job.",
+    "proposed_benefit": "Reduce wrong-route inquiries.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Existing branch selection and adviser referral work well.",
+    "existing_similar_feature": "Tunas separate B&P tab and Astrido workshop/home choices.",
+    "differentiation_and_transfer_limit": "No actual Auto2000 misrouting or branch capacity is established.",
+    "stakeholder_tradeoff": "Customer simplicity versus local capability detail.",
+    "conditional_gp_mechanism": "Additional completed suitable jobs or reduced reassignment effort.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No material wrong routing exists or capability information is unreliable.",
+    "auto2000_gap_status": "Reject blanket absence of specialist locator; current ambiguous date state cannot establish capacity or harmful misrouting.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX08"
+    ],
+    "existing_auto2000_capability_observed": "B&P branch lookup works for Bekasi and opens named specialist branch/calendar before plate entry.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C18",
+    "title": "Explain emergency support by service and locality",
+    "option_class": "local eligibility information",
+    "affected_stakeholders": [
+      "driver",
+      "field team",
+      "customer care"
+    ],
+    "evidence_ids": [
+      "COMP-030",
+      "COMP-031",
+      "COMP-033",
+      "COMP-040"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish phone access, technician dispatch, charging, towing and geographic charges.",
+    "proposed_benefit": "Help drivers understand usable help under actual conditions.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "People need a simple reliable contact rather than detailed comparison.",
+    "existing_similar_feature": "Hyundai, Wuling and Honda publish different radii and hours.",
+    "differentiation_and_transfer_limit": "A benchmark cannot create Auto2000 field supply or a 24h guarantee.",
+    "stakeholder_tradeoff": "Reassurance and simplicity versus geographically qualified promises.",
+    "conditional_gp_mechanism": "Retention or realizable handling savings plausible; emergency GP may be zero or negative.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Current help reliably resolves the job and extra detail adds burden.",
+    "auto2000_gap_status": "Untested gap; competitor scope does not prove local Auto2000 failure.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No location-qualified emergency support fulfillment was tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C19",
+    "title": "Explain onward-mobility support during a qualifying repair",
+    "option_class": "ownership support information",
+    "affected_stakeholders": [
+      "driver",
+      "household",
+      "service partner"
+    ],
+    "evidence_ids": [
+      "COMP-030",
+      "COMP-031"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Clarify whether and when a qualifying breakdown includes onward transport.",
+    "proposed_benefit": "Support the travel consequence of a vehicle fault.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Users already have insurer/ride-hail alternatives or demand is small.",
+    "existing_similar_feature": "Hyundai publishes a conditional GrabCar route after emergency towing.",
+    "differentiation_and_transfer_limit": "Not proof Auto2000 controls an equivalent service or that free transport pays back.",
+    "stakeholder_tradeoff": "Customer relief versus subsidy and partner liability.",
+    "conditional_gp_mechanism": "Only a conditional retention or cost-to-serve link; no margin assumption.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Existing alternatives suffice or attributable benefit cannot cover cost.",
+    "auto2000_gap_status": "Untested gap and demand; no actual partner/control/cost basis.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No current breakdown/onward-mobility decision task tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C20",
+    "title": "Make home-service suitability visible before choosing it",
+    "option_class": "service qualification",
+    "affected_stakeholders": [
+      "owner",
+      "mobile technician",
+      "branch"
+    ],
+    "evidence_ids": [
+      "COMP-019",
+      "COMP-032",
+      "COMP-033"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain which task/location is suitable for home service versus workshop work.",
+    "proposed_benefit": "Avoid selecting a convenient but ineligible service route.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Current booking logic already handles suitability well.",
+    "existing_similar_feature": "Astrido home/office and Wuling mobile/home service distinctions.",
+    "differentiation_and_transfer_limit": "Actual skills, scope and capacity need reliable current owner data.",
+    "stakeholder_tradeoff": "Convenience versus diagnosis and safety constraints.",
+    "conditional_gp_mechanism": "Additional suitable captured work minus travel and displaced technician time.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No unsuitable selections or economically viable unserved needs appear.",
+    "auto2000_gap_status": "Do not propose home service as absent; early context suitability and scope utility remain untested.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX06",
+      "UX09"
+    ],
+    "existing_auto2000_capability_observed": "Workshop and home-service forms already impose vehicle-to-service-to-location sequencing.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C21",
+    "title": "Explain connected-account setup and ownership changes",
+    "option_class": "connected-access information",
+    "affected_stakeholders": [
+      "owner",
+      "dealer",
+      "OEM",
+      "privacy owner"
+    ],
+    "evidence_ids": [
+      "COMP-023",
+      "COMP-024",
+      "COMP-029"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain the role of dealer verification, vehicle compatibility and account access at setup/transfer.",
+    "proposed_benefit": "Help owners understand next steps when functions are unavailable.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "OEM enrollment already works adequately and the dealer adds no value.",
+    "existing_similar_feature": "BYD dealer-assisted linking; Hyundai separate connected contract.",
+    "differentiation_and_transfer_limit": "Dealer cannot promise remote access outside OEM permissions or compatibility.",
+    "stakeholder_tradeoff": "Speed and convenience versus account/vehicle security.",
+    "conditional_gp_mechanism": "Potential fewer support contacts or retained service relationship; effect unknown.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No unresolved setup task or permissible dealer role exists.",
+    "auto2000_gap_status": "No observed dealer setup gap; OEM security/control limits remain.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX12"
+    ],
+    "existing_auto2000_capability_observed": "Website app destinations observed; no vehicle-connected account setup or transfer tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C22",
+    "title": "Make connected-service renewal terms understandable",
+    "option_class": "digital contract information",
+    "affected_stakeholders": [
+      "owner",
+      "OEM",
+      "digital business owner"
+    ],
+    "evidence_ids": [
+      "COMP-029"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Explain free-period expiry and optional renewal separately from warranty.",
+    "proposed_benefit": "Prevent mistaking vehicle protection for perpetual connected access.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Users know the distinction and renew only when they value the service.",
+    "existing_similar_feature": "Hyundai Bluelink has a three-year free period and separate service contract.",
+    "differentiation_and_transfer_limit": "No current renewal price, dealer revenue share or conversion evidence exists.",
+    "stakeholder_tradeoff": "Useful ongoing service versus subscription cost and expectations.",
+    "conditional_gp_mechanism": "Possible partner service contribution only if permitted and truly incremental.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No relevant contractual confusion or Auto2000 role exists.",
+    "auto2000_gap_status": "Untested gap; independent dealer revenue role unknown.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No subscription renewal or linked vehicle contract task tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C23",
+    "title": "Assess multi-vehicle and multi-user needs separately",
+    "option_class": "audience differentiation",
+    "affected_stakeholders": [
+      "household",
+      "fleet admin",
+      "driver",
+      "OEM"
+    ],
+    "evidence_ids": [
+      "COMP-024",
+      "COMP-010"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Distinguish owning several vehicles from concurrent access by different responsible people.",
+    "proposed_benefit": "Identify a precise audience requirement before treating all owners alike.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Most relevant users need only one device and one vehicle.",
+    "existing_similar_feature": "BYD states up to ten vehicles with no concurrent multi-phone account use.",
+    "differentiation_and_transfer_limit": "Not permission to share credentials or change OEM security; no unmet Auto2000 requirement is proven.",
+    "stakeholder_tradeoff": "Role convenience versus security and privacy accountability.",
+    "conditional_gp_mechanism": "Potential qualified fleet/household retention; no audience size or GP measured.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No consequential multi-role need is found.",
+    "auto2000_gap_status": "Avoid claiming all flows assume owner=driver; multi-account and fleet needs untested.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX11"
+    ],
+    "existing_auto2000_capability_observed": "Toyota OEM service form already recognizes a person other than owner can deliver the vehicle.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C24",
+    "title": "Explain service-dependent benefit continuity",
+    "option_class": "ownership decision information",
+    "affected_stakeholders": [
+      "owner",
+      "service adviser",
+      "OEM"
+    ],
+    "evidence_ids": [
+      "COMP-004",
+      "COMP-025",
+      "COMP-027",
+      "COMP-034"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Make the relationship between scheduled upkeep and applicable benefits clear at the relevant job.",
+    "proposed_benefit": "Help owners make informed official-service choices.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Customers already know conditions; provider choice is driven by price or location.",
+    "existing_similar_feature": "Multiple operators publish authorized-maintenance conditions.",
+    "differentiation_and_transfer_limit": "Do not imply skipped service automatically removes every warranty right; exact terms govern.",
+    "stakeholder_tradeoff": "Benefit clarity versus fear-based retention claims.",
+    "conditional_gp_mechanism": "Possible captured eligible work; not proof of added jobs due.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "No confusion or attributable difference in provider choice appears.",
+    "auto2000_gap_status": "Conditional-service facts support a research question, not evidence of retention loss.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [],
+    "existing_auto2000_capability_observed": "No current programme-eligibility decision/comprehension task tested.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  },
+  {
+    "option_id": "OPT-C25",
+    "title": "Separate enduring benefits from expired campaign bundles",
+    "option_class": "content governance",
+    "affected_stakeholders": [
+      "shopper",
+      "publisher",
+      "commercial owner"
+    ],
+    "evidence_ids": [
+      "COMP-034",
+      "COMP-035",
+      "COMP-036",
+      "COMP-037"
+    ],
+    "status": "candidate direction for user assessment; not a selected recommendation",
+    "mechanism": "Keep offer date, model/variant and limited buyer cohort explicit in comparisons.",
+    "proposed_benefit": "Reduce reliance on an attractive but inapplicable historical benefit.",
+    "benefit_status": "hypothesized; not measured",
+    "strongest_rival": "Current pages already label campaign scope clearly and customers verify with advisers.",
+    "existing_similar_feature": "Wuling pre-book and Chery early-buyer announcements show bounded offers.",
+    "differentiation_and_transfer_limit": "Historical search visibility is not itself misleading current advertising or proven harm.",
+    "stakeholder_tradeoff": "Commercial message reach versus consistent current terms.",
+    "conditional_gp_mechanism": "Fewer unsuitable inquiries or lost viable decisions; no quantified revenue loss.",
+    "cost_status": "Unknown; no budget or ROI estimate",
+    "kill_condition": "Current content and advisers already resolve the distinction without consequential friction.",
+    "auto2000_gap_status": "Reconcile model/year/variant/location/date before calling stale or misleading; not a proven campaign problem.",
+    "implementation_status": "No implementation design or roadmap",
+    "root_journey_evidence_ids": [
+      "UX01",
+      "UX02"
+    ],
+    "existing_auto2000_capability_observed": "Catalogue and comparison expose apparent numeric anomalies and different bZ4X price representations.",
+    "integration_status": "Reconciled against desktop-only logged-out12cell AI evaluator record; no participant/app/mobile claims"
+  }
+]

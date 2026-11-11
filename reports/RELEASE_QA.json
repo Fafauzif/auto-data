@@ -1,0 +1,26 @@
+{
+  "offline": true,
+  "static_parse_counts": {
+    "python": 74,
+    "json": 108,
+    "docx": 2
+  },
+  "failures": [],
+  "site_sqlite_integrity": "ok",
+  "previous_archives": [
+    {
+      "filename": "Auto2000_Expanded_Research_Plan_v2.zip",
+      "bytes": 303520,
+      "sha256": "f5c994ae49661b32ca25618583972e0a0bd891e3f0358785b00c705ae5ea789f"
+    },
+    {
+      "filename": "Auto2000_Public_Research_Initial_2026.zip",
+      "bytes": 192138,
+      "sha256": "3c7acc5dee5279e771fccccb323690eb869c1a743b2c0ed520b6318c536c4c80"
+    }
+  ],
+  "main_doc_pages_visually_checked": 9,
+  "friend_doc_pages_visually_checked": 13,
+  "public_mirror_excludes_two_igar_text_csvs": true,
+  "note": "Static syntax/container checks do not establish full code portability or source truth."
+}

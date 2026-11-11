@@ -1,0 +1,5 @@
+world,stress_state,eligible_units,units_with_shortfall,full_floor_gross_shortfall,conditional_recovery_before_aggregate,assumed_aggregate_limit,effective_conditional_recovery,dealer_residual_after_aggregate,dealer_residual_without_binding_aggregate,capped_topup_total,data_status
+Losses dispersed across two stress states,A,20,10,400000000,150000000,100000000,100000000,300000000,250000000,100000000,CONSTRUCTED stress outcome; not an expected loss or quote
+Losses dispersed across two stress states,B,20,10,400000000,150000000,100000000,100000000,300000000,250000000,100000000,CONSTRUCTED stress outcome; not an expected loss or quote
+Losses synchronized in one stress state,A,20,20,800000000,300000000,100000000,100000000,700000000,500000000,200000000,CONSTRUCTED stress outcome; not an expected loss or quote
+Losses synchronized in one stress state,B,20,0,0,0,100000000,0,0,0,0,CONSTRUCTED stress outcome; not an expected loss or quote

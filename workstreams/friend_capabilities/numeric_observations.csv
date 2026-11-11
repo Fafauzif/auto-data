@@ -1,0 +1,18 @@
+observation_id,metric,value,unit,year,entity,source_id,printed_page,pdf_page_1based,definition,rounded_in_source
+FC-N01,National car sales,804000,vehicles,2025,Indonesia,FC-S01,134,136,National new-car market; rounded report total,True
+FC-N02,National car sales YoY,-7,percent,2025,Indonesia,FC-S01,134,136,Reported national market growth,True
+FC-N03,Astra car market share,51,percent,2025,Astra Group,FC-S01,134,136,Group share of national car market; not Auto2000,True
+FC-N04,National xEV sales,172000,vehicles,2025,Indonesia,FC-S01,135,137,BEV+HEV+PHEV; rounded report total,True
+FC-N05,National xEV growth YoY,72,percent,2025,Indonesia,FC-S01,135,137,Reported xEV growth,True
+FC-N06,National xEV sales mix,22,percent,2025,Indonesia,FC-S01,135,137,Reported share of new-car sales,True
+FC-N07,National BEV sales mix,13,percent,2025,Indonesia,FC-S01,135,137,Reported share of new-car sales,True
+FC-N08,National HEV sales mix,8,percent,2025,Indonesia,FC-S01,135,137,Reported share of new-car sales,True
+FC-N09,Integrated EV-service outlets,31,outlets,2025,Auto2000,FC-S01,137,139,Reported integrated EV ecosystem service footprint; not a service-capability matrix,False
+FC-N10,Toyota charging locations,118,locations,2025,Toyota ecosystem,FC-S01,138,140,113 dealer + 2 rest-area + 3 mall locations; not connectors,False
+FC-N11,Toyota dealer charging locations,113,locations,2025,Toyota dealers,FC-S01,138,140,Includes three stated dealer UFC locations,False
+FC-N12,Toyota/Lexus total domestic sales,291566,vehicles,2024,Toyota and Lexus,FC-S01,140,142,Chart total domestic sales; not Auto2000,False
+FC-N13,Toyota/Lexus total domestic sales,251954,vehicles,2025,Toyota and Lexus,FC-S01,140,142,Chart total domestic sales; not Auto2000,False
+FC-N14,Toyota/Lexus xEV sales,37693,vehicles,2024,Toyota and Lexus,FC-S01,140,142,Chart xEV sales; not Auto2000,False
+FC-N15,Toyota/Lexus xEV sales,31668,vehicles,2025,Toyota and Lexus,FC-S01,140,142,Chart xEV sales; not Auto2000,False
+FC-N16,OLX/OLXmobbi used-car sales,27313,vehicles,2024,OLX and OLXmobbi report section,FC-S01,180,182,Used-car volume chart; not EV-only or Auto2000-only,False
+FC-N17,OLX/OLXmobbi used-car sales,33139,vehicles,2025,OLX and OLXmobbi report section,FC-S01,180,182,Used-car volume chart; not EV-only or Auto2000-only,False

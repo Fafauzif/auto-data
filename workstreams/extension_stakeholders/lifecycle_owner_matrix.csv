@@ -1,0 +1,27 @@
+job_id,stage,canonical_customer_job,Customer_owner,User_driver,Household_fleet_authorizer,Dealer_branch,Toyota_OEM,Lender_lessor,Insurer,Utility_building,Appraiser_buyer,Recycler_authority,menu_ids,evidence_ids,not_independent_cell_counts
+LC01,Choose/acquire,Choose a suitable vehicle and household/fleet allocation,1,0,1,0,0,0,0,0,0,0,SOL-01,market:M024; narrative:V004; narrative:V007; narrative:V009,True
+LC02,Choose/acquire,Establish a usable energy arrangement,1,0,0,0,0,0,0,1,0,0,SOL-02,market:M019; EXT-E09,True
+LC03,Choose/acquire,Obtain and understand an affordable funding decision,1,0,0,0,0,1,0,0,0,0,SOL-03,competition:COMP-009; competition:COMP-010,True
+LC04,Choose/acquire,"Choose purchase, lease or subscription obligations",1,0,0,0,0,1,0,0,0,0,SOL-04,market:M044; market:M045; EXT-E19,True
+LC05,Choose/acquire,Choose voluntary protection on the relevant risk,1,0,0,0,0,0,1,0,0,0,SOL-10; SOL-26,insurance:INS-002; insurance:INS-007; EXT-E15,True
+LC06,Choose/acquire,Receive the promised vehicle and usable documents,1,0,0,1,0,1,0,0,0,0,SOL-03; SOL-07; SOL-13,competition:COMP-002,True
+LC07,Onboard/authorize,Confirm entitlements for this vehicle and owner,1,0,0,1,1,0,0,0,0,0,SOL-10; SOL-11,EXT-E14; EXT-E15; EXT-E16,True
+LC08,Onboard/authorize,Authorize people and link the correct connected vehicle,1,0,1,0,1,0,0,0,0,0,SOL-20; SOL-24,EXT-E01; EXT-E02; journey:UX11,True
+LC09,Operate/maintain,Replenish energy within actual use windows,0,1,1,0,0,0,0,1,0,0,SOL-01; SOL-02,market:M018; EXT-E18; EXT-E19,True
+LC10,Operate/maintain,Select an appropriate care provider and obtain a usable appointment,1,0,0,1,0,0,0,0,0,0,SOL-06; SOL-07; SOL-08,EXT-E04; EXT-E16; journey:JX05,True
+LC11,Operate/maintain,Approve necessary work and compatible parts at a clear price,1,0,0,1,0,0,0,0,0,0,SOL-05; SOL-09,EXT-E05; EXT-E07; EXT-E15,True
+LC12,Operate/maintain,Receive completed work and understand invoice/result changes,1,0,0,1,0,0,0,0,0,0,SOL-05; SOL-13; SOL-19,market:M009; capabilities:FC05,True
+LC13,Operate/maintain,Decide whether to continue optional care and connected benefits,1,0,0,1,1,0,0,0,0,0,SOL-10; SOL-21; SOL-25,EXT-E02; EXT-E04; EXT-E16,True
+LC14,Operate/maintain,Prepare for storage and return a low-use vehicle to operation,1,1,0,0,1,0,0,0,0,0,SOL-21,EXT-E09,True
+LC15,Operate/maintain,Interpret condition evidence and obtain a valid diagnosis,1,0,0,1,1,0,0,0,0,0,SOL-12,EXT-E10; EXT-E17; journey:JX02,True
+LC16,Incident/recover,Reach appropriate emergency assistance safely,0,1,0,1,1,0,1,0,0,0,SOL-22,competition:COMP-030; competition:COMP-031; competition:COMP-040,True
+LC17,Incident/recover,Resolve a fault under the correct payer and warranty,1,0,0,1,1,0,1,0,0,0,SOL-10; SOL-12; SOL-26,EXT-E07; EXT-E15; insurance:INS-007,True
+LC18,Incident/recover,Obtain authorized collision repair and accept the outcome,1,0,0,1,0,0,1,0,0,0,SOL-05; SOL-06; SOL-08; SOL-19; SOL-26,EXT-E21; insurance:INS-013,True
+LC19,Incident/recover,Maintain essential mobility during unavailable-vehicle time,1,0,1,0,0,1,1,0,0,0,SOL-23,market:M044,True
+LC20,Incident/recover,Resolve a VIN-specific safety campaign and retain completion evidence,1,0,0,1,1,0,0,0,0,0,,EXT-E12; EXT-E13; EXT-E20,True
+LC21,Review/redress,"Seek review or correction of an adverse work, claim or entitlement decision",1,0,0,1,1,0,1,0,0,0,SOL-05; SOL-10; SOL-12; SOL-19; SOL-26,EXT-E15; EXT-E21,True
+LC22,Transfer/replace,Have condition evidence considered in an actual buyer appraisal,1,0,0,0,0,0,0,0,1,0,SOL-14,EXT-E11; journey:JX02,True
+LC23,Transfer/replace,Choose a sale offer or replacement value commitment,1,0,0,1,0,0,0,0,1,0,SOL-15; SOL-16; SOL-17,insurance:INS-017; insurance:INS-018; market:M046,True
+LC24,Transfer/replace,Fund the risk behind a promised future value,0,0,0,1,0,1,1,0,0,0,SOL-27,insurance:INS-020; insurance:INS-021,True
+LC25,Transfer/replace,"Settle outstanding finance and transfer title, benefits and access",1,0,0,0,1,1,0,0,1,0,SOL-11; SOL-20; SOL-24,EXT-E14; competition:COMP-012,True
+LC26,Retire/close,Safely retire vehicle/battery and close residual records or contracts,1,0,0,0,1,1,0,0,0,1,,EXT-E10,True

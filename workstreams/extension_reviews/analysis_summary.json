@@ -1,0 +1,29 @@
+{
+  "calculated_utc": "2026-11-11T03:55:19.331520+00:00",
+  "plan_sha256": "bf2b21366f6beba5d61d6202f7989b781345bcad316a6d5c0a1ad29e3d958fb6",
+  "original_rows": 210,
+  "new_rows": 148,
+  "combined_unique_review_ids": 358,
+  "cohorts": 21,
+  "original_status_counts": {
+    "prospective_no_job": 5,
+    "self_reported_app_job": 132,
+    "branch_experience": 17,
+    "unknown": 46,
+    "product_review": 10
+  },
+  "new_status_counts": {
+    "self_reported_app_job": 114,
+    "unknown": 26,
+    "branch_experience": 6,
+    "product_review": 2
+  },
+  "original_review_date2026_n": 87,
+  "original_date2026_and_known_version_n": 71,
+  "original_known_version_n": 165,
+  "no_population_pvalues_or_brand_rank": true,
+  "verified_completed_app_jobs_n": 0,
+  "verified_completed_app_jobs_count_interpretation": "No operational completion measurement performed; not proof nobody completed jobs",
+  "human_validation": false,
+  "rows_in_output_tables_are_derived_not_new_reviews": true
+}

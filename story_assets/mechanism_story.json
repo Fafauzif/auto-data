@@ -1,0 +1,241 @@
+{
+  "purpose": "Three short page briefs for the user-requested visual research memo; full evidence remains in the archive/master context.",
+  "created_utc": "2026-11-11T04:36:51.054493+00:00",
+  "style_reference": {
+    "file": "upload/Audit_Kesesuaian_Umpan_Balik_Juri (2).pdf",
+    "role": "visual style only; unrelated reference",
+    "not_ibsc_evidence": true,
+    "preference": "Short clear paragraphs, one main finding per page, large useful charts and claim-near-evidence citations."
+  },
+  "pages": [
+    {
+      "page_id": "MECH-01",
+      "headline": "Measure completed jobs and their contribution",
+      "claim_type": "Accounting framework, not measured Auto2000 uplift",
+      "paragraph": "Start with eligible jobs in a defined vehicle cohort and period. Then ask how many Auto2000 completes, and what revenue minus recognized direct cost each completed job earns. The fourth check covers extra operating cost, displacement and retained risk. Compare totals across all channels against a defensible counterfactual. Assign every cost, benefit and recovery once. If displaced work is already missing from the completed-job total, subtracting it again understates the result. None of these business quantities is measured by app opens.",
+      "visual": {
+        "type": "large accounting equation with four labeled areas",
+        "title": "Four business quantities, one consistent ledger",
+        "equation": "Delta GP = sum_j(E_with,j × capture_with,j × jobGP_with,j) − sum_j(E_counterfactual,j × capture_counterfactual,j × jobGP_counterfactual,j)",
+        "areas": [
+          {
+            "label": "Eligible jobs",
+            "meaning": "Vehicle cohort × eligible job incidence in the stated period",
+            "accounting_component": "A"
+          },
+          {
+            "label": "Completed capture",
+            "meaning": "Eligible jobs completed at the relevant Auto2000 entity, across all channels",
+            "accounting_component": "B"
+          },
+          {
+            "label": "GP per completed job",
+            "meaning": "Recognized job revenue minus recognized direct cost",
+            "accounting_component": "C"
+          },
+          {
+            "label": "Cost, displacement and risk check",
+            "meaning": "Assign each item once; keep below-GP operating costs in a separate comparison",
+            "accounting_component": "D"
+          }
+        ],
+        "design_note": "Three multiplicative job terms in the equation; the fourth area is a separate ledger check. Use labels, not invented profit values or causal arrows. This is not four additive profit pools."
+      },
+      "near_evidence_caption": "Original 25 hypotheses have one primary tag each: A=4, B=18, C=1, D=2. These are coverage counts, not weights of profit importance.",
+      "uncertainty_line": "Eligible incidence, actual dealer capture, realized job GP and the counterfactual remain unmeasured for the proposed options.",
+      "source_ids": [
+        "H01–H25",
+        "logic:L03",
+        "extension_hypotheses:MECE_COVERAGE_QA"
+      ],
+      "evidence": [
+        {
+          "file": "workstreams/extension_hypotheses/MECE_COVERAGE_QA.json",
+          "selector": "groupsA–D and primary_counts",
+          "kind": "authored accounting partition and hypothesis-tag check"
+        },
+        {
+          "file": "workstreams/extension_hypotheses/REPORT.md",
+          "selector": "opening accounting paragraph",
+          "kind": "updated ledger boundaries"
+        },
+        {
+          "file": "workstreams/friend_challenge/logic_tests.json",
+          "selector": {
+            "test_id": "L03"
+          },
+          "kind": "hypothetical channel/payer-switch counterexample, not actual profit data"
+        }
+      ],
+      "do_not_claim": [
+        "Four independent causal drivers or additive profit pools.",
+        "Any positive initiative GP or savings estimate.",
+        "A second displacement deduction when already reflected in all-channel volumes.",
+        "That below-GP operating costs are part of job GP."
+      ],
+      "paragraph_words": 81
+    },
+    {
+      "page_id": "MECH-02",
+      "headline": "Keep preference and purchase as separate outcomes",
+      "claim_type": "Different study endpoints, not a pooled effect estimate",
+      "paragraph": "Cost and fit information can influence what people say they would choose. The ETH working paper reports a shift in BEV purchase preference after personalized information. The Irish study also finds a stated-choice response, while its showroom trial detects no overall change in drivetrain choice among cars sold. That result does not establish a universally zero effect. NIST’s battery valuation document is a survey instrument, not a completed premium estimate. These sources leave Auto2000’s completed sales and profit effect unknown.",
+      "visual": {
+        "type": "four large evidence cards arranged in two rows",
+        "title": "What did the source actually measure?",
+        "cards": [
+          {
+            "source": "EXT-H-S02: ETH",
+            "design": "Randomized information study;3,181 car owners",
+            "endpoint": "Stated BEV purchase preference",
+            "result": "Reported preference increase; no verified delivery endpoint"
+          },
+          {
+            "source": "EXT-H-S01: Ireland, online",
+            "design": "Discrete choice experiment",
+            "endpoint": "Hypothetical drivetrain choice",
+            "result": "Longer-horizon monetary framing affected stated choice"
+          },
+          {
+            "source": "EXT-H-S01: Ireland, showroom",
+            "design": "Showroom randomized trial",
+            "endpoint": "Drivetrain choice among cars sold",
+            "result": "No overall effect detected; not proof of zero"
+          },
+          {
+            "source": "EXT-H-S03: NIST DCI 008",
+            "design": "Potential survey/discrete-choice instrument",
+            "endpoint": "Research design",
+            "result": "No completed certificate-premium estimate in this document"
+          }
+        ],
+        "design_note": "Do not draw numerical effect bars: no portable effect magnitude or equivalence interval is established here. Keep the two Irish endpoints together without treating them as two independent studies."
+      },
+      "near_evidence_caption": "Preference, actual vehicle choice and a proposed instrument answer different questions. These foreign sources do not estimate an Auto2000 response.",
+      "uncertainty_line": "Timing, price, liquidity, available offers, household decisions and fulfillment remain competing explanations; trial precision was not independently re-audited.",
+      "source_ids": [
+        "EXT-H-S01",
+        "EXT-H-S02",
+        "EXT-H-S03"
+      ],
+      "evidence": [
+        {
+          "file": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+          "selector": {
+            "id": "EXT-H-S01"
+          },
+          "source_url": "https://doi.org/10.1016/j.trd.2025.104921",
+          "locator": "publisher-indexed discussion/conclusion",
+          "kind": "Irish stated-choice and showroom experiments"
+        },
+        {
+          "file": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+          "selector": {
+            "id": "EXT-H-S02"
+          },
+          "source_url": "https://doi.org/10.3929/ethz-b-000663125",
+          "locator": "ETH official abstract; working paper 24/390",
+          "kind": "stated-preference information experiment"
+        },
+        {
+          "file": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+          "selector": {
+            "id": "EXT-H-S03"
+          },
+          "source_url": "https://doi.org/10.6028/NIST.DCI.008",
+          "locator": "PDF4/printed i, abstract and potential instrument",
+          "kind": "instrument, not results"
+        }
+      ],
+      "do_not_claim": [
+        "No detected effect means the true effect is zero.",
+        "Preference changes establish deliveries or realized GP.",
+        "NIST DCI 008 reports a measured premium.",
+        "The study samples can be added or their effects transferred to Indonesia."
+      ],
+      "paragraph_words": 80
+    },
+    {
+      "page_id": "MECH-03",
+      "headline": "Certificate value depends on its use in a real decision",
+      "claim_type": "Five analytical links; downstream effects unobserved",
+      "paragraph": "Toyota already provides a digital Hybrid Health Check certificate route. The remaining question is whether trustworthy evidence reaches a buyer or appraiser and changes a real decision. Keep five links separate: valid measurement, understandable result, credible source, acceptance by the decision owner, and a changed transaction. Our Audi telemetry analysis tests data-handling limits, not Toyota certificate accuracy. Its confidential capacity reference and asynchronous signals prevent a validated health score here. NIST’s usefulness survey does not fill the missing appraisal or price link.",
+      "visual": {
+        "type": "five-stage conceptual chain with explicit evidence-state labels",
+        "title": "A certificate is one part of the evidence chain",
+        "stages": [
+          {
+            "label": "Measure",
+            "question": "Is the condition result technically valid?",
+            "state": "Not validated here against public capacity ground truth"
+          },
+          {
+            "label": "Understand",
+            "question": "Does the buyer understand scope, age and limits?",
+            "state": "No recruited comprehension test"
+          },
+          {
+            "label": "Trust",
+            "question": "Is the issuer credible to this decision maker?",
+            "state": "Operator route exists; customer trust not measured"
+          },
+          {
+            "label": "Accept",
+            "question": "Will the appraiser use the evidence?",
+            "state": "No accepted appraisal observed"
+          },
+          {
+            "label": "Change a transaction",
+            "question": "Does useful evidence change the real outcome?",
+            "state": "No price, completed-sale or GP effect measured"
+          }
+        ],
+        "known_baseline_callout": "JX02: public digital retrieval route exists; stopped before VIN/personal entry. No certificate was downloaded.",
+        "design_note": "Arrows mean conceptual links, not observed causality or a verified customer sequence. Keep all five labels readable. Place the existing-route callout beside the chain, not as proof of the later links."
+      },
+      "near_evidence_caption": "56,507,201 stored signal values come from five windows of one US Audi. They are not Toyota health labels or independent vehicles.",
+      "uncertainty_line": "The open question is valid, understandable, accepted evidence at the decision. A price premium is only one possible outcome and remains unmeasured.",
+      "source_ids": [
+        "journey:JX02",
+        "EXT-H-S04",
+        "EXT-H-S03",
+        "extension_battery:BATTERY_SUMMARY"
+      ],
+      "evidence": [
+        {
+          "file": "workstreams/journeys/friendcontext_JX_observations.json",
+          "selector": {
+            "observation_id": "JX02"
+          },
+          "source_url": "https://aftersales.toyota.astra.co.id/hybrid-health-check/generate-certificate",
+          "kind": "live public route observation, stopped at identifier boundary"
+        },
+        {
+          "file": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+          "selector": {
+            "id": "EXT-H-S04"
+          },
+          "source_url": "https://doi.org/10.6028/NIST.TN.2328",
+          "locator": "1,490 validated 2023 US responses; 490 BEV owners; printed8/PDF16 for sample",
+          "kind": "perceived usefulness, not appraisal acceptance"
+        },
+        {
+          "file": "workstreams/extension_battery/BATTERY_SUMMARY.json",
+          "selector": "health_reference_capacity_data_public and clock-alignment fields",
+          "source_url": "https://doi.org/10.17632/7vdkzpnjgj.2",
+          "kind": "auxiliary one-vehicle signal audit"
+        }
+      ],
+      "do_not_claim": [
+        "A valid Toyota certificate score was independently tested.",
+        "More signal rows supply capacity/SOH ground truth.",
+        "A certificate automatically raises resale value or guarantees a floor.",
+        "NIST usefulness or its separate instrument proves actual willingness to pay."
+      ],
+      "paragraph_words": 82
+    }
+  ],
+  "no_new_research": true,
+  "human_validation": false,
+  "implementation_or_winner_selected": false
+}

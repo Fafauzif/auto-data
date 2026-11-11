@@ -1,0 +1,90 @@
+file,field,type,description
+data/spklu_stations.csv,station_id,integer,Unique station identifier (source field 'id')
+data/spklu_stations.csv,location_name,string,Station/location name as published by the source
+data/spklu_stations.csv,address,string,Street address as published by the source (3 records blank)
+data/spklu_stations.csv,provider_type,string,"Operator class from the explicit operator signal in location_name: 'PLN / SPKLU network' (PLN's own SPKLU, incl. PLN org-units UID/UP3/ULP and Daya+/Stroom; default for the un-tagged SPKLU brand) | 'Independent CPO' (third-party charge-point operators, e.g. Voltron, Terra Charge, Starvo, DayaGreen) | 'Automaker / dealership' (automaker-branded or dealer-group sites) | 'Other / unknown' (no SPKLU/PLN/operator signal). Priority: dealer > CPO > PLN/SPKLU."
+data/spklu_stations.csv,operator_brand,string,"Named operator or automaker brand where identifiable from location_name (e.g. Voltron, Terra Charge, Starvo, Hyundai, Wuling, Toyota, BYD); blank for un-tagged PLN/SPKLU-network or unknown."
+data/spklu_stations.csv,location_type,string,"Venue category (14 classes) derived NAME-FIRST from location_name via documented keyword rules (address used only for a few high-precision phrases: 'REST AREA', 'BANDARA', 'RUMAH SAKIT'); dealership sites map to 'Auto dealer / Showroom'; residual 'Other / Unclassified'"
+data/spklu_stations.csv,location_group,string,"Coarse 7-way rollup of location_type (Retail & Commercial, Hospitality, Office & Residential, Transport corridor, Public & Civic, Utility (PLN site), Other / Unclassified)"
+data/spklu_stations.csv,province_name,string,Province name in official BPS spelling
+data/spklu_stations.csv,bps_province_code,integer,"2-digit BPS province code; an identifier, not a quantity (stored numerically, no leading zeros)"
+data/spklu_stations.csv,regency_city_raw,string,Regency/city name exactly as in the source
+data/spklu_stations.csv,regency_city_clean,string,Normalized regency name ('Kabupaten X' / 'Kota X')
+data/spklu_stations.csv,admin_level,string,Administrative level: 'Kabupaten' (regency) or 'Kota' (city)
+data/spklu_stations.csv,bps_regency_code,integer,4-digit BPS regency code joined from spklu_regency_codes.csv. An identifier rather than a quantity. Populated for every station
+data/spklu_stations.csv,latitude,decimal,WGS84 latitude (decimal degrees)
+data/spklu_stations.csv,longitude,decimal,WGS84 longitude (decimal degrees)
+data/spklu_stations.csv,station_power_kW,decimal,Headline station power parsed from source text to numeric kW
+data/spklu_stations.csv,station_power_tier,string,Standardized tier from kW: AC slow (<=7 kW) | AC fast (11-22 kW) | DC fast (25-49 kW) | DC rapid (50-99 kW) | DC ultra-rapid (>=100 kW)
+data/spklu_stations.csv,type_charge_source,string,Source charge category (standard/medium/fast/ultrafast)
+data/spklu_stations.csv,n_chargerboxes,integer,Number of charger boxes at the site
+data/spklu_stations.csv,total_chargers,integer,Total charger units at the site (recomputed by summing charger boxes; raw source totals were 0)
+data/spklu_stations.csv,total_connectors,integer,Total connectors at the site (recomputed by summing charger boxes)
+data/spklu_stations.csv,max_box_power_kW,decimal,Highest single charger-box power at the site (kW)
+data/spklu_stations.csv,box_types,string,Pipe-separated distinct charge types among the site's charger boxes
+data/spklu_stations.csv,status_active,integer,1 = active (source reports active stations only; see limitations)
+data/spklu_stations.csv,colocation_cluster_id,integer,"Group id for stations that shared identical coordinates in the raw source. Assigned before duplicate resolution, so a value may reference a station_id that was later merged away and is absent from this table. It is a group label rather than a foreign key"
+data/spklu_stations.csv,colocation_cluster_size,integer,"Number of raw records that shared that exact coordinate. All such sets were folded into duplicate resolution, so a value above 1 means the surviving row also absorbed its co-located records (53 stations)"
+data/spklu_stations.csv,quality_flags,string,Pipe-separated QC flags: alamat_empty | station_charger_count_recomputed | co_located | coord_review_outside_footprint
+data/spklu_stations.csv,merged_from_station_ids,string,"Pipe-separated station_id values represented by this surviving station, always populated and always including the station's own id; a single value means nothing was merged"
+data/spklu_stations.csv,n_merged,integer,"Number of raw records represented by this surviving station, including itself (1 = no merge)"
+data/spklu_stations.csv,nearest_road_km,decimal,"Road-network driving distance in km to the nearest other station, via OSRM over the OpenStreetMap network, rounded to 2 decimals"
+data/spklu_stations.csv,nearest_road_station_id,integer,station_id of the nearest station by road distance
+data/spklu_stations.csv,nearest_road_station_name,string,location_name of the nearest station by road distance
+data/spklu_stations.csv,stations_within_1km,integer,Count of other stations within 1 km straight-line distance
+data/spklu_stations.csv,stations_within_1km_names,string,"Pipe-separated names of those stations, for manual verification"
+data/spklu_stations.csv,stations_within_1km_ids,string,Pipe-separated station_id values of those stations
+data/spklu_stations.csv,stations_within_3km,integer,Count of other stations within 3 km straight-line distance
+data/spklu_stations.csv,stations_within_3km_names,string,"Pipe-separated names of those stations, for manual verification"
+data/spklu_stations.csv,stations_within_3km_ids,string,Pipe-separated station_id values of those stations
+data/spklu_stations.csv,stations_within_5km,integer,Count of other stations within 5 km straight-line distance
+data/spklu_stations.csv,stations_within_5km_names,string,"Pipe-separated names of those stations, for manual verification"
+data/spklu_stations.csv,stations_within_5km_ids,string,Pipe-separated station_id values of those stations
+data/spklu_stations.csv,local_density_1km,decimal,"stations_within_1km divided by pi*1^2, stations per square km, rounded to 2 decimals"
+data/spklu_stations.csv,local_density_3km,decimal,"stations_within_3km divided by pi*3^2, stations per square km, rounded to 2 decimals"
+data/spklu_stations.csv,local_density_5km,decimal,"stations_within_5km divided by pi*5^2, stations per square km, rounded to 2 decimals"
+data/spklu_chargers.csv,station_id,integer,Foreign key to spklu_stations.station_id
+data/spklu_chargers.csv,bps_province_code,integer,"2-digit BPS province code; an identifier, not a quantity (stored numerically, no leading zeros)"
+data/spklu_chargers.csv,province_name,string,Province name (official BPS spelling)
+data/spklu_chargers.csv,regency_city_clean,string,Normalized regency name
+data/spklu_chargers.csv,location_name,string,Parent station name
+data/spklu_chargers.csv,latitude,decimal,WGS84 latitude of the parent station
+data/spklu_chargers.csv,longitude,decimal,WGS84 longitude of the parent station
+data/spklu_chargers.csv,chargerbox_id,string,Charger-box identifier from the source
+data/spklu_chargers.csv,chargerbox_name,string,Charger-box name/model
+data/spklu_chargers.csv,box_type_charge,string,Charger-box charge category (standard/medium/fast/ultrafast)
+data/spklu_chargers.csv,box_power_kW,decimal,Charger-box power in kW (parsed)
+data/spklu_chargers.csv,box_power_tier,string,"Standardized power tier derived from box_power_kW, same five levels as station_power_tier"
+data/spklu_chargers.csv,inferred_current,string,AC or DC inferred from the charger-box name; blank if not stated
+data/spklu_chargers.csv,n_chargers,integer,Number of charger units in the box
+data/spklu_chargers.csv,n_connectors,integer,Number of connectors in the box
+reference/spklu_province_coverage.csv,bps_province_code,integer,"2-digit BPS province code; an identifier, not a quantity (stored numerically, no leading zeros)"
+reference/spklu_province_coverage.csv,province_name,string,Province name (official BPS spelling)
+reference/spklu_province_coverage.csv,population_sp2020,integer,Provincial population (BPS SP2020 census; provincial values sum-verified to national total)
+reference/spklu_province_coverage.csv,grdp_current_idr_billion,decimal,Provincial GDP (PDRB ADHB) nominal in billion IDR (2025; cross-verified vs BPS-sourced figures)
+reference/spklu_province_coverage.csv,grdp_year,integer,Reference year of the PDRB figure
+reference/spklu_province_coverage.csv,bev_registered,integer,"Registered BEVs by province. Empty for all 34 provinces because no open per-province source exists, only national totals"
+reference/spklu_province_coverage.csv,n_stations,integer,Number of SPKLU stations in the province
+reference/spklu_province_coverage.csv,n_chargers,integer,Total charger units in the province
+reference/spklu_province_coverage.csv,n_connectors,integer,Total connectors in the province
+reference/spklu_province_coverage.csv,total_installed_kW,decimal,Sum over stations of max_box_power_kW (proxy for installed fast-charging capacity)
+reference/spklu_province_coverage.csv,stations_per_100k,decimal,Stations per 100000 residents (SP2020 census)
+reference/spklu_province_coverage.csv,chargers_per_100k,decimal,Charger units per 100000 residents
+reference/spklu_province_coverage.csv,kW_per_10k,decimal,Installed kW per 10000 residents
+reference/spklu_province_coverage.csv,stations_per_trillion_gdp,decimal,Stations per IDR trillion PDRB (2025 GDP)
+reference/spklu_province_coverage.csv,chargers_per_1000_bev,decimal,Chargers per 1000 registered BEVs. Empty for all 34 provinces because bev_registered is unpopulated
+reference/spklu_province_indicators.csv,bps_province_code,integer,"2-digit BPS province code; an identifier, not a quantity (stored numerically, no leading zeros)"
+reference/spklu_province_indicators.csv,province_name,string,Province name (official BPS spelling)
+reference/spklu_province_indicators.csv,population_sp2020,integer,Provincial population SP2020 census (official BPS; sum-verified to national total)
+reference/spklu_province_indicators.csv,grdp_current_idr_billion,decimal,Provincial GDP PDRB ADHB nominal billion IDR (2025
+reference/spklu_province_indicators.csv,grdp_year,integer,Reference year of the PDRB figure
+reference/spklu_province_indicators.csv,bev_registered,integer,Registered BEVs by province. Empty for all 34 provinces because no open per-province source exists
+reference/spklu_province_indicators.csv,indicators_verified,string,YES/NO flag - whether the row's indicators have been verified against authoritative sources
+reference/spklu_province_indicators.csv,notes,string,Provenance/verification notes for the indicator values
+reference/spklu_regency_codes.csv,bps_province_code,integer,"2-digit BPS province code; an identifier, not a quantity (stored numerically, no leading zeros)"
+reference/spklu_regency_codes.csv,province_name,string,Province name (official BPS spelling)
+reference/spklu_regency_codes.csv,admin_level,string,'Kabupaten' or 'Kota'
+reference/spklu_regency_codes.csv,regency_city_clean,string,Normalized regency name (join key to station table)
+reference/spklu_regency_codes.csv,bps_regency_code,integer,"4-digit BPS regency code (Permendagri 72/2019 based); an identifier, not a quantity"
+reference/spklu_regency_codes.csv,match_status,string,"How the code was assigned. Observed values: FILLED (matched directly), CORRECTED_* (source name or province corrected first), AUTO_VERIFY (matched automatically and spot-checked)"
+reference/spklu_regency_codes.csv,n_stations,integer,Number of stations in this regency after duplicate resolution (0 where every record for the regency was merged away)

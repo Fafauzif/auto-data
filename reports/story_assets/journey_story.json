@@ -1,0 +1,316 @@
+{
+  "purpose": "Four-page visual narrative outline for the journey section; no new data or generated app imagery.",
+  "reference_boundary": "The uploaded audit PDF was inspected only for reading rhythm and layout. No factual content or artwork was imported.",
+  "recommended_page_format": "One finding per page; 60-100-word body plus dominant evidence visual, nearby source and short uncertainty note.",
+  "mobile_native_result": "Untested, not a measured product failure. See final-page boundary and feasibility receipts.",
+  "pages": [
+    {
+      "story_id": "JOURNEY_STORY_01",
+      "headline": "Useful tools already work before contact",
+      "subhead": "Existing functions set the baseline for a new idea",
+      "body": "The desktop walkthrough reached five useful entry journeys: vehicle comparison, finance previews, service-cost guidance, a digital-certificate entry and test-drive scheduling previews. Some paths then ask for a plate or VIN; those downstream steps were not tested.\n\nThis changes the starting point for the research. A proposed improvement needs to resolve a specific decision or handoff beyond these existing functions. The observations establish reachable page states, not customer comprehension, completed bookings or incremental sales.",
+      "confidence": "Observed specific page states; no customer outcome test.",
+      "visual": {
+        "type": "five-row evidence map",
+        "title": "What the evaluator could reach",
+        "design": "Five generous horizontal rows, each with a short task label, observed endpoint and explicit status. This is a research evidence map, not a mock app screen.",
+        "rows": [
+          {
+            "task": "Compare hybrid and petrol",
+            "observed_endpoint": "Comparison table displayed",
+            "status": "Observed",
+            "evidence_ids": [
+              "UX02"
+            ]
+          },
+          {
+            "task": "Preview financing",
+            "observed_endpoint": "Illustration before name or phone",
+            "status": "Observed",
+            "evidence_ids": [
+              "UX03",
+              "UX04",
+              "XT02"
+            ]
+          },
+          {
+            "task": "Browse service estimates",
+            "observed_endpoint": "Model and variant cost guidance",
+            "status": "Observed; March 2024 basis",
+            "evidence_ids": [
+              "JX03",
+              "XT04"
+            ]
+          },
+          {
+            "task": "Find a digital-certificate entry",
+            "observed_endpoint": "VIN validation step",
+            "status": "Entry observed; retrieval untested",
+            "evidence_ids": [
+              "JX02"
+            ]
+          },
+          {
+            "task": "Preview a test drive",
+            "observed_endpoint": "Branch, date and time windows",
+            "status": "Preview observed; confirmation untested",
+            "evidence_ids": [
+              "UX05",
+              "XT06"
+            ]
+          }
+        ],
+        "annotation": "Existing access does not establish successful fulfilment.",
+        "avoid": [
+          "Do not draw five completed-customer checkmarks.",
+          "Do not label certificate entry as a certificate actually retrieved.",
+          "Do not imply mobile coverage."
+        ]
+      },
+      "evidence_ids": [
+        "UX02",
+        "UX03",
+        "UX04",
+        "UX05",
+        "JX02",
+        "JX03",
+        "XT02",
+        "XT04",
+        "XT06"
+      ],
+      "source_caption": "Logged-out desktop observations, 11 November 2026. Evidence UX02-UX05, JX02-JX03 and XT02/XT04/XT06. Safe endpoints only.",
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid",
+        "https://auto2000.co.id/mobil-baru-toyota/p/bz4x",
+        "https://aftersales.toyota.astra.co.id/t-care",
+        "https://aftersales.toyota.astra.co.id/hybrid-health-check/generate-certificate",
+        "https://auto2000.co.id/testdrive/new-car/BZ4X"
+      ],
+      "data_files": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/journey_observations.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/friendcontext_JX_observations.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/observations.json"
+      ],
+      "boundary": "Desktop only. Reaching a page is not a completed customer task or a causal business result.",
+      "body_word_count": 73
+    },
+    {
+      "story_id": "JOURNEY_STORY_02",
+      "headline": "Insurance timing moves cash between now and later",
+      "subhead": "The existing calculator already exposes a meaningful tradeoff",
+      "body": "Changing only insurance-payment timing reduced the displayed cash needed upfront by Rp45.31 million, while raising the remaining monthly instalment by Rp1.13 million. The car, city, base down payment and first-instalment timing stayed the same.\n\nThe existing calculator therefore already answers a useful budget question. A further explanation could help a buyer understand cash at delivery and later payments. Whether that explanation improves a purchase decision remains untested. These are conditional simulator outputs, not binding lender or insurance quotes.",
+      "confidence": "Observed matched simulator settings; customer comprehension and purchase effect untested.",
+      "visual": {
+        "type": "two-panel bar comparison",
+        "title": "Less cash now comes with larger later instalments",
+        "unit": "Rp million",
+        "panels": [
+          {
+            "title": "Cash required upfront",
+            "axis_from_zero": true,
+            "values": [
+              {
+                "scenario": "Insurance upfront",
+                "exact_idr": 154847741,
+                "display": "154.85"
+              },
+              {
+                "scenario": "Insurance in instalments",
+                "exact_idr": 109533402,
+                "display": "109.53"
+              }
+            ]
+          },
+          {
+            "title": "Remaining monthly instalment",
+            "axis_from_zero": true,
+            "values": [
+              {
+                "scenario": "Insurance upfront",
+                "exact_idr": 9271161,
+                "display": "9.27"
+              },
+              {
+                "scenario": "Insurance in instalments",
+                "exact_idr": 10403402,
+                "display": "10.40"
+              }
+            ]
+          }
+        ],
+        "exact_difference": {
+          "less_upfront_idr": 45314339,
+          "more_per_remaining_month_idr": 1132241
+        },
+        "annotation": "Same 60-month illustration; 59 remaining monthly payments.",
+        "design": "Use the same scenario colors and ordering in both panels. Keep separate axes, large direct value labels and readable scenario labels. Do not stack the two financial quantities.",
+        "avoid": [
+          "Do not infer an APR or lender approval.",
+          "Do not call disclosed timing a hidden fee.",
+          "Do not treat a base DP as the full upfront amount."
+        ]
+      },
+      "settings": {
+        "model": "New Innova Zenix 2.0 G HV CVT",
+        "colour": "Gray Metallic",
+        "city": "Jakarta Pusat",
+        "price_idr": 475400000,
+        "base_dp_percent": 20,
+        "base_dp_idr": 95080000,
+        "first_instalment": "ADDM",
+        "tenor_months": 60,
+        "remaining_monthly_payments": 59,
+        "optional_income_entered": false,
+        "changed_parameter": "Insurance paid upfront versus insurance paid in instalments"
+      },
+      "evidence_ids": [
+        "UX03",
+        "UX04"
+      ],
+      "source_caption": "Observed Auto2000 simulator, 11 November 2026; UX03-UX04. Same Innova Zenix G HV CVT, Jakarta Pusat, DP 20%, ADDM, optional income blank.",
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid"
+      ],
+      "data_files": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/finance_scenarios.csv"
+      ],
+      "boundary": "The source discloses payment timing. No completed finance application, approved rate or customer effect was measured.",
+      "body_word_count": 78
+    },
+    {
+      "story_id": "JOURNEY_STORY_03",
+      "headline": "A BEV page shows a clear label mismatch",
+      "subhead": "A specific rendered defect gives the research a sharper target",
+      "body": "The selected bZ4X page labels its fuel system as BEV, yet places 7311 under a tank-capacity field measured in litres. The value was visible in both the page and its accessibility tree.\n\nThis gives us a precise information-quality issue to investigate. It does not establish the correct engineering value, the underlying cause or whether a customer changed a decision. The useful question is whether specific labels help a buyer understand the relevant vehicle tradeoff.",
+      "confidence": "Certain about the rendered label/value pair; engineering meaning and customer effect unverified.",
+      "visual": {
+        "type": "redrawn observed evidence panel",
+        "title": "As displayed for bZ4X A/T",
+        "columns": [
+          "Translated field label",
+          "Displayed value"
+        ],
+        "rows": [
+          [
+            "Fuel system",
+            "BEV"
+          ],
+          [
+            "Tank capacity (litres)",
+            "7311"
+          ]
+        ],
+        "annotation": "Translated labels; displayed values unchanged. Research redraw, not a product screenshot.",
+        "design": "Show two large, clean rows. Emphasize the second label/value pairing with one restrained highlight. Place the exact specification URL and observation date immediately below.",
+        "avoid": [
+          "Do not display 7311 as a validated vehicle capacity.",
+          "Do not invent a corrected number, technical diagnosis, failure rate or abandonment effect.",
+          "Do not fabricate an app/browser screenshot."
+        ]
+      },
+      "settings": {
+        "model": "bZ4X A/T",
+        "city": "Jakarta Pusat",
+        "route": "Specification page",
+        "section": "MESIN expanded",
+        "observed_original_label": "Kapasitas Tangki",
+        "original_unit_label_described": "litre symbol",
+        "displayed_value": "7311",
+        "observed_fuel_system": "BEV"
+      },
+      "evidence_ids": [
+        "XT05",
+        "XTS02"
+      ],
+      "source_caption": "Observed selected bZ4X A/T specification, 11 November 2026; XT05/XTS02. Page and accessibility state checked; no engineering validation.",
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/bz4x/spesifikasi"
+      ],
+      "data_files": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/observations.json"
+      ],
+      "boundary": "This is one specific page state. No universal website failure or causal customer effect is inferred.",
+      "body_word_count": 74
+    },
+    {
+      "story_id": "JOURNEY_STORY_04",
+      "headline": "Preview works; confirmation remains a later step",
+      "subhead": "Preserved branch context and tentative windows have different meanings",
+      "body": "The bZ4X journey exposed Juanda's date and time previews before contact. Its FAQ says staff later confirms the schedule and unit availability. That confirmation was not observed because no request was submitted.\n\nBranch context also survived two tested handoffs: Juanda with bZ4X, then Cempaka Putih with Hiace. The second route changed the preceding branch selection. These counterexamples shift the question toward actual availability and fulfilment. They do not establish a universal handoff problem, a confirmed vehicle or a completed visit.",
+      "confidence": "Observed preview and preserved context; later confirmation is stated by the FAQ, not observed in operation.",
+      "visual": {
+        "type": "request-state diagram with two-row handoff inset",
+        "title": "Observed access stops before the operational promise",
+        "states": [
+          {
+            "label": "Choose car and branch",
+            "status": "Observed"
+          },
+          {
+            "label": "Preview date and time",
+            "status": "Observed"
+          },
+          {
+            "label": "Submit request",
+            "status": "Not performed"
+          },
+          {
+            "label": "Staff confirms unit and schedule",
+            "status": "Stated in FAQ; not observed"
+          },
+          {
+            "label": "Attend test drive",
+            "status": "Not observed"
+          }
+        ],
+        "preview_details": {
+          "branch": "Auto2000 Juanda",
+          "date": "13 November 2026",
+          "windows": [
+            "08:00-12:00",
+            "13:00-17:00"
+          ]
+        },
+        "handoff_inset": [
+          {
+            "actual_link_context": "Juanda / bZ4X / branchCode=T151",
+            "loaded_context": "Juanda / bZ4X",
+            "status": "Preserved"
+          },
+          {
+            "actual_link_context": "Cempaka Putih / Hiace / branchCode=T155",
+            "loaded_context": "Cempaka Putih / Hiace",
+            "status": "Preserved; changes preceding branch"
+          }
+        ],
+        "design": "Use no more than five short state labels. Label observed, stated and untested states explicitly, with distinct line styles as well as color. The handoff inset supports the baseline; it must not look like a confirmed booking.",
+        "avoid": [
+          "Do not label the calendar as live inventory or a confirmed slot.",
+          "Do not turn the five states into an observed conversion funnel.",
+          "Do not claim mobile or native-app coverage."
+        ]
+      },
+      "evidence_ids": [
+        "XT06",
+        "XT08",
+        "XTS07",
+        "XTS10",
+        "XTS12"
+      ],
+      "source_caption": "Logged-out desktop, 11 November 2026; XT06 and XT08. Juanda date/time preview and booking FAQ; two actual branch links checked after loading.",
+      "source_urls": [
+        "https://auto2000.co.id/testdrive/new-car/BZ4X",
+        "https://auto2000.co.id/testdrive/new-car/bz4x?branchCode=T151",
+        "https://auto2000.co.id/testdrive/new-car/hiace?branchCode=T155"
+      ],
+      "data_files": [
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/observations.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/mobile_feasibility.json",
+        "/workspace/scratch/70444ed5f561/auto2000_run/workstreams/extension_journeys/mobile_capability_receipt.json"
+      ],
+      "boundary": "Desktop only. Zero mobile-emulated and native-app journeys: local browser launch blocked by socket permissions; native DevTools blocked by organization policy; no available native emulator identified.",
+      "body_word_count": 80
+    }
+  ],
+  "editorial_note": "Render the body, dominant visual, concise source caption and boundary. Full source_urls, data_files, settings and avoid lists are build provenance, not additional page prose."
+}

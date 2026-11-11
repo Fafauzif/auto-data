@@ -1,0 +1,213 @@
+{
+  "checked_at_utc": "2026-11-11T05:26:07.199750+00:00",
+  "reviewer": "Independent AI local release readiness check",
+  "status": "build_inputs_ready; existing_full_archive_requires_rebuild",
+  "network_calls": 0,
+  "archive_builds_performed": 0,
+  "report_pdf_context_mutations": 0,
+  "receipt_only_written": true,
+  "frozen_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "archive_script": {
+    "path": "shared/make_archive.py",
+    "sha256": "a9f1e99bf254e66898c47343b1aa341c3b5833186c7a1734bd0cc90dffce2e11",
+    "modes": [
+      "checkpoint",
+      "final",
+      "public",
+      "public_core"
+    ],
+    "reviewed_behavior": [
+      "Creates a coherent SQLite backup and remaps it to data/site_evidence.sqlite.",
+      "Excludes private_cache, __pycache__, rendered, live SQLite/WAL/SHM and the old top-level manifest.",
+      "Excludes ZIPs except those under previous_releases.",
+      "Final mode retains original licensed IGAR text and all five MATs for requesting user.",
+      "Public modes withhold exactly the two original IGAR text CSVs.",
+      "Public-core mode additionally withholds all MAT files for separately checksummed volumes.",
+      "Creates a fresh manifest and tests ZIP CRC after writing."
+    ],
+    "current_selection_simulation_before_receipt": {
+      "final": {
+        "files": 589,
+        "uncompressed_bytes": 535059868,
+        "mat_files": 5,
+        "igar_raw_files": 2
+      },
+      "public": {
+        "files": 587,
+        "uncompressed_bytes": 321720791,
+        "mat_files": 5,
+        "igar_raw_files": 0
+      },
+      "public_core": {
+        "files": 582,
+        "uncompressed_bytes": 38579325,
+        "mat_files": 0,
+        "igar_raw_files": 0
+      }
+    },
+    "both_prior_zips_selected_in_all_modes": true,
+    "private_or_rendered_paths_selected": false,
+    "private_screenshots_selected": [],
+    "named_original_user_uploads_selected": [],
+    "caveat": "Selection counts predate this receipt and future root backup/upload receipts. The generic script does not forbid arbitrary screenshot directories; the current candidate image list contains only authored analytical figures."
+  },
+  "prior_archives": [
+    {
+      "filename": "Auto2000_Public_Research_Initial_2026.zip",
+      "bytes": 192138,
+      "sha256": "3c7acc5dee5279e771fccccb323690eb869c1a743b2c0ed520b6318c536c4c80",
+      "matches_existing_release_qa": true,
+      "members": 47,
+      "crc_failure_member": null,
+      "outer_copy_same_hash": true
+    },
+    {
+      "filename": "Auto2000_Expanded_Research_Plan_v2.zip",
+      "bytes": 303520,
+      "sha256": "f5c994ae49661b32ca25618583972e0a0bd891e3f0358785b00c705ae5ea789f",
+      "matches_existing_release_qa": true,
+      "members": 19,
+      "crc_failure_member": null,
+      "outer_copy_same_hash": true
+    }
+  ],
+  "expected_artifacts": [
+    {
+      "path": "READ_FIRST.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "DATA_GUIDE.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "EXECUTION_RECORD.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "README_PUBLIC_MIRROR.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "output/pdf/Auto2000_Research_Findings.pdf",
+      "exists_nonempty": true
+    },
+    {
+      "path": "context/Auto2000_Master_AI_Context_Updated.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/AUTO2000_RESEARCH_REPORT.docx",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/FRIEND_RESEARCH_CHALLENGE.docx",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/RESEARCH_REPORT.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/EXTENSION_SYNTHESIS.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/INSIGHT_BOOK.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/INSIGHT_BOOK.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/SOLUTION_MENU.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/SOLUTION_MENU.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/SOLUTION_MENU.csv",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/hypothesis_assessment.csv",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/REPRODUCIBILITY.md",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/STORY_FINAL_QA.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/STORY_FINAL_VISUAL_QA_01_16.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/STORY_FINAL_VISUAL_QA_17_28.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "reports/STORY_FINAL_VISUAL_QA_29_41.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "data/site_evidence.sqlite",
+      "exists_nonempty": true
+    },
+    {
+      "path": "data/public_http_capture_index.csv",
+      "exists_nonempty": true
+    },
+    {
+      "path": "data/site_pending_queue.csv",
+      "exists_nonempty": true
+    },
+    {
+      "path": "raw_licensed_data/DATASET_SOURCE_MANIFEST.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/SOURCE_FILE_MANIFEST.json",
+      "exists_nonempty": true
+    },
+    {
+      "path": "workstreams/datasets/IGAR_AUXILIARY_nontext_features.csv.gz",
+      "exists_nonempty": true
+    }
+  ],
+  "missing_expected_artifacts": [],
+  "local_readme_link_failures": [],
+  "site_sqlite_integrity": "ok",
+  "site_database_tables": [
+    "pages",
+    "links",
+    "amounts",
+    "extraction_versions"
+  ],
+  "site_database_contains_full_html_or_review_text_column": false,
+  "existing_archive_status": {
+    "Auto2000_Research_Project_Full.zip": {
+      "bytes": 82856836,
+      "final_pdf_member_present": false,
+      "requires_rebuild": true
+    },
+    "Auto2000_Public_Backup_Core.zip": {
+      "bytes": 21158523,
+      "archived_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_frozen_pdf": true
+    }
+  },
+  "pending_root_actions": [
+    "Rebuild the primary full archive from current frozen inputs.",
+    "Create or verify the selected public backup variant and any telemetry volumes with final manifests/checksums.",
+    "Record actual upload/backup receipt and links; this check makes no upload or hosting claim."
+  ],
+  "limitations": "This is archive-input readiness, not final ZIP delivery certification or a fresh rights/source-truth audit. The archive script was read and its selection simulated, not executed.",
+  "root_followup_note": "After this check, root confirmed backup receipts and configuration/execution reconciliation, with master refresh and primary Full ZIP rebuild still root-owned. Those followups were not independently rechecked here."
+}

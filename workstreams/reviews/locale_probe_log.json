@@ -1,0 +1,26 @@
+[
+  {
+    "app": "digiroom",
+    "status": 200,
+    "url": "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=en&gl=ID",
+    "request_id": "ad37adf43761498bbe3b53044c1a18fe",
+    "retrieved_utc": "2026-11-11T02:52:59.306626+00:00",
+    "embedded_records": 20
+  },
+  {
+    "app": "mtoyota",
+    "status": 200,
+    "url": "https://play.google.com/store/apps/details?id=com.toyota.m&hl=en&gl=ID",
+    "request_id": "bae064246bbc4e99bebf78eb6b271736",
+    "retrieved_utc": "2026-11-11T02:53:06.299259+00:00",
+    "embedded_records": 20
+  },
+  {
+    "app": "byd_auto",
+    "status": 200,
+    "url": "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID",
+    "request_id": "4a1464d6f5354e2792f4f152220d3be4",
+    "retrieved_utc": "2026-11-11T02:53:13.704516+00:00",
+    "embedded_records": 20
+  }
+]

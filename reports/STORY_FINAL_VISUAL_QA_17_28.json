@@ -1,0 +1,323 @@
+{
+  "pdf_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "expected_hash_matched": true,
+  "pdf_pages": 41,
+  "scope_pages": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "status": "passed",
+  "blocking_defects_observed": [],
+  "unresolved_minor_issues": [],
+  "review_type": "AI_visual_review_not_human_validation",
+  "reviewer_agent": "/root/social_plan",
+  "recorded_utc": "2026-11-11T05:05:11.328751+00:00",
+  "current_full_png_pages_inspected": [
+    21,
+    23,
+    24,
+    25,
+    27,
+    28
+  ],
+  "pixel_identical_carryover_pages": [
+    17,
+    18,
+    19,
+    20,
+    22,
+    26
+  ],
+  "earlier_inspected_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "resolved_issues": [
+    {
+      "page": 25,
+      "issue": "Clipped vertical chart title",
+      "resolution": "Shorter title Charge Ah per SOC point is fully visible in final render."
+    },
+    {
+      "pages": [
+        21,
+        27,
+        28
+      ],
+      "issue": "Run-together text and numbers",
+      "resolution": "Spaces restored and verified visually."
+    },
+    {
+      "pages": [
+        23,
+        24,
+        25
+      ],
+      "change": "Dataset source attribution and licence caption",
+      "result": "Revised Allam et al./Mendeley V2/DOI/CC BY-NC captions fit and remain readable."
+    }
+  ],
+  "scope_limits": [
+    "This receipt covers only pages17through28 of the41page final story build.",
+    "It combines actual visual reinspection of six changed pages with pixel-identical carryover of six previously fully inspected pages.",
+    "No human review, full factual audit or new statistical validation is claimed.",
+    "PDF not modified by this reviewer.",
+    "Earlier80page QA and earlier failed41page QA are historical and superseded for this final hash."
+  ],
+  "page_coverage": [
+    {
+      "page": 17,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-017.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "d2f45937e60f209173438ed9306c1e400042c8194f4263ae8cd6036ef3503fe7",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: chart, legend, callout, source and limits readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 18,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-018.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "3f363866cb324b17c89d2291d0fb6bf6607bbdd4ac1231aa578abb204df4cbec",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: all branch labels and distances readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 19,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-019.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "a0075a1c14430fc3c03d4a9d2dcb88b79908dd6f63f36f7acd82183af9323cb1",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: dumbbell labels, values and legend readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 20,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-020.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "6aef60e6bb939a03a3ca34033026139267c0f479d1c960391f212acb40094e92",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: four distinct count cards readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 21,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-021.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "ba3b882f0607cc29f45e32a32e4781f89f490827641ba2679263709dc3d3b2b0",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: corrected source-note spacing is readable; cards and main text remain clean.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 22,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-022.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "76ff81a559bf4fe30bc0b44bdcf6979d8e87e787daac2fec95fff1e8b64e2d45",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: five-link decision diagram and explanatory paragraph readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 23,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-023.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "b4e6e672db7f734e8934a44283df40cbbccaf6a693245240b5977b0fb284d803",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: revised Allam et al. dataset attribution, Mendeley V2, DOI and CC BY-NC caption fit; chart labels/counts remain clear.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 24,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-024.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "538ffee568809001c8e55de2246890762274cb5633ab11c52e55d67705b5aced",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: revised dataset attribution and license caption fit; two-bar comparison and all units remain readable.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 25,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-025.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "c78fcc8fb515adc741ccb6f6f06597fcb84fa9a0aab0c2ab5b9fc6e5a681136e",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: Charge Ah per SOC point axis title is fully visible and no longer clipped. Revised dataset source caption fits; all four values remain readable.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 26,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-026.png",
+      "new_full_png_visually_inspected": false,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": true,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "68110c84ac01da16a8273d088e898819cb568f9106849d2a85851611e0001117",
+      "blocking_defects_observed": false,
+      "observation": "Carried forward: two-panel illustration, categories and legend readable; rendered pixels unchanged.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 27,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-027.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "84c65e4c82c93a710f924a1983d645642f2026e0b017a00c8e229b8e32e20b7d",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: source-note spacing fixed; state labels, values and illustration limits remain readable.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    },
+    {
+      "page": 28,
+      "current_png_path": "/tmp/auto2000_story_final_v4/page-028.png",
+      "new_full_png_visually_inspected": true,
+      "previous_full_png_visually_inspected": true,
+      "current_pixels_equal_previously_inspected_render": false,
+      "comparison_method": "RGB_pixel_difference_bbox_is_none",
+      "current_rgb_pixel_sha256": "1e7000f7a158ee795be5f5e54d592e3cad4065750db5d107f65aac47b14803f0",
+      "blocking_defects_observed": false,
+      "observation": "Reinspected: body, limits and source-note number spacing fixed; lifecycle cards remain readable.",
+      "sealed_pixels_identical_to_previous_approved_build": true
+    }
+  ],
+  "previous_final_pdf_sha256": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+  "sealed_hash_updated_utc": "2026-11-11T05:09:14.113137+00:00",
+  "seal_update_method": "All12assigned_pages_RGB_pixel_identical_to_last_approved_v3_render_no_new_visual_review_needed",
+  "sealed_render_directory": "/tmp/auto2000_story_final_v4",
+  "sealed_pixel_comparison": [
+    {
+      "page": 17,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "d2f45937e60f209173438ed9306c1e400042c8194f4263ae8cd6036ef3503fe7",
+      "sealed_rgb_sha256": "d2f45937e60f209173438ed9306c1e400042c8194f4263ae8cd6036ef3503fe7",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 18,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "3f363866cb324b17c89d2291d0fb6bf6607bbdd4ac1231aa578abb204df4cbec",
+      "sealed_rgb_sha256": "3f363866cb324b17c89d2291d0fb6bf6607bbdd4ac1231aa578abb204df4cbec",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 19,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "a0075a1c14430fc3c03d4a9d2dcb88b79908dd6f63f36f7acd82183af9323cb1",
+      "sealed_rgb_sha256": "a0075a1c14430fc3c03d4a9d2dcb88b79908dd6f63f36f7acd82183af9323cb1",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 20,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "6aef60e6bb939a03a3ca34033026139267c0f479d1c960391f212acb40094e92",
+      "sealed_rgb_sha256": "6aef60e6bb939a03a3ca34033026139267c0f479d1c960391f212acb40094e92",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 21,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "ba3b882f0607cc29f45e32a32e4781f89f490827641ba2679263709dc3d3b2b0",
+      "sealed_rgb_sha256": "ba3b882f0607cc29f45e32a32e4781f89f490827641ba2679263709dc3d3b2b0",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 22,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "76ff81a559bf4fe30bc0b44bdcf6979d8e87e787daac2fec95fff1e8b64e2d45",
+      "sealed_rgb_sha256": "76ff81a559bf4fe30bc0b44bdcf6979d8e87e787daac2fec95fff1e8b64e2d45",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 23,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "b4e6e672db7f734e8934a44283df40cbbccaf6a693245240b5977b0fb284d803",
+      "sealed_rgb_sha256": "b4e6e672db7f734e8934a44283df40cbbccaf6a693245240b5977b0fb284d803",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 24,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "538ffee568809001c8e55de2246890762274cb5633ab11c52e55d67705b5aced",
+      "sealed_rgb_sha256": "538ffee568809001c8e55de2246890762274cb5633ab11c52e55d67705b5aced",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 25,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "c78fcc8fb515adc741ccb6f6f06597fcb84fa9a0aab0c2ab5b9fc6e5a681136e",
+      "sealed_rgb_sha256": "c78fcc8fb515adc741ccb6f6f06597fcb84fa9a0aab0c2ab5b9fc6e5a681136e",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 26,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "68110c84ac01da16a8273d088e898819cb568f9106849d2a85851611e0001117",
+      "sealed_rgb_sha256": "68110c84ac01da16a8273d088e898819cb568f9106849d2a85851611e0001117",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 27,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "84c65e4c82c93a710f924a1983d645642f2026e0b017a00c8e229b8e32e20b7d",
+      "sealed_rgb_sha256": "84c65e4c82c93a710f924a1983d645642f2026e0b017a00c8e229b8e32e20b7d",
+      "width": 794,
+      "height": 1123
+    },
+    {
+      "page": 28,
+      "rgb_pixels_identical": true,
+      "previous_rgb_sha256": "1e7000f7a158ee795be5f5e54d592e3cad4065750db5d107f65aac47b14803f0",
+      "sealed_rgb_sha256": "1e7000f7a158ee795be5f5e54d592e3cad4065750db5d107f65aac47b14803f0",
+      "width": 794,
+      "height": 1123
+    }
+  ]
+}

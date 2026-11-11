@@ -1,0 +1,99 @@
+code,definition,method
+access,Manual contextual tag: access. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+adviser,reported interaction with a salesperson or service adviser,single_AI_semantic_source_inspection
+affordability,Manual contextual tag: affordability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+agency,Manual contextual tag: agency. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+appointment,Manual contextual tag: appointment. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+assistance,Manual contextual tag: assistance. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+attribution,Manual contextual tag: attribution. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+authority,Manual contextual tag: authority. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+availability,Manual contextual tag: availability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+awareness,Manual contextual tag: awareness. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+battery,Manual contextual tag: battery. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+body_paint,Manual contextual tag: body paint. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+booking,"requesting or scheduling service, distinct from a confirmed or completed job",single_AI_semantic_source_inspection
+branch_handoff,Manual contextual tag: branch handoff. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+brand,Manual contextual tag: brand. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+cadence,Manual contextual tag: cadence. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+capability,Manual contextual tag: capability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+capacity,Manual contextual tag: capacity. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+channel,Manual contextual tag: channel. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+charging,"charging fit, access or reported charging experience; no technical verification",single_AI_semantic_source_inspection
+communication,Manual contextual tag: communication. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+community,Manual contextual tag: community. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+connectivity,Manual contextual tag: connectivity. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+consistency,Manual contextual tag: consistency. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+convenience,Manual contextual tag: convenience. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+cost,Manual contextual tag: cost. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+counterevidence,account that limits a broad negative or preferred explanation,single_AI_semantic_source_inspection
+cross_brand,Manual contextual tag: cross brand. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+diagnosis,finding/explaining a vehicle issue; forum guesses not adopted,single_AI_semantic_source_inspection
+discovery,Manual contextual tag: discovery. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+downtime,Manual contextual tag: downtime. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+eligibility,model/date/ownership/context conditions for an offer or claim,single_AI_semantic_source_inspection
+entitlement,what a service benefit or offer includes/excludes,single_AI_semantic_source_inspection
+entitlement_expiry,Manual contextual tag: entitlement expiry. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+escalation,moving a request to another party or public channel,single_AI_semantic_source_inspection
+evidence_gap,Manual contextual tag: evidence gap. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+exposure_time,Manual contextual tag: exposure time. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+feedback,Manual contextual tag: feedback. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+findability,Manual contextual tag: findability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+fit,"suitability for a stated task, household, trip or preference",single_AI_semantic_source_inspection
+followup,Manual contextual tag: followup. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+geography,location/distance constrains the task,single_AI_semantic_source_inspection
+handoff,Manual contextual tag: handoff. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+hearsay,Manual contextual tag: hearsay. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+historical,Manual contextual tag: historical. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+history,"retrieving, reconciling or retaining service records/receipts",single_AI_semantic_source_inspection
+home,Manual contextual tag: home. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+home_service,Manual contextual tag: home service. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+household,more than one family actor influences stated choice,single_AI_semantic_source_inspection
+household_fleet,Manual contextual tag: household fleet. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+incentive,Manual contextual tag: incentive. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+independent,Manual contextual tag: independent. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+inspection,Manual contextual tag: inspection. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+insurance,Manual contextual tag: insurance. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+intent,Manual contextual tag: intent. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+knowledge,"request for, or perceived adequacy of, explanation",single_AI_semantic_source_inspection
+local_variation,"reported difference between locations, dealer groups or staff",single_AI_semantic_source_inspection
+measurement,Manual contextual tag: measurement. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+misinformation_risk,"unresolved diagnosis, issuer or technical assertion, not a determination of misinformation",single_AI_semantic_source_inspection
+mobility,Manual contextual tag: mobility. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+network,Manual contextual tag: network. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+partner,Manual contextual tag: partner. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+partner_dependency,Manual contextual tag: partner dependency. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+parts,"availability, price or replacement of a component; technical cause unverified",single_AI_semantic_source_inspection
+policy,Manual contextual tag: policy. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+price,price/quote/cost concern without validating forum numbers,single_AI_semantic_source_inspection
+process,Manual contextual tag: process. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+product_preference,Manual contextual tag: product preference. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+quality,Manual contextual tag: quality. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+queue,Manual contextual tag: queue. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+reliability,Manual contextual tag: reliability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+reminder,Manual contextual tag: reminder. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+repeat_visit,Manual contextual tag: repeat visit. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+resale,"stated relevance of future sale/value, not measured premium",single_AI_semantic_source_inspection
+resolution,Manual contextual tag: resolution. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+response,"time or quality of contact/reply, without verified logs",single_AI_semantic_source_inspection
+responsibility,Manual contextual tag: responsibility. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+roles,Manual contextual tag: roles. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+safety,Manual contextual tag: safety. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+service,Manual contextual tag: service. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+service_format,Manual contextual tag: service format. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+service_scope,Manual contextual tag: service scope. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+service_trust,Manual contextual tag: service trust. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+social_influence,Manual contextual tag: social influence. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+switch,Manual contextual tag: switch. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+test_drive,Manual contextual tag: test drive. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+time,reported waiting or time tradeoff; not independently measured,single_AI_semantic_source_inspection
+timing,Manual contextual tag: timing. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+trade_in,Manual contextual tag: trade in. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+transparency,Manual contextual tag: transparency. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+trust,"uncertainty about source credibility, promise or treatment",single_AI_semantic_source_inspection
+uncertainty,Manual contextual tag: uncertainty. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+usability,Manual contextual tag: usability. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+used,used-car purchase/condition context,single_AI_semantic_source_inspection
+value,Manual contextual tag: value. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+version,Manual contextual tag: version. Interpret only with the linked narrative.,single_AI_semantic_source_inspection
+warranty,"coverage question, claim or process without adopting eligibility assertions",single_AI_semantic_source_inspection
+workaround,reported alternative action to achieve the task,single_AI_semantic_source_inspection

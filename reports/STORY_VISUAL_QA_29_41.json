@@ -1,0 +1,594 @@
+{
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "expected_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "hash_matches": true,
+  "page_count": 41,
+  "assigned_pages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "method": "AI visual inspection of contacts08-11 and every assigned page opened individually at96dpi. Exact card text/identity and confidence labels checked with PDF extraction as a supplement, not a substitute for visual inspection.",
+  "overall": "PASS_WITH_MINOR_TYPOGRAPHY_AND_REFERENCE_NOTES",
+  "blocking_findings": [],
+  "minor_findings": [
+    {
+      "id": "TYPO01",
+      "pages": [
+        37,
+        38,
+        39,
+        41
+      ],
+      "severity": "minor typography",
+      "finding": "Several body/caption strings omit spaces between a word and a numerical value or between adjacent words around numbers.",
+      "examples": [
+        "Across38",
+        "not95",
+        "records,May2012-Mar2023",
+        "PwC\u2019s71%",
+        "Rakuten57%versus28%",
+        "The61/62%",
+        "and16cross-source",
+        "both617,722-row"
+      ],
+      "impact": "Meaning remains legible; no clipping, missing card text or changed numerical scope observed.",
+      "suggestion": "Restore normal word/number spaces in source copy if another build is made."
+    },
+    {
+      "id": "REF01",
+      "pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "severity": "minor reference precision",
+      "finding": "The repeated solution-page footer shortens the extension path to extension_stakeholders/all_27_option_audit.json. The archive path includes workstreams/ before that directory.",
+      "impact": "The full source mapping exists in solution_cards.json and the full research; the shortened printed path is less precise as an archive-relative locator.",
+      "suggestion": "Use workstreams/extension_stakeholders/all_27_option_audit.json when displaying an exact relative path."
+    }
+  ],
+  "coverage": [
+    {
+      "page": 29,
+      "contact": 8,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 30,
+      "contact": 8,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 31,
+      "contact": 8,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 32,
+      "contact": 8,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 33,
+      "contact": 9,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 34,
+      "contact": 9,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 35,
+      "contact": 9,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 36,
+      "contact": 9,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "guessing",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 37,
+      "contact": 10,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "certain",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 38,
+      "contact": 10,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "certain",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 39,
+      "contact": 10,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "certain",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 40,
+      "contact": 10,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "certain",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    },
+    {
+      "page": 41,
+      "contact": 11,
+      "contact_inspected": true,
+      "individual_page_inspected": true,
+      "expected_confidence_label": "certain",
+      "confidence_label_present": true,
+      "clipping_overlap_or_truncation_observed": false
+    }
+  ],
+  "card_checks": [
+    {
+      "solution_id": "SOL-01",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-02",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-03",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-04",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-05",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-06",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-07",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-08",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-09",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-10",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-11",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-12",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-13",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-14",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-15",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-16",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-17",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-18",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-19",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-20",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-21",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-22",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-23",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-24",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-25",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-26",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-27",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    }
+  ],
+  "all_27_present": true,
+  "all_81_source_fields_present": true,
+  "all_cards_single_page": true,
+  "family_card_counts": [
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "family_page_card_counts": [
+    4,
+    3,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "service_family_split": "3 cards on page30;2 on page31 with continued heading",
+  "chart_page38_legend": "Same-label58.65% blue and different-label41.35% orange match the bar and count boxes; scope says two views of the same auxiliary records, not customer truth.",
+  "guide_page41": "Six separated reading/data/reproduction/archive guidance blocks fit within page bounds.",
+  "wall_of_text_assessment": "Cards are short separated blocks with three labeled fields; all stay together. Evidence pages use boxes, a proportion bar and short guidance blocks rather than dense continuous research prose.",
+  "human_review_claimed": false,
+  "pdf_modified": false
+}

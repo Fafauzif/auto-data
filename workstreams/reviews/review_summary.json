@@ -1,0 +1,347 @@
+{
+  "total_unique_reviews": 210,
+  "cohorts": [
+    {
+      "app": "byd_auto",
+      "platform": "apple_app_store",
+      "locale": "ID_storefront",
+      "n_unique_reviews": 10,
+      "min_date": "2026-03-16T14:44:08.000Z",
+      "max_date": "2026-10-28T03:59:59.000Z",
+      "ratings": {
+        "5": 6,
+        "3": 2,
+        "4": 2
+      },
+      "mention_counts": {
+        "booking": 0,
+        "records": 1,
+        "access": 1,
+        "vehicle_link": 1,
+        "remote": 4,
+        "human_handoff": 0,
+        "cost": 0,
+        "reliability": 0,
+        "benefits": 0,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 0,
+      "version_available_n": 0
+    },
+    {
+      "app": "byd_auto",
+      "platform": "google_play",
+      "locale": "en_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2025-01-20 09:59:10",
+      "max_date": "2026-10-29 15:32:43",
+      "ratings": {
+        "1": 6,
+        "3": 6,
+        "2": 5,
+        "5": 2,
+        "4": 1
+      },
+      "mention_counts": {
+        "booking": 0,
+        "records": 0,
+        "access": 1,
+        "vehicle_link": 5,
+        "remote": 14,
+        "human_handoff": 4,
+        "cost": 1,
+        "reliability": 9,
+        "benefits": 2,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 0,
+      "version_available_n": 20
+    },
+    {
+      "app": "byd_auto",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2024-11-27 20:23:03",
+      "max_date": "2026-10-26 11:26:54",
+      "ratings": {
+        "5": 19,
+        "1": 1
+      },
+      "mention_counts": {
+        "booking": 1,
+        "records": 0,
+        "access": 0,
+        "vehicle_link": 1,
+        "remote": 3,
+        "human_handoff": 3,
+        "cost": 1,
+        "reliability": 0,
+        "benefits": 0,
+        "vehicle_product": 4
+      },
+      "developer_reply_n": 0,
+      "version_available_n": 20
+    },
+    {
+      "app": "digiroom",
+      "platform": "apple_app_store",
+      "locale": "ID_storefront",
+      "n_unique_reviews": 10,
+      "min_date": "2020-06-19T08:34:04.000Z",
+      "max_date": "2022-01-21T23:19:47.000Z",
+      "ratings": {
+        "5": 10
+      },
+      "mention_counts": {
+        "booking": 1,
+        "records": 0,
+        "access": 0,
+        "vehicle_link": 0,
+        "remote": 0,
+        "human_handoff": 0,
+        "cost": 1,
+        "reliability": 1,
+        "benefits": 1,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 10,
+      "version_available_n": 0
+    },
+    {
+      "app": "digiroom",
+      "platform": "google_play",
+      "locale": "en_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2019-03-22 18:18:08",
+      "max_date": "2026-09-19 12:36:33",
+      "ratings": {
+        "5": 10,
+        "1": 5,
+        "3": 1,
+        "2": 2,
+        "4": 2
+      },
+      "mention_counts": {
+        "booking": 3,
+        "records": 2,
+        "access": 4,
+        "vehicle_link": 0,
+        "remote": 0,
+        "human_handoff": 9,
+        "cost": 2,
+        "reliability": 7,
+        "benefits": 4,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 12,
+      "version_available_n": 18
+    },
+    {
+      "app": "digiroom",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2019-03-15 07:49:00",
+      "max_date": "2026-11-01 11:51:10",
+      "ratings": {
+        "4": 1,
+        "1": 3,
+        "5": 15,
+        "2": 1
+      },
+      "mention_counts": {
+        "booking": 5,
+        "records": 1,
+        "access": 1,
+        "vehicle_link": 3,
+        "remote": 0,
+        "human_handoff": 5,
+        "cost": 2,
+        "reliability": 4,
+        "benefits": 2,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 9,
+      "version_available_n": 19
+    },
+    {
+      "app": "mitsubishi_motors_id",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2018-12-06 21:48:08",
+      "max_date": "2026-10-15 19:53:12",
+      "ratings": {
+        "5": 8,
+        "1": 9,
+        "3": 1,
+        "2": 2
+      },
+      "mention_counts": {
+        "booking": 5,
+        "records": 0,
+        "access": 1,
+        "vehicle_link": 5,
+        "remote": 2,
+        "human_handoff": 8,
+        "cost": 5,
+        "reliability": 10,
+        "benefits": 0,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 14,
+      "version_available_n": 17
+    },
+    {
+      "app": "mtoyota",
+      "platform": "apple_app_store",
+      "locale": "ID_storefront",
+      "n_unique_reviews": 10,
+      "min_date": "2020-03-24T15:21:22.000Z",
+      "max_date": "2026-10-30T06:42:23.000Z",
+      "ratings": {
+        "5": 6,
+        "1": 3,
+        "2": 1
+      },
+      "mention_counts": {
+        "booking": 2,
+        "records": 0,
+        "access": 3,
+        "vehicle_link": 1,
+        "remote": 0,
+        "human_handoff": 2,
+        "cost": 0,
+        "reliability": 5,
+        "benefits": 0,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 5,
+      "version_available_n": 0
+    },
+    {
+      "app": "mtoyota",
+      "platform": "google_play",
+      "locale": "en_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2020-07-21 22:14:50",
+      "max_date": "2026-06-13 09:12:09",
+      "ratings": {
+        "1": 12,
+        "5": 3,
+        "2": 4,
+        "4": 1
+      },
+      "mention_counts": {
+        "booking": 2,
+        "records": 1,
+        "access": 8,
+        "vehicle_link": 3,
+        "remote": 3,
+        "human_handoff": 5,
+        "cost": 1,
+        "reliability": 11,
+        "benefits": 1,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 19,
+      "version_available_n": 17
+    },
+    {
+      "app": "mtoyota",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2026-04-30 05:59:56",
+      "max_date": "2026-11-07 19:41:27",
+      "ratings": {
+        "2": 2,
+        "5": 10,
+        "1": 4,
+        "3": 2,
+        "4": 2
+      },
+      "mention_counts": {
+        "booking": 6,
+        "records": 0,
+        "access": 4,
+        "vehicle_link": 4,
+        "remote": 3,
+        "human_handoff": 6,
+        "cost": 0,
+        "reliability": 5,
+        "benefits": 0,
+        "vehicle_product": 1
+      },
+      "developer_reply_n": 10,
+      "version_available_n": 20
+    },
+    {
+      "app": "my_wuling",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2019-08-09 00:49:33",
+      "max_date": "2023-04-09 21:40:42",
+      "ratings": {
+        "1": 7,
+        "4": 5,
+        "2": 2,
+        "5": 4,
+        "3": 2
+      },
+      "mention_counts": {
+        "booking": 1,
+        "records": 0,
+        "access": 2,
+        "vehicle_link": 3,
+        "remote": 6,
+        "human_handoff": 6,
+        "cost": 2,
+        "reliability": 14,
+        "benefits": 3,
+        "vehicle_product": 1
+      },
+      "developer_reply_n": 14,
+      "version_available_n": 17
+    },
+    {
+      "app": "myhyundai_indonesia",
+      "platform": "google_play",
+      "locale": "id_ID",
+      "n_unique_reviews": 20,
+      "min_date": "2023-05-13 22:42:31",
+      "max_date": "2026-05-25 20:36:45",
+      "ratings": {
+        "5": 11,
+        "1": 5,
+        "2": 3,
+        "4": 1
+      },
+      "mention_counts": {
+        "booking": 3,
+        "records": 2,
+        "access": 4,
+        "vehicle_link": 2,
+        "remote": 1,
+        "human_handoff": 7,
+        "cost": 3,
+        "reliability": 6,
+        "benefits": 7,
+        "vehicle_product": 0
+      },
+      "developer_reply_n": 19,
+      "version_available_n": 17
+    }
+  ],
+  "limitations": [
+    "nonrepresentative platform-selected public listing samples",
+    "all flags are lexical mentions, not validated complaints",
+    "ratings are not task completion",
+    "locale/storefront is not verified reviewer residence",
+    "Google Play rating histogram may not reconcile to current aggregate",
+    "historical reviews do not prove current defects",
+    "no API pagination or RSS collection"
+  ]
+}

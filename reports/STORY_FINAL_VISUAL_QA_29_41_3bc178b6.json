@@ -1,0 +1,583 @@
+{
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "sha256": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+  "expected_sha256": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+  "hash_matches": true,
+  "page_count": 41,
+  "overall": "PASS_LAYOUT_AND_CARD_COMPLETENESS",
+  "blocking_defects": [],
+  "nonblocking_copy_observations": [
+    {
+      "severity": "nonblocking copy typography",
+      "pages": [
+        38,
+        39
+      ],
+      "observation": "A few body-copy word/number joins remain, including on255,414 and with617,703 on38;71%maintenance and28%awareness on39. They do not alter the figures, scopes or legibility.",
+      "layout_or_completeness_failure": false
+    }
+  ],
+  "assigned_pages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "coverage": [
+    {
+      "page": 29,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 30,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 31,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 32,
+      "contact": 8,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 33,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 34,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 35,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 36,
+      "contact": 9,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 37,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 38,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 39,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 40,
+      "contact": 10,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": false,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    },
+    {
+      "page": 41,
+      "contact": 11,
+      "contact_inspected_at_current_hash": true,
+      "full_page_current_hash_inspected": true,
+      "prior_version_full_page_inspection": "STORY_VISUAL_QA_29_41.json at historical7c1fc15d hash",
+      "expected_confidence_label_present": true,
+      "visible_clipping_overlap_or_card_truncation": false
+    }
+  ],
+  "method": "AI visual reinspection of current contacts08-11;current full pages29,36,39,41;all27 titles and81 field strings rechecked by PDF extraction. Prior full-page review of all13 pages belongs to the historical7c1fc15d hash and is retained separately.",
+  "card_checks": [
+    {
+      "solution_id": "SOL-01",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-02",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-03",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-04",
+      "pages": [
+        29
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-05",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-06",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-07",
+      "pages": [
+        30
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-08",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-09",
+      "pages": [
+        31
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-10",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-11",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-12",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-13",
+      "pages": [
+        32
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-14",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-15",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-16",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-17",
+      "pages": [
+        33
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-18",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-19",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-20",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-21",
+      "pages": [
+        34
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-22",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-23",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-24",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-25",
+      "pages": [
+        35
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-26",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    },
+    {
+      "solution_id": "SOL-27",
+      "pages": [
+        36
+      ],
+      "one_page_only": true,
+      "title_present": true,
+      "three_source_fields_present": {
+        "existing_baseline": true,
+        "possible_addition": true,
+        "what_could_kill_it": true
+      },
+      "all_three_fields_present": true
+    }
+  ],
+  "all_27_exact_titles_present": true,
+  "all_81_source_field_strings_present": true,
+  "all_cards_one_page": true,
+  "seven_family_counts": [
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "eight_family_page_counts": [
+    4,
+    3,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "service_family_continued_heading": true,
+  "corrected_audit_paths_by_page": {
+    "29": true,
+    "30": true,
+    "31": true,
+    "32": true,
+    "33": true,
+    "34": true,
+    "35": true,
+    "36": true
+  },
+  "all_eight_audit_paths_correct": true,
+  "page39_Deloitte_scope": {
+    "year2025_present": true,
+    "62_percent_present": true,
+    "178_base_present": true,
+    "1004_not_full_base_explicit": true
+  },
+  "page41_straightforward_headline": true,
+  "old_qa_history": {
+    "path": "reports/STORY_VISUAL_QA_29_41.json",
+    "sha256_reviewed": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+    "applies_to_current_pdf": false
+  },
+  "human_review_claimed": false,
+  "pdf_modified": false
+}

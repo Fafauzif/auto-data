@@ -1,0 +1,13 @@
+# IGAR public-mirror privacy review
+
+The exact IGAR CSV files should stay out of the anonymous public backup. The main private delivery retains the exact licensed originals. This decision concerns third-party free text and does not change the analysis or its source evidence.
+
+The expanded offline numeric-pattern screen flagged 211 content rows and 189 translation rows, representing 214 distinct review rows in their union. These are candidate rows, not 214 personal-data disclosures. One review contains an Indonesian mobile-number-shaped sequence and nearby phone and ownership wording. It did not match the simple dummy-sequence checks. This is a plausible disclosure, not a verified identity or active phone number.
+
+Within a 45-character window, six union review rows combine numeric candidates with identity wording; three also contain ownership wording. Three combine numeric candidates with membership wording; one also contains ownership wording. Eight contain phone wording; four also contain ownership wording. These flags overlap. They must not be added. No nearby bank or specific-address pattern was detected under that rule. The one 16-digit run in each text view failed the coarse province/date NIK-shape screen. None of these negative results establishes absence of personal data.
+
+The older counts of 190 content rows and 169 translation rows came from a different numeric-pattern screen. The expanded counts use boundary-delimited runs with 8–24 digits and optional separators. They are different rule outputs. The earlier email-like screen found zero matches. Obfuscation, names, private addresses and other contextual disclosures remain outside a complete automated audit.
+
+No identifiers, source text values or source quotations appear in this receipt. No network access occurred. No raw or analysis files were changed. The review did not establish identity, ownership, number validity, contactability or consent. Copyright licensing alone does not resolve consent to independently mirror third-party personal disclosures.
+
+The public variant will omit both original IGAR CSVs and retain `workstreams/datasets/IGAR_AUXILIARY_nontext_features.csv.gz`, containing 617,722 rows and 15 columns. That derivative contains review month, pseudonymous IDs and nontext analytical features. It contains no handles, raw content, translation or exact review timestamps. Its scope remains auxiliary and historical, not Auto2000 evidence. The public variant README and manifest will identify the omission and retain original publisher URLs and file hashes. This is a risk-reduction decision, not a comprehensive privacy certification.

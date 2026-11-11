@@ -1,0 +1,1171 @@
+{
+  "generated_utc": "2026-11-11T04:24:58.706800+00:00",
+  "frozen_first_wave": {
+    "assertions": 157,
+    "status_counts": {
+      "PASS": 140,
+      "FAIL": 0,
+      "QUALIFIED": 17,
+      "PENDING": 0
+    },
+    "generated_at_utc": "2026-11-11T03:33:39.533229+00:00"
+  },
+  "extension_only_assertions": 69,
+  "extension_status_counts": {
+    "PASS": 66,
+    "FAIL": 0,
+    "QUALIFIED": 3
+  },
+  "combined_assertion_total_reported": false,
+  "reason_not_summing": "No addition of local19economics or32geography receipts to this independent audit; repeated/proxy checks are not new observations.",
+  "checks": [
+    {
+      "check_id": "EXQ01",
+      "topic": "Reviews",
+      "assertion": "New extension has148unique record keys",
+      "status": "PASS",
+      "observed": 148,
+      "expected": 148,
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": "Selected listings; unique record keys do not identify unique people or verified incidents."
+    },
+    {
+      "check_id": "EXQ02",
+      "topic": "Reviews",
+      "assertion": "No old/new review-key overlap",
+      "status": "PASS",
+      "observed": 0,
+      "expected": 0,
+      "evidence_refs": "reviews_derived.csv;new_reviews_derived.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ03",
+      "topic": "Reviews",
+      "assertion": "Combined public record keys210+148=358",
+      "status": "PASS",
+      "observed": 358,
+      "expected": 358,
+      "evidence_refs": "reviews_derived.csv;new_reviews_derived.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ04",
+      "topic": "Reviews",
+      "assertion": "New rows trace to9listing URLs and9capture requests",
+      "status": "PASS",
+      "observed": [
+        9,
+        9
+      ],
+      "expected": [
+        9,
+        9
+      ],
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": "Pages are not independent respondent samples."
+    },
+    {
+      "check_id": "EXQ05",
+      "topic": "Reviews",
+      "assertion": "New status category counts reconcile",
+      "status": "PASS",
+      "observed": 148,
+      "expected": 148,
+      "evidence_refs": "extension_reviews/validation.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ06",
+      "topic": "Reviews",
+      "assertion": "All new ratings fall in1–5",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ07",
+      "topic": "Reviews",
+      "assertion": "AI source inspection148and no human/operational verification",
+      "status": "PASS",
+      "observed": [
+        148,
+        0,
+        0
+      ],
+      "expected": [
+        148,
+        0,
+        0
+      ],
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": "AI classification is not a verified service outcome."
+    },
+    {
+      "check_id": "EXQ08",
+      "topic": "Review dates",
+      "assertion": "First-wave Digiroom50records split37pre/13on-or-after relaunch",
+      "status": "PASS",
+      "observed": [
+        50,
+        37,
+        13
+      ],
+      "expected": [
+        50,
+        37,
+        13
+      ],
+      "evidence_refs": "reviews_derived.csv;ER_T04_digiroom_relaunch_date_context.csv",
+      "scope_limit": "Review date does not establish installed build, exposure or causal relaunch effect."
+    },
+    {
+      "check_id": "EXQ09",
+      "topic": "Review dates",
+      "assertion": "Six of13post-date Digiroom records self-report an app job",
+      "status": "PASS",
+      "observed": 6,
+      "expected": 6,
+      "evidence_refs": "reviews_derived.csv",
+      "scope_limit": "No independently verified completion rate."
+    },
+    {
+      "check_id": "EXQ10",
+      "topic": "Review dates",
+      "assertion": "Old corpus has87dated2026and71with a stated version",
+      "status": "PASS",
+      "observed": [
+        87,
+        71
+      ],
+      "expected": [
+        87,
+        71
+      ],
+      "evidence_refs": "reviews_derived.csv;extension_reviews/analysis_summary.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ11",
+      "topic": "Review context",
+      "assertion": "New vehicle-context labels112unspecified/30cars/6motorcycles",
+      "status": "PASS",
+      "observed": {
+        "vehicle_unspecified": 112,
+        "car_explicit": 30,
+        "motorcycle_explicit": 6
+      },
+      "expected": {
+        "vehicle_unspecified": 112,
+        "car_explicit": 30,
+        "motorcycle_explicit": 6
+      },
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": "AI reading of explicit context; not verified owner identity."
+    },
+    {
+      "check_id": "EXQ12",
+      "topic": "Review coding",
+      "assertion": "Targeted second-AI inspections remain separate from human validation.",
+      "status": "QUALIFIED",
+      "observed": null,
+      "expected": null,
+      "evidence_refs": "new_reviews_derived.csv",
+      "scope_limit": "This frozen derivative marks16new rows second-AI checked. A separate targeted audit receipt may add checks without overwriting the original annotation table. Neither is random holdout reliability."
+    },
+    {
+      "check_id": "EXQ13",
+      "topic": "Geography receipt",
+      "assertion": "Reported local QA receipt contains32passing checks",
+      "status": "PASS",
+      "observed": [
+        32,
+        32
+      ],
+      "expected": [
+        32,
+        32
+      ],
+      "evidence_refs": "extension_geography/QA_RECEIPT.json",
+      "scope_limit": "Receipt consistency; not32independent source validations or population outcomes."
+    },
+    {
+      "check_id": "EXQ14",
+      "topic": "Geography grain",
+      "assertion": "25coordinate/pool scenarios and695anchor-scenario rows",
+      "status": "PASS",
+      "observed": [
+        25,
+        695,
+        25
+      ],
+      "expected": [
+        25,
+        695,
+        25
+      ],
+      "evidence_refs": "anchor_nearest_alternative_scenarios.csv;nearest_scenario_summary.csv",
+      "scope_limit": "Repeated scenarios on the same28anchors; not695new facilities."
+    },
+    {
+      "check_id": "EXQ15",
+      "topic": "Geography scenarios",
+      "assertion": "All25scenario medians/counts independently match695rows",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "anchor_nearest_alternative_scenarios.csv;nearest_scenario_summary.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ16",
+      "topic": "Candidate sensitivity",
+      "assertion": "Source all-mapped versus conservative within1km20→8and5km27→26",
+      "status": "PASS",
+      "observed": [
+        20,
+        8,
+        27,
+        26
+      ],
+      "expected": [
+        20,
+        8,
+        27,
+        26
+      ],
+      "evidence_refs": "nearest_scenario_summary.csv",
+      "scope_limit": "Provider/venue proxy, not verified public access or route convenience."
+    },
+    {
+      "check_id": "EXQ17",
+      "topic": "Geography scope",
+      "assertion": "All695scenario rows retain unverified access",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "anchor_nearest_alternative_scenarios.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ18",
+      "topic": "Boundary conservation",
+      "assertion": "All pooled boundary years conserve published national totals",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "boundary_stock_conservation.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ19",
+      "topic": "Boundary omission",
+      "assertion": "2025directjoin omits70,800from20,907,972",
+      "status": "PASS",
+      "observed": 70800.0,
+      "expected": 70800.0,
+      "evidence_refs": "boundary_stock_conservation.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ20",
+      "topic": "Boundary omission",
+      "assertion": "National omission rounds0.339%",
+      "status": "PASS",
+      "observed": 0.339,
+      "expected": 0.339,
+      "evidence_refs": "boundary_stock_conservation.csv",
+      "scope_limit": "Small national omission can still materially change local ratios/ranks."
+    },
+    {
+      "check_id": "EXQ21",
+      "topic": "Papua denominators",
+      "assertion": "Historical91and94pooled denominators41,685and111,637",
+      "status": "PASS",
+      "observed": [
+        41685.0,
+        111637.0
+      ],
+      "expected": [
+        41685.0,
+        111637.0
+      ],
+      "evidence_refs": "stock_boundary_audit_cells.csv",
+      "scope_limit": "Published nonmissing cells pooled; missing earlier child cells do not imply zero cars."
+    },
+    {
+      "check_id": "EXQ22",
+      "topic": "Ratios",
+      "assertion": "Every saved scenario ratio matches numerator/stock×100,000",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "province_ratio_scenarios.csv",
+      "scope_limit": "2026mapped numerator and earlier all-car register denominator; not BEV demand or capacity."
+    },
+    {
+      "check_id": "EXQ23",
+      "topic": "Province ranks",
+      "assertion": "Ranks recompute from each matching ratio scenario",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "province_ratio_scenarios.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ24",
+      "topic": "Papua ranks",
+      "assertion": "PapuaBarat site ratio/rank48.80/1→19.19/10",
+      "status": "PASS",
+      "observed": [
+        [
+          48.8,
+          1
+        ],
+        [
+          19.19,
+          10
+        ]
+      ],
+      "expected": [
+        [
+          48.8,
+          1
+        ],
+        [
+          19.19,
+          10
+        ]
+      ],
+      "evidence_refs": "province_ratio_scenarios.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ25",
+      "topic": "Papua ranks",
+      "assertion": "Papua site rank9→19",
+      "status": "PASS",
+      "observed": [
+        9,
+        19
+      ],
+      "expected": [
+        9,
+        19
+      ],
+      "evidence_refs": "province_ratio_scenarios.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ26",
+      "topic": "BEV finance",
+      "assertion": "Five conditional calculator rows share799mprice,20%baseDP159.8m",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "bev_finance_illustrations.csv",
+      "scope_limit": "Illustrative calculator output, not lender approval or APR estimate."
+    },
+    {
+      "check_id": "EXQ27",
+      "topic": "BEV finance",
+      "assertion": "All five remaining-payment counts equal tenor minus1",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "bev_finance_illustrations.csv",
+      "scope_limit": "ADDM timing; baseDP is not total upfront cash."
+    },
+    {
+      "check_id": "EXQ28",
+      "topic": "BEV finance",
+      "assertion": "60month output247,187,147upfront/15,581,947monthly/59remaining",
+      "status": "PASS",
+      "observed": [
+        247187147,
+        15581947,
+        59
+      ],
+      "expected": [
+        247187147,
+        15581947,
+        59
+      ],
+      "evidence_refs": "XT02;bev_finance_illustrations.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ29",
+      "topic": "Journey scope",
+      "assertion": "Eight registered groups contain seven live groups and one untested mobile group",
+      "status": "PASS",
+      "observed": [
+        8,
+        7,
+        1
+      ],
+      "expected": [
+        8,
+        7,
+        1
+      ],
+      "evidence_refs": "extension_journeys/observations.json",
+      "scope_limit": "Scenario groups, not8independent participants."
+    },
+    {
+      "check_id": "EXQ30",
+      "topic": "Journey scope",
+      "assertion": "No entered customer identifier and zero submitted leads/outcomes",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "extension_journeys/observations.json;summary.json",
+      "scope_limit": "Not a native/mobile or recruited-participant test."
+    },
+    {
+      "check_id": "EXQ31",
+      "topic": "Handoff context",
+      "assertion": "Two retained-context routes use distinct actual branch/model parameters",
+      "status": "PASS",
+      "observed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "expected": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "evidence_refs": "XT08;XTS10;XTS12",
+      "scope_limit": "Two inspected evaluator routes contradict universal loss; not a prevalence estimate or fulfilled reservation."
+    },
+    {
+      "check_id": "EXQ32",
+      "topic": "Retail estimates",
+      "assertion": "22new program rows reconcile labor+parts tolisted amount",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "service_estimates_extension.csv",
+      "scope_limit": "March2024retail estimates, not current invoices or unit GP."
+    },
+    {
+      "check_id": "EXQ33",
+      "topic": "Retail estimates",
+      "assertion": "bZ4X four later-event estimates sum9.101m",
+      "status": "PASS",
+      "observed": 9101000,
+      "expected": 9101000,
+      "evidence_refs": "XT04;service_estimates_extension.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ34",
+      "topic": "Program payment",
+      "assertion": "Agya event2has0displayed labor and564kparts",
+      "status": "PASS",
+      "observed": [
+        0,
+        564000
+      ],
+      "expected": [
+        0,
+        564000
+      ],
+      "evidence_refs": "XT04;service_estimates_extension.csv",
+      "scope_limit": "Zero displayed fee is not zero work or personalized eligibility."
+    },
+    {
+      "check_id": "EXQ35",
+      "topic": "Symmetric bridge",
+      "assertion": "Shapley scale and mix reconcile−6,025",
+      "status": "PASS",
+      "observed": -6024.999999999999,
+      "expected": -6025.0,
+      "evidence_refs": "portfolio_inputs_and_method.json",
+      "scope_limit": "Symmetric accounting allocation, not causal attribution."
+    },
+    {
+      "check_id": "EXQ36",
+      "topic": "Symmetric bridge",
+      "assertion": "Scale term equals total-change times average observed mix",
+      "status": "PASS",
+      "observed": -5049.883773030939,
+      "expected": -5049.883773030939,
+      "evidence_refs": "portfolio_inputs_and_method.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ37",
+      "topic": "Constructed tail",
+      "assertion": "Constructed dispersed/synchronized peak retained obligations300m/700m",
+      "status": "PASS",
+      "observed": [
+        300000000,
+        700000000
+      ],
+      "expected": [
+        300000000,
+        700000000
+      ],
+      "evidence_refs": "constructed_aggregate_risk.csv",
+      "scope_limit": "No probabilities, forecast, quote, approved policy or observed customer pool."
+    },
+    {
+      "check_id": "EXQ38",
+      "topic": "Retail-versus-GP",
+      "assertion": "Model fee totals and free-program labels do not identify dealer gross profit.",
+      "status": "QUALIFIED",
+      "observed": null,
+      "expected": null,
+      "evidence_refs": "XT04;EEprogramrecords",
+      "scope_limit": "Models/variants are unmatched and estimates datedMarch2024; reimbursement, direct costs and displacement remain unmeasured."
+    },
+    {
+      "check_id": "EXQ39",
+      "topic": "External source grain",
+      "assertion": "Seven distinct mechanism studies/instruments",
+      "status": "PASS",
+      "observed": 7,
+      "expected": 7,
+      "evidence_refs": "EXTERNAL_MECHANISM_EVIDENCE.json",
+      "scope_limit": "Not seven raw customer datasets or independent effect estimates."
+    },
+    {
+      "check_id": "EXQ40",
+      "topic": "NIST scope",
+      "assertion": "TN2328record distinguishes1490individuals including490BEVowners",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "EXT-H-S04;independent methods review",
+      "scope_limit": "Source-specific US survey.490is a subset, not an additional independent sample; instrument and other analyses remain separate."
+    },
+    {
+      "check_id": "EXQ41-Folder1",
+      "topic": "Battery actual counts",
+      "assertion": "ActualMATshapes match four-signal count",
+      "status": "PASS",
+      "observed": 10001322,
+      "expected": 10001322,
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Curr/Volt/SoC/Temp scalars, excluding clocks/Epoch; not synchronized rows or independent physical measurements."
+    },
+    {
+      "check_id": "EXQ42-Folder1",
+      "topic": "Battery raw integrity",
+      "assertion": "Local source bytes and hash match published manifest",
+      "status": "PASS",
+      "observed": [
+        51900236,
+        "56660fea9aa13bb75710c6466d74e5e6e61ae17da6c105543694bf3cf9650134"
+      ],
+      "expected": [
+        51900236,
+        "56660fea9aa13bb75710c6466d74e5e6e61ae17da6c105543694bf3cf9650134"
+      ],
+      "evidence_refs": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/49926802-c6f1-4fbb-9158-28ba0b8a11af/file_downloaded",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ41-Folder2",
+      "topic": "Battery actual counts",
+      "assertion": "ActualMATshapes match four-signal count",
+      "status": "PASS",
+      "observed": 6477275,
+      "expected": 6477275,
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Curr/Volt/SoC/Temp scalars, excluding clocks/Epoch; not synchronized rows or independent physical measurements."
+    },
+    {
+      "check_id": "EXQ42-Folder2",
+      "topic": "Battery raw integrity",
+      "assertion": "Local source bytes and hash match published manifest",
+      "status": "PASS",
+      "observed": [
+        32644636,
+        "f7dd9f401878b3b9ed9997341efa8b98a705cc4057552c8ab68c38ededc19268"
+      ],
+      "expected": [
+        32644636,
+        "f7dd9f401878b3b9ed9997341efa8b98a705cc4057552c8ab68c38ededc19268"
+      ],
+      "evidence_refs": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/a83bf37d-5deb-4f2d-bff9-8a34f2025fea/file_downloaded",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ41-Folder7",
+      "topic": "Battery actual counts",
+      "assertion": "ActualMATshapes match four-signal count",
+      "status": "PASS",
+      "observed": 18531728,
+      "expected": 18531728,
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Curr/Volt/SoC/Temp scalars, excluding clocks/Epoch; not synchronized rows or independent physical measurements."
+    },
+    {
+      "check_id": "EXQ42-Folder7",
+      "topic": "Battery raw integrity",
+      "assertion": "Local source bytes and hash match published manifest",
+      "status": "PASS",
+      "observed": [
+        89170861,
+        "41437b187c5c3d919f415af688cf6e297716192c2ddc6f134056c2720ce096b7"
+      ],
+      "expected": [
+        89170861,
+        "41437b187c5c3d919f415af688cf6e297716192c2ddc6f134056c2720ce096b7"
+      ],
+      "evidence_refs": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/60e58f05-e4cc-41db-a6ea-5972dedf1378/file_downloaded",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ41-Folder8",
+      "topic": "Battery actual counts",
+      "assertion": "ActualMATshapes match four-signal count",
+      "status": "PASS",
+      "observed": 2806727,
+      "expected": 2806727,
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Curr/Volt/SoC/Temp scalars, excluding clocks/Epoch; not synchronized rows or independent physical measurements."
+    },
+    {
+      "check_id": "EXQ42-Folder8",
+      "topic": "Battery raw integrity",
+      "assertion": "Local source bytes and hash match published manifest",
+      "status": "PASS",
+      "observed": [
+        14389506,
+        "2f3e9ecead573e384e7051ece4e9b145921d9901568b96269c8c3a3383f21055"
+      ],
+      "expected": [
+        14389506,
+        "2f3e9ecead573e384e7051ece4e9b145921d9901568b96269c8c3a3383f21055"
+      ],
+      "evidence_refs": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/2fb1c343-ae76-4a3d-9776-4fedf44645b2/file_downloaded",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ41-Folder16",
+      "topic": "Battery actual counts",
+      "assertion": "ActualMATshapes match four-signal count",
+      "status": "PASS",
+      "observed": 18690149,
+      "expected": 18690149,
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Curr/Volt/SoC/Temp scalars, excluding clocks/Epoch; not synchronized rows or independent physical measurements."
+    },
+    {
+      "check_id": "EXQ42-Folder16",
+      "topic": "Battery raw integrity",
+      "assertion": "Local source bytes and hash match published manifest",
+      "status": "PASS",
+      "observed": [
+        95036227,
+        "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558"
+      ],
+      "expected": [
+        95036227,
+        "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558"
+      ],
+      "evidence_refs": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/ea7fdd30-53b4-45ec-8d9d-46bfc603d6a1/file_downloaded",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ43",
+      "topic": "Battery grain",
+      "assertion": "Fivebundles total56,507,201nonclock signal values",
+      "status": "PASS",
+      "observed": [
+        5,
+        56507201
+      ],
+      "expected": [
+        5,
+        56507201
+      ],
+      "evidence_refs": "ActualMATshapes;SOURCE_FILE_MANIFEST.json",
+      "scope_limit": "Purposeful subset from oneAudi e-tron/California; not Toyota/Indonesian owner sample."
+    },
+    {
+      "check_id": "EXQ44",
+      "topic": "Battery asynchronous grain",
+      "assertion": "At least one bundle has different current andSoClengths",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "ActualMATshapes",
+      "scope_limit": "Equal lengths would not itself prove clock alignment; row-wise joins require explicit timing rules."
+    },
+    {
+      "check_id": "EXQ45",
+      "topic": "Battery inference",
+      "assertion": "Battery-capacity accuracy and resale-premium claims remain unidentified.",
+      "status": "QUALIFIED",
+      "observed": null,
+      "expected": null,
+      "evidence_refs": "Battery source/initial audit;EXT-H-S03–04",
+      "scope_limit": "Hidden capacity reference, proprietary source estimator, asynchronous clocks and source-side reduction prevent treating stored values as independent ground truth. Final derived battery outputs are a separate evidence layer."
+    },
+    {
+      "check_id": "EXQ46",
+      "topic": "Second AI review",
+      "assertion": "16targeted new records and matching source hashes",
+      "status": "PASS",
+      "observed": [
+        16,
+        16,
+        16
+      ],
+      "expected": [
+        16,
+        16,
+        16
+      ],
+      "evidence_refs": "SECOND_AI_CHECK_RECEIPT.json;new_reviews_derived.csv",
+      "scope_limit": "Targeted, nonblind, nonrandom; separate from earlier30checks on first-wave210."
+    },
+    {
+      "check_id": "EXQ47",
+      "topic": "Second AI review",
+      "assertion": "Receipt preserves no human/reliability/outcome verification",
+      "status": "PASS",
+      "observed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "expected": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "evidence_refs": "SECOND_AI_CHECK_RECEIPT.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ48",
+      "topic": "Battery counts",
+      "assertion": "Independent shapes and final summary agree56507201signals",
+      "status": "PASS",
+      "observed": 56507201,
+      "expected": 56507201,
+      "evidence_refs": "ActualMATshapes;BATTERY_SUMMARY.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ49",
+      "topic": "Battery time metadata",
+      "assertion": "Clock and Epoch values remain separate from signals",
+      "status": "PASS",
+      "observed": [
+        56599111,
+        91910
+      ],
+      "expected": [
+        56599111,
+        91910
+      ],
+      "evidence_refs": "ActualMATshapes;scalar_count_receipt.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ50",
+      "topic": "Battery bytes",
+      "assertion": "Payload bytes283141466and maximum95036227",
+      "status": "PASS",
+      "observed": [
+        283141466,
+        95036227
+      ],
+      "expected": [
+        283141466,
+        95036227
+      ],
+      "evidence_refs": "SOURCE_FILE_MANIFEST.json",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ51",
+      "topic": "Battery segments",
+      "assertion": "106algorithmic gap30segments agree with source clock-gap counts",
+      "status": "PASS",
+      "observed": [
+        106,
+        106
+      ],
+      "expected": [
+        106,
+        106
+      ],
+      "evidence_refs": "gap30_segment_metrics.csv;INITIAL_SIGNAL_AUDIT.json",
+      "scope_limit": "Declared >30s segmentation, not field-verified trips/sessions."
+    },
+    {
+      "check_id": "EXQ52",
+      "topic": "Battery integral identities",
+      "assertion": "All20saved integral rows reconcile signed and absolute terms",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "gap_aware_signed_integrals.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ53",
+      "topic": "Battery retained support",
+      "assertion": "Gap1supported hours sum51.9736656864",
+      "status": "PASS",
+      "observed": 51.97366568638918,
+      "expected": 51.973665686389175,
+      "evidence_refs": "gap_aware_signed_integrals.csv",
+      "scope_limit": "Retained interval time, not first-to-last calendar exposure or a representative year."
+    },
+    {
+      "check_id": "EXQ54",
+      "topic": "Battery charging slopes",
+      "assertion": "Four partial charge intervals recompute Ah/SOC-point ratios",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "charging_interval_soc_slope_diagnostics.csv",
+      "scope_limit": "Partial slopes are not usable capacity, SOH or calibrated degradation estimates."
+    },
+    {
+      "check_id": "EXQ55",
+      "topic": "Battery charging slopes",
+      "assertion": "Reported slope range1.570124to2.194808matches saved intervals",
+      "status": "PASS",
+      "observed": [
+        1.5701242035612515,
+        2.1948078904307136
+      ],
+      "expected": [
+        1.5701242035612515,
+        2.1948078904307136
+      ],
+      "evidence_refs": "charging_interval_soc_slope_diagnostics.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ56",
+      "topic": "Direct raw battery check",
+      "assertion": "Folder2actual current and voltage clocks match",
+      "status": "PASS",
+      "observed": true,
+      "expected": true,
+      "evidence_refs": "Folder2_Raw.mat",
+      "scope_limit": "Does not establish SOC/temperature alignment."
+    },
+    {
+      "check_id": "EXQ57-1",
+      "topic": "Direct raw battery check",
+      "assertion": "Independent sampled trapezoid absolute terminal integral",
+      "status": "PASS",
+      "observed": 156.20635349582608,
+      "expected": 156.20635349582608,
+      "evidence_refs": "Folder2_Raw.mat;gap_aware_signed_integrals.csv",
+      "scope_limit": "Electrical sampled-signal integral, not wall electricity or capacity."
+    },
+    {
+      "check_id": "EXQ58-1",
+      "topic": "Direct raw battery check",
+      "assertion": "Independent signed current integral inAh",
+      "status": "PASS",
+      "observed": 298.97477954207676,
+      "expected": 298.97477954207676,
+      "evidence_refs": "Folder2_Raw.mat;gap_aware_signed_integrals.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ57-UNBOUNDED_NAIVE_COUNTEREXAMPLE",
+      "topic": "Direct raw battery check",
+      "assertion": "Independent sampled trapezoid absolute terminal integral",
+      "status": "PASS",
+      "observed": 230.43293139052886,
+      "expected": 230.43293139052892,
+      "evidence_refs": "Folder2_Raw.mat;gap_aware_signed_integrals.csv",
+      "scope_limit": "Electrical sampled-signal integral, not wall electricity or capacity."
+    },
+    {
+      "check_id": "EXQ58-UNBOUNDED_NAIVE_COUNTEREXAMPLE",
+      "topic": "Direct raw battery check",
+      "assertion": "Independent signed current integral inAh",
+      "status": "PASS",
+      "observed": 479.4494284424934,
+      "expected": 479.4494284424934,
+      "evidence_refs": "Folder2_Raw.mat;gap_aware_signed_integrals.csv",
+      "scope_limit": ""
+    },
+    {
+      "check_id": "EXQ59",
+      "topic": "Gap sensitivity",
+      "assertion": "Naive Folder2absolute integral excess rounds47.52%",
+      "status": "PASS",
+      "observed": 47.52,
+      "expected": 47.52,
+      "evidence_refs": "Direct raw recomputation",
+      "scope_limit": "Illustrates unsupported bridging of unobserved gaps; not a measured production-BMS error."
+    }
+  ],
+  "battery_actual_shapes": [
+    {
+      "file": "Folder1_Raw.mat",
+      "actual_signal_values": 10001322,
+      "signal_lengths": {
+        "Curr": 3311696,
+        "Epoch": 44,
+        "SoC": 3311696,
+        "Temp": 66234,
+        "TimeCurr": 3311696,
+        "TimeEpoch": 44,
+        "TimeSoC": 3311696,
+        "TimeTemp": 66234,
+        "TimeVolt": 3311696,
+        "Volt": 3311696
+      }
+    },
+    {
+      "file": "Folder2_Raw.mat",
+      "actual_signal_values": 6477275,
+      "signal_lengths": {
+        "Curr": 2144773,
+        "Epoch": 21391,
+        "SoC": 2144862,
+        "Temp": 42867,
+        "TimeCurr": 2144773,
+        "TimeEpoch": 21391,
+        "TimeSoC": 2144862,
+        "TimeTemp": 42867,
+        "TimeVolt": 2144773,
+        "Volt": 2144773
+      }
+    },
+    {
+      "file": "Folder7_Raw.mat",
+      "actual_signal_values": 18531728,
+      "signal_lengths": {
+        "Curr": 6136329,
+        "Epoch": 186,
+        "SoC": 6136348,
+        "Temp": 122722,
+        "TimeCurr": 6136329,
+        "TimeEpoch": 186,
+        "TimeSoC": 6136348,
+        "TimeTemp": 122722,
+        "TimeVolt": 6136329,
+        "Volt": 6136329
+      }
+    },
+    {
+      "file": "Folder8_Raw.mat",
+      "actual_signal_values": 2806727,
+      "signal_lengths": {
+        "Curr": 929380,
+        "Epoch": 9248,
+        "SoC": 929380,
+        "Temp": 18587,
+        "TimeCurr": 929380,
+        "TimeEpoch": 9248,
+        "TimeSoC": 929380,
+        "TimeTemp": 18587,
+        "TimeVolt": 929380,
+        "Volt": 929380
+      }
+    },
+    {
+      "file": "Folder16_Raw.mat",
+      "actual_signal_values": 18690149,
+      "signal_lengths": {
+        "TimeCurr": 6188617,
+        "Curr": 6188617,
+        "TimeVolt": 6188617,
+        "Volt": 6188617,
+        "TimeSoC": 6189309,
+        "SoC": 6189309,
+        "TimeTemp": 123606,
+        "Temp": 123606,
+        "TimeEpoch": 61041,
+        "Epoch": 61041
+      }
+    }
+  ],
+  "input_manifest": [
+    {
+      "path": "auto2000_run/private_cache/extension_battery/Folder16_Raw.mat",
+      "bytes": 95036227,
+      "sha256": "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558"
+    },
+    {
+      "path": "auto2000_run/private_cache/extension_battery/Folder1_Raw.mat",
+      "bytes": 51900236,
+      "sha256": "56660fea9aa13bb75710c6466d74e5e6e61ae17da6c105543694bf3cf9650134"
+    },
+    {
+      "path": "auto2000_run/private_cache/extension_battery/Folder2_Raw.mat",
+      "bytes": 32644636,
+      "sha256": "f7dd9f401878b3b9ed9997341efa8b98a705cc4057552c8ab68c38ededc19268"
+    },
+    {
+      "path": "auto2000_run/private_cache/extension_battery/Folder7_Raw.mat",
+      "bytes": 89170861,
+      "sha256": "41437b187c5c3d919f415af688cf6e297716192c2ddc6f134056c2720ce096b7"
+    },
+    {
+      "path": "auto2000_run/private_cache/extension_battery/Folder8_Raw.mat",
+      "bytes": 14389506,
+      "sha256": "2f3e9ecead573e384e7051ece4e9b145921d9901568b96269c8c3a3383f21055"
+    },
+    {
+      "path": "auto2000_run/reports/numerical_qa_summary.json",
+      "bytes": 7177,
+      "sha256": "0b6b5f22b7e344282effaa2d268615fb2452e704eb5bf9f0256bbfdfbb37546b"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/BATTERY_SUMMARY.json",
+      "bytes": 2051,
+      "sha256": "90b1ef17a655047a42cbbde1f337fe0db28b35ac33e210d3607ff0a1451f02c6"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/INITIAL_SIGNAL_AUDIT.json",
+      "bytes": 10577,
+      "sha256": "a37ba084f8be69dc7580a78e4676d8da9b468d489276c1f08fcb169acd5e60e5"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/SOURCE_FILE_MANIFEST.json",
+      "bytes": 3054,
+      "sha256": "f6bfbb0da0b965ea20108b81ef0d96da6568c12533ceec74ffeadee2e645aec8"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/charging_interval_soc_slope_diagnostics.csv",
+      "bytes": 2703,
+      "sha256": "ff99f19cef8ccfa9e7ca95edd8367cb35373d9eee52b0174a0b3f622177ac8ea"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/gap30_segment_metrics.csv",
+      "bytes": 49594,
+      "sha256": "b985f41930ec00dcd2c9410b232e53f996d0a1ba92826bc3a33a840f8a137266"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/gap_aware_signed_integrals.csv",
+      "bytes": 7327,
+      "sha256": "1a6fb6c3da0d42a8d460c737df4f6c1552d3e4091c55c971bfe59332a4cc5510"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_battery/scalar_count_receipt.csv",
+      "bytes": 7372,
+      "sha256": "0c967487f5756094e55bb531627ad829cb291c6b2b7983f8f8056bef22419521"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_economics/constructed_aggregate_risk.csv",
+      "bytes": 944,
+      "sha256": "6ac197c232b2c6f00312a2e7759ad7b8d24763956e714fedf7cd9f21b1e9b859"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_economics/portfolio_inputs_and_method.json",
+      "bytes": 439,
+      "sha256": "91e960d9379988354e0612c4b39fd3a73a8fb5594dc3fa07a3d420cc01922690"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/QA_RECEIPT.json",
+      "bytes": 4167,
+      "sha256": "e459f9909fd515b22cf34edf9cfe2bb8520d01cd118f73232af8d62a42880c08"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/ROBUSTNESS_SUMMARY.json",
+      "bytes": 7690,
+      "sha256": "19566be90333f71677a404fa6dcb5a5622b8219cff3008578e90801bcf18fcb4"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/anchor_nearest_alternative_scenarios.csv",
+      "bytes": 220492,
+      "sha256": "2033ca1980912df0cdea19f27b0d854b4f21e337147ea20995ff974d457a01e9"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/boundary_stock_conservation.csv",
+      "bytes": 2001,
+      "sha256": "09ff67193c29914be984035da9418f738e1d8a992321d86521c448f0812d2616"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/nearest_scenario_summary.csv",
+      "bytes": 2984,
+      "sha256": "aada7a8ff2d8454411ed1561e1d917496f28e4dc49d8949c4a7387fadbb0838d"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/province_ratio_scenarios.csv",
+      "bytes": 583291,
+      "sha256": "f6e4834df73e3e85198dd66b233dae3b9ee8389119207ec4fda2873d0b03c431"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_geography/stock_boundary_audit_cells.csv",
+      "bytes": 4913,
+      "sha256": "9dd2bb6632d498b7a0ad72660575f1596950e5639e7ca1162218b4abbe0b9cb1"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+      "bytes": 7212,
+      "sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/bev_finance_illustrations.csv",
+      "bytes": 1312,
+      "sha256": "5c719da98fe2b914fd1c0bd8fe118e78c336ecd8896e68af65d372e886f63391"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/observations.json",
+      "bytes": 15390,
+      "sha256": "4ce48b8c43ac25d32927a52f47c5c533fe8fa373fe980b7d67e15404e2673ca5"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/service_estimates_extension.csv",
+      "bytes": 5891,
+      "sha256": "2cd65a64a11364c7b8978cce5fbe5b9e8e2036f0469993c647986f9f1fb451df"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/sources.csv",
+      "bytes": 2740,
+      "sha256": "6a8b5f43e7b8e7124ef676ccbfb1c0d030eefb2cf4f1d885ff373c32465fe0cb"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/summary.json",
+      "bytes": 471,
+      "sha256": "c5c624df1b1e800bf7a62bd6e3d9e063a6eafd69de5a7a38ec6a9e09a3ea08de"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_reviews/SECOND_AI_CHECK_RECEIPT.json",
+      "bytes": 10234,
+      "sha256": "4e17ac91e645e8ce688a6782cada18ecb5c7fcc9a6a03c35fdb57fd8e30a3c9d"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_reviews/analysis_summary.json",
+      "bytes": 977,
+      "sha256": "52d1c93f64b4d936950857b8268e5194e7ca03ecb44666b836ed64b1364eff0a"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_reviews/new_reviews_derived.csv",
+      "bytes": 108507,
+      "sha256": "0befcca7f1d134dc3dbc637976b1a0f0e7a214fcd2ea4ad1d41244e6729fc792"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_reviews/validation.json",
+      "bytes": 1088,
+      "sha256": "2d143230138bff237cd7848a064915fe66029b316cfeb9295dbfcac42ca5f511"
+    },
+    {
+      "path": "auto2000_run/workstreams/reviews/reviews_derived.csv",
+      "bytes": 97025,
+      "sha256": "c1c47a349c0d683e873ff79bf3a54de00d82f90f31d438cde570022efa494cb9"
+    }
+  ],
+  "source_mutations": false,
+  "new_network_requests": 0,
+  "human_validation": false
+}

@@ -1,0 +1,7 @@
+wave,app,same_country_parameter,id_language_n,en_language_n,shared_review_ids,union_review_ids,id_jaccard,id_rating_counts,id_favorable_rating_n,id_source_year2026_n,id_known_version_n,id_unknown_job_n,en_rating_counts,en_favorable_rating_n,en_source_year2026_n,en_known_version_n,en_unknown_job_n,rating_share_difference_en_minus_id_pp,is_causal_language_effect,is_country_satisfaction_comparison
+extension_new,honda_ecare,ID,20,20,0,40,0.0,"{""1"": 13, ""2"": 4, ""3"": 1, ""4"": 1, ""5"": 1}",2,12,20,1,"{""1"": 14, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 3}",4,3,20,2,10.0,False,False
+extension_new,my_chery,ID,4,4,0,8,0.0,"{""2"": 2, ""3"": 1, ""5"": 1}",1,2,3,3,"{""1"": 1, ""5"": 3}",3,1,4,3,50.0,False,False
+extension_new,my_suzuki,ID,20,20,0,40,0.0,"{""1"": 4, ""2"": 3, ""3"": 6, ""4"": 1, ""5"": 6}",7,14,19,2,"{""1"": 5, ""3"": 3, ""4"": 6, ""5"": 6}",12,1,19,3,25.0,False,False
+original210,byd_auto,ID,20,20,0,40,0.0,"{""1"": 1, ""5"": 19}",19,12,20,4,"{""1"": 6, ""2"": 5, ""3"": 6, ""4"": 1, ""5"": 2}",3,19,20,5,-80.0,False,False
+original210,digiroom,ID,20,20,0,40,0.0,"{""1"": 3, ""2"": 1, ""4"": 1, ""5"": 15}",16,10,19,5,"{""1"": 5, ""2"": 2, ""3"": 1, ""4"": 2, ""5"": 10}",12,3,18,8,-20.000000000000007,False,False
+original210,mtoyota,ID,20,20,0,40,0.0,"{""1"": 4, ""2"": 2, ""3"": 2, ""4"": 2, ""5"": 10}",12,20,20,3,"{""1"": 12, ""2"": 4, ""4"": 1, ""5"": 3}",4,3,17,1,-40.0,False,False

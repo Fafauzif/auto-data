@@ -1,0 +1,1302 @@
+{
+  "status": "OK",
+  "data-availability": "available",
+  "data": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1,
+      "count": 1,
+      "total": 1
+    },
+    {
+      "change_log": [],
+      "list_tahun_data": [
+        2019,
+        2017,
+        2015,
+        2020,
+        2016,
+        2021,
+        2024,
+        2018,
+        2025,
+        2023,
+        2022
+      ],
+      "judul_tabel": "Jumlah Kendaraan Bermotor Menurut Provinsi dan Jenis Kendaraan (unit), 2021",
+      "judul_tabel_en": "Number of Motor Vehicles by Province and Type of Motor Vehicles (units), 2021",
+      "lingkup": "Provinsi&lt;br&gt;&lt;i&gt;Province&lt;/i&gt;",
+      "lingkup_id": "Provinsi",
+      "lingkup_en": "Province",
+      "tahun_data": 2021,
+      "wilayah": "Indonesia",
+      "penanggung_jawab": "Mabes POLRI",
+      "show_satuan": false,
+      "id_subject": "RjBVSGhqT0VpYno5Nzdsai9ySCtZUT09",
+      "bab": "Transportasi dan Komunikasi",
+      "bab_en": "Transportation and Communication",
+      "subject": "Transportasi",
+      "subject_en": "Transportation",
+      "mms_id": 560,
+      "mms_subject": "Transportasi",
+      "keterangan_data": {
+        "...": "Data tidak tersedia",
+        "–": "Tidak ada atau nol",
+        "NA": "Data tidak dapat ditampilkan",
+        "e": "Angka estimasi",
+        "r": "Angka diperbaiki",
+        "~0": "Data dapat diabaikan",
+        "*": "Angka sementara",
+        "**": "Angka sangat sementara",
+        "***": "Angka sangat sangat sementara",
+        "a": "25% &#60; RSE &#8804; 50%",
+        "b": "RSE &#60; 50%",
+        "c": "Penjumlahan tidak sama dengan wilayah diatasnya"
+      },
+      "kolom": {
+        "zo4z8usy4b": {
+          "nama_variabel": "Jumlah Kendaraan Bermotor - Mobil Penumpang",
+          "nama_variabel_en": "Number of Motor Vehicles - Passenger Cars",
+          "tipe": "Numerik",
+          "angka_desimal_dibelakang_koma": 0,
+          "metadata_indikator": "Mobil Penumpang",
+          "metadata_konsep_definisi": "&lt;p&gt;&lt;b&gt;Mobil penumpang &lt;/b&gt;adalah setiap kendaraan bermotor yang dilengkapi dengan tempat duduk untuk sebanyak-banyaknya delapan orang, tidak termasuk tempat duduk untuk pengemudi, baik dilengkapi atau tidak dilengkapi bagasi.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Passenger cars &lt;/b&gt;are any motor vehicles with no more than eight seats, excluding seat for driver, it can be with or without hoot.&lt;/i&gt;&lt;/p&gt;",
+          "metadata_kegunaan": null,
+          "metadata_keterangan_tambahan": null,
+          "metadata_interpretasi": null,
+          "metadata_rumusan": [],
+          "metadata_rumus_html": null,
+          "metadata_dihasilkan_oleh": [],
+          "tanggal_cut_off": null
+        },
+        "hcf3tjb6yy": {
+          "nama_variabel": "Jumlah Kendaraan Bermotor - Bus",
+          "nama_variabel_en": "Number of Motor Vehicles - Bus",
+          "tipe": "Numerik",
+          "angka_desimal_dibelakang_koma": 0,
+          "metadata_indikator": "Mobil Bus",
+          "metadata_konsep_definisi": "&lt;p&gt;&lt;b&gt;Mobil bus &lt;/b&gt;adalah setiap kendaraan bermotor yang dilengkapi dengan tempat duduk untuk lebih dari delapan orang, tidak termasuk tempat duduk untuk pengemudi, baik dilengkapi atau tidak dilengkapi bagasi.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Buses &lt;/b&gt;are large passenger cars having seats for more than eight passengers, excluding seat for driver, it can be with or without hoot.&lt;/i&gt;&lt;/p&gt;",
+          "metadata_kegunaan": null,
+          "metadata_keterangan_tambahan": null,
+          "metadata_interpretasi": null,
+          "metadata_rumusan": [],
+          "metadata_rumus_html": null,
+          "metadata_dihasilkan_oleh": [],
+          "tanggal_cut_off": null
+        },
+        "osr7qi1qyk": {
+          "nama_variabel": "Jumlah Kendaraan Bermotor - Truk",
+          "nama_variabel_en": "Number of Motor Vehicles - Trucks",
+          "tipe": "Numerik",
+          "angka_desimal_dibelakang_koma": 0,
+          "metadata_indikator": "Mobil Truk",
+          "metadata_konsep_definisi": "&lt;p&gt;&lt;b&gt;Mobil truk &lt;/b&gt;adalah setiap kendaraan bermotor yang digunakan untuk angkutan barang, selain mobil penumpang, mobil bus, dan kendaraan bermotor roda dua.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Trucks &lt;/b&gt;are any motor vehicles used to transport goods excluding passenger cars, buses, and motorcycles.&lt;/i&gt;&lt;/p&gt;",
+          "metadata_kegunaan": null,
+          "metadata_keterangan_tambahan": null,
+          "metadata_interpretasi": null,
+          "metadata_rumusan": [],
+          "metadata_rumus_html": null,
+          "metadata_dihasilkan_oleh": [],
+          "tanggal_cut_off": null
+        },
+        "axwetnrzgz": {
+          "nama_variabel": "Jumlah Kendaraan Bermotor - Sepeda Motor",
+          "nama_variabel_en": "Number of Motor Vehicles - Motorcycles",
+          "tipe": "Numerik",
+          "angka_desimal_dibelakang_koma": 0,
+          "metadata_indikator": null,
+          "metadata_konsep_definisi": null,
+          "metadata_kegunaan": null,
+          "metadata_keterangan_tambahan": null,
+          "metadata_interpretasi": null,
+          "metadata_rumusan": [],
+          "metadata_rumus_html": null,
+          "metadata_dihasilkan_oleh": [],
+          "tanggal_cut_off": null
+        },
+        "7styaneg0t": {
+          "nama_variabel": "Jumlah Kendaraan Bermotor - Jumlah",
+          "nama_variabel_en": "Number of Motor Vehicles",
+          "tipe": "Numerik",
+          "angka_desimal_dibelakang_koma": 0,
+          "metadata_indikator": "Kendaraan bermotor",
+          "metadata_konsep_definisi": "&lt;p&gt;&lt;b&gt;Kendaraan bermotor&lt;/b&gt; adalah setiap kendaraan yang digerakkan oleh peralatan teknik yang ada pada kendaraan tersebut, biasanya digunakan untuk angkutan orang atau barang di atas jalan raya selain kendaraan yang berjalan di atas rel. Kendaraan bermotor yang dicatat adalah semua jenis kendaraan kecuali kendaraan bermotor TNI/Polri dan Korps Diplomatik.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Motor vehicles&lt;/b&gt; are any kind of vehicles motorized by machine set up in those vehicles, they are usually used for transporting peoples or goods on roads except vehicles moving along a railway line. The data cover all kinds of motor vehicles except those belong to Indonesia Army Force Indonesian State Police and Diplomatic Corps.&lt;/i&gt;&lt;/p&gt;",
+          "metadata_kegunaan": null,
+          "metadata_keterangan_tambahan": null,
+          "metadata_interpretasi": null,
+          "metadata_rumusan": [],
+          "metadata_rumus_html": null,
+          "metadata_dihasilkan_oleh": [],
+          "tanggal_cut_off": null
+        }
+      },
+      "data": [
+        {
+          "label": "Aceh",
+          "label_raw": "Aceh",
+          "satuan": null,
+          "kode_wilayah": 1100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "166.601",
+              "value_raw": "166.601",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "1.129",
+              "value_raw": "1.129",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "67.996",
+              "value_raw": "67.996",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.086.604<sup>r</sup>",
+              "value_raw": "2.086.604",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "2.322.330<sup>r</sup>",
+              "value_raw": "2.322.330",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Sumatera Utara",
+          "label_raw": "Sumatera Utara",
+          "satuan": null,
+          "kode_wilayah": 1200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "691.252<sup>r</sup>",
+              "value_raw": "691.252",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "5.926",
+              "value_raw": "5.926",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "272.215<sup>r</sup>",
+              "value_raw": "272.215",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "6.076.695<sup>r</sup>",
+              "value_raw": "6.076.695",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "7.046.088<sup>r</sup>",
+              "value_raw": "7.046.088",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Sumatera Barat",
+          "label_raw": "Sumatera Barat",
+          "satuan": null,
+          "kode_wilayah": 1300000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "274.513",
+              "value_raw": "274.513",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "4.092",
+              "value_raw": "4.092",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "134.620",
+              "value_raw": "134.620",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.127.503<sup>r</sup>",
+              "value_raw": "2.127.503",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "2.540.728<sup>r</sup>",
+              "value_raw": "2.540.728",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Riau",
+          "label_raw": "Riau",
+          "satuan": null,
+          "kode_wilayah": 1400000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "354.651",
+              "value_raw": "354.651",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "5.204",
+              "value_raw": "5.204",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "202.038",
+              "value_raw": "202.038",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "3.431.857<sup>r</sup>",
+              "value_raw": "3.431.857",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "3.993.750<sup>r</sup>",
+              "value_raw": "3.993.750",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Jambi",
+          "label_raw": "Jambi",
+          "satuan": null,
+          "kode_wilayah": 1500000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "171.178",
+              "value_raw": "171.178",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "35.048",
+              "value_raw": "35.048",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "135.609",
+              "value_raw": "135.609",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.099.801",
+              "value_raw": "2.099.801",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "2.441.636",
+              "value_raw": "2.441.636",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sumatera Selatan",
+          "label_raw": "Sumatera Selatan",
+          "satuan": null,
+          "kode_wilayah": 1600000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "387.151",
+              "value_raw": "387.151",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "6.469",
+              "value_raw": "6.469",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "320.677",
+              "value_raw": "320.677",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "3.137.227",
+              "value_raw": "3.137.227",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "3.851.524",
+              "value_raw": "3.851.524",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Bengkulu",
+          "label_raw": "Bengkulu",
+          "satuan": null,
+          "kode_wilayah": 1700000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "107.540",
+              "value_raw": "107.540",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "842",
+              "value_raw": "842",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "49.347",
+              "value_raw": "49.347",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "925.394",
+              "value_raw": "925.394",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.083.123",
+              "value_raw": "1.083.123",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Lampung",
+          "label_raw": "Lampung",
+          "satuan": null,
+          "kode_wilayah": 1800000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "286.139",
+              "value_raw": "286.139",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "3.019",
+              "value_raw": "3.019",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "178.707",
+              "value_raw": "178.707",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "3.330.518",
+              "value_raw": "3.330.518",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "3.798.383",
+              "value_raw": "3.798.383",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Kepulauan Bangka Belitung",
+          "label_raw": "Kepulauan Bangka Belitung",
+          "satuan": null,
+          "kode_wilayah": 1900000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "81.599",
+              "value_raw": "81.599",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "1.186",
+              "value_raw": "1.186",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "45.495",
+              "value_raw": "45.495",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "971.047",
+              "value_raw": "971.047",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.099.327",
+              "value_raw": "1.099.327",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Kepulauan Riau",
+          "label_raw": "Kepulauan Riau",
+          "satuan": null,
+          "kode_wilayah": 2100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "148.135",
+              "value_raw": "148.135",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "2.140",
+              "value_raw": "2.140",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "27.404",
+              "value_raw": "27.404",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "891.953",
+              "value_raw": "891.953",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.069.632",
+              "value_raw": "1.069.632",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "DKI Jakarta",
+          "label_raw": "DKI Jakarta",
+          "satuan": null,
+          "kode_wilayah": 3100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "3.544.492<sup>r</sup>",
+              "value_raw": "3.544.492",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "36.339",
+              "value_raw": "36.339",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "713.059",
+              "value_raw": "713.059",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "16.711.638",
+              "value_raw": "16.711.638",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "21.005.528<sup>r</sup>",
+              "value_raw": "21.005.528",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Jawa Barat",
+          "label_raw": "Jawa Barat",
+          "satuan": null,
+          "kode_wilayah": 3200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "3.724.612<sup>r</sup>",
+              "value_raw": "3.724.612",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "21.405",
+              "value_raw": "21.405",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "412.894<sup>r</sup>",
+              "value_raw": "412.894",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "12.689.634<sup>r</sup>",
+              "value_raw": "12.689.634",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "16.848.545<sup>r</sup>",
+              "value_raw": "16.848.545",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Jawa Tengah",
+          "label_raw": "Jawa Tengah",
+          "satuan": null,
+          "kode_wilayah": 3300000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "1.405.334",
+              "value_raw": "1.405.334",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "34.208",
+              "value_raw": "34.208",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "589.100",
+              "value_raw": "589.100",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "16.800.333<sup>r</sup>",
+              "value_raw": "16.800.333",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "18.828.975<sup>r</sup>",
+              "value_raw": "18.828.975",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "DI Yogyakarta",
+          "label_raw": "DI Yogyakarta",
+          "satuan": null,
+          "kode_wilayah": 3400000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "368.188",
+              "value_raw": "368.188",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "3.802",
+              "value_raw": "3.802",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "62.329",
+              "value_raw": "62.329",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.572.811<sup>r</sup>",
+              "value_raw": "2.572.811",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "3.007.130<sup>r</sup>",
+              "value_raw": "3.007.130",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Jawa Timur",
+          "label_raw": "Jawa Timur",
+          "satuan": null,
+          "kode_wilayah": 3500000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "1.950.975",
+              "value_raw": "1.950.975",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "35.920",
+              "value_raw": "35.920",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "755.847",
+              "value_raw": "755.847",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "20.031.820<sup>r</sup>",
+              "value_raw": "20.031.820",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "22.774.562<sup>r</sup>",
+              "value_raw": "22.774.562",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Banten",
+          "label_raw": "Banten",
+          "satuan": null,
+          "kode_wilayah": 3600000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "247.020",
+              "value_raw": "247.020",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "3.573",
+              "value_raw": "3.573",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "82.260",
+              "value_raw": "82.260",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.371.748",
+              "value_raw": "2.371.748",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "2.704.601",
+              "value_raw": "2.704.601",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Bali",
+          "label_raw": "Bali",
+          "satuan": null,
+          "kode_wilayah": 5100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "466.300",
+              "value_raw": "466.300",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "9.405",
+              "value_raw": "9.405",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "154.803<sup>r</sup>",
+              "value_raw": "154.803",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "3.862.635<sup>r</sup>",
+              "value_raw": "3.862.635",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "4.493.143<sup>r</sup>",
+              "value_raw": "4.493.143",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Nusa Tenggara Barat",
+          "label_raw": "Nusa Tenggara Barat",
+          "satuan": null,
+          "kode_wilayah": 5200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "99.787",
+              "value_raw": "99.787",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "2.628",
+              "value_raw": "2.628",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "75.070",
+              "value_raw": "75.070",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "1.740.049",
+              "value_raw": "1.740.049",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.917.534",
+              "value_raw": "1.917.534",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Nusa Tenggara Timur",
+          "label_raw": "Nusa Tenggara Timur",
+          "satuan": null,
+          "kode_wilayah": 5300000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "59.532",
+              "value_raw": "59.532",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "3.715",
+              "value_raw": "3.715",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "49.167",
+              "value_raw": "49.167",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "841.384",
+              "value_raw": "841.384",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "953.798",
+              "value_raw": "953.798",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Kalimantan Barat",
+          "label_raw": "Kalimantan Barat",
+          "satuan": null,
+          "kode_wilayah": 6100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "152.238",
+              "value_raw": "152.238",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "1.586",
+              "value_raw": "1.586",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "100.871",
+              "value_raw": "100.871",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.480.296<sup>r</sup>",
+              "value_raw": "2.480.296",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "2.734.991<sup>r</sup>",
+              "value_raw": "2.734.991",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Kalimantan Tengah",
+          "label_raw": "Kalimantan Tengah",
+          "satuan": null,
+          "kode_wilayah": 6200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "97.136",
+              "value_raw": "97.136",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "1.521",
+              "value_raw": "1.521",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "70.320",
+              "value_raw": "70.320",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "1.299.078",
+              "value_raw": "1.299.078",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.468.055",
+              "value_raw": "1.468.055",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Kalimantan Selatan",
+          "label_raw": "Kalimantan Selatan",
+          "satuan": null,
+          "kode_wilayah": 6300000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "229.544<sup>r</sup>",
+              "value_raw": "229.544",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "3.102",
+              "value_raw": "3.102",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "139.611<sup>r</sup>",
+              "value_raw": "139.611",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "2.379.834",
+              "value_raw": "2.379.834",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "2.752.091<sup>r</sup>",
+              "value_raw": "2.752.091",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Kalimantan Timur",
+          "label_raw": "Kalimantan Timur",
+          "satuan": null,
+          "kode_wilayah": 6400000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "280.670",
+              "value_raw": "280.670",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "6.371",
+              "value_raw": "6.371",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "190.662",
+              "value_raw": "190.662",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "2.714.323",
+              "value_raw": "2.714.323",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "3.192.026",
+              "value_raw": "3.192.026",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Kalimantan Utara",
+          "label_raw": "Kalimantan Utara",
+          "satuan": null,
+          "kode_wilayah": 6500000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "13.601",
+              "value_raw": "13.601",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "116",
+              "value_raw": "116",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "8.596",
+              "value_raw": "8.596",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "143.955",
+              "value_raw": "143.955",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "166.268",
+              "value_raw": "166.268",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sulawesi Utara",
+          "label_raw": "Sulawesi Utara",
+          "satuan": null,
+          "kode_wilayah": 7100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "127.406",
+              "value_raw": "127.406",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "1.358",
+              "value_raw": "1.358",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "68.111",
+              "value_raw": "68.111",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "795.264",
+              "value_raw": "795.264",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "992.139",
+              "value_raw": "992.139",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sulawesi Tengah",
+          "label_raw": "Sulawesi Tengah",
+          "satuan": null,
+          "kode_wilayah": 7200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "89.833",
+              "value_raw": "89.833",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "941",
+              "value_raw": "941",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "50.220",
+              "value_raw": "50.220",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "1.090.209",
+              "value_raw": "1.090.209",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "1.231.203",
+              "value_raw": "1.231.203",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sulawesi Selatan",
+          "label_raw": "Sulawesi Selatan",
+          "satuan": null,
+          "kode_wilayah": 7300000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "530.350",
+              "value_raw": "530.350",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "3.856",
+              "value_raw": "3.856",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "196.633",
+              "value_raw": "196.633",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "3.702.188",
+              "value_raw": "3.702.188",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "4.433.027",
+              "value_raw": "4.433.027",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sulawesi Tenggara",
+          "label_raw": "Sulawesi Tenggara",
+          "satuan": null,
+          "kode_wilayah": 7400000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "187.061",
+              "value_raw": "187.061",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "529",
+              "value_raw": "529",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "38.972",
+              "value_raw": "38.972",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "754.731<sup>r</sup>",
+              "value_raw": "754.731",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "981.293<sup>r</sup>",
+              "value_raw": "981.293",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Gorontalo",
+          "label_raw": "Gorontalo",
+          "satuan": null,
+          "kode_wilayah": 7500000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "35.981",
+              "value_raw": "35.981",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "340",
+              "value_raw": "340",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "26.639",
+              "value_raw": "26.639",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "396.839",
+              "value_raw": "396.839",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "459.799",
+              "value_raw": "459.799",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Sulawesi Barat",
+          "label_raw": "Sulawesi Barat",
+          "satuan": null,
+          "kode_wilayah": 7600000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "21.082",
+              "value_raw": "21.082",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "37<sup>r</sup>",
+              "value_raw": "37",
+              "value_code": "r"
+            },
+            "osr7qi1qyk": {
+              "value": "12.734",
+              "value_raw": "12.734",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "333.988",
+              "value_raw": "333.988",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "367.841<sup>r</sup>",
+              "value_raw": "367.841",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Maluku",
+          "label_raw": "Maluku",
+          "satuan": null,
+          "kode_wilayah": 8100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "24.674",
+              "value_raw": "24.674",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "460",
+              "value_raw": "460",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "13.749",
+              "value_raw": "13.749",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "286.360",
+              "value_raw": "286.360",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "325.243",
+              "value_raw": "325.243",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Maluku Utara",
+          "label_raw": "Maluku Utara",
+          "satuan": null,
+          "kode_wilayah": 8200000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "19.906",
+              "value_raw": "19.906",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "135",
+              "value_raw": "135",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "12.363",
+              "value_raw": "12.363",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "268.416",
+              "value_raw": "268.416",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "300.820",
+              "value_raw": "300.820",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Papua Barat",
+          "label_raw": "Papua Barat",
+          "satuan": null,
+          "kode_wilayah": 9100000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "35.601",
+              "value_raw": "35.601",
+              "value_code": null
+            },
+            "hcf3tjb6yy": {
+              "value": "359",
+              "value_raw": "359",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "17.458",
+              "value_raw": "17.458",
+              "value_code": null
+            },
+            "axwetnrzgz": {
+              "value": "303.320",
+              "value_raw": "303.320",
+              "value_code": null
+            },
+            "7styaneg0t": {
+              "value": "356.738",
+              "value_raw": "356.738",
+              "value_code": null
+            }
+          }
+        },
+        {
+          "label": "Papua",
+          "label_raw": "Papua",
+          "satuan": null,
+          "kode_wilayah": 9400000,
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "34.016<sup>r</sup>",
+              "value_raw": "34.016",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "846",
+              "value_raw": "846",
+              "value_code": null
+            },
+            "osr7qi1qyk": {
+              "value": "24.305<sup>r</sup>",
+              "value_raw": "24.305",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "400.660<sup>r</sup>",
+              "value_raw": "400.660",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "459.827<sup>r</sup>",
+              "value_raw": "459.827",
+              "value_code": "r"
+            }
+          }
+        },
+        {
+          "label": "Indonesia",
+          "label_raw": "Indonesia",
+          "satuan": null,
+          "kode_wilayah": "0000000",
+          "variables": {
+            "zo4z8usy4b": {
+              "value": "16.414.098<sup>r</sup>",
+              "value_raw": "16.414.098",
+              "value_code": "r"
+            },
+            "hcf3tjb6yy": {
+              "value": "237.607<sup>r</sup>",
+              "value_raw": "237.607",
+              "value_code": "r"
+            },
+            "osr7qi1qyk": {
+              "value": "5.299.881<sup>r</sup>",
+              "value_raw": "5.299.881",
+              "value_code": "r"
+            },
+            "axwetnrzgz": {
+              "value": "120.050.112<sup>r</sup>",
+              "value_raw": "120.050.112",
+              "value_code": "r"
+            },
+            "7styaneg0t": {
+              "value": "142.001.698<sup>r</sup>",
+              "value_raw": "142.001.698",
+              "value_code": "r"
+            }
+          }
+        }
+      ],
+      "catatan": "",
+      "sumber": "&lt;p&gt;\nKepolisian Republik Indonesia/ &lt;i&gt;Indonesia State Police\n&lt;/i&gt;&lt;br&gt;&lt;/p&gt;",
+      "versi": 1,
+      "table_created": "2022-02-08 15:38:14",
+      "table_updated": "2024-02-20 10:02:09",
+      "status": 200,
+      "condition": "OK",
+      "message": "-",
+      "created": "2026-11-11 09:45:03"
+    }
+  ]
+}

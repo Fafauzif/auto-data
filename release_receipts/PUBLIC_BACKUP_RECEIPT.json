@@ -1,0 +1,165 @@
+{
+  "started_utc": "2026-11-11T05:15:29.243524+00:00",
+  "authorization": "User requested Filebin and alternative backup hosts. Public-safe variant only.",
+  "primary_full_zip_is_separate": true,
+  "omitted_from_anonymous_backup": [
+    "IGAR_CC_BY_4_0/Rating_labeled.csv",
+    "IGAR_CC_BY_4_0/VADER_labeled.csv"
+  ],
+  "layout": "Core plus five whole-MAT ZIP volumes; extract into the same directory. No binary concatenation.",
+  "attempts": [
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Public_Backup_Core.zip",
+      "http_status": 201,
+      "curl_exit_code": 0,
+      "at_utc": "2026-11-11T05:15:50.086707+00:00",
+      "reason": "See private raw response; no success inferred from reachability"
+    },
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Telemetry_Volume_01.zip",
+      "http_status": 201,
+      "curl_exit_code": 0,
+      "at_utc": "2026-11-11T05:16:04.637409+00:00",
+      "verified_server_checksum": true
+    },
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Telemetry_Volume_02.zip",
+      "http_status": 201,
+      "curl_exit_code": 0,
+      "at_utc": "2026-11-11T05:16:21.768491+00:00",
+      "verified_server_checksum": true
+    },
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Telemetry_Volume_03.zip",
+      "http_status": 201,
+      "curl_exit_code": 0,
+      "verified_server_checksum": true,
+      "at_utc": "2026-11-11T05:23:34.605631+00:00",
+      "resumed_after_interruption": true
+    },
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Telemetry_Volume_04.zip",
+      "http_status": 201,
+      "curl_exit_code": 0,
+      "verified_server_checksum": true,
+      "at_utc": "2026-11-11T05:23:43.553689+00:00",
+      "resumed_after_interruption": true
+    },
+    {
+      "host": "Filebin",
+      "file": "Auto2000_Telemetry_Volume_05.zip",
+      "http_status": 507,
+      "curl_exit_code": 0,
+      "verified_server_checksum": false,
+      "at_utc": "2026-11-11T05:23:54.932833+00:00",
+      "resumed_after_interruption": true
+    },
+    {
+      "host": "TmpFiles",
+      "file": "Auto2000_Telemetry_Volume_05.zip",
+      "http_status": 200,
+      "curl_exit_code": 0,
+      "at_utc": "2026-11-11T05:24:38.277082+00:00"
+    },
+    {
+      "host": "Catbox",
+      "file": "Auto2000_Telemetry_Volume_05.zip",
+      "http_status": 200,
+      "curl_exit_code": 0,
+      "at_utc": "2026-11-11T05:24:55.291271+00:00"
+    }
+  ],
+  "files": [
+    {
+      "file": "Auto2000_Public_Backup_Core.zip",
+      "bytes": 21158523,
+      "sha256": "073bab0ae2da404c4ff6b26198508db0120bf3143672c6bf4195739d757ef58c",
+      "host": "Filebin",
+      "url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2/Auto2000_Public_Backup_Core.zip",
+      "verified": true,
+      "verification": "Server201 metadata matched client SHA256 supplied in upload header",
+      "expires_at": "2026-11-18T05:15:49.753141Z"
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_01.zip",
+      "bytes": 51229660,
+      "sha256": "900b6c259ab012059e9418353613455e277be52f4ed30077459527a89c07f1d8",
+      "host": "Filebin",
+      "url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2/Auto2000_Telemetry_Volume_01.zip",
+      "verified": true,
+      "verification": "Server201 SHA256 metadata match",
+      "expires_at": "2026-11-18T05:16:04.35089Z"
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_02.zip",
+      "bytes": 87813472,
+      "sha256": "fba3cde7a8196d3bcade636aa6cf33bbf5bbc893b33b9775f4963ef9a741b10e",
+      "host": "Filebin",
+      "url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2/Auto2000_Telemetry_Volume_02.zip",
+      "verified": true,
+      "verification": "Server201 SHA256 metadata match",
+      "expires_at": "2026-11-18T05:16:21.503834Z"
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_03.zip",
+      "bytes": 94664188,
+      "sha256": "3de29b69820fb05f255845ea66a94642fe563b45892625cc09e721323bb2ba25",
+      "host": "Filebin",
+      "url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2/Auto2000_Telemetry_Volume_03.zip",
+      "verified": true,
+      "verification": "Server201 SHA256 metadata match",
+      "expires_at": "2026-11-18T05:23:34.199968Z"
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_04.zip",
+      "bytes": 32336528,
+      "sha256": "976e11c2a9fbbd0d2d89ceb9218080b1be9b46f30dfb55748ad50959685f0d6f",
+      "host": "Filebin",
+      "url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2/Auto2000_Telemetry_Volume_04.zip",
+      "verified": true,
+      "verification": "Server201 SHA256 metadata match",
+      "expires_at": "2026-11-18T05:23:43.304419Z"
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_05.zip",
+      "bytes": 14238241,
+      "sha256": "6ab92599557d1c28dacf7c5be14f371276b2e7421f62d49370cab8d0489ea237",
+      "host": "TmpFiles",
+      "url": "https://tmpfiles.org/wIA6Wi4e6kp4/auto2000_telemetry_volume_05.zip",
+      "download_url": "https://tmpfiles.org/dl/wIA6Wi4e6kp4/auto2000_telemetry_volume_05.zip",
+      "download_http_status": 200,
+      "download_bytes": 2874,
+      "download_sha256": "ef938af14ec00aa6d8d93b552d4397b9724cff10680f63137cad11d719bc248e",
+      "verified": false,
+      "verification": "Full downloaded bytes SHA256 and size comparison",
+      "expiry_confirmed_by_response": false,
+      "retention_seconds_requested": 172800
+    },
+    {
+      "file": "Auto2000_Telemetry_Volume_05.zip",
+      "bytes": 14238241,
+      "sha256": "6ab92599557d1c28dacf7c5be14f371276b2e7421f62d49370cab8d0489ea237",
+      "host": "Catbox",
+      "url": "https://files.catbox.moe/naokdk.zip",
+      "download_url": "https://files.catbox.moe/naokdk.zip",
+      "download_http_status": 200,
+      "download_bytes": 14238241,
+      "download_sha256": "6ab92599557d1c28dacf7c5be14f371276b2e7421f62d49370cab8d0489ea237",
+      "verified": true,
+      "verification": "Full downloaded bytes SHA256 and size comparison",
+      "expiry_confirmed_by_response": false
+    }
+  ],
+  "complete_verified_public_backup": true,
+  "preferred_host": "Filebin with alternative for remaining object",
+  "bin_url": "https://filebin.net/auto2000-5abdf26a9e353ecfe7a2",
+  "finished_utc": "2026-11-11T05:25:04.168210+00:00",
+  "delivery_note": "Complete public-safe backup across Filebin (core and telemetry 01\u201304) and Catbox (telemetry 05). Filebin rejected the final object with HTTP507. TmpFiles returned a small page rather than matching archive bytes and is not a verified backup. The primary private download also includes the two IGAR originals omitted here.",
+  "public_core_is_sealed_pre_upload_snapshot": true,
+  "public_core_context_backup_status": "Pending at core sealing; this separate receipt and the primary release context give the actual final outcome."
+}

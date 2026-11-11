@@ -1,0 +1,25 @@
+{
+  "fixed_sources": 24,
+  "new_network_requests": 0,
+  "human_validation": false,
+  "expected_zero_word_selections_v3": 0,
+  "restored_nonempty_vs_v2_n": 2,
+  "reference_only": false,
+  "production_v3_verified": true,
+  "timestamp_utc": "2026-11-11T03:21:45.325457+00:00",
+  "published_comparison_pass_counts": {
+    "version3": 24,
+    "selector_matches": 24,
+    "words_match": 24,
+    "content_hash_matches": 24,
+    "main_links_match": 24,
+    "rp_flag_matches": 24,
+    "canonical_matches": 24,
+    "h1_matches": 24,
+    "forms_match": 24,
+    "title_cap_matches": 24,
+    "capture_time_matches_original": 24,
+    "source_request_id_matches": 24,
+    "AI_cached_source_check_no_human": 24
+  }
+}

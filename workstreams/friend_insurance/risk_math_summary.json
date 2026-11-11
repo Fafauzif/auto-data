@@ -1,0 +1,24 @@
+{
+  "scenarios": 51,
+  "observed_records": 0,
+  "formulae": {
+    "shortfall": "max(0,F-valid_offer)",
+    "topup": "min(cap,shortfall)",
+    "capped_credit": "valid_offer+topup",
+    "full_floor_insurance_recovery": "min(perunit_limit,max(0,shortfall-retention)) conditional on coverage and remaining aggregate limit",
+    "dealer_net_shortfall": "shortfall-recovery"
+  },
+  "missing": [
+    "actual offer distributions",
+    "redemption/market dependence",
+    "actual underwriting appetite",
+    "policy pricing",
+    "aggregate limits",
+    "counterparty default",
+    "settlement timing",
+    "incremental vehicle GP",
+    "partner remarketing contribution",
+    "programme operation costs"
+  ],
+  "risk": "An insurer limit caps insurer payment, not an unconditional customer floor obligation. A dealer top-up cap limits customer benefit and cannot be called a full floor."
+}

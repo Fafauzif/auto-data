@@ -1,0 +1,24 @@
+[
+  {
+    "id": "astra_ar2024",
+    "source_url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2024.pdf",
+    "final_url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2024.pdf",
+    "status": 200,
+    "request_id": "724f6cff1fe44fff96e548f68bd7eccf",
+    "sha256": "84f812b5011ada65188737598fd2ae411b9086f43d734024eb9b8a995baae170",
+    "bytes": 18361836,
+    "private_path": "/workspace/scratch/70444ed5f561/auto2000_run/private_cache/friend_capabilities/astra_ar2024.pdf",
+    "error": ""
+  },
+  {
+    "id": "suitmedia_sam",
+    "source_url": "https://suitmedia.com/work/astra-sam",
+    "final_url": "https://suitmedia.com/work/astra-sam",
+    "status": 200,
+    "request_id": "452447ee6a224593a7d1399600db64c4",
+    "sha256": "5d43f5ec47a5def9e304a724a0adca5fdf45cb37a20420c8bfd4722f66203464",
+    "bytes": 570325,
+    "private_path": "/workspace/scratch/70444ed5f561/auto2000_run/private_cache/friend_capabilities/suitmedia_sam.html",
+    "error": ""
+  }
+]

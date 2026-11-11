@@ -1,0 +1,177 @@
+[
+  {
+    "option_id": "OPT-C01",
+    "journey_ids": "UX12",
+    "observed_existing_capability": "Website already has app-store destinations; destination/app/deep-link behavior unverified.",
+    "remaining_gap_status": "Role confusion or integration gap not established.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C02",
+    "journey_ids": "UX05 | UX06 | UX07 | UX12",
+    "observed_existing_capability": "Test-drive, workshop, trade-in and app routes exist with task-specific prerequisites.",
+    "remaining_gap_status": "Actual context transfer to staff/app untested; do not label failed continuity.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C03",
+    "journey_ids": "UX05 | UX08",
+    "observed_existing_capability": "Test-drive page says team will contact customer; tentative date windows exist. B&P calendar was inspected only partially.",
+    "remaining_gap_status": "Some status qualification is already present; do not propose confirmation wording as wholly absent.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C04",
+    "journey_ids": "UX05 | UX06 | UX07",
+    "observed_existing_capability": "Existing task forms specify purchase/vehicle/plate/mileage requirements before later stages.",
+    "remaining_gap_status": "Need for additional preparation guidance is untested; field necessity not judged.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C05",
+    "journey_ids": "",
+    "observed_existing_capability": "No current full entitlement comprehension or vehicle-linked programme walkthrough in these12cells.",
+    "remaining_gap_status": "Untested gap; competitor programme complexity alone is not demand.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C06",
+    "journey_ids": "",
+    "observed_existing_capability": "No ownership-transfer entitlement walkthrough or participant evidence.",
+    "remaining_gap_status": "Untested gap; first-owner restrictions cannot imply actual resale confusion.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C07",
+    "journey_ids": "",
+    "observed_existing_capability": "No fleet-specific journey was tested.",
+    "remaining_gap_status": "Untested audience need, terms and route; no fleet product recommendation.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C08",
+    "journey_ids": "",
+    "observed_existing_capability": "No current Digiroom/website battery-certificate interpretation task was tested.",
+    "remaining_gap_status": "Existing OEM certificate must remain baseline; current Auto2000 gap unknown.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C09",
+    "journey_ids": "UX07",
+    "observed_existing_capability": "Auto2000 already describes professional inspection and subsequent trade-in offer.",
+    "remaining_gap_status": "No estimate or evidence exchange generated; appraiser acceptance and value untested.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C10",
+    "journey_ids": "UX07",
+    "observed_existing_capability": "Professional inspection and subsequent offer are already explained on the trade-in page.",
+    "remaining_gap_status": "Distinction may already be adequate; partial boundary prevents assessment of estimate presentation.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C11",
+    "journey_ids": "UX07",
+    "observed_existing_capability": "Trade-in prerequisites were observed but no completed transaction/payment timing.",
+    "remaining_gap_status": "No timing mismatch established; OLX operator terms are not Auto2000 achieved performance.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C12",
+    "journey_ids": "UX03 | UX04",
+    "observed_existing_capability": "A functioning no-contact simulator returns multiple tenor options; insurance/first-installment timing is disclosed.",
+    "remaining_gap_status": "Do not propose a missing simulator or hidden-fee diagnosis; prequalification/approval/expiry remain different untested states.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C13",
+    "journey_ids": "UX11",
+    "observed_existing_capability": "Toyota OEM form explicitly allows delivery by someone else; not a household finance task.",
+    "remaining_gap_status": "Roles can differ, but household financial coordination pain remains unmeasured.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C14",
+    "journey_ids": "",
+    "observed_existing_capability": "No fitment/parts purchase task in the available12cells.",
+    "remaining_gap_status": "Untested gap; warranty terms do not establish compatibility friction.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C15",
+    "journey_ids": "UX02 | UX03 | UX04",
+    "observed_existing_capability": "Model comparison and repeatable credit scenarios already exist; insurance timing changes cash/cicilan outputs.",
+    "remaining_gap_status": "New value must address a specific unresolved ownership comparison; affordability and comprehension remain unmeasured.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C16",
+    "journey_ids": "",
+    "observed_existing_capability": "No paid-protection decision task tested.",
+    "remaining_gap_status": "Untested gap; rival package price is not Auto2000 cost or willingness to pay.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C17",
+    "journey_ids": "UX08",
+    "observed_existing_capability": "B&P branch lookup works for Bekasi and opens named specialist branch/calendar before plate entry.",
+    "remaining_gap_status": "Reject blanket absence of specialist locator; current ambiguous date state cannot establish capacity or harmful misrouting.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C18",
+    "journey_ids": "",
+    "observed_existing_capability": "No location-qualified emergency support fulfillment was tested.",
+    "remaining_gap_status": "Untested gap; competitor scope does not prove local Auto2000 failure.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C19",
+    "journey_ids": "",
+    "observed_existing_capability": "No current breakdown/onward-mobility decision task tested.",
+    "remaining_gap_status": "Untested gap and demand; no actual partner/control/cost basis.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C20",
+    "journey_ids": "UX06 | UX09",
+    "observed_existing_capability": "Workshop and home-service forms already impose vehicle-to-service-to-location sequencing.",
+    "remaining_gap_status": "Do not propose home service as absent; early context suitability and scope utility remain untested.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C21",
+    "journey_ids": "UX12",
+    "observed_existing_capability": "Website app destinations observed; no vehicle-connected account setup or transfer tested.",
+    "remaining_gap_status": "No observed dealer setup gap; OEM security/control limits remain.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C22",
+    "journey_ids": "",
+    "observed_existing_capability": "No subscription renewal or linked vehicle contract task tested.",
+    "remaining_gap_status": "Untested gap; independent dealer revenue role unknown.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C23",
+    "journey_ids": "UX11",
+    "observed_existing_capability": "Toyota OEM service form already recognizes a person other than owner can deliver the vehicle.",
+    "remaining_gap_status": "Avoid claiming all flows assume owner=driver; multi-account and fleet needs untested.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C24",
+    "journey_ids": "",
+    "observed_existing_capability": "No current programme-eligibility decision/comprehension task tested.",
+    "remaining_gap_status": "Conditional-service facts support a research question, not evidence of retention loss.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  },
+  {
+    "option_id": "OPT-C25",
+    "journey_ids": "UX01 | UX02",
+    "observed_existing_capability": "Catalogue and comparison expose apparent numeric anomalies and different bZ4X price representations.",
+    "remaining_gap_status": "Reconcile model/year/variant/location/date before calling stale or misleading; not a proven campaign problem.",
+    "user_decision_status": "Candidate only; no winner/implementation"
+  }
+]

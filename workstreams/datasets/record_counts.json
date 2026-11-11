@@ -1,0 +1,35 @@
+{
+  "BPS": {
+    "year_tables": 7,
+    "numeric_cells": 1285,
+    "grain": "province/year/vehicle_type; includes nationaltotals, not independentpeople"
+  },
+  "SPKLU": {
+    "consolidated_station_records": 2454,
+    "chargerbox_records": 3767,
+    "grain": "Separatehierarchicallevels; not uniquevisitors orvehiclecounts"
+  },
+  "CASA_auxiliary": {
+    "split_rows_total": 1080,
+    "clean_training_texts": 808,
+    "grain": "Historicalvehicleproductreviewbenchmark; notAuto2000data"
+  },
+  "IGAR_auxiliary": {
+    "rating_view_rows": 617722,
+    "vader_view_rows": 617722,
+    "unique_six_field_composite_record_keys": 617703,
+    "exact_duplicate_excess_perview": 19,
+    "source_time": "2012-05to2023-03",
+    "grain": "Sameunderlyingreviews twolabelviews; NOTAuto2000",
+    "feature_table_rows": 617722,
+    "feature_table_columns": 15
+  },
+  "derived_computations": {
+    "haversine_stationpair_computations": 6019662,
+    "not_independent_observations": true
+  },
+  "raw_appendix": {
+    "source_files": 17,
+    "uncompressed_bytes": 218805786
+  }
+}

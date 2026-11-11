@@ -1,0 +1,382 @@
+The shortlist remains plausible but its added value is unproven
+
+
+
+The supplied context adds useful questions about powertrain suitability, branch capability, battery evidence, insurance and future trade-in value. Its strongest contribution is to distinguish the customer jobs behind those ideas. Current evidence supports several existing capabilities and narrows several statistics. It does not establish that the proposed directions change completed sales, service capture or Auto2000 gross profit.
+
+R1 remains a distinct hypothesis about driving needs, charging access and ownership economics. An existing finance calculator does not settle that question. R2 partly overlaps functioning service-category and branch discovery, while verified model-by-job routing and reliable confirmation remain unresolved. M2 overlaps an existing digital battery-certificate route and BEV trade-in selection. Its added value would have to come from usable, consented evidence within appraisal, rather than creating the first certificate.
+
+The main corrections concern scope. Astra's Toyota and Lexus sales figures are not Auto2000's sales. Announced technology does not demonstrate effective branch adoption. National survey concerns are not the prevalence of a Digiroom defect. A certificate, a motor-insurance policy, a capped trade-in benefit and a future-price guarantee create different evidence and financial obligations.
+
+Assessment | What survives the check
+
+Confirmed within scope | Published technology and programme baselines; working public finance, comparison and discovery functions; a digital certificate retrieval route.
+
+Qualified | Market figures, survey denominators, insurance coverage and novelty claims need entity, cohort, date or contract limits.
+
+Unresolved | Auto2000-specific demand, operational adoption, partner acceptance, causal transaction effects and realized contribution.
+
+This report keeps the solution choice with the user. It evaluates the evidence and remaining distinctions without selecting a winning strategy, prescribing a rollout or converting assumptions into measured results. Evidence anchors: challenge register; capabilities FC01–FC35; journeys UX02–UX12 and JX01–JX07; insurance INS-001–INS-029; survey audit.
+
+
+
+The evidence registers answer different questions
+
+
+
+The friend-context register indexes 40 substantive analytical groups and 148 scoped subclauses. It separates 19 hypothesis groups, 12 factual or evidence-boundary groups, and nine proposed solutions. These counts describe analytical coverage. They do not represent 148 independent studies, verified findings or customer observations. The register excludes administrative material and pure casebook baseline rows from its challenge count.
+
+The specialist work adds 35 capability checks, 29 insurance and risk checks, and a separate survey audit. The journey evidence consists of 12 earlier desktop task cells and seven focused follow-up cells. Some follow-up cells revisit the same pages for narrower questions. The same annual report, operator page or interface can support several checks, so the registers must not be pooled as if each row were an independent source.
+
+The checks preserve what the friend document actually says. A carefully qualified idea cannot fairly be rewritten as an assertion that a feature is absent, an insurer is committed or an uplift is guaranteed, then rejected on that stronger basis. Several directions survive precisely because their proposed addition is narrower than the existing advertised feature.
+
+No customer interview, recruited participant test, dealer observation, private CRM analysis or controlled commercial experiment was completed in this assessment. Browser work used a logged-out desktop session at 1363 by 936 pixels. No customer contact, plate, chassis number or private account was supplied. Mobile and native-app behavior remain outside the observed journey coverage.
+
+Record status | Meaning for the reader
+
+Confirmed | The cited source supports the specific entity, time and statement.
+
+Qualified | A basis exists, but the proposed interpretation needs narrower scope.
+
+Unresolved | Available evidence does not settle the customer or business claim.
+
+Source verification and causal verification are separate. A completed crosscheck means the source was examined, not that the mechanism produced business value. Evidence IDs are namespaced by workstream because FC01 in the capability register differs from FC01 in the friend-context register.
+
+
+
+Existing technology raises the bar for distinctiveness
+
+
+
+Astra's 2025 annual report describes Sales Activity Management, Reminder Service, Mobile Service Advisor and Auto Intelligence. It also describes customer identity, customer-facing and frontline applications, analytics and marketing automation. Digiroom already covers purchase, service booking, tracking, test drives, trade-in and loyalty. These disclosures establish a substantial baseline for the option assessment.
+
+The SAP passage needs precise reading. Printed page 124 states that ASMO3 had completed integration, while completion across Auto2000 branches was targeted for the end of 2026. Those are different business units and deployment states. Current completion across Auto2000 was not established by the retrieved official material. A target cannot be treated as either nationwide completion or proof of present failure.
+
+Capability existence leaves adoption and performance open. A customer identity can exist while a frontline worker lacks appropriate permissions, usable context or a workable task sequence. Conversely, a difficult individual journey does not prove that the underlying system is absent. These alternatives matter when assigning a digital or operational cause.
+
+The report's AI examples also have specific owners. Head-office audit, tax, HR and knowledge tools do not establish an Auto2000 customer-facing EV recommendation engine. Motorcycle inventory and dealer systems cannot be silently reassigned to the car-dealer business. A supplier's historical SAM case supports a historical capability, with no current API or outcome guarantee.
+
+Footprint | Boundary
+
+31 Auto2000 EV ecosystem outlets | A footprint count, not a named model-by-job matrix or available technician capacity.
+
+118 Toyota charging locations | Includes 113 dealer locations, two rest-area locations and three malls; not 118 Auto2000 sites.
+
+Trade Cycle Management and OLXmobbi cooperation | Does not establish battery-data acceptance, a future-price promise or partner loss absorption.
+
+Implication: assess the unmet task and its use of existing capabilities before treating a new platform as the answer. Evidence: capabilities FC01–FC19 and FC28–FC29; Astra AR2025 printed pages 124–126 and 137–141. The PDF page number in this region is the printed number plus two.
+
+
+
+Sales scale and portfolio mix explain different quantities
+
+
+
+The annual-report chart concerns Toyota and Lexus domestic sales. Total volume fell from 291,566 in 2024 to 251,954 in 2025, a 13.59 percent decline. Its xEV volume fell from 37,693 to 31,668, a 15.98 percent decline or 6,025 vehicles. Within that portfolio, xEV mix moved from 12.93 percent to 12.57 percent, a reduction of about 0.36 percentage points.
+
+An accounting decomposition allocates the 6,025-unit decline between a smaller total sales base and a changed xEV share within that base. Holding the 2024 xEV mix against the smaller 2025 total gives approximately 32,572 xEVs. That is about 904 above the observed figure. Under this ordering, approximately 5,121 units are assigned to the total-sales-scale term and 904 to the within-portfolio-mix term.
+
+This allocation is descriptive arithmetic. It does not show that general market weakness caused a particular share of the decline. Pricing, product availability, financing, competition and customer composition can affect both total volume and mix. Reversing the decomposition order changes the allocation. Neither allocation identifies a Digiroom effect.
+
+The same report describes a rounded national xEV mix of about 22 percent. The portfolio's lower mix is a useful strategic exposure question, but it is not an observed Auto2000 adoption gap. Dealer-reachable demand, assortment and the installed service base have not been derived from that comparison.
+
+Quantity | 2024 | 2025
+
+Toyota and Lexus total sales | 291,566 | 251,954
+
+Toyota and Lexus xEV sales | 37,693 | 31,668
+
+xEV share within portfolio | 12.93% | 12.57%
+
+Keep the casebook's 175,144 national xEV figure and approximately 33,950 Toyota estimate labeled as case inputs. Do not silently replace them with differently scoped annual-report figures. New sales are flows; service-eligible vehicles are accumulated cohorts. Evidence: capabilities FC23–FC27 and economic_diagnostics.json; AR2025 printed page 140.
+
+
+
+Survey concerns need their actual question bases
+
+
+
+Deloitte's 2026 Indonesian charts measure several different populations. Next-powertrain preference and BEV concerns use a base of 863. Expected charging location uses 223. Dedicated residential-charger access uses 136 and is conditional on expecting to charge mainly at home. The finding that 61 percent expect home charging and the 54 percent residential-access figure therefore have different denominators.
+
+This distinction changes the interpretation of R1 and M1. The figures support investigating home-charging suitability. They do not imply that 46 percent of every Indonesian EV prospect lacks a charger, or that a digital guide can resolve building permissions, parking rights, electrical work or affordability. The questions also describe intentions and concerns rather than completed purchases or charger installations.
+
+The 2025 report has another set of bases. Its overall Indonesian sample is 1,004, but home and public charging preferences of 62 and 29 percent use 178 respondents. Lower fuel cost as a purchase reason uses 273. Edition year and fieldwork year should remain separate; the global 2025 page describes October–November 2024 fieldwork.
+
+The survey audit confirms accessible Rakuten and Statista metadata but could not independently inspect the numeric awareness chart. The supplied BYD 57 percent, Toyota 28 percent, Wuling 55 percent and Hyundai 45 percent values remain user-provided figures pending original-chart verification. The resulting 29-point BYD–Toyota difference is arithmetic on those inputs. It is not an independently verified causal finding.
+
+Deloitte 2026 measure | Indonesian base | Interpretation
+
+Next powertrain and BEV concerns | 863 | Preference or concern in the stated question.
+
+Expected main charging location | 223 | Conditional EV-intender question.
+
+Dedicated residential charger | 136 | Subgroup expecting mainly home charging.
+
+Even verified electric-car awareness would not directly measure overall Toyota recognition, Auto2000 awareness, Digiroom adoption or conversion. Evidence: survey D25_SAMPLE–D25_FUEL, D26_ICE–D26_DEDICATED, RAK_SCOPE–RAK_HYUNDAI; Deloitte 2025 and 2026 original charts.
+
+
+
+Owner dissatisfaction and service access evidence remain scoped
+
+
+
+PwC's 2025 ASEAN report states an Indonesian owner percentage of 33 percent considering a return to ICE. The 71 percent citing maintenance cost above expectations is conditional on considering that return. It cannot be presented as 71 percent of all Indonesian EV owners. The reasons chart's 158 respondents are ASEAN-wide, not the Indonesian subgroup count.
+
+The report's range, battery-life and charging objections of 55, 53 and 42 percent concern sceptics. The displayed regional base of 510 is also not an Indonesian count. The methodology concerns passenger BEVs and PHEVs, despite broader technology language in some press material. These responses do not establish actual return-to-ICE behavior, verified maintenance bills or dissatisfaction among Toyota hybrid owners.
+
+PwC's 2024 prospect barriers and purchase criteria likewise concern prospects, with country subgroup counts unavailable at the inspected charts. A mean acceptable charging time, such as the Indonesian prospect figure of 41.1 minutes, is different from a percentage worried about charging. A stated Chinese tolerance of 36 minutes cannot be treated as an Indonesian charging performance standard.
+
+Populix supplies a service-access lead with weaker denominator clarity. Its primary catalog identifies the report, but the full report required a contact form that was not submitted. Secondary accounts disagree on geography and other sample details. The study spans electric bicycles, motorcycles and cars. Reported workshop and waiting concerns cannot establish prevalence among Toyota car owners.
+
+Tempting inference | What the evidence supports
+
+Most Toyota owners face workshop rejection | A mixed-category survey supplies a question to investigate.
+
+High costs cause customers to leave Digiroom | Stated owner concerns; the channel and causal effect are unmeasured.
+
+An overseas charging benchmark will transfer | A possible mechanism to study under different local conditions.
+
+These surveys strengthen the case for competing tests of offer fit, affordability, information and service execution. They do not select the direction. Evidence: surveys P24_CHARGE–P25_CHINA_TIME and POP_BATTERY–POP_WAIT; PwC 2025 PDF pages 2, 14, 21–22 and 43–46.
+
+
+
+R1 survives as a fit and ownership economics hypothesis
+
+
+
+R1 asks users about daily distance, long trips, charging access and budget, then explains relevant powertrain choices and an ownership-cost range. That is a different task from calculating installments. It remains plausible after the current walkthroughs, but its value has not been established by a respondent saying that charging or battery costs are concerning.
+
+The existing comparison succeeds for an Innova Zenix hybrid G HV CVT and conventional G CVT. Prices of Rp475.4 million and Rp437.7 million appeared beside technical attributes. The airbag-count field displayed TRUE for both vehicles, and several rows marked information unavailable. This is a specific data-presentation concern. It does not demonstrate that the vehicle specifications are wrong or that customers abandon a purchase.
+
+The existing finance calculator also works before personal contact. A repeated default hybrid scenario with optional income empty returned identical results. For the 60-month option, changing insurance from upfront payment to installments reduced initial cash from Rp154,847,741 to Rp109,533,402 while raising the remaining monthly amount from Rp9,271,161 to Rp10,403,402. The interface disclosed the timing choices. These figures describe a simulator scenario, not a binding lender quote or a hidden-fee finding.
+
+An OEM T-Care tool already supplies model-specific service estimates, albeit with a March 2024 basis in the inspected example. R1 therefore needs to establish a useful synthesis across driving context, charging constraints, purchase cash and operating assumptions. Its strongest rival is that customers understand the options but prefer a more affordable or better-fitting rival product.
+
+Evidence already available | Remaining R1 question
+
+Technical comparison | Does the user understand the consequential trade-off?
+
+Finance and dated service estimates | Does a contextual total-cost range improve a feasible choice?
+
+Battery and charging concerns | Which uncertainty actually changes the next action?
+
+Potential strategic distinction: contextual decision support using existing verified inputs. This is an option for assessment, not a selected intervention or measured sales uplift. Evidence: UX02–UX04, JX01 and JX03; comparison, finance and T-Care source locators in the journey files.
+
+
+
+R2 depends on job verification and fulfilment
+
+
+
+R2 proposes booking by vehicle model, job and verified branch capability, with a credible slot, scope or duration. A general booking screen is therefore an incomplete benchmark for the idea. The question is whether the current process resolves the specific job and its fulfilment uncertainty.
+
+The public branch filter already distinguishes showroom, workshop and spare parts, and body and paint. The workshop selection reduced the displayed default Jakarta Pusat set from ten to four branches. Cempaka Putih's page showed separate department hours. The inspected panel did not expose a model-specific high-voltage or health-check selector, but this local result cannot establish an ecosystem-wide feature absence.
+
+Workshop and home-service flows qualify the vehicle before the service and branch/time steps. The evaluator stopped at required vehicle identifiers. Qualification may be necessary for entitlement, suitable job duration or equipment. The evidence does not establish that these fields are excessive, that the selected branch is incapable, or that customers leave because of them.
+
+The body-and-paint search worked for an alternate city after the default city showed no branch. Test-drive previews also displayed tentative windows before contact. Expanded FAQs explicitly described later staff confirmation and branch-dependent variant availability. A requested slot, a confirmed appointment, attendance, completed work and realized dealer contribution remain separate outcomes.
+
+Established | Still unresolved
+
+Broad service and branch discovery | Model-by-job competence and usable capacity.
+
+Vehicle qualification and guest route | Downstream fit, customer effort and context continuity.
+
+Tentative test-drive date windows | Confirmed stock, actual response and attendance.
+
+Potential strategic distinction: dependable coordination for a defined job, where a current unmet transition can be demonstrated. The 31-outlet footprint and the presence of a calendar do not prove or disprove that need. Evidence: JX05–JX06 and UX05–UX09; capabilities FC12–FC19.
+
+
+
+M2 needs appraisal use rather than a new certificate
+
+
+
+Toyota's live Hybrid Health Check page offers digital certificate retrieval. The route presents chassis validation, personal details and download stages. Its first field asks for a 17-digit chassis number. The evaluator stopped before entering an identifier. This establishes an existing digital route, without proving that any particular certificate can be retrieved, is complete or contains a specific battery-health metric.
+
+The programme ties the check to qualifying periodic service and age or mileage conditions. A generic promise of a free battery diagnosis at any time would overstate that scope. A certificate records an inspection under a method and date; it cannot by itself guarantee future condition, a resale premium or warranty acceptance.
+
+Current trade-in selection also includes BZ4X and hybrid model names. An illustrative BZ4X, 2023, automatic selection was accessible before the required plate boundary. The page describes a later professional inspection and offer. No estimate, certificate upload, appraiser acceptance or final price was observed. The account route redirected to login, preventing inspection of private ownership records.
+
+M2's remaining proposition is a permissioned link between official condition evidence, an identifiable vehicle and an appraisal decision. Its plausibility depends on actual appraiser use and the customer's transaction. Model price, physical condition, mileage, competing offers and inventory can dominate a certificate's value. Existing group cooperation does not establish a shared data permission or a contractual obligation to raise the offer.
+
+Existing baseline | Unresolved addition
+
+Digital HHC retrieval route | Authentic usable record with permitted linkage.
+
+BEV trade-in model selection | Accepted condition evidence in an actual appraisal.
+
+Protected ownership account | Completeness, chronology and consented transfer.
+
+Potential strategic distinction: trusted continuity into an existing appraisal process, if it improves a real decision. A guaranteed future trade-in value is a separate financial promise and must be assessed separately. Evidence: JX02, JX04 and JX07; insurance INS-020–INS-021; capabilities trade-cycle records.
+
+
+
+EV protection and residual value cover different risks
+
+
+
+A real EV-specific syariah motor product is already publicly offered by Zurich. Its detailed product summary narrows the object to four-wheel BEVs and separates package benefits, limits, deductibles, exclusions and authorized-workshop options. It does not establish automatic HEV or PHEV eligibility, every charging or battery event, or a signed Auto2000 distribution arrangement.
+
+The reviewed summary gives particular annual limits for charging-related battery, vehicle and charger protection. Flood and authorized-workshop benefits depend on the selected package. A battery checkmark under a total-loss category does not erase the separately stated loss threshold. Normal degradation, a manufacturing defect and accidental damage require different contractual analysis.
+
+Existing insurer claim channels and provider routing already address part of the job. A proposed Digiroom role must show an unresolved transition, such as understanding the applicable cover or reaching an eligible repair task. Booking a workshop does not approve an insurer claim. Group affiliation does not allocate every insurer or used-car margin to Auto2000.
+
+International residual-value insurance provides a B2B precedent for specified residual exposure. A manufacturer resale programme, a dealer top-up, an OEM warranty and insurance are different promises. Hyundai's inspected detailed resale terms cover named non-BEV families; the VinFast campaign supplies a less fully specified headline. Neither inspected precedent establishes a local syariah RVI contract.
+
+Mechanism | Question it answers
+
+OEM warranty | Does this technical defect qualify under the vehicle terms?
+
+EV motor insurance | Does this loss qualify under the selected insured risks?
+
+Health certificate and appraisal | What evidence supports the vehicle condition and offer?
+
+Residual promise or insurance | Who owes or indemnifies a qualifying future shortfall?
+
+OJK and DSN materials identify framework dependencies, not approval of a proposed Auto2000 product or sharia structure. No dealer fee, insurer acceptance, product-specific quote or commercial effect was verified. Evidence: insurance INS-001–INS-029; detailed source and page locators in claim_matrix.csv.
+
+
+
+A capped benefit is not a full future price floor
+
+
+
+The proposed capped top-up and a guaranteed minimum trade-in value have different loss shapes. If a qualifying floor reference is Rp200 million, the accepted offer is Rp180 million and the benefit is capped at Rp10 million, the customer receives Rp190 million. The cap has not created a Rp200 million minimum.
+
+For a hypothetical full floor, an insurer layer can still leave material dealer exposure. The illustration below assumes a Rp10 million retention and a further Rp15 million per-unit insurer limit, with eligible covered loss and aggregate capacity remaining. It excludes premium, fees, tax, timing, operating costs and counterparty failure. It is conditional arithmetic, not a quote or evidence that the cover is available.
+
+A policy's limit bounds the insurer's payment. It does not necessarily bound the promisor's obligation to the customer. A broad resale-price fall may increase loss severity and the attractiveness of exercising the promise at the same time. This dependence is a hypothesis requiring actual redemption data, not a result from the scenario table.
+
+The economic question also requires a counterfactual. A loyal buyer who would return anyway can consume the benefit without generating an additional delivery. A substitute Auto2000 purchase does not automatically produce the full new-car margin as incremental value. Public asking prices, stated intent and group partnerships cannot resolve those quantities.
+
+Offer in Rp m | Capped credit | Floor shortfall | Insurer layer | Dealer residual
+
+205 | 205 | 0 | 0 | 0
+
+180 | 190 | 20 | 10 | 10
+
+160 | 170 | 40 | 15 | 25
+
+All amounts in the table are hypothetical million-rupiah values. At the Rp160 million offer, 20 capped redemptions cost Rp200 million; the assumed full-floor dealer residual is Rp500 million before excluded costs. These are different promises. Evidence: insurance illustrative_risk_scenarios.csv and risk_math_summary.json; challenge logic_tests.json.
+
+
+
+Evidence files and primary source guide
+
+
+
+The defensible research endpoint is a set of qualified alternatives. R1 concerns a context-specific viable choice; R2 concerns a job that can be routed and fulfilled; M2 concerns trustworthy evidence used in appraisal. Insurance coordination, a capped commercial benefit and a future-value promise retain separate owners, dependencies and economics. The current evidence does not select one of them or establish causal gross-profit uplift.
+
+A useful next evidence question is specific: which defined customer was unable to complete a feasible transaction, what alternative did they choose, and which uncertainty or handoff could Auto2000 control? The source registers preserve facts, rival explanations and missing denominators so that attractive ideas do not inherit certainty from unrelated statistics.
+
+Astra annual report 2025
+
+Printed pp 124–126 and 137–141; PDF page equals printed plus two in the inspected region.
+
+https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf
+
+Deloitte Southeast Asia automotive study 2026
+
+Indonesian question bases differ; use survey record IDs for exact chart scope.
+
+https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf
+
+PwC eReadiness ASEAN report 2025
+
+BEV/PHEV method and conditional owner and sceptic charts.
+
+https://www.pwc.com/id/en/publications/automotive/pwcid-ereadiness-2025-asean-report.pdf
+
+Toyota Hybrid Health Check
+
+Programme and certificate retrieval boundary; see JX02.
+
+https://aftersales.toyota.astra.co.id/hybrid-health-check
+
+Toyota T Care
+
+Model and variant service tool; the inspected cost note dates estimates to March 2024.
+
+https://aftersales.toyota.astra.co.id/t-care
+
+Zurich EV syariah product summary
+
+Package, object, limits, exclusions and claim process; the selected policy controls.
+
+https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf
+
+The following appendix gives exact machine-readable evidence paths. Source IDs inside those files include additional official insurer, manufacturer, regulatory and survey locators. The original supplied context and unlicensed full reports are not reproduced in this document.
+
+
+
+Friend context challenge register
+
+40 analytical groups and 148 scoped subclauses; completed source checks do not confer causal confirmation.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_challenge/claims.csv
+
+
+
+Astra capability checks
+
+35 source-scoped checks; use source IDs and printed/PDF locators.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_capabilities/claim_matrix.csv
+
+
+
+Existing and proposed function overlap
+
+Nine directions with baseline, added distinction and rival explanation.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_capabilities/option_overlap.csv
+
+
+
+Survey denominators and verification
+
+Question cohorts, known bases, source locators and unverified awareness inputs.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_surveys/survey_claims.csv
+
+
+
+Insurance and residual risk checks
+
+29 claims with contract or official-document scope and limits.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_insurance/claim_matrix.csv
+
+
+
+Observed journey follow-up
+
+Seven focused desktop cells; no owner identity or submitted transaction.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/friendcontext_JX_observations.csv
+
+
+
+Observed finance illustrations
+
+Ten simulator outputs across two insurance timing states and five tenors.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/finance_scenarios.csv
+
+
+
+Dated OEM service estimates
+
+Four paid service-visit estimates with March 2024 basis.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/journeys/tcare_observed_costs.csv
+
+
+
+Hypothetical residual risk arithmetic
+
+51 deterministic scenarios; zero observed transactions or quoted probabilities.
+
+/workspace/scratch/70444ed5f561/auto2000_run/workstreams/friend_insurance/illustrative_risk_scenarios.csv
+

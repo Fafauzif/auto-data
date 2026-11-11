@@ -1,0 +1,72 @@
+[
+  {
+    "name": "deloitte_id",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "status": 200,
+    "request_id": "d58a79508e4140f0b95a973b5c920d34",
+    "cache_hit": false,
+    "bytes": 5358362,
+    "error": "",
+    "final_url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "nist",
+    "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=958584",
+    "status": 200,
+    "request_id": "de53682121c94e59ad91392cfd65b291",
+    "cache_hit": false,
+    "bytes": 1281832,
+    "error": "",
+    "final_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=958584",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "ui_adoption",
+    "url": "https://ijtech.eng.ui.ac.id/download/article/7804",
+    "status": 200,
+    "request_id": "92e97e746e8146e4850deb8fb9faa253",
+    "cache_hit": false,
+    "bytes": 700698,
+    "error": "",
+    "final_url": "https://ijtech.eng.ui.ac.id/download/article/7804",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "java_choice",
+    "url": "https://jurnal.ugm.ac.id/v3/JCEF/article/download/22067/6050/",
+    "status": 200,
+    "request_id": "bb08ed6352ee4ef1a053129cccb4b1da",
+    "cache_hit": false,
+    "bytes": 1312632,
+    "error": "",
+    "final_url": "https://jurnal.ugm.ac.id/v3/JCEF/article/download/22067/6050/",
+    "pdf_to_text_returncode": 0
+  },
+  {
+    "name": "ipb_utaut_wrapper",
+    "url": "https://journal.ipb.ac.id/jabm/article/view/61101/31604",
+    "status": 200,
+    "request_id": "7790651f6cd04f1195a4d6ca7279a118",
+    "cache_hit": false,
+    "bytes": 4753,
+    "error": "",
+    "final_url": "https://journal.ipb.ac.id/jabm/article/view/61101/31604",
+    "pdf_candidates": [
+      "https://journal.ipb.ac.id/jabm/article/download/61101/31604/364864"
+    ]
+  },
+  {
+    "name": "ipb_environment_wrapper",
+    "url": "https://journal.ipb.ac.id/jabm/article/view/52902/28366",
+    "status": 200,
+    "request_id": "ba15f22087c141e1a7c26a602a1e310b",
+    "cache_hit": false,
+    "bytes": 4711,
+    "error": "",
+    "final_url": "https://journal.ipb.ac.id/jabm/article/view/52902/28366",
+    "pdf_candidates": [
+      "https://journal.ipb.ac.id/jabm/article/download/52902/28366/284213"
+    ]
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "job_id": "LC01",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose a suitable vehicle and household/fleet allocation",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 1,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-01"
+    ],
+    "evidence_ids": [
+      "market:M024",
+      "narrative:V004",
+      "narrative:V007",
+      "narrative:V009"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC02",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Establish a usable energy arrangement",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 1,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-02"
+    ],
+    "evidence_ids": [
+      "market:M019",
+      "EXT-E09"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC03",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Obtain and understand an affordable funding decision",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 1,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-03"
+    ],
+    "evidence_ids": [
+      "competition:COMP-009",
+      "competition:COMP-010"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC04",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose purchase, lease or subscription obligations",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 1,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-04"
+    ],
+    "evidence_ids": [
+      "market:M044",
+      "market:M045",
+      "EXT-E19"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC05",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose voluntary protection on the relevant risk",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-10",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "insurance:INS-002",
+      "insurance:INS-007",
+      "EXT-E15"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC06",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Receive the promised vehicle and usable documents",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 1,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-03",
+      "SOL-07",
+      "SOL-13"
+    ],
+    "evidence_ids": [
+      "competition:COMP-002"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC07",
+    "stage": "Onboard/authorize",
+    "canonical_customer_job": "Confirm entitlements for this vehicle and owner",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-10",
+      "SOL-11"
+    ],
+    "evidence_ids": [
+      "EXT-E14",
+      "EXT-E15",
+      "EXT-E16"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC08",
+    "stage": "Onboard/authorize",
+    "canonical_customer_job": "Authorize people and link the correct connected vehicle",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 1,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-20",
+      "SOL-24"
+    ],
+    "evidence_ids": [
+      "EXT-E01",
+      "EXT-E02",
+      "journey:UX11"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC09",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Replenish energy within actual use windows",
+    "Customer_owner": 0,
+    "User_driver": 1,
+    "Household_fleet_authorizer": 1,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 1,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-01",
+      "SOL-02"
+    ],
+    "evidence_ids": [
+      "market:M018",
+      "EXT-E18",
+      "EXT-E19"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC10",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Select an appropriate care provider and obtain a usable appointment",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-06",
+      "SOL-07",
+      "SOL-08"
+    ],
+    "evidence_ids": [
+      "EXT-E04",
+      "EXT-E16",
+      "journey:JX05"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC11",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Approve necessary work and compatible parts at a clear price",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-05",
+      "SOL-09"
+    ],
+    "evidence_ids": [
+      "EXT-E05",
+      "EXT-E07",
+      "EXT-E15"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC12",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Receive completed work and understand invoice/result changes",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-05",
+      "SOL-13",
+      "SOL-19"
+    ],
+    "evidence_ids": [
+      "market:M009",
+      "capabilities:FC05"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC13",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Decide whether to continue optional care and connected benefits",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-10",
+      "SOL-21",
+      "SOL-25"
+    ],
+    "evidence_ids": [
+      "EXT-E02",
+      "EXT-E04",
+      "EXT-E16"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC14",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Prepare for storage and return a low-use vehicle to operation",
+    "Customer_owner": 1,
+    "User_driver": 1,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-21"
+    ],
+    "evidence_ids": [
+      "EXT-E09"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC15",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Interpret condition evidence and obtain a valid diagnosis",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-12"
+    ],
+    "evidence_ids": [
+      "EXT-E10",
+      "EXT-E17",
+      "journey:JX02"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC16",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Reach appropriate emergency assistance safely",
+    "Customer_owner": 0,
+    "User_driver": 1,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-22"
+    ],
+    "evidence_ids": [
+      "competition:COMP-030",
+      "competition:COMP-031",
+      "competition:COMP-040"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC17",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Resolve a fault under the correct payer and warranty",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-10",
+      "SOL-12",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E07",
+      "EXT-E15",
+      "insurance:INS-007"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC18",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Obtain authorized collision repair and accept the outcome",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-05",
+      "SOL-06",
+      "SOL-08",
+      "SOL-19",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E21",
+      "insurance:INS-013"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC19",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Maintain essential mobility during unavailable-vehicle time",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 1,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 1,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-23"
+    ],
+    "evidence_ids": [
+      "market:M044"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC20",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Resolve a VIN-specific safety campaign and retain completion evidence",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [],
+    "evidence_ids": [
+      "EXT-E12",
+      "EXT-E13",
+      "EXT-E20"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC21",
+    "stage": "Review/redress",
+    "canonical_customer_job": "Seek review or correction of an adverse work, claim or entitlement decision",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 0,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-05",
+      "SOL-10",
+      "SOL-12",
+      "SOL-19",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E15",
+      "EXT-E21"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC22",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Have condition evidence considered in an actual buyer appraisal",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 1,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-14"
+    ],
+    "evidence_ids": [
+      "EXT-E11",
+      "journey:JX02"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC23",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Choose a sale offer or replacement value commitment",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 0,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 1,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-15",
+      "SOL-16",
+      "SOL-17"
+    ],
+    "evidence_ids": [
+      "insurance:INS-017",
+      "insurance:INS-018",
+      "market:M046"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC24",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Fund the risk behind a promised future value",
+    "Customer_owner": 0,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 1,
+    "Toyota_OEM": 0,
+    "Lender_lessor": 1,
+    "Insurer": 1,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-27"
+    ],
+    "evidence_ids": [
+      "insurance:INS-020",
+      "insurance:INS-021"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC25",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Settle outstanding finance and transfer title, benefits and access",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 1,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 1,
+    "Recycler_authority": 0,
+    "menu_ids": [
+      "SOL-11",
+      "SOL-20",
+      "SOL-24"
+    ],
+    "evidence_ids": [
+      "EXT-E14",
+      "competition:COMP-012"
+    ],
+    "not_independent_cell_counts": true
+  },
+  {
+    "job_id": "LC26",
+    "stage": "Retire/close",
+    "canonical_customer_job": "Safely retire vehicle/battery and close residual records or contracts",
+    "Customer_owner": 1,
+    "User_driver": 0,
+    "Household_fleet_authorizer": 0,
+    "Dealer_branch": 0,
+    "Toyota_OEM": 1,
+    "Lender_lessor": 1,
+    "Insurer": 0,
+    "Utility_building": 0,
+    "Appraiser_buyer": 0,
+    "Recycler_authority": 1,
+    "menu_ids": [],
+    "evidence_ids": [
+      "EXT-E10"
+    ],
+    "not_independent_cell_counts": true
+  }
+]

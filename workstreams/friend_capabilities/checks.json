@@ -1,0 +1,50 @@
+{
+  "generated_utc": "2026-11-11T03:15:07.108171+00:00",
+  "claims": 35,
+  "numeric_cells": 17,
+  "option_overlap_rows": 9,
+  "source_documents": 3,
+  "ownership_clusters": 2,
+  "ar2025_visual_qa_pdf_pages": [
+    126,
+    127,
+    128,
+    142
+  ],
+  "reference_ids_resolved": 32,
+  "unresolved_reference_ids": [],
+  "checks_passed": [
+    "Unique claim IDs",
+    "Allowed verification states",
+    "Accounting identity",
+    "Printed/PDF page map checked on rendered pages",
+    "All cross-workstream evidence references resolve"
+  ],
+  "input_manifest": [
+    {
+      "path": "upload/IBSC_2026_Auto2000_Digiroom_Master_AI_Context (2).md",
+      "sha256": "e76c307877a47d89a3f47fd6cb71a30d448e4cdfd1aaebc625fdb980f13b9be3",
+      "bytes": 76636
+    },
+    {
+      "path": "auto2000_run/workstreams/journeys/journey_observations.json",
+      "sha256": "33b519bdb46d0d5221c35eb7b24a48739e9205240167017fb58bc3231b688ba0",
+      "bytes": 14847
+    },
+    {
+      "path": "auto2000_run/workstreams/journeys/friendcontext_JX_observations.json",
+      "sha256": "0985c7d283980fbcd985b3204a2918a2d9890faa84726faa99cc6f8e0aa31fa1",
+      "bytes": 9199
+    },
+    {
+      "path": "auto2000_run/workstreams/market/evidence.json",
+      "sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6",
+      "bytes": 43631
+    }
+  ],
+  "exclusions": [
+    "No publisher PDF or page images in public deliverables",
+    "No individual employee profile evidence",
+    "No implementation or final selection"
+  ]
+}

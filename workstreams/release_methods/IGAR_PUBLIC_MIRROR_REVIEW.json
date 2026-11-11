@@ -1,0 +1,88 @@
+{
+  "review_id": "IGAR_PUBLIC_MIRROR_REVIEW",
+  "reviewed_at_utc": "2026-11-11T03:38:59.725582+00:00",
+  "scope": "Offline aggregate-only screening of the locally acquired IGAR V2 paired Rating/VADER source data before anonymous public backup",
+  "source_dataset": {
+    "title": "IGAR: Indonesian Government App Review Dataset",
+    "version": 2,
+    "doi": "10.17632/7zryc6k76z.2",
+    "license": "CC BY 4.0",
+    "source_url": "https://data.mendeley.com/datasets/7zryc6k76z/2",
+    "paired_view_rows_each": 617722,
+    "views": [
+      "Rating_labeled.csv",
+      "VADER_labeled.csv"
+    ],
+    "shared_text_views_are_not_additional_unique_reviews": true
+  },
+  "method": {
+    "network_used": false,
+    "source_text_or_identifier_values_in_receipt": false,
+    "raw_or_analysis_files_modified": false,
+    "analysis_kind": "Programmatic numeric-shape and nearby-language context screening; no verification of any person, identifier ownership, number validity, or contactability",
+    "expanded_numeric_rule": "Boundary-delimited runs containing 8–24 numeric digits with optional spaces, periods, parentheses or hyphens",
+    "context_windows_characters": {
+      "narrow_identifier_ownership_context": 45,
+      "mobile_context": 120
+    },
+    "phone_shape": "Indonesian mobile-like numeric shape; simple ascending/repeated dummy sequences and explicit example/dummy wording separately screened",
+    "nik_shape": "16 numeric digits plus coarse Indonesian province-code and date-of-birth component plausibility; not an identity verification or complete NIK validator",
+    "limitations": [
+      "Numeric candidates include non-personal dates, error codes, versions, reference numbers and amounts.",
+      "A nearby ownership word does not establish that a number belongs to the reviewer.",
+      "The mobile-like candidate is a plausible disclosure, not a verified active or personally owned phone number.",
+      "No detected bank/address patterns or structurally plausible NIK is not evidence of absence.",
+      "Screening can miss obfuscated numbers, names, private addresses, health or financial disclosures and other identifying context.",
+      "No consent or permission for independent anonymous mirroring of third-party personal disclosures was established.",
+      "A source copyright license does not itself resolve personal-data consent or a backup host privacy requirement."
+    ]
+  },
+  "previous_screen": {
+    "content_rows_with_long_digit_pattern": 190,
+    "translation_rows_with_long_digit_pattern": 169,
+    "content_email_like_rows": 0,
+    "translation_email_like_rows": 0,
+    "qualification": "Earlier screening used a different numeric-pattern rule. Counts are preserved as that screen result, not directly revised or comparable to the expanded rule."
+  },
+  "expanded_screen": {
+    "numeric_candidate_content_rows": 211,
+    "numeric_candidate_translation_rows": 189,
+    "union_review_rows_with_numeric_candidates": 214,
+    "plausible_mobile_shape_union_review_rows": 1,
+    "plausible_mobile_shape_with_phone_and_ownership_wording_within_120_characters_content_rows": 1,
+    "mobile_candidate_obvious_sequence_or_repetition_placeholder_rows": 0,
+    "mobile_candidate_explicit_example_or_dummy_wording_rows": 0,
+    "narrow_context_union_review_row_flags": {
+      "identity_wording_near_numeric_candidate": 6,
+      "identity_wording_and_ownership_near_numeric_candidate": 3,
+      "membership_wording_near_numeric_candidate": 3,
+      "membership_wording_and_ownership_near_numeric_candidate": 1,
+      "phone_wording_near_numeric_candidate": 8,
+      "phone_wording_and_ownership_near_numeric_candidate": 4,
+      "bank_wording_near_numeric_candidate": 0,
+      "specific_address_wording_near_numeric_candidate": 0
+    },
+    "sixteen_digit_runs_by_text_view": {
+      "content": 1,
+      "translation": 1
+    },
+    "strict_coarse_nik_shape_passes": 0,
+    "flag_counts_overlap_and_must_not_be_added": true,
+    "no_verified_identity_count_claim": true
+  },
+  "release_decision": {
+    "exact_licensed_raw_retained_in_main_private_library_zip": true,
+    "anonymous_public_mirror_omit_files": [
+      "raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv",
+      "raw_licensed_data/IGAR_CC_BY_4_0/VADER_labeled.csv"
+    ],
+    "public_mirror_preserve_existing_derived_feature_file": "workstreams/datasets/IGAR_AUXILIARY_nontext_features.csv.gz",
+    "derived_feature_rows": 617722,
+    "derived_feature_columns": 15,
+    "derived_feature_scope": "AUXILIARY_NOT_AUTO2000",
+    "derived_feature_privacy_description": "No review handles, raw content, translation, or exact review timestamps. Includes pseudonymous record IDs, review month, source app/rating/label features and nontext flags.",
+    "root_prepares_variant_readme_and_manifest": true,
+    "recommendation": "Do not anonymously mirror exact IGAR source free text. Keep the nontext derivative and original source locators/hashes so original licensed data remains obtainable from the original publisher.",
+    "not_a_comprehensive_privacy_certification": true
+  }
+}

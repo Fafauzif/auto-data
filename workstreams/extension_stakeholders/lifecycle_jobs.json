@@ -1,0 +1,657 @@
+[
+  {
+    "job_id": "LC01",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose a suitable vehicle and household/fleet allocation",
+    "decision_owners": [
+      "Customer_owner",
+      "Household_fleet_authorizer"
+    ],
+    "menu_ids": [
+      "SOL-01"
+    ],
+    "evidence_ids": [
+      "market:M024",
+      "narrative:V004",
+      "narrative:V007",
+      "narrative:V009"
+    ],
+    "powertrain_boundary": "HEV, PHEV and BEV energy/use constraints differ",
+    "excluded_or_disadvantaged_customer": "No suitable budget/model; one-car household versus backup car",
+    "coverage_status": "Explicit concept; unmet need unmeasured",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC02",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Establish a usable energy arrangement",
+    "decision_owners": [
+      "Customer_owner",
+      "Utility_building"
+    ],
+    "menu_ids": [
+      "SOL-02"
+    ],
+    "evidence_ids": [
+      "market:M019",
+      "EXT-E09"
+    ],
+    "powertrain_boundary": "HEV no external charging; PHEV charging optional to operation but relevant to use; BEV charging essential",
+    "excluded_or_disadvantaged_customer": "Renters, shared parking, incompatible power/connector",
+    "coverage_status": "Explicit home readiness; daily/depot readiness not fully covered",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC03",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Obtain and understand an affordable funding decision",
+    "decision_owners": [
+      "Customer_owner",
+      "Lender_lessor"
+    ],
+    "menu_ids": [
+      "SOL-03"
+    ],
+    "evidence_ids": [
+      "competition:COMP-009",
+      "competition:COMP-010"
+    ],
+    "powertrain_boundary": "Not powertrain-exclusive; eligible model/credit offer matters",
+    "excluded_or_disadvantaged_customer": "Rejected/insufficient credit; irregular income",
+    "coverage_status": "Explicit concept; finance authority external",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC04",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose purchase, lease or subscription obligations",
+    "decision_owners": [
+      "Customer_owner",
+      "Lender_lessor"
+    ],
+    "menu_ids": [
+      "SOL-04"
+    ],
+    "evidence_ids": [
+      "market:M044",
+      "market:M045",
+      "EXT-E19"
+    ],
+    "powertrain_boundary": "Private-use KINTO conditions cannot define commercial BEV rental",
+    "excluded_or_disadvantaged_customer": "Commercial/high-mileage use can be contract-specific",
+    "coverage_status": "Explicit concept; contract equivalence unknown",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC05",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Choose voluntary protection on the relevant risk",
+    "decision_owners": [
+      "Customer_owner",
+      "Insurer"
+    ],
+    "menu_ids": [
+      "SOL-10",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "insurance:INS-002",
+      "insurance:INS-007",
+      "EXT-E15"
+    ],
+    "powertrain_boundary": "Insured BEV wording is not automatic HEV/PHEV cover",
+    "excluded_or_disadvantaged_customer": "Noneligible powertrain/use or unaffordable cover",
+    "coverage_status": "Two facets; do not count same policy twice",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC06",
+    "stage": "Choose/acquire",
+    "canonical_customer_job": "Receive the promised vehicle and usable documents",
+    "decision_owners": [
+      "Dealer_branch",
+      "Customer_owner",
+      "Lender_lessor"
+    ],
+    "menu_ids": [
+      "SOL-03",
+      "SOL-07",
+      "SOL-13"
+    ],
+    "evidence_ids": [
+      "competition:COMP-002"
+    ],
+    "powertrain_boundary": "Physical stock/registration dominate across powertrains",
+    "excluded_or_disadvantaged_customer": "Remote delivery, absent documents, financing pending",
+    "coverage_status": "Partial cross-cutting coverage; no dedicated delivery promise card",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC07",
+    "stage": "Onboard/authorize",
+    "canonical_customer_job": "Confirm entitlements for this vehicle and owner",
+    "decision_owners": [
+      "Toyota_OEM",
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-10",
+      "SOL-11"
+    ],
+    "evidence_ids": [
+      "EXT-E14",
+      "EXT-E15",
+      "EXT-E16"
+    ],
+    "powertrain_boundary": "Battery, vehicle and parts promises differ",
+    "excluded_or_disadvantaged_customer": "Subsequent owner not recorded; uncertain history",
+    "coverage_status": "Explicit concept; continuation must be verified",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC08",
+    "stage": "Onboard/authorize",
+    "canonical_customer_job": "Authorize people and link the correct connected vehicle",
+    "decision_owners": [
+      "Customer_owner",
+      "Household_fleet_authorizer",
+      "Toyota_OEM"
+    ],
+    "menu_ids": [
+      "SOL-20",
+      "SOL-24"
+    ],
+    "evidence_ids": [
+      "EXT-E01",
+      "EXT-E02",
+      "journey:UX11"
+    ],
+    "powertrain_boundary": "OEM device/model/account rules independent of ICE/HEV/BEV labels",
+    "excluded_or_disadvantaged_customer": "Driver not owner; multiple drivers; limited connectivity",
+    "coverage_status": "Two coordination facets of one authorization job",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC09",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Replenish energy within actual use windows",
+    "decision_owners": [
+      "User_driver",
+      "Utility_building",
+      "Household_fleet_authorizer"
+    ],
+    "menu_ids": [
+      "SOL-01",
+      "SOL-02"
+    ],
+    "evidence_ids": [
+      "market:M018",
+      "EXT-E18",
+      "EXT-E19"
+    ],
+    "powertrain_boundary": "Private home, public charging and commercial depot are different contexts",
+    "excluded_or_disadvantaged_customer": "Shift fleets, public-only users, incompatible stations",
+    "coverage_status": "Partial; do not infer solution from coordinate counts",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC10",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Select an appropriate care provider and obtain a usable appointment",
+    "decision_owners": [
+      "Customer_owner",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-06",
+      "SOL-07",
+      "SOL-08"
+    ],
+    "evidence_ids": [
+      "EXT-E04",
+      "EXT-E16",
+      "journey:JX05"
+    ],
+    "powertrain_boundary": "Routine service, HV diagnosis, THS and B&P are different jobs",
+    "excluded_or_disadvantaged_customer": "Older budget-sensitive cars; remote/HV specialist requirements",
+    "coverage_status": "Three facets of one service-entry job; capacity unknown",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC11",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Approve necessary work and compatible parts at a clear price",
+    "decision_owners": [
+      "Customer_owner",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-05",
+      "SOL-09"
+    ],
+    "evidence_ids": [
+      "EXT-E05",
+      "EXT-E07",
+      "EXT-E15"
+    ],
+    "powertrain_boundary": "Fast-moving consumables are not traction-battery assemblies",
+    "excluded_or_disadvantaged_customer": "Unlisted variants; budget parts unavailable; nonstandard use",
+    "coverage_status": "Two facets; no second demand count for parts explanation",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC12",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Receive completed work and understand invoice/result changes",
+    "decision_owners": [
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-05",
+      "SOL-13",
+      "SOL-19"
+    ],
+    "evidence_ids": [
+      "market:M009",
+      "capabilities:FC05"
+    ],
+    "powertrain_boundary": "BEV lower routine work does not remove all diagnosis/repair",
+    "excluded_or_disadvantaged_customer": "Customers unable to authorize remotely; hidden diagnosis state",
+    "coverage_status": "Shared work-order economics; not three incremental visits",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC13",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Decide whether to continue optional care and connected benefits",
+    "decision_owners": [
+      "Customer_owner",
+      "Toyota_OEM",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-10",
+      "SOL-21",
+      "SOL-25"
+    ],
+    "evidence_ids": [
+      "EXT-E02",
+      "EXT-E04",
+      "EXT-E16"
+    ],
+    "powertrain_boundary": "A care benefit, OEM connection and workshop channel have different prices/owners",
+    "excluded_or_disadvantaged_customer": "High-mileage or age cap; incompatible connectivity model",
+    "coverage_status": "Multiple contracts; no automatic joint margin",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC14",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Prepare for storage and return a low-use vehicle to operation",
+    "decision_owners": [
+      "Customer_owner",
+      "User_driver",
+      "Toyota_OEM"
+    ],
+    "menu_ids": [
+      "SOL-21"
+    ],
+    "evidence_ids": [
+      "EXT-E09"
+    ],
+    "powertrain_boundary": "PHEV preserves fuel/engine obligations as well as battery guidance",
+    "excluded_or_disadvantaged_customer": "Low-mileage stored/backup vehicles not due by odometer",
+    "coverage_status": "Narrow omitted context; facet rather than a new option",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC15",
+    "stage": "Operate/maintain",
+    "canonical_customer_job": "Interpret condition evidence and obtain a valid diagnosis",
+    "decision_owners": [
+      "Toyota_OEM",
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-12"
+    ],
+    "evidence_ids": [
+      "EXT-E10",
+      "EXT-E17",
+      "journey:JX02"
+    ],
+    "powertrain_boundary": "HV capacity, 12V status, faults and health-check labels are distinct",
+    "excluded_or_disadvantaged_customer": "No reliable test; model outside protocol",
+    "coverage_status": "Explicit concept; no new diagnostic validity established",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC16",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Reach appropriate emergency assistance safely",
+    "decision_owners": [
+      "User_driver",
+      "Toyota_OEM",
+      "Insurer",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-22"
+    ],
+    "evidence_ids": [
+      "competition:COMP-030",
+      "competition:COMP-031",
+      "competition:COMP-040"
+    ],
+    "powertrain_boundary": "Low charge, collision and mechanical fault need different assistance",
+    "excluded_or_disadvantaged_customer": "Outside area/hours; expired entitlement",
+    "coverage_status": "Explicit scope; available contact is not completed recovery",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC17",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Resolve a fault under the correct payer and warranty",
+    "decision_owners": [
+      "Toyota_OEM",
+      "Insurer",
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-10",
+      "SOL-12",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E07",
+      "EXT-E15",
+      "insurance:INS-007"
+    ],
+    "powertrain_boundary": "Manufacturing defect, wear and insured accident are different causes",
+    "excluded_or_disadvantaged_customer": "Excluded cause, inadequate maintenance record",
+    "coverage_status": "Overlap in information; each payer decision remains separate",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC18",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Obtain authorized collision repair and accept the outcome",
+    "decision_owners": [
+      "Insurer",
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-05",
+      "SOL-06",
+      "SOL-08",
+      "SOL-19",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E21",
+      "insurance:INS-013"
+    ],
+    "powertrain_boundary": "HV safety and damaged battery assessment can add model-specific constraints",
+    "excluded_or_disadvantaged_customer": "Non-network shop; uninsured damage; incomplete claim evidence",
+    "coverage_status": "Five supporting facets of one claim/repair case",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC19",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Maintain essential mobility during unavailable-vehicle time",
+    "decision_owners": [
+      "Customer_owner",
+      "Household_fleet_authorizer",
+      "Lender_lessor",
+      "Insurer"
+    ],
+    "menu_ids": [
+      "SOL-23"
+    ],
+    "evidence_ids": [
+      "market:M044"
+    ],
+    "powertrain_boundary": "Household backup car and fleet spare capacity are rivals to paid replacement",
+    "excluded_or_disadvantaged_customer": "No substitute stock; ineligible allowance",
+    "coverage_status": "Explicit exploratory concept; economic buyer may differ from driver",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC20",
+    "stage": "Incident/recover",
+    "canonical_customer_job": "Resolve a VIN-specific safety campaign and retain completion evidence",
+    "decision_owners": [
+      "Toyota_OEM",
+      "Dealer_branch",
+      "Customer_owner"
+    ],
+    "menu_ids": [],
+    "evidence_ids": [
+      "EXT-E12",
+      "EXT-E13",
+      "EXT-E20"
+    ],
+    "powertrain_boundary": "Campaigns exist across ICE, HEV/PHEV and BEV; VIN controls",
+    "excluded_or_disadvantaged_customer": "Older/current owner not reached; immobilized or distant vehicle",
+    "coverage_status": "Materially omitted job; lookup already exists; actual gap unknown",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC21",
+    "stage": "Review/redress",
+    "canonical_customer_job": "Seek review or correction of an adverse work, claim or entitlement decision",
+    "decision_owners": [
+      "Customer_owner",
+      "Toyota_OEM",
+      "Insurer",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-05",
+      "SOL-10",
+      "SOL-12",
+      "SOL-19",
+      "SOL-26"
+    ],
+    "evidence_ids": [
+      "EXT-E15",
+      "EXT-E21"
+    ],
+    "powertrain_boundary": "Explanation of a denial is not evidence that the denial is correct; technical and payer decisions differ",
+    "excluded_or_disadvantaged_customer": "Repeated fault, contested claim, inadequate record access",
+    "coverage_status": "Underrepresented outcome; no adjudicated failure or missing appeal route established",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC22",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Have condition evidence considered in an actual buyer appraisal",
+    "decision_owners": [
+      "Appraiser_buyer",
+      "Customer_owner"
+    ],
+    "menu_ids": [
+      "SOL-14"
+    ],
+    "evidence_ids": [
+      "EXT-E11",
+      "journey:JX02"
+    ],
+    "powertrain_boundary": "A battery certificate does not automatically price used BEV/PHEV health",
+    "excluded_or_disadvantaged_customer": "Unsupported test/model; buyer does not accept evidence",
+    "coverage_status": "Explicit concept; acceptance and price effect unmeasured",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC23",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Choose a sale offer or replacement value commitment",
+    "decision_owners": [
+      "Customer_owner",
+      "Appraiser_buyer",
+      "Dealer_branch"
+    ],
+    "menu_ids": [
+      "SOL-15",
+      "SOL-16",
+      "SOL-17"
+    ],
+    "evidence_ids": [
+      "insurance:INS-017",
+      "insurance:INS-018",
+      "market:M046"
+    ],
+    "powertrain_boundary": "Mileage, condition, first-owner and use restrictions are programme-specific",
+    "excluded_or_disadvantaged_customer": "High mileage, accident history or restricted cohort",
+    "coverage_status": "One replacement-value job; three different propositions",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC24",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Fund the risk behind a promised future value",
+    "decision_owners": [
+      "Dealer_branch",
+      "Lender_lessor",
+      "Insurer"
+    ],
+    "menu_ids": [
+      "SOL-27"
+    ],
+    "evidence_ids": [
+      "insurance:INS-020",
+      "insurance:INS-021"
+    ],
+    "powertrain_boundary": "B2B insurer recovery does not change customer promise without contract",
+    "excluded_or_disadvantaged_customer": "Unaccepted market/model; no feasible local Sharia product verified",
+    "coverage_status": "Institutional risk layer; not independent consumer demand",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "institutional_risk_layer",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC25",
+    "stage": "Transfer/replace",
+    "canonical_customer_job": "Settle outstanding finance and transfer title, benefits and access",
+    "decision_owners": [
+      "Customer_owner",
+      "Lender_lessor",
+      "Toyota_OEM",
+      "Appraiser_buyer"
+    ],
+    "menu_ids": [
+      "SOL-11",
+      "SOL-20",
+      "SOL-24"
+    ],
+    "evidence_ids": [
+      "EXT-E14",
+      "competition:COMP-012"
+    ],
+    "powertrain_boundary": "Used warranty continuation and account transfer are distinct approvals",
+    "excluded_or_disadvantaged_customer": "Financed vehicle lacking release/documents; former owner retains access",
+    "coverage_status": "Partial; loan release and credential revocation not independently tested",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  },
+  {
+    "job_id": "LC26",
+    "stage": "Retire/close",
+    "canonical_customer_job": "Safely retire vehicle/battery and close residual records or contracts",
+    "decision_owners": [
+      "Customer_owner",
+      "Recycler_authority",
+      "Toyota_OEM",
+      "Lender_lessor"
+    ],
+    "menu_ids": [],
+    "evidence_ids": [
+      "EXT-E10"
+    ],
+    "powertrain_boundary": "High-voltage battery disposal is not ordinary parts resale",
+    "excluded_or_disadvantaged_customer": "No accessible lawful collection route; unclear battery ownership",
+    "coverage_status": "Boundary gap; service availability/regulatory authority not established",
+    "count_note": "One canonical job; owner/channel mappings are dependencies, not additional demand.",
+    "analytical_unit": "customer_or_fleet_outcome",
+    "decision_rights_status": "Programme owners grounded where cited; exact contract, branch delegation and decision authority require verification",
+    "overlap_rule": "Assign a case to its initiating outcome/trigger; later approval, evidence and channel steps are dependencies. Rows may describe decisions within one case and are not summed as market demand."
+  }
+]

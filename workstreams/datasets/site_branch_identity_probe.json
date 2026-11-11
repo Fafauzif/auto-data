@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://auto2000.co.id/dealer-toyota/kabupaten-bogor/auto2000cibinong",
+    "final_url": "https://auto2000.co.id/dealer-toyota/kabupaten-bogor/auto2000cibinong",
+    "status": 200,
+    "request_id": "616cb1e782b345458f5ff896d53c029d",
+    "geo_schema": [],
+    "map_links": [
+      "https://www.google.com/maps/dir/''/-6.47364264285346,106.84759678592498"
+    ],
+    "other_coordinate_pattern_count": 14
+  },
+  {
+    "url": "https://auto2000.co.id/dealer-toyota/balikpapan/auto2000balikpapansudirman",
+    "final_url": "https://auto2000.co.id/dealer-toyota/balikpapan/auto2000balikpapansudirman",
+    "status": 200,
+    "request_id": "af6d029c38f6457d878dbbc2af8419fc",
+    "geo_schema": [],
+    "map_links": [
+      "https://www.google.com/maps/dir/''/-1.27477,116.847903"
+    ],
+    "other_coordinate_pattern_count": 18
+  },
+  {
+    "url": "https://auto2000.co.id/dealer-toyota/tangerang/auto2000tangerang",
+    "final_url": "https://auto2000.co.id/dealer-toyota/tangerang/auto2000tangerang",
+    "status": 200,
+    "request_id": "216c8dcfc07c4aa18c439eff0f5113da",
+    "geo_schema": [],
+    "map_links": [
+      "https://www.google.com/maps/dir/''/-6.194134,106.635575"
+    ],
+    "other_coordinate_pattern_count": 26
+  },
+  {
+    "url": "https://auto2000.co.id/dealer-toyota/tangerang-selatan/auto2000bsdcity",
+    "final_url": "https://auto2000.co.id/dealer-toyota/tangerang-selatan/auto2000bsdcity",
+    "status": 200,
+    "request_id": "6105ea9e427d47a1a07db7323d203ed1",
+    "geo_schema": [],
+    "map_links": [
+      "https://www.google.com/maps/dir/''/-6.288919,106.638856"
+    ],
+    "other_coordinate_pattern_count": 24
+  },
+  {
+    "url": "https://auto2000.co.id/dealer-toyota/jakarta-barat/auto2000kapuk",
+    "final_url": "https://auto2000.co.id/dealer-toyota/jakarta-barat/auto2000kapuk",
+    "status": 200,
+    "request_id": "7d3ee5ac91c44199b5532ecfe8706e21",
+    "geo_schema": [],
+    "map_links": [
+      "https://www.google.com/maps/dir/''/-6.1249,106.73057"
+    ],
+    "other_coordinate_pattern_count": 28
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "world": "Losses dispersed across two stress states",
+    "stress_state": "A",
+    "eligible_units": 20,
+    "units_with_shortfall": 10,
+    "full_floor_gross_shortfall": 400000000,
+    "conditional_recovery_before_aggregate": 150000000,
+    "assumed_aggregate_limit": 100000000,
+    "effective_conditional_recovery": 100000000,
+    "dealer_residual_after_aggregate": 300000000,
+    "dealer_residual_without_binding_aggregate": 250000000,
+    "capped_topup_total": 100000000,
+    "data_status": "CONSTRUCTED stress outcome; not an expected loss or quote"
+  },
+  {
+    "world": "Losses dispersed across two stress states",
+    "stress_state": "B",
+    "eligible_units": 20,
+    "units_with_shortfall": 10,
+    "full_floor_gross_shortfall": 400000000,
+    "conditional_recovery_before_aggregate": 150000000,
+    "assumed_aggregate_limit": 100000000,
+    "effective_conditional_recovery": 100000000,
+    "dealer_residual_after_aggregate": 300000000,
+    "dealer_residual_without_binding_aggregate": 250000000,
+    "capped_topup_total": 100000000,
+    "data_status": "CONSTRUCTED stress outcome; not an expected loss or quote"
+  },
+  {
+    "world": "Losses synchronized in one stress state",
+    "stress_state": "A",
+    "eligible_units": 20,
+    "units_with_shortfall": 20,
+    "full_floor_gross_shortfall": 800000000,
+    "conditional_recovery_before_aggregate": 300000000,
+    "assumed_aggregate_limit": 100000000,
+    "effective_conditional_recovery": 100000000,
+    "dealer_residual_after_aggregate": 700000000,
+    "dealer_residual_without_binding_aggregate": 500000000,
+    "capped_topup_total": 200000000,
+    "data_status": "CONSTRUCTED stress outcome; not an expected loss or quote"
+  },
+  {
+    "world": "Losses synchronized in one stress state",
+    "stress_state": "B",
+    "eligible_units": 20,
+    "units_with_shortfall": 0,
+    "full_floor_gross_shortfall": 0,
+    "conditional_recovery_before_aggregate": 0,
+    "assumed_aggregate_limit": 100000000,
+    "effective_conditional_recovery": 0,
+    "dealer_residual_after_aggregate": 0,
+    "dealer_residual_without_binding_aggregate": 0,
+    "capped_topup_total": 0,
+    "data_status": "CONSTRUCTED stress outcome; not an expected loss or quote"
+  }
+]

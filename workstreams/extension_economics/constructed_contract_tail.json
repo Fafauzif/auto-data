@@ -1,0 +1,98 @@
+[
+  {
+    "valid_offer": 0,
+    "full_floor": 200000000,
+    "shortfall": 200000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 10000000,
+    "conditional_insurer_recovery": 15000000,
+    "dealer_residual_full_floor": 185000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 80000000,
+    "full_floor": 200000000,
+    "shortfall": 120000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 90000000,
+    "conditional_insurer_recovery": 15000000,
+    "dealer_residual_full_floor": 105000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 160000000,
+    "full_floor": 200000000,
+    "shortfall": 40000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 170000000,
+    "conditional_insurer_recovery": 15000000,
+    "dealer_residual_full_floor": 25000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 175000000,
+    "full_floor": 200000000,
+    "shortfall": 25000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 185000000,
+    "conditional_insurer_recovery": 15000000,
+    "dealer_residual_full_floor": 10000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 180000000,
+    "full_floor": 200000000,
+    "shortfall": 20000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 190000000,
+    "conditional_insurer_recovery": 10000000,
+    "dealer_residual_full_floor": 10000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 190000000,
+    "full_floor": 200000000,
+    "shortfall": 10000000,
+    "topup_cap": 10000000,
+    "topup": 10000000,
+    "capped_customer_credit": 200000000,
+    "conditional_insurer_recovery": 0,
+    "dealer_residual_full_floor": 10000000,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 200000000,
+    "full_floor": 200000000,
+    "shortfall": 0,
+    "topup_cap": 10000000,
+    "topup": 0,
+    "capped_customer_credit": 200000000,
+    "conditional_insurer_recovery": 0,
+    "dealer_residual_full_floor": 0,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  },
+  {
+    "valid_offer": 205000000,
+    "full_floor": 200000000,
+    "shortfall": 0,
+    "topup_cap": 10000000,
+    "topup": 0,
+    "capped_customer_credit": 205000000,
+    "conditional_insurer_recovery": 0,
+    "dealer_residual_full_floor": 0,
+    "data_status": "CONSTRUCTED per-unit contract arithmetic; no quoted cover",
+    "aggregate_limit_applied": false
+  }
+]
