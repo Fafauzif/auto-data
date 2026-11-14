@@ -1,0 +1,6 @@
+observation_id,source_id,model,variant,color,city,listed_price_idr,dp_percent,base_dp_idr,insurance_timing,first_instalment,income_entered,tenor_months,total_upfront_idr,monthly_idr,remaining_payments,scope,observed_date
+XT02,XTS01,New bZ4X Battery EV,bZ4X A/T,Platinum White Pearl Mica,Jakarta Pusat,799000000,20,159800000,upfront,ADDM,False,60,247187147,15581947,59,Rendered illustration; not binding finance/insurance quote,2026-11-11
+XT02,XTS01,New bZ4X Battery EV,bZ4X A/T,Platinum White Pearl Mica,Jakarta Pusat,799000000,20,159800000,upfront,ADDM,False,48,237736504,18056504,47,Rendered illustration; not binding finance/insurance quote,2026-11-11
+XT02,XTS01,New bZ4X Battery EV,bZ4X A/T,Platinum White Pearl Mica,Jakarta Pusat,799000000,20,159800000,upfront,ADDM,False,36,229736214,22061314,35,Rendered illustration; not binding finance/insurance quote,2026-11-11
+XT02,XTS01,New bZ4X Battery EV,bZ4X A/T,Platinum White Pearl Mica,Jakarta Pusat,799000000,20,159800000,upfront,ADDM,False,24,224790296,30718496,23,Rendered illustration; not binding finance/insurance quote,2026-11-11
+XT02,XTS01,New bZ4X Battery EV,bZ4X A/T,Platinum White Pearl Mica,Jakarta Pusat,799000000,20,159800000,upfront,ADDM,False,12,238257968,57869168,11,Rendered illustration; not binding finance/insurance quote,2026-11-11

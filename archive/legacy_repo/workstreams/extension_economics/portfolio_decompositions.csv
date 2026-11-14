@@ -1,0 +1,4 @@
+order,scale_units,mix_units,change_units,sum_units,data_status,source_refs
+"Scale first, then mix",-5120.950714418005,-904.0492855819939,-6025,-6024.999999999999,Derived accounting from observed portfolio counts; not causal attribution,AR2025 printed140/PDF142;FC-N12–FC-N15
+"Mix first, then scale",-4978.816831643872,-1046.183168356127,-6025,-6024.999999999999,Derived accounting from observed portfolio counts; not causal attribution,AR2025 printed140/PDF142;FC-N12–FC-N15
+Symmetric Shapley average,-5049.883773030939,-975.1162269690604,-6025,-6024.999999999999,Derived accounting from observed portfolio counts; not causal attribution,AR2025 printed140/PDF142;FC-N12–FC-N15

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.780752,
+          -7.281082
+        ]
+      },
+      "properties": {
+        "path_id": "XP01",
+        "prong": 1,
+        "market": "Surabaya",
+        "branch": "Auto2000 Kertajaya",
+        "latitude": -7.281082,
+        "longitude": 112.780752,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "First Auto2000 buyer comparing InnovaZenixHEV andbZ4X",
+        "task": "Model/variant-specific consultation and demo",
+        "evidence_level": "Local consultation +published requestentry",
+        "selected_handoff": "Digiroom shortlist\u2192Kertajayaadvisor\u2192variant/demo/location/slot+actualquote confirmed\u2192one attended testdrive",
+        "decision": "Bundle shortlist and actual confirmation into one appointment; reuse existing request",
+        "deprioritised_alternative": "New3Dshowroom or duplicate genericbooking before resolving unit/quote handoff",
+        "source_ids": "XE11;XE05",
+        "payer_GP_perimeter": "Auto2000 vehicleGP only on incremental delivery; no GP for catalogue/request",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.707941,
+          3.625976
+        ]
+      },
+      "properties": {
+        "path_id": "XP02",
+        "prong": 1,
+        "market": "Medan",
+        "branch": "Auto2000 Pancing",
+        "latitude": 3.625976,
+        "longitude": 98.707941,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "First Auto2000 ZenixHEV buyer",
+        "task": "ZenixHEV testdrive",
+        "evidence_level": "Observed form URL model+branchCodeT570",
+        "selected_handoff": "Digiroom ZenixrequestT570\u2192advisor unit+variant+slot confirmation\u2192testdrive\u2192quote\u2192delivery",
+        "decision": "Use existing branch-coded path, add visible confirmed unit/slot/owner",
+        "deprioritised_alternative": "Treat submitted request as confirmed demo or measure delivery from formcount",
+        "source_ids": "XE04;XE05",
+        "payer_GP_perimeter": "Auto2000 deliveryGP; lead/testdrive intermediate states separate",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754402,
+          -7.315476
+        ]
+      },
+      "properties": {
+        "path_id": "XP03",
+        "prong": 2,
+        "market": "Surabaya",
+        "branch": "Auto2000 Jemur Sari",
+        "latitude": -7.315476,
+        "longitude": 112.754402,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "Eligible ToyotaHEV owner e.g Zenix2023 with actual VIN/history",
+        "task": "Scheduled service +eligible HHC",
+        "evidence_level": "Local hybrid-maintenance claim +national HHCterms",
+        "selected_handoff": "Model/VIN/history\u2192JemurSari serviceowner confirms HHCeligibility+slot\u2192SBE+certificate\u2192NotGoodvalidation/warrantydecision",
+        "decision": "Keep routinepaidwork and eligiblecheck on same job record and same visit",
+        "deprioritised_alternative": "Charger-nearest branch assignment; count freecheck as paid GP",
+        "source_ids": "XE01;XE02;XE03;XE06",
+        "payer_GP_perimeter": "Separate customerpaidSBE,eligiblefreecheck,warrantyreimbursement; actual payer/margin only",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.707941,
+          3.625976
+        ]
+      },
+      "properties": {
+        "path_id": "XP04",
+        "prong": 2,
+        "market": "Medan",
+        "branch": "Auto2000 Pancing",
+        "latitude": 3.625976,
+        "longitude": 98.707941,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "Eligible ToyotaHEV owner",
+        "task": "Hybrid scheduled service/HHC referral",
+        "evidence_level": "Local hybrid-maintenance claim +nationalterms",
+        "selected_handoff": "Pancing serviceowner receives model+issue\u2192confirms planned check/capability\u2192HHC certificate\u2192warrantyvalidation ifNotGood",
+        "decision": "One named serviceowner carries issue across confirmation andresolution",
+        "deprioritised_alternative": "Promise batteryrepair simply because generalworkshop or chargingpoint exists",
+        "source_ids": "XE01;XE02;XE07",
+        "payer_GP_perimeter": "Auto2000 workorderGP bypayer; freecheck alone notincrementalpaidjob",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.579927,
+          -6.937461
+        ]
+      },
+      "properties": {
+        "path_id": "XP05",
+        "prong": 2,
+        "market": "Bandung",
+        "branch": "Auto2000 Soekarno - Hatta",
+        "latitude": -6.937461,
+        "longitude": 107.579927,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "Eligible ToyotaHEV/BEV scheduled-service owner",
+        "task": "HHC and follow-through",
+        "evidence_level": "Local adviser-issued HHCpublication +nationalterms",
+        "selected_handoff": "SoekarnoHatta programmecontact\u2192VIN/age/serviceeligibility\u2192qualified slot\u2192certificate\u2192NotGoodvalidation",
+        "decision": "Use published HHCpath as capability-confirmation entry,not auto-certifiedrepairflag",
+        "deprioritised_alternative": "Nearest genericrepair comparator or arbitrary HVCrepairpromise",
+        "source_ids": "XE01;XE08",
+        "payer_GP_perimeter": "Checkcertification distinct from paidservice andwarranty repair",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.724394,
+          -2.908783
+        ]
+      },
+      "properties": {
+        "path_id": "XP06",
+        "prong": 2,
+        "market": "Palembang",
+        "branch": "Auto2000 Tanjung Api - Api",
+        "latitude": -2.908783,
+        "longitude": 104.724394,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "ToyotaHEV/BEV owner with a reported electrical issue",
+        "task": "Issue-specific intake and specialist referral",
+        "evidence_level": "General branch +nationalHHC only",
+        "selected_handoff": "TanjungApiApi serviceowner collects model/issue\u2192names diagnostic-capable endpoint before dispatch\u2192retainscaseowner throughquote/approval/completion",
+        "decision": "Protect one-case ownership even if competent endpoint differs; align weekend12:00 cutoff",
+        "deprioritised_alternative": "Direct every BEVowner to charger-nearest marker or assume allHEVjobs fit mobiletruck",
+        "source_ids": "XE01;XE02;XE09;XE13",
+        "payer_GP_perimeter": "Retain Auto2000 financialperimeter; paid/reimbursement/recallseparate",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788869,
+          -6.292819
+        ]
+      },
+      "properties": {
+        "path_id": "XP07",
+        "prong": 2,
+        "market": "SouthJakarta bridge",
+        "branch": "Auto2000 Cilandak",
+        "latitude": -6.292819,
+        "longitude": 106.788869,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "Petrol/HEV paid-service owner",
+        "task": "Correct job-hours and approved scope",
+        "evidence_level": "Official workshophours distinct showroomhours",
+        "selected_handoff": "Digiroom job\u2192workshophours notshowroomhours\u2192price/scopeapproval\u2192confirmedbay/parts\u2192completion",
+        "decision": "Suppress Sundayworkshop appointment; offer realworkshop slot or suitableconfirmedTHS",
+        "deprioritised_alternative": "Nearest-open-showroomrouting; bookingbutton counts asjobcompletion",
+        "source_ids": "XE10;XE13;XE14",
+        "payer_GP_perimeter": "Customerpaid only if completedworkorder; channelmigration notincrementalGP",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821656,
+          -6.207498
+        ]
+      },
+      "properties": {
+        "path_id": "XP08",
+        "prong": 3,
+        "market": "South/CentralJakarta bridge",
+        "branch": "Auto2000 Sudirman",
+        "latitude": -6.207498,
+        "longitude": 106.821656,
+        "coordinate_status": "baseline official direction candidate",
+        "model_or_cohort": "Prior Auto2000 buyer moving e.g Avanza2019 toZenixHEV",
+        "task": "Inspected appraisal +net upgradequote",
+        "evidence_level": "Local adviser describes OLXmobbi inspectionprocess",
+        "selected_handoff": "Advisor\u2192appointedOLXmobbiinspection\u2192inspectedoffer validuntil\u2192loanpayoff+netequity\u2192actualnewxEVquote\u2192delivery",
+        "decision": "Show indicative/inspectedstate andnetcashdue before reservingsecondtrip",
+        "deprioritised_alternative": "Fundedresalefloor; treatbatterycertificate asguaranteedhigherappraisal",
+        "source_ids": "XE12;XE01",
+        "payer_GP_perimeter": "Auto2000 incremental vehicleGP afterincentives; OLXmobbi resalecontribution separate",
+        "booking_or_capability_status": "Recommendation protocol; no new appointment,diagnosis,quote or transaction executed"
+      }
+    }
+  ]
+}

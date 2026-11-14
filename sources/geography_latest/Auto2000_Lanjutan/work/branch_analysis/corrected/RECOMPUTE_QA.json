@@ -1,0 +1,18 @@
+{
+  "branch_rows": 58,
+  "unique_branches": 29,
+  "market_origin_rows": 648,
+  "matched_handoff_branches": 24,
+  "max_handoff_oil_gap_difference_minutes": 1.3599999999996668,
+  "handoff_count_equal": false,
+  "strict_joint_n": [
+    59,
+    78,
+    78,
+    69
+  ],
+  "corrected_coordinate_scenario": true,
+  "method": "Full raw OD minima by channel and operator, same paired origin set; no cached summary trusted as calculation input",
+  "handoff_comparison_expectation": "Coordinate scenario intentionally changes branch catchments; these differences are outcomes, not audit failures",
+  "qa_pass": true
+}

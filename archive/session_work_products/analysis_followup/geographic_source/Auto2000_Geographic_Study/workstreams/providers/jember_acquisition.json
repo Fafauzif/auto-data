@@ -1,0 +1,16 @@
+{
+  "market": "Jember",
+  "bbox": [
+    113.55,
+    -8.3,
+    113.85,
+    -8.05
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:58:15.961709+00:00",
+  "status": "success",
+  "source_all_place_rows": 7509,
+  "automotive_candidate_rows": 384,
+  "sha256": "ad17e3bf77c8748681e3361b1700a59f06971b242cdbcb6ad33e6dcebc618235",
+  "seconds": 20.42
+}

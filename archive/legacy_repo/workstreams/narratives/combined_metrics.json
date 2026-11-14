@@ -1,0 +1,29 @@
+{
+  "source_documents": 38,
+  "unique_source_urls": 38,
+  "discovery_annotation_units": 75,
+  "fresh_followup_annotation_units": 20,
+  "total_annotation_units": 95,
+  "evidence_kind_counts": {
+    "first_person_report": 52,
+    "household_report": 4,
+    "secondhand_report": 5,
+    "opinion_or_advice": 12,
+    "shopping_question": 6,
+    "stated_preference": 1,
+    "published_study_finding": 8,
+    "published_study_proposal": 1,
+    "published_study_design": 1,
+    "employee_report": 4,
+    "published_program_description": 1
+  },
+  "not_counts_of": "independent customers, completed transactions, verified incidents or causal effects",
+  "qa": {
+    "source_joins_valid": true,
+    "ids_unique": true,
+    "all_units_have_normal_source_urls": true,
+    "human_validation": false,
+    "newly_scraped_social_records": 0,
+    "transcript_captures": 0
+  }
+}

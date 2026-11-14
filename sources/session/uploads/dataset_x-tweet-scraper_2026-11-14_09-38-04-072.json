@@ -1,0 +1,473 @@
+[{
+  "id": "2103431536452555106",
+  "text": "More than a collage. It’s a whole visual experience https://t.co/nGeNlQBfNW",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 14,
+  "bookmarkCount": 0,
+  "conversationId": "2103431536452555106",
+  "displayTextRange": [
+    0,
+    51
+  ],
+  "edit": {
+    "editableUntilMsecs": "1790335732000",
+    "editTweetIds": [
+      "2103431536452555106"
+    ]
+  },
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isNoteTweet": false,
+  "isPinned": false,
+  "isQuoteStatus": false,
+  "isReply": false,
+  "isRetweet": false,
+  "isTranslatable": false,
+  "lang": "en",
+  "possiblySensitive": false,
+  "textHighlights": [],
+  "type": "tweet",
+  "url": "https://x.com/DigiroomCRTV/status/2103431536452555106",
+  "viewState": "EnabledWithCount",
+  "createdAt": "Fri Sep 25 10:28:52 +0000 2026",
+  "media": [
+    {
+      "availabilityStatus": "Available",
+      "displayUrl": "pic.x.com/nGeNlQBfNW",
+      "expandedUrl": "https://x.com/DigiroomCRTV/status/2103431536452555106/photo/1",
+      "faceRects": {
+        "large": [
+          {
+            "h": 71,
+            "w": 71,
+            "x": 191,
+            "y": 316
+          },
+          {
+            "h": 67,
+            "w": 67,
+            "x": 271,
+            "y": 527
+          },
+          {
+            "h": 142,
+            "w": 142,
+            "x": 92,
+            "y": 875
+          }
+        ],
+        "medium": [
+          {
+            "h": 63,
+            "w": 63,
+            "x": 169,
+            "y": 280
+          },
+          {
+            "h": 59,
+            "w": 59,
+            "x": 240,
+            "y": 468
+          },
+          {
+            "h": 126,
+            "w": 126,
+            "x": 81,
+            "y": 777
+          }
+        ],
+        "orig": [
+          {
+            "h": 71,
+            "w": 71,
+            "x": 191,
+            "y": 316
+          },
+          {
+            "h": 67,
+            "w": 67,
+            "x": 271,
+            "y": 527
+          },
+          {
+            "h": 142,
+            "w": 142,
+            "x": 92,
+            "y": 875
+          }
+        ],
+        "small": [
+          {
+            "h": 35,
+            "w": 35,
+            "x": 96,
+            "y": 159
+          },
+          {
+            "h": 33,
+            "w": 33,
+            "x": 136,
+            "y": 265
+          },
+          {
+            "h": 71,
+            "w": 71,
+            "x": 46,
+            "y": 440
+          }
+        ]
+      },
+      "focusRects": [
+        {
+          "h": 605,
+          "w": 1080,
+          "x": 0,
+          "y": 69
+        },
+        {
+          "h": 1080,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1231,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 675,
+          "x": 405,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "height": 1350,
+      "id": "2103431155529957376",
+      "indices": [
+        52,
+        75
+      ],
+      "mediaKey": "3_2103431155529957376",
+      "mediaUrl": "https://pbs.twimg.com/media/HTDjfdLaQAAEXMJ.jpg",
+      "sizes": {
+        "large": {
+          "h": 1350,
+          "resize": "fit",
+          "w": 1080
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 960
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 544
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/nGeNlQBfNW",
+      "width": 1080
+    },
+    {
+      "availabilityStatus": "Available",
+      "displayUrl": "pic.x.com/nGeNlQBfNW",
+      "expandedUrl": "https://x.com/DigiroomCRTV/status/2103431536452555106/photo/2",
+      "faceRects": {
+        "large": [
+          {
+            "h": 192,
+            "w": 192,
+            "x": 686,
+            "y": 756
+          }
+        ],
+        "medium": [
+          {
+            "h": 170,
+            "w": 170,
+            "x": 609,
+            "y": 672
+          }
+        ],
+        "orig": [
+          {
+            "h": 192,
+            "w": 192,
+            "x": 686,
+            "y": 756
+          }
+        ],
+        "small": [
+          {
+            "h": 96,
+            "w": 96,
+            "x": 345,
+            "y": 380
+          }
+        ]
+      },
+      "focusRects": [
+        {
+          "h": 605,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1080,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1231,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 675,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "height": 1350,
+      "id": "2103431188836986882",
+      "indices": [
+        52,
+        75
+      ],
+      "mediaKey": "3_2103431188836986882",
+      "mediaUrl": "https://pbs.twimg.com/media/HTDjhZQbMAIBuDr.jpg",
+      "sizes": {
+        "large": {
+          "h": 1350,
+          "resize": "fit",
+          "w": 1080
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 960
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 544
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/nGeNlQBfNW",
+      "width": 1080
+    },
+    {
+      "availabilityStatus": "Available",
+      "displayUrl": "pic.x.com/nGeNlQBfNW",
+      "expandedUrl": "https://x.com/DigiroomCRTV/status/2103431536452555106/photo/3",
+      "faceRects": {
+        "large": [
+          {
+            "h": 220,
+            "w": 220,
+            "x": 138,
+            "y": 628
+          }
+        ],
+        "medium": [
+          {
+            "h": 195,
+            "w": 195,
+            "x": 122,
+            "y": 558
+          }
+        ],
+        "orig": [
+          {
+            "h": 220,
+            "w": 220,
+            "x": 138,
+            "y": 628
+          }
+        ],
+        "small": [
+          {
+            "h": 110,
+            "w": 110,
+            "x": 69,
+            "y": 316
+          }
+        ]
+      },
+      "focusRects": [
+        {
+          "h": 605,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1080,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1231,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 675,
+          "x": 304,
+          "y": 0
+        },
+        {
+          "h": 1350,
+          "w": 1080,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "height": 1350,
+      "id": "2103431214145413120",
+      "indices": [
+        52,
+        75
+      ],
+      "mediaKey": "3_2103431214145413120",
+      "mediaUrl": "https://pbs.twimg.com/media/HTDji3ibIAA_jZx.jpg",
+      "sizes": {
+        "large": {
+          "h": 1350,
+          "resize": "fit",
+          "w": 1080
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 960
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 544
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/nGeNlQBfNW",
+      "width": 1080
+    }
+  ],
+  "author": {
+    "id": "1661643219774636032",
+    "username": "DigiroomCRTV",
+    "name": "Digiroom Creative",
+    "followers": 5,
+    "contactInfo": {
+      "links": [
+        {
+          "network": "website",
+          "source": "url",
+          "url": "http://Digiroomcreative.com"
+        }
+      ]
+    },
+    "following": 26,
+    "verified": false,
+    "isBlueVerified": false,
+    "isVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1661644534177214469/3ujkYM05_normal.jpg",
+    "profilePictureOriginal": "https://pbs.twimg.com/profile_images/1661644534177214469/3ujkYM05.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1661643219774636032/1685001984",
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1661643219774636032/1685001984",
+    "description": "Digiroom is a Digital Agency specialized in brand awareness, engagement and user acquisition. We are dedicated to provide meaningful growth for your business.",
+    "location": "Jakarta",
+    "createdAt": "Thu May 25 08:00:54 +0000 2023",
+    "statusesCount": 24,
+    "mediaCount": 23,
+    "protected": false,
+    "url": "http://Digiroomcreative.com",
+    "favouritesCount": 3,
+    "isTranslator": false,
+    "possiblySensitive": false,
+    "profile_bio": {
+      "description": "Digiroom is a Digital Agency specialized in brand awareness, engagement and user acquisition. We are dedicated to provide meaningful growth for your business.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "Digiroomcreative.com",
+              "expanded_url": "http://Digiroomcreative.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hGfAtiJmYf"
+            }
+          ]
+        }
+      }
+    },
+    "grokTranslatedBio": {
+      "is_available": false
+    },
+    "hasGraduatedAccess": true,
+    "parodyCommentaryFanLabel": "None",
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 478,
+          "name": "Advertising & Marketing Agency"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1661644749831548930"
+    },
+    "profileDescriptionLanguage": "en",
+    "profileImageShape": "Circle",
+    "profileTranslatorType": "none",
+    "superFollowEligible": false
+  }
+}]

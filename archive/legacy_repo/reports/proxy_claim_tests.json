@@ -1,0 +1,71 @@
+[
+  {
+    "test_id": "PT01",
+    "claim_tested": "A favorable star rating by itself proves completed ownership service.",
+    "status": "contradicted",
+    "scope": "Sufficiency of the proxy, not prevalence of false ratings.",
+    "counterexample_refs": [
+      "reviews:REV-0001",
+      "reviews:REV-0020"
+    ],
+    "reason": "Explicit prospective/no-vehicle accounts have favorable ratings. They can value discovery without completing ownership service.",
+    "does_not_establish": "No claim that most positive reviews are false, incentivized, or valueless."
+  },
+  {
+    "test_id": "PT02",
+    "claim_tested": "Every useful Auto2000 finance exploration requires personal contact data first.",
+    "status": "contradicted",
+    "scope": "Blanket gating claim, not all financing or service tasks.",
+    "counterexample_refs": [
+      "journeys:UX03",
+      "journeys:UX04"
+    ],
+    "reason": "A repeatable simulator and insurance sensitivity were observed with optional income and contact data empty.",
+    "does_not_establish": "No loan approval, quote accuracy, participant usability, or absence of friction elsewhere."
+  },
+  {
+    "test_id": "PT03",
+    "claim_tested": "The Auto2000 hybrid/ICE comparison is uniformly unusable because one field is malformed.",
+    "status": "contradicted",
+    "scope": "Blanket functional-failure claim for the inspected scenario.",
+    "counterexample_refs": [
+      "journeys:UX02"
+    ],
+    "reason": "The evaluator completed the comparison and observed price/transmission differences, alongside an airbag field displaying TRUE.",
+    "does_not_establish": "No claim that all fields are correct or real buyers understand them."
+  },
+  {
+    "test_id": "PT04",
+    "claim_tested": "Toyota Indonesia has no published battery-health certificate capability.",
+    "status": "contradicted",
+    "scope": "Published capability existence only.",
+    "counterexample_refs": [
+      "competition:COMP-005",
+      "market:M015"
+    ],
+    "reason": "Official terms describe an eligible service-linked certificate and warranty-validation boundary.",
+    "does_not_establish": "No claim of universal eligibility, use, discoverability, data accuracy, or resale effect."
+  },
+  {
+    "test_id": "PT05",
+    "claim_tested": "A higher digital booking share necessarily creates incremental transaction gross profit.",
+    "status": "contradicted",
+    "scope": "Logical necessity under a valid channel-migration counterexample.",
+    "counterexample_refs": [
+      "market:MC03"
+    ],
+    "reason": "The same completed jobs at unchanged unit economics can switch channels with zero additional transaction GP.",
+    "does_not_establish": "No claim that actual Digiroom volume is mostly migration or that cost savings are zero."
+  },
+  {
+    "test_id": "PT06",
+    "claim_tested": "An initial no-branch B&P result proves Auto2000 has no available branch route in other localities.",
+    "status": "contradicted",
+    "scope": "Universal interpretation of an initial locality-dependent UI state.",
+    "counterexample_refs": [
+      "journeys:UX08"
+    ],
+    "reason": "Searching Bekasi returned a named B&P branch and calendar without plate entry.",
+    "does_not_establish": "No claim of real available service slots, capacity, completed booking or current service eligibility."
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "source_root": "integration_work/intake/latest_geography/Auto2000_Lanjutan",
+  "raw_OD_rows": {
+    "main": 76221,
+    "supplement": 5913,
+    "corrected_outbound": 162
+  },
+  "raw_unique_outbound_pair_keys": 82296,
+  "raw_unique_market_origin_keys": 324,
+  "paired_strict_origins": 284,
+  "branch_checks": 290,
+  "errors_n": 0,
+  "errors": [],
+  "market_results": [
+    {
+      "market": "Surabaya",
+      "paired_origins_n": 59,
+      "median_generic_gap_min": 3.621666666666667,
+      "median_oil_gap_min": 0.966666666667,
+      "median_owned_gap_min": 0.506666666667,
+      "oil_tail_before_n": 10,
+      "oil_tail_after_n": 6,
+      "changed_nearest_branch_n": 0
+    },
+    {
+      "market": "Medan",
+      "paired_origins_n": 78,
+      "median_generic_gap_min": 4.085833333333333,
+      "median_oil_gap_min": 0.346666666667,
+      "median_owned_gap_min": 0.0483333333335,
+      "oil_tail_before_n": 3,
+      "oil_tail_after_n": 0,
+      "changed_nearest_branch_n": 0
+    },
+    {
+      "market": "Bandung",
+      "paired_origins_n": 78,
+      "median_generic_gap_min": 4.4475,
+      "median_oil_gap_min": 1.735833333333,
+      "median_owned_gap_min": 1.6941666666665,
+      "oil_tail_before_n": 17,
+      "oil_tail_after_n": 14,
+      "changed_nearest_branch_n": 20
+    },
+    {
+      "market": "Palembang",
+      "paired_origins_n": 69,
+      "median_generic_gap_min": 3.424999999999999,
+      "median_oil_gap_min": 2.638333333333,
+      "median_owned_gap_min": 1.556666666667,
+      "oil_tail_before_n": 9,
+      "oil_tail_after_n": 0,
+      "changed_nearest_branch_n": 0
+    }
+  ],
+  "pass": true,
+  "commercial_scope": "Model geometry only; OtoXpert operators from official directory; advertised job fit, no actual slot, quote, demand or GP claim."
+}

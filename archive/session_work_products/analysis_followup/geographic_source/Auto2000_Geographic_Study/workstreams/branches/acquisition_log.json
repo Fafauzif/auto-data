@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-14",
+  "official_directory_source_pages": 59,
+  "initial_direct_HTTP": [
+    {
+      "url": "https://auto2000.co.id/dealer-toyota",
+      "status": 403
+    },
+    {
+      "url": "https://auto2000.co.id/sitemap.xml",
+      "status": 403
+    },
+    {
+      "url": "https://auto2000.co.id/dealer-toyota/surabaya",
+      "status": 403
+    }
+  ],
+  "fallback": "Web retrieval of official city-directory pages and clicks on published map links",
+  "no_customer_reviews_collected": true,
+  "raw_web_copyright": "Full page bodies not redistributed. Fact extractions, URL/link provenance retained."
+}

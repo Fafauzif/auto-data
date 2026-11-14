@@ -1,0 +1,16 @@
+{
+  "market": "Jabodetabek",
+  "bbox": [
+    106.4,
+    -6.8,
+    107.3,
+    -5.95
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:47.709851+00:00",
+  "status": "success",
+  "source_all_place_rows": 462560,
+  "automotive_candidate_rows": 23198,
+  "sha256": "c093412e148437cfbe306ccc8e36cdce787a778bfe2c6e11842df3fe50dd0d4b",
+  "seconds": 28.6
+}

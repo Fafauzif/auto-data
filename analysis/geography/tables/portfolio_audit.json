@@ -1,0 +1,59 @@
+{
+  "source": "integration_work/geography/summary/Keputusan_dan_Tabel/tables/branch_decision_table_29.csv",
+  "source_endpoints_n": 29,
+  "market_summaries": [
+    {
+      "market": "Surabaya",
+      "endpoints_n": 11,
+      "assigned_origins_n": 59,
+      "oil_tail_before_owned_network_n": 10,
+      "oil_tail_after_owned_network_n": 6,
+      "unique_15min_service_origins_n": 2,
+      "paired_origins_n": 59,
+      "removed_tail_n": 4,
+      "share_of_pooled_residual_model_origins": 0.3
+    },
+    {
+      "market": "Medan",
+      "endpoints_n": 7,
+      "assigned_origins_n": 78,
+      "oil_tail_before_owned_network_n": 3,
+      "oil_tail_after_owned_network_n": 0,
+      "unique_15min_service_origins_n": 14,
+      "paired_origins_n": 78,
+      "removed_tail_n": 3,
+      "share_of_pooled_residual_model_origins": 0.0
+    },
+    {
+      "market": "Bandung",
+      "endpoints_n": 8,
+      "assigned_origins_n": 78,
+      "oil_tail_before_owned_network_n": 17,
+      "oil_tail_after_owned_network_n": 14,
+      "unique_15min_service_origins_n": 6,
+      "paired_origins_n": 78,
+      "removed_tail_n": 3,
+      "share_of_pooled_residual_model_origins": 0.7
+    },
+    {
+      "market": "Palembang",
+      "endpoints_n": 3,
+      "assigned_origins_n": 69,
+      "oil_tail_before_owned_network_n": 9,
+      "oil_tail_after_owned_network_n": 0,
+      "unique_15min_service_origins_n": 10,
+      "paired_origins_n": 69,
+      "removed_tail_n": 9,
+      "share_of_pooled_residual_model_origins": 0.0
+    }
+  ],
+  "total_origin_comparisons": 284,
+  "pooled_tail_before_n": 39,
+  "pooled_tail_after_n": 20,
+  "warning": "Pooling describes allocation of this model's cells, not geographic demand or population shares.",
+  "checks": {
+    "origin_partition_matches_each_market": true,
+    "branches_n": 29,
+    "network_tail_does_not_increase": true
+  }
+}

@@ -1,0 +1,1004 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.68775621831999,
+          3.5958000353538124
+        ]
+      },
+      "properties": {
+        "provider_id": "OX001",
+        "name": "OtoXpert Thamrin Medan",
+        "operator": "Deltamas",
+        "city": "Medan",
+        "directory_page": 1,
+        "latitude": 3.5958000353538124,
+        "longitude": 98.68775621831999,
+        "published_hours": "Mon-Sat 08:30-17:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=3.5958000353538124,98.68775621831999",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.62613937888233,
+          3.551358444648945
+        ]
+      },
+      "properties": {
+        "provider_id": "OX002",
+        "name": "OtoXpert Ring Road Medan",
+        "operator": "Auto2000",
+        "city": "Medan",
+        "directory_page": 1,
+        "latitude": 3.551358444648945,
+        "longitude": 98.62613937888233,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=3.551358444648945,98.62613937888233",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.69074866024502,
+          3.5383074486789727
+        ]
+      },
+      "properties": {
+        "provider_id": "OX003",
+        "name": "OtoXpert Tritura Medan",
+        "operator": "Perintis",
+        "city": "Medan",
+        "directory_page": 1,
+        "latitude": 3.5383074486789727,
+        "longitude": 98.69074866024502,
+        "published_hours": "Mon-Sat 08:30-17:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=3.5383074486789727,98.69074866024502",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3699044,
+          -0.9450501
+        ]
+      },
+      "properties": {
+        "provider_id": "OX004",
+        "name": "OtoXpert Padang",
+        "operator": "Auto2000",
+        "city": "Padang",
+        "directory_page": 1,
+        "latitude": -0.9450501,
+        "longitude": 100.3699044,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-0.9450501,100.3699044",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.42980527311356,
+          0.4773720018451019
+        ]
+      },
+      "properties": {
+        "provider_id": "OX005",
+        "name": "OtoXpert Pekanbaru",
+        "operator": "Agung Automall",
+        "city": "Pekanbaru",
+        "directory_page": 1,
+        "latitude": 0.4773720018451019,
+        "longitude": 101.42980527311356,
+        "published_hours": "Mon-Sun 08:00-16:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=0.4773720018451019,101.42980527311356",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61561781282792,
+          -1.613235881305425
+        ]
+      },
+      "properties": {
+        "provider_id": "OX006",
+        "name": "OtoXpert Jambi",
+        "operator": "Agung Automall",
+        "city": "Jambi",
+        "directory_page": 1,
+        "latitude": -1.613235881305425,
+        "longitude": 103.61561781282792,
+        "published_hours": "Mon-Sun 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-1.613235881305425,103.61561781282792",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.76998568111011,
+          -2.927153441929458
+        ]
+      },
+      "properties": {
+        "provider_id": "OX007",
+        "name": "OtoXpert Palembang",
+        "operator": "Auto2000",
+        "city": "Palembang",
+        "directory_page": 1,
+        "latitude": -2.927153441929458,
+        "longitude": 104.76998568111011,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-2.927153441929458,104.76998568111011",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0014688434337,
+          1.136828451368845
+        ]
+      },
+      "properties": {
+        "provider_id": "OX008",
+        "name": "OtoXpert Batam",
+        "operator": "Agung Automall",
+        "city": "Batam",
+        "directory_page": 1,
+        "latitude": 1.136828451368845,
+        "longitude": 104.0014688434337,
+        "published_hours": "Mon-Sun 08:00-16:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=1.136828451368845,104.0014688434337",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89756595928591,
+          -6.173243109852233
+        ]
+      },
+      "properties": {
+        "provider_id": "OX009",
+        "name": "OtoXpert Kelapa Gading",
+        "operator": "Auto2000",
+        "city": "Jakarta",
+        "directory_page": 1,
+        "latitude": -6.173243109852233,
+        "longitude": 106.89756595928591,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.173243109852233,106.89756595928591",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79491103472631,
+          -6.290985691487656
+        ]
+      },
+      "properties": {
+        "provider_id": "OX010",
+        "name": "OtoXpert Fatmawati",
+        "operator": "Auto2000",
+        "city": "Jakarta",
+        "directory_page": 1,
+        "latitude": -6.290985691487656,
+        "longitude": 106.79491103472631,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.290985691487656,106.79491103472631",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87102744673018,
+          -6.185757354857489
+        ]
+      },
+      "properties": {
+        "provider_id": "OX011",
+        "name": "OtoXpert Rawasari",
+        "operator": "Auto2000",
+        "city": "Jakarta",
+        "directory_page": 2,
+        "latitude": -6.185757354857489,
+        "longitude": 106.87102744673018,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.185757354857489,106.87102744673018",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7734466,
+          -6.2161598
+        ]
+      },
+      "properties": {
+        "provider_id": "OX012",
+        "name": "OtoXpert Pos Pengumben",
+        "operator": "Astrido",
+        "city": "Jakarta",
+        "directory_page": 2,
+        "latitude": -6.2161598,
+        "longitude": 106.7734466,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.2161598,106.7734466",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9241,
+          -6.31904
+        ]
+      },
+      "properties": {
+        "provider_id": "OX013",
+        "name": "OtoXpert Jatimurni",
+        "operator": "Tunas Group",
+        "city": "Bekasi",
+        "directory_page": 2,
+        "latitude": -6.31904,
+        "longitude": 106.9241,
+        "published_hours": "Mon-Sun 08:00-20:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.31904,106.9241",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29377232407815,
+          -6.316667767858572
+        ]
+      },
+      "properties": {
+        "provider_id": "OX014",
+        "name": "OtoXpert Karawang",
+        "operator": "Auto2000",
+        "city": "Karawang",
+        "directory_page": 2,
+        "latitude": -6.316667767858572,
+        "longitude": 107.29377232407815,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.316667767858572,107.29377232407815",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60054786216769,
+          -6.937163100221827
+        ]
+      },
+      "properties": {
+        "provider_id": "OX015",
+        "name": "OtoXpert Peta",
+        "operator": "Auto2000",
+        "city": "Bandung",
+        "directory_page": 2,
+        "latitude": -6.937163100221827,
+        "longitude": 107.60054786216769,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.937163100221827,107.60054786216769",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63356297442269,
+          -6.983194031481277
+        ]
+      },
+      "properties": {
+        "provider_id": "OX016",
+        "name": "OtoXpert Bojongsoang",
+        "operator": "Auto2000",
+        "city": "Bandung",
+        "directory_page": 2,
+        "latitude": -6.983194031481277,
+        "longitude": 107.63356297442269,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.983194031481277,107.63356297442269",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.05841708322806,
+          -6.255975026608349
+        ]
+      },
+      "properties": {
+        "provider_id": "OX017",
+        "name": "OtoXpert Tambun",
+        "operator": "Auto2000",
+        "city": "Bekasi",
+        "directory_page": 2,
+        "latitude": -6.255975026608349,
+        "longitude": 107.05841708322806,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.255975026608349,107.05841708322806",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8172988670249,
+          -6.5844525335962585
+        ]
+      },
+      "properties": {
+        "provider_id": "OX018",
+        "name": "OtoXpert Bogor",
+        "operator": "Auto2000",
+        "city": "Bogor",
+        "directory_page": 2,
+        "latitude": -6.5844525335962585,
+        "longitude": 106.8172988670249,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.5844525335962585,106.8172988670249",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.19367157348981,
+          -7.302253129852767
+        ]
+      },
+      "properties": {
+        "provider_id": "OX019",
+        "name": "OtoXpert Tasikmalaya",
+        "operator": "Sinarmas",
+        "city": "Tasikmalaya",
+        "directory_page": 2,
+        "latitude": -7.302253129852767,
+        "longitude": 108.19367157348981,
+        "published_hours": "Mon-Sat 08:00-16:30",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-7.302253129852767,108.19367157348981",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65220448538085,
+          -6.914450913659831
+        ]
+      },
+      "properties": {
+        "provider_id": "OX020",
+        "name": "OtoXpert Antapani",
+        "operator": "Wijaya",
+        "city": "Bandung",
+        "directory_page": 2,
+        "latitude": -6.914450913659831,
+        "longitude": 107.65220448538085,
+        "published_hours": "Mon-Sun 08:00-16:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=2",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.914450913659831,107.65220448538085",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.45550539224016,
+          -6.986916174588131
+        ]
+      },
+      "properties": {
+        "provider_id": "OX021",
+        "name": "OtoXpert Semarang",
+        "operator": "Nasmoco",
+        "city": "Semarang",
+        "directory_page": 3,
+        "latitude": -6.986916174588131,
+        "longitude": 110.45550539224016,
+        "published_hours": "Mon-Sun 08:00-16:30",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.986916174588131,110.45550539224016",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71478975442125,
+          -7.286958387953755
+        ]
+      },
+      "properties": {
+        "provider_id": "OX022",
+        "name": "OtoXpert Dukuh Kupang",
+        "operator": "Liek Motor",
+        "city": "Surabaya",
+        "directory_page": 3,
+        "latitude": -7.286958387953755,
+        "longitude": 112.71478975442125,
+        "published_hours": "Mon-Sat 08:00-16:15",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-7.286958387953755,112.71478975442125",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65316883554634,
+          -7.962368105553717
+        ]
+      },
+      "properties": {
+        "provider_id": "OX023",
+        "name": "OtoXpert Sulfat",
+        "operator": "Kartika Sari",
+        "city": "Malang",
+        "directory_page": 3,
+        "latitude": -7.962368105553717,
+        "longitude": 112.65316883554634,
+        "published_hours": "Mon-Sat 08:00-16:30",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-7.962368105553717,112.65316883554634",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78343903008502,
+          -7.33160369596501
+        ]
+      },
+      "properties": {
+        "provider_id": "OX024",
+        "name": "OtoXpert Rungkut",
+        "operator": "Auto2000",
+        "city": "Surabaya",
+        "directory_page": 3,
+        "latitude": -7.33160369596501,
+        "longitude": 112.78343903008502,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-7.33160369596501,112.78343903008502",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6869007540283,
+          -6.334254646024867
+        ]
+      },
+      "properties": {
+        "provider_id": "OX025",
+        "name": "OtoXpert Ciater Barat BSD",
+        "operator": "Auto2000",
+        "city": "Tangerang Selatan",
+        "directory_page": 3,
+        "latitude": -6.334254646024867,
+        "longitude": 106.6869007540283,
+        "published_hours": "Mon-Sun 09:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.334254646024867,106.6869007540283",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65571274528271,
+          -6.186272252970748
+        ]
+      },
+      "properties": {
+        "provider_id": "OX026",
+        "name": "OtoXpert Cipondoh",
+        "operator": "Auto2000",
+        "city": "Tangerang",
+        "directory_page": 3,
+        "latitude": -6.186272252970748,
+        "longitude": 106.65571274528271,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-6.186272252970748,106.65571274528271",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1874018199011,
+          -8.636390907587955
+        ]
+      },
+      "properties": {
+        "provider_id": "OX027",
+        "name": "OtoXpert Denpasar",
+        "operator": "Agung Automall",
+        "city": "Denpasar",
+        "directory_page": 3,
+        "latitude": -8.636390907587955,
+        "longitude": 115.1874018199011,
+        "published_hours": "Mon-Sun 08:00-16:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-8.636390907587955,115.1874018199011",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5896235,
+          -3.2814678
+        ]
+      },
+      "properties": {
+        "provider_id": "OX028",
+        "name": "OtoXpert Banjarmasin",
+        "operator": "Wiramegah Profitamas",
+        "city": "Banjarmasin",
+        "directory_page": 3,
+        "latitude": -3.2814678,
+        "longitude": 114.5896235,
+        "published_hours": "Mon-Sat 08:00-16:30",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-3.2814678,114.5896235",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8708593189664,
+          -1.2274847329033705
+        ]
+      },
+      "properties": {
+        "provider_id": "OX029",
+        "name": "OtoXpert Balikpapan",
+        "operator": "Auto2000",
+        "city": "Balikpapan",
+        "directory_page": 3,
+        "latitude": -1.2274847329033705,
+        "longitude": 116.8708593189664,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-1.2274847329033705,116.8708593189664",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": true,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.14781652978397,
+          -0.49975527850243884
+        ]
+      },
+      "properties": {
+        "provider_id": "OX030",
+        "name": "OtoXpert Samarinda",
+        "operator": "Graha Mulia Auto",
+        "city": "Samarinda",
+        "directory_page": 3,
+        "latitude": -0.49975527850243884,
+        "longitude": 117.14781652978397,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=3",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-0.49975527850243884,117.14781652978397",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.84694565889544,
+          1.482996959344779
+        ]
+      },
+      "properties": {
+        "provider_id": "OX031",
+        "name": "OtoXpert Tikala Manado",
+        "operator": "Hasjrat Abadi",
+        "city": "Manado",
+        "directory_page": 4,
+        "latitude": 1.482996959344779,
+        "longitude": 124.84694565889544,
+        "published_hours": "Mon-Sun 08:00-18:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=1.482996959344779,124.84694565889544",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8722714883459,
+          -0.8820910200702996
+        ]
+      },
+      "properties": {
+        "provider_id": "OX032",
+        "name": "OtoXpert Samratulangi",
+        "operator": "Kalla",
+        "city": "Palu",
+        "directory_page": 4,
+        "latitude": -0.8820910200702996,
+        "longitude": 119.8722714883459,
+        "published_hours": "Mon-Sat 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-0.8820910200702996,119.8722714883459",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.47054997557778,
+          -5.184093108716737
+        ]
+      },
+      "properties": {
+        "provider_id": "OX033",
+        "name": "OtoXpert Hertasning",
+        "operator": "Kalla",
+        "city": "Gowa",
+        "directory_page": 4,
+        "latitude": -5.184093108716737,
+        "longitude": 119.47054997557778,
+        "published_hours": "Mon-Sun 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-5.184093108716737,119.47054997557778",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.51166227459905,
+          -5.115263159635955
+        ]
+      },
+      "properties": {
+        "provider_id": "OX034",
+        "name": "OtoXpert Daya",
+        "operator": "Kalla",
+        "city": "Makassar",
+        "directory_page": 4,
+        "latitude": -5.115263159635955,
+        "longitude": 119.51166227459905,
+        "published_hours": "Mon-Sat 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-5.115263159635955,119.51166227459905",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.41878543012771,
+          -5.16998856418988
+        ]
+      },
+      "properties": {
+        "provider_id": "OX035",
+        "name": "OtoXpert Kumala",
+        "operator": "Kalla",
+        "city": "Makassar",
+        "directory_page": 4,
+        "latitude": -5.16998856418988,
+        "longitude": 119.41878543012771,
+        "published_hours": "Mon-Sat 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-5.16998856418988,119.41878543012771",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0325037,
+          -4.1232184
+        ]
+      },
+      "properties": {
+        "provider_id": "OX036",
+        "name": "OtoXpert Sengkang",
+        "operator": "Kalla",
+        "city": "Wajo",
+        "directory_page": 4,
+        "latitude": -4.1232184,
+        "longitude": 120.0325037,
+        "published_hours": "Mon-Sat 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-4.1232184,120.0325037",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.52364133545798,
+          -3.9774347940232757
+        ]
+      },
+      "properties": {
+        "provider_id": "OX037",
+        "name": "OtoXpert Kendari",
+        "operator": "Kalla",
+        "city": "Kendari",
+        "directory_page": 4,
+        "latitude": -3.9774347940232757,
+        "longitude": 122.52364133545798,
+        "published_hours": "Mon-Sat 08:00-17:00",
+        "source_url": "https://otoxpert.co.id/workshop?page=4",
+        "map_link": "https://maps.google.com/maps?output=embed&q=-3.9774347940232757,122.52364133545798",
+        "retrieved_date": "2026-11-14",
+        "coordinate_status": "official_directory_embedded_map_candidate",
+        "job_capability_status": "network_advertised_oil_and_brakes; outlet/model/job_unconfirmed",
+        "auto2000_operator": false,
+        "limitations": "Official listing, not site visit; hours and capacity unconfirmed; embedded maps could not be rendered"
+      }
+    }
+  ]
+}

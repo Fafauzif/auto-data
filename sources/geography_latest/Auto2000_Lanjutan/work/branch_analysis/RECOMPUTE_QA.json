@@ -1,0 +1,18 @@
+{
+  "branch_rows": 54,
+  "unique_branches": 27,
+  "market_origin_rows": 648,
+  "matched_handoff_branches": 24,
+  "max_handoff_oil_gap_difference_minutes": 3.339550858072471e-13,
+  "handoff_count_equal": true,
+  "strict_joint_n": [
+    59,
+    78,
+    78,
+    69
+  ],
+  "corrected_coordinate_scenario": false,
+  "method": "Full raw OD minima by channel and operator, same paired origin set; no cached summary trusted as calculation input",
+  "handoff_comparison_expectation": "Baseline should reproduce handoff assignments and medians",
+  "qa_pass": true
+}

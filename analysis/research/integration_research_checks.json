@@ -1,0 +1,131 @@
+{
+  "as_of": "2026-11-14",
+  "source_freeze": "2026-11-11",
+  "checks": [
+    {
+      "check": "case_revenue_total",
+      "actual": 69000,
+      "expected": 69000,
+      "pass": true
+    },
+    {
+      "check": "case_gp_total",
+      "actual": 6750,
+      "expected": 6750,
+      "pass": true
+    },
+    {
+      "check": "case_after_sales_revenue",
+      "actual": 9000,
+      "expected": 9000,
+      "pass": true
+    },
+    {
+      "check": "case_after_sales_gp",
+      "actual": 3150,
+      "expected": 3150,
+      "pass": true
+    },
+    {
+      "check": "case_operating_profit",
+      "actual": 2130,
+      "expected": 2130,
+      "pass": true
+    },
+    {
+      "check": "legacy_app_records",
+      "actual": 358,
+      "expected": 358,
+      "pass": true
+    },
+    {
+      "check": "legacy_narrative_units",
+      "actual": 95,
+      "expected": 95,
+      "pass": true
+    },
+    {
+      "check": "legacy_app_unique_record_keys",
+      "actual": 358,
+      "expected": 358,
+      "pass": true
+    },
+    {
+      "check": "namespaced_register_ids_unique",
+      "actual": 319,
+      "expected": 319,
+      "pass": true
+    },
+    {
+      "check": "legacy_solution_bridge_count",
+      "actual": 27,
+      "expected": 27,
+      "pass": true
+    }
+  ],
+  "registers": [
+    {
+      "namespace": "market",
+      "source_path_in_legacy_repository": "workstreams/market/evidence.json",
+      "records": 47,
+      "sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+    },
+    {
+      "namespace": "competition",
+      "source_path_in_legacy_repository": "workstreams/competition/evidence_matrix.json",
+      "records": 45,
+      "sha256": "c0618bf9d30c062620cef60f6cb00612cdc88fc03a9bb49cc530a09bc562aab6"
+    },
+    {
+      "namespace": "capabilities",
+      "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+      "records": 35,
+      "sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+    },
+    {
+      "namespace": "survey_audit",
+      "source_path_in_legacy_repository": "workstreams/friend_surveys/survey_claims.json",
+      "records": 43,
+      "sha256": "31edc2f31c42005bce051ea242462c4b46f4c37771164144c0c32ff167b96095"
+    },
+    {
+      "namespace": "insurance",
+      "source_path_in_legacy_repository": "workstreams/friend_insurance/claim_matrix.json",
+      "records": 29,
+      "sha256": "e545354e02301d441e2783c421c641268257d4a4c2e5eb95fa6f405931c937f2"
+    },
+    {
+      "namespace": "friend_context",
+      "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+      "records": 40,
+      "sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+    },
+    {
+      "namespace": "stakeholders",
+      "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+      "records": 21,
+      "sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+    },
+    {
+      "namespace": "original_hypothesis",
+      "source_path_in_legacy_repository": "reports/hypothesis_assessment.json",
+      "records": 25,
+      "sha256": "17ae4b8a5921335c00392bc708a0c0ad9a16d19bc49acf5379a9b7965911c11d"
+    },
+    {
+      "namespace": "mechanism_study",
+      "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+      "records": 7,
+      "sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+    },
+    {
+      "namespace": "legacy_solution",
+      "source_path_in_legacy_repository": "reports/SOLUTION_MENU.json",
+      "records": 27,
+      "sha256": "12eb7fbea9f243c379f6f5c6479de7d1b514ec28153700e9987c81921f501abb"
+    }
+  ],
+  "document_count": 89,
+  "union_rows": 319,
+  "units_warning": "Registers deliberately preserve overlapping evidence interpretations. Union rows are not independent sources or customers."
+}

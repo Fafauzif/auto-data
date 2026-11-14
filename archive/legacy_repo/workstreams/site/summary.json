@@ -1,0 +1,46 @@
+{
+  "fetched_urls": 345,
+  "successful_raw_html": 281,
+  "status_counts": {
+    "404": 56,
+    "503": 1,
+    "0": 7,
+    "200": 281
+  },
+  "families": {
+    "service_utility": 57,
+    "editorial": 133,
+    "catalogue": 2,
+    "adviser": 1,
+    "local_branch": 7,
+    "product_eksterior": 6,
+    "product_galeri": 6,
+    "product_interior": 6,
+    "product_kredit": 27,
+    "product_overview": 6,
+    "product_spesifikasi": 6,
+    "product_ulasan": 6,
+    "product_tipe": 6,
+    "product_warna": 6,
+    "product_video": 6
+  },
+  "raw_bytes": 54252268,
+  "main_text_words_extracted_private": 181158,
+  "raw_missing_canonical": 198,
+  "missing_h1": 1,
+  "multiple_h1": 28,
+  "unique_main_content_hashes": 281,
+  "link_rows": 15323,
+  "link_occurrences": 25361,
+  "raw_amount_mentions_not_offers": 345,
+  "limits": [
+    "Purposive URL and family selection; percentages apply only to successful sampled HTML",
+    "Raw HTML metadata not rendered/indexing/visitor evidence",
+    "Main text extraction may retain template content",
+    "Currency mentions are not reconciled offers or quoted current prices",
+    "Word and link counts do not measure independent information or people"
+  ],
+  "empty_selected_raw_text_pages": 0,
+  "exact_duplicate_groups": 0,
+  "near_duplicate_candidate_pairs": 0
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "source_id": "T01",
+    "check": "Service History",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T01",
+    "check": "Service Booking",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T01",
+    "check": "Monitor Service Progress",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T02",
+    "check": "60.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T02",
+    "check": "XTRA",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T02",
+    "check": "Juli 2022",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T03",
+    "check": "sertifikat",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T03",
+    "check": "Not Good",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "T03",
+    "check": "25 bulan",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S01",
+    "check": "Instant Approval",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S01",
+    "check": "Astra BYD",
+    "found": false,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S02",
+    "check": "7 Oktober 2026",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S02",
+    "check": "KTP pasangan",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S02",
+    "check": "masa berlaku",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O01",
+    "check": "7-day",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O01",
+    "check": "60 minutes",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O02",
+    "check": "indikatif",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O02",
+    "check": "Penilaian Aktual",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O02",
+    "check": "tidak berkewajiban",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O03",
+    "check": "188",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "O03",
+    "check": "60 menit",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "U01",
+    "check": "OTP",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "U01",
+    "check": "Body & Paint",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "A01",
+    "check": "2 hari",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "A01",
+    "check": "15 menit",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "A01",
+    "check": "799.000.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "A02",
+    "check": "50.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "A02",
+    "check": "3 tahun",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B01",
+    "check": "5 hari kerja",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B01",
+    "check": "10 kendaraan",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B01",
+    "check": "secara bersamaan",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B02",
+    "check": "suku cadang asli",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B02",
+    "check": "perawatan berkala",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B03",
+    "check": "State of Health",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B03",
+    "check": "70%",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "B03",
+    "check": "2024",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H01",
+    "check": "160.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H01",
+    "check": "9.030.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H01",
+    "check": "September 2025",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H02",
+    "check": "three (3) years",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H02",
+    "check": "legally separate",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H02",
+    "check": "Bluelink ready",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H03",
+    "check": "10 kWh",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H03",
+    "check": "40KM",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "H03",
+    "check": "5.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W01",
+    "check": "Rp 200.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W01",
+    "check": "Rp 10.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W01",
+    "check": "booking service",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W02",
+    "check": "30.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W02",
+    "check": "1.000",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "W02",
+    "check": "2023",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "F01",
+    "check": "Tunggu Konfirmasi",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "F01",
+    "check": "dihubungi",
+    "found": true,
+    "note": "Exact substring in whitespace-normalized raw HTML text; not rendered-state verification"
+  },
+  {
+    "source_id": "S01",
+    "check": "alt=\"Astra BYD\"",
+    "found": true,
+    "note": "Image alt attribute in raw source; not ordinary text node or independently verified integration"
+  }
+]

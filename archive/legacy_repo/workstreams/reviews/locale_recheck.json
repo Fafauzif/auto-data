@@ -1,0 +1,28 @@
+[
+  {
+    "language": "id",
+    "country_parameter": "ID",
+    "status": 200,
+    "source_url": "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=id&gl=ID",
+    "request_id": "9a420f68314f4bb8b7374db1b7b00a07",
+    "retrieved_utc": "2026-11-11T02:55:44.418411+00:00",
+    "review_ids_returned_n": 20,
+    "baseline_ids_n": 20,
+    "overlap_with_same_language_baseline": 20,
+    "set_equal_to_same_language_baseline": true,
+    "is_additional_independent_customer_evidence": false
+  },
+  {
+    "language": "en",
+    "country_parameter": "ID",
+    "status": 200,
+    "source_url": "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID",
+    "request_id": "5d9300deefef4087a59b7e22535a5dd5",
+    "retrieved_utc": "2026-11-11T02:55:51.553784+00:00",
+    "review_ids_returned_n": 20,
+    "baseline_ids_n": 20,
+    "overlap_with_same_language_baseline": 20,
+    "set_equal_to_same_language_baseline": true,
+    "is_additional_independent_customer_evidence": false
+  }
+]

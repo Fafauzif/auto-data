@@ -1,0 +1,102 @@
+[
+  {
+    "case_id": "R1-01",
+    "run1_row_1_based": 74,
+    "post_id": "2097968572232609912",
+    "source_role": "branch-specific complaint summarized by a publisher",
+    "evidence": "A publisher recounts a Corolla Altis owner's complaint about power-window behavior after a recall at an Auto2000 branch.",
+    "interpretation_and_limit": "Investigate explanation, resolution ownership and safety-campaign follow-through. It is not a direct owner interview, verified fault or paid win-back job.",
+    "repository_connection": "workstreams/extension_stakeholders/MECE_STAKEHOLDER_REPORT.md: EXT-OPT01; reports/INSIGHT_BOOK.md: IB05/IB16",
+    "source_url_private": "https://x.com/MediaKonsumenID/status/2097968572232609912"
+  },
+  {
+    "case_id": "R1-02",
+    "run1_row_1_based": 94,
+    "post_id": "2119629453651578937",
+    "source_role": "self-reported parts preference, missing parent",
+    "evidence": "Poster describes a cheaper DIY AC filter and other parts from Auto2000 or OtoXpert.",
+    "interpretation_and_limit": "Price sensitivity may be component-specific. Verify actual purchases and job scope; do not treat all economical-care demand as lost workshop labor.",
+    "repository_connection": "workstreams/extension_stakeholders/MECE_STAKEHOLDER_REPORT.md: economy channels; DATA_GUIDE.md: units and payer",
+    "source_url_private": "https://x.com/L4t3N1t3L4tt3/status/2119629453651578937"
+  },
+  {
+    "case_id": "R1-03",
+    "run1_row_1_based": 28,
+    "post_id": "2049465205344829951",
+    "source_role": "seller listing with asking price and a claimed dealer offer",
+    "evidence": "Seller asks Rp390m for a petrol Zenix and says a dealer has offered Rp350m.",
+    "interpretation_and_limit": "A seller's ask, claimed dealer bid and completed settlement are different. Rp40m is an ask/bid gap, not proven undervaluation or incremental GP. Dealer and eventual sale unknown.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB06; workstreams/journeys/FRIEND_CONTEXT_CHALLENGE.md: JX07",
+    "source_url_private": "https://x.com/eskepalmilosatu/status/2049465205344829951"
+  },
+  {
+    "case_id": "R1-04",
+    "run1_row_1_based": 175,
+    "post_id": "2068994365633212684",
+    "source_role": "shopping consideration and unverified technical/market claims",
+    "evidence": "Poster compares Tiggo 8 CSH, Vitara and Wuling Cloud using battery/warranty/maintenance and household-approval considerations.",
+    "interpretation_and_limit": "This recovers the root for the pilot's hybrid-shortlist reply. It is one conversation family, not independent corroboration. Costs, warranties and market trend claims need verification.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB09; pilot C02 conversation context",
+    "source_url_private": "https://x.com/mrtweepsID/status/2068994365633212684"
+  },
+  {
+    "case_id": "R1-05",
+    "run1_row_1_based": 49,
+    "post_id": "2121133799467856087",
+    "source_role": "self-reported ownership, location unknown",
+    "evidence": "Poster describes long-term Avanza/Veloz ownership with little reported maintenance beyond oil changes.",
+    "interpretation_and_limit": "A counterexample to frequent paid-job assumptions, but no invoice, Auto2000 history or confirmed Indonesian location. Do not derive adherence, safety or paid-job frequency from it.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB03",
+    "source_url_private": "https://x.com/tarmiziadam/status/2121133799467856087"
+  },
+  {
+    "case_id": "R1-06",
+    "run1_row_1_based": 125,
+    "post_id": "2085952681479418158",
+    "source_role": "campaign-like favorable brand account",
+    "evidence": "Post praises a competitor's maintenance network with branded campaign hashtags.",
+    "interpretation_and_limit": "Disclosure and source role are unresolved. Do not classify it automatically as independent owner testimony or label it paid without evidence.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB12/IB14",
+    "source_url_private": "https://x.com/VictoryisVicky/status/2085952681479418158"
+  },
+  {
+    "case_id": "R1-07",
+    "run1_row_1_based": 126,
+    "post_id": "2085951427588083821",
+    "source_role": "campaign-like favorable brand account",
+    "evidence": "Second post uses the same campaign hashtags and promotes ease of hybrid use and service.",
+    "interpretation_and_limit": "Same campaign pattern; independent ownership/use and sponsorship are unknown. Group the communication context.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB12/IB14",
+    "source_url_private": "https://x.com/089Fiona/status/2085951427588083821"
+  },
+  {
+    "case_id": "R1-08",
+    "run1_row_1_based": 114,
+    "post_id": "2109268645381918802",
+    "source_role": "explicit Malaysia recall news",
+    "evidence": "News text explicitly concerns Chery Auto Malaysia and Kuala Lumpur.",
+    "interpretation_and_limit": "Quarantine from Indonesian service-experience counts even though metadata says in. May serve only as a labelled external comparator.",
+    "repository_connection": "workstreams/extension_reviews/EXTENSION_REVIEW_REPORT.md: source/market context",
+    "source_url_private": "https://x.com/mynewshub/status/2109268645381918802"
+  },
+  {
+    "case_id": "R1-09",
+    "run1_row_1_based": 149,
+    "post_id": "2102018205762089403",
+    "source_role": "explicit Malaysia commentary about a third-party report",
+    "evidence": "Post explicitly discusses Malaysian Chery warranty/repair allegations from another source.",
+    "interpretation_and_limit": "Not an Indonesian personal aftersales episode; no verified defect or warranty refusal.",
+    "repository_connection": "workstreams/extension_reviews/EXTENSION_REVIEW_REPORT.md: source/market context",
+    "source_url_private": "https://x.com/TheRealChinaBot/status/2102018205762089403"
+  },
+  {
+    "case_id": "R1-10",
+    "run1_row_1_based": 150,
+    "post_id": "2086031988235137484",
+    "source_role": "apparent joke or misleading technical framing",
+    "evidence": "A post lists several EVs among cars supposedly not to be fueled with Pertalite and warns about warranty.",
+    "interpretation_and_limit": "Do not convert this into technical warranty terms. Retain as discourse/satire ambiguity, not an actual service claim.",
+    "repository_connection": "reports/INSIGHT_BOOK.md: IB12/IB14",
+    "source_url_private": "https://x.com/azwardiiqbal/status/2086031988235137484"
+  }
+]

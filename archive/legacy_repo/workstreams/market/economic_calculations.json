@@ -1,0 +1,77 @@
+[
+  {
+    "calculation_id": "MC01",
+    "name": "Market-mix sensitivity",
+    "type": "case-based derived sensitivity, not forecast",
+    "inputs": {
+      "toyota_all": 250431,
+      "all_wholesales": 803687,
+      "toyota_electrified_estimated": 33950,
+      "electrified_wholesales": 175144
+    },
+    "formula": "share = electrified_mix * within_electrified_share + (1-electrified_mix) * within_conventional_share",
+    "within_electrified_share": 0.19384049696249944,
+    "within_conventional_share": 0.3444171679582781,
+    "base_all_share": 0.31160265128090914,
+    "mix_shift_assumption_pp": 10,
+    "overall_share_change_pp": -1.5057667099577865,
+    "overall_share_after_sensitivity": 0.2965449841813313,
+    "source": "Supplied IBSC casebook exhibits 1\u20132; Toyota electrified volume estimated in case",
+    "limit": "Stable within-category shares are an assumption; neither Toyota forecast nor Auto2000 effect."
+  },
+  {
+    "calculation_id": "MC02",
+    "name": "After-sales decomposition non-identifiability",
+    "type": "synthetic counterexample, not observed data",
+    "formula": "contribution index = cohort vehicles * jobs due * capture share * GP-per-job index",
+    "base": {
+      "vehicles": 100,
+      "jobs_due": 2,
+      "capture": 0.8,
+      "gp_index": 1,
+      "result": 160
+    },
+    "mechanical_case": {
+      "vehicles": 100,
+      "jobs_due": 1.5,
+      "capture": 0.8,
+      "gp_index": 1,
+      "result": 120
+    },
+    "defection_case": {
+      "vehicles": 100,
+      "jobs_due": 2,
+      "capture": 0.6,
+      "gp_index": 1,
+      "result": 120
+    },
+    "finding": "Identical 25% decline can result from lower work due or lower capture; aggregate alone cannot distinguish them.",
+    "limit": "Illustrates identification under the stated arithmetic only; values are normalized assumptions."
+  },
+  {
+    "calculation_id": "MC03",
+    "name": "Existing service channel migration",
+    "type": "synthetic counterexample, not observed data",
+    "formula": "incremental job GP = change in completed Auto2000 jobs * realized GP-per-job",
+    "assumptions": "100 existing completed jobs remain 100; channel mix alone shifts; job mix, discounts and direct costs unchanged",
+    "incremental_transaction_GP": 0,
+    "limit": "Potential cost savings and digital assistance are separate mechanisms, not assumed zero."
+  },
+  {
+    "calculation_id": "MC04",
+    "name": "No dedicated home charger among EV intenders",
+    "type": "approximate arithmetic from rounded nested survey shares",
+    "formula": ".61 * (1-.54)",
+    "result_percent": 28.059999999999995,
+    "source": "MS02; 61% home-preferring EV intenders; 54% of that subset dedicated-access",
+    "limit": "Approximately 28.1% of all EV intenders under common-base interpretation lack dedicated access; shared access can be sufficient. Not inability to charge or lost demand."
+  },
+  {
+    "calculation_id": "MC05",
+    "name": "Contribution break-even relationship",
+    "type": "symbolic threshold, no observed input values",
+    "formula": "required additional completed transactions = incremental program cost / net contribution per additional completed transaction",
+    "conditions": "Positive net contribution; include partner share, cannibalization, discounts and displaced capacity; align period and cost basis",
+    "limit": "No arbitrary cost, conversion, customer-base or margin value supplied; no ROI forecast."
+  }
+]

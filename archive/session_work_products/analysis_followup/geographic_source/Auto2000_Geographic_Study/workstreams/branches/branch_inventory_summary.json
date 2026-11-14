@@ -1,0 +1,26 @@
+{
+  "official_directory_cards": 155,
+  "unique_name_coordinate_entries": 131,
+  "directory_labels_with_cards": 48,
+  "routing_eligible_general_workshops": 96,
+  "unique_general_workshop_advertised": 99,
+  "coordinate_status": {
+    "official_direction_candidate": 127,
+    "invalid_official_direction": 2,
+    "conflicting_shared_direction_link": 1,
+    "virtual_branch": 1
+  },
+  "core_routing_counts": {
+    "surabaya": 9,
+    "medan": 6,
+    "bandung": 7,
+    "palembang": 3
+  },
+  "limits": [
+    "Acquired official directory cards, not independently reconciled national network total",
+    "City directory label is search page, not validated administrative location",
+    "No selected vehicle/job completion, appointment, capacity or battery competence validation",
+    "Official direction candidates not field-confirmed entrances",
+    "Two apparently local directories repeat Surabaya cards; deduplicate by name and coordinates"
+  ]
+}

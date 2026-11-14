@@ -1,0 +1,16 @@
+{
+  "market": "Palembang",
+  "bbox": [
+    104.58,
+    -3.15,
+    104.92999999999999,
+    -2.8
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:31.220975+00:00",
+  "status": "success",
+  "source_all_place_rows": 22687,
+  "automotive_candidate_rows": 1580,
+  "sha256": "12af25cb59356aa67eabd30af7a39c54a14ec64ebdf1f04454173acc9b5f7432",
+  "seconds": 25.6
+}

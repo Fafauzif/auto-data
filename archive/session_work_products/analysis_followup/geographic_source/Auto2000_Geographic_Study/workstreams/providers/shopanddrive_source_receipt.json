@@ -1,0 +1,12 @@
+{
+  "source_url": "https://www.shopanddrive.com/outlet",
+  "retrieved_date": "2026-11-14",
+  "source_html_bytes": 1892204,
+  "source_html_sha256": "b02fd940b6ebe33063afed10cd58260d3f540720948a8380b7edf49ee9e78533",
+  "source_rows": 425,
+  "valid_coordinate_rows": 425,
+  "study_window_rows": 282,
+  "focal_selected_rows": 8,
+  "extraction": "Selected business facts from inline JSON var outletCoordinates; telephone field intentionally excluded; full source HTML not redistributed",
+  "locator": "HTML line22332 in captured source; upstream markup can change"
+}

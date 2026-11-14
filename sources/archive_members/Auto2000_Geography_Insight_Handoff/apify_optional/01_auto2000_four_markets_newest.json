@@ -1,0 +1,34 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.google.com/maps?cid=8096316900593657932"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=4868352556675463105"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=295822600034400666"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=68512206777024957"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=6733770158825258803"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=1839090034397748217"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=3022948411287753942"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=6744594925662207966"
+    }
+  ],
+  "maxReviews": 350,
+  "reviewsSort": "newest",
+  "language": "id",
+  "reviewsOrigin": "google",
+  "personalData": false,
+  "reviewsStartDate": "2025-01-01"
+}

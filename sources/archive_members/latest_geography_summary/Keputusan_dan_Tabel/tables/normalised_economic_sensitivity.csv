@@ -1,0 +1,9 @@
+hypothetical_variable_cost_share_of_incremental_GP,breakeven_recovered_job_multiple_of_F_div_g_if_no_leakage_or_displacement,status
+0,1.0,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+0.1,1.1111111111111112,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+0.25,1.3333333333333333,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+0.5,2.0,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+0.75,4.0,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+0.9,10.000000000000002,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+1,No finite break-even,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"
+1.1,No finite break-even,"Algebraic normalised sensitivity, not observed Auto2000 cost/margin"

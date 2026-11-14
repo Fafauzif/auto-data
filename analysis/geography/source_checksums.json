@@ -1,0 +1,32 @@
+[
+  {
+    "relative_path": "work/branch_analysis/coordinate_before_after_origins.csv",
+    "bytes": 578198,
+    "sha256": "c5ae5bd7a6400b20d831ebe00f60eda73d66abe0a547200be40d7d34a8497e3b"
+  },
+  {
+    "relative_path": "work/access/origin_robustness_summary.csv",
+    "bytes": 4846,
+    "sha256": "72bee5a0b7547ad8cb41028dfebe3a6d3cecaf95c136a4b57d2d648bdb7da3d8"
+  },
+  {
+    "relative_path": "work/access/sunday_job_routing.csv",
+    "bytes": 3701,
+    "sha256": "15c07deeae5ccd37b7bc7908094e9b4118e097bb7b7fabba133c5874ef560be6"
+  },
+  {
+    "relative_path": "work/coordinates/coordinate_job_sources.csv",
+    "bytes": 3690,
+    "sha256": "5fde9ca37fad3ede8875feba072e2dbcbd12410e3214673812063766d199601a"
+  },
+  {
+    "relative_path": "work/xev/xev_sources.csv",
+    "bytes": 5907,
+    "sha256": "6b74cc5302e2ae915a59d1e881e71bbdceae8092e4e09410f1692ff135467e11"
+  },
+  {
+    "relative_path": "extracted/baseline/Auto2000_Geographic_Study/workstreams/context/otoxpert_official_inventory.csv",
+    "bytes": 16735,
+    "sha256": "e96ba04a1f4e4c7a9a1a222f135f7ec26cac50437d650ba0046902a4792a0523"
+  }
+]

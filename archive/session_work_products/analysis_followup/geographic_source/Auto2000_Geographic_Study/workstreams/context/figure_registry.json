@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "figures/context_national_channels.png",
+    "title": "Observed directories reveal multiple service channels",
+    "caption": "Mapped are127 official-direction candidates from131 unique observed Auto2000 entries;4 invalid/conflicted/virtual entries excluded. Both service and showroom candidates appear. OtoXpert37 includes15 Auto2000-operated and22 other operators. Marker overlap can conceal individual locations. Official links are not field-verified entrances. Natural Earth country outlines are small-scale context, not administrative verification.",
+    "sources": "Official Auto2000 directories; OtoXpert directory pages1\u20134, retrieved14Nov2026; Natural Earth admin0 countries",
+    "created_by": "context workstream, original matplotlib/geopandas figure"
+  },
+  {
+    "filename": "figures/context_otoxpert_operators.png",
+    "title": "Only 15 of 37 observed OtoXpert entries name Auto2000",
+    "caption": "Operator counts from37 official listings retrieved across four directory pages. These are observed listings, not independently verified businesses or a current national total. Published Toyota totals elsewhere differ (38/40). Operator identity alone does not establish contribution sharing or accounting treatment.",
+    "sources": "OtoXpert official workshop directory pages1\u20134; workstreams/context/otoxpert_official_inventory.csv",
+    "created_by": "context workstream, original matplotlib/geopandas figure"
+  },
+  {
+    "filename": "figures/context_market_screen.png",
+    "title": "The 15-market screen describes source coverage",
+    "caption": "Fifteen explicit administrative-label selections, alphabetical rather than ranked. Charging counts are existing source records dated16Jun2026; OtoXpert counts are retrieved directory entries dated14Nov2026. City/county selections differ in size; some markets include counties and others only city cores. No observed OtoXpert record does not establish absence. No eligible Toyota owner denominator is available.",
+    "sources": "SPKLU V2 DOI10.17632/z2bvd5r574.2, CC BY-NC3.0; official OtoXpert directory; workstreams/context/screening.csv",
+    "created_by": "context workstream, original matplotlib/geopandas figure"
+  },
+  {
+    "filename": "figures/context_inventory_denominators.png",
+    "title": "Directory cards are not a national workshop total",
+    "caption": "The acquisition contains155 card occurrences,131 unique name-coordinate entries,127 official-direction candidates and96 coordinate-valid general-workshop candidates eligible for exploratory routing.99 unique entries advertise general workshop services before coordinate exclusions. These are observed public-directory outputs, not an independently reconciled national network. No branch-specific selected-job audit was completed.",
+    "sources": "workstreams/branches/official_branches_unique.csv; branch_inventory_summary.json, retrieved14Nov2026",
+    "created_by": "context workstream, original matplotlib/geopandas figure"
+  }
+]

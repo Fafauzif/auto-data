@@ -1,0 +1,15 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+networkx
+duckdb
+folium
+requests
+matplotlib
+reportlab
+pypdf
+scipy
+pyarrow
+overturemaps==2.1.1

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "all 16 original-export SHA256 values and row counts match",
+    "all 22,484 selected original bodies survive losslessly and resolve to exact source rows",
+    "all 23,351 source-row memberships retained",
+    "266 cross-cohort overlaps retained as memberships; 37 distinct place IDs",
+    "partial EV-saving thread correctly has a supplied root but missing immediate parent",
+    "all 37 literal Digiroom posts are named-brand communication, not independent task accounts",
+    "every returned YouTube comment has an annotation and none is treated as authenticated ownership",
+    "45 analytical entries resolve to 44 source records; explicit fiction remains excluded from actual purchase evidence",
+    "all 34 Maps cases resolve to matching branch/place sources; M11 readiness and M21 trade-in source corrections remain intact",
+    "37 Digiroom-matching posts are distinguished from 45 literal substring occurrences"
+  ],
+  "scope": "Integrity and interpretation-boundary checks; no authentication of source allegations, identities or offline outcomes."
+}

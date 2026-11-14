@@ -1,0 +1,36 @@
+{
+  "download_url": "https://filebin.net/auto2000-insights-eb8046c11e6ff8a2/Auto2000_Geography_Insight_Handoff.zip",
+  "listing_url": "https://filebin.net/auto2000-insights-eb8046c11e6ff8a2",
+  "sha256": "71071a350643b4189bf03482eb1e53787c5af28af2793dd5ba0cf20ad1b261fd",
+  "bytes": 45430997,
+  "listing": {
+    "bin": {
+      "id": "auto2000-insights-eb8046c11e6ff8a2",
+      "readonly": false,
+      "bytes": 45430997,
+      "bytes_readable": "45 MB",
+      "files": 1,
+      "updated_at": "2026-11-14T12:00:21.05086Z",
+      "updated_at_relative": "9 seconds ago",
+      "created_at": "2026-11-14T12:00:13.240486Z",
+      "created_at_relative": "17 seconds ago",
+      "expired_at": "2026-11-21T12:00:21.05086Z",
+      "expired_at_relative": "6 days from now"
+    },
+    "files": [
+      {
+        "filename": "Auto2000_Geography_Insight_Handoff.zip",
+        "content-type": "application/zip",
+        "bytes": 45430997,
+        "bytes_readable": "45 MB",
+        "md5": "/b4WbrWuN2+5QyiKOdZjdA==",
+        "sha1": "f021f8ba74b42ee1403e948cf62576e59334aa65",
+        "sha256": "71071a350643b4189bf03482eb1e53787c5af28af2793dd5ba0cf20ad1b261fd",
+        "updated_at": "2026-11-14T12:00:20.76119Z",
+        "updated_at_relative": "10 seconds ago",
+        "created_at": "2026-11-14T12:00:20.76119Z",
+        "created_at_relative": "10 seconds ago"
+      }
+    ]
+  }
+}

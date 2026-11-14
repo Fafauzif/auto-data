@@ -1,0 +1,11 @@
+import pathlib,json,pandas as pd,numpy as np
+from pyproj import Geod
+R=pathlib.Path(__file__).parent
+p=pd.read_csv(R/'provider_inventory.csv').fillna(''); wins=json.loads((R/'study_windows.json').read_text());g=Geod(ellps='WGS84')
+rows=[]
+for m,w in wins.items():
+ s=p[p.market==m];c=s[s.in_core==True];e=s[s.eligible_candidate==True];ec=c[c.eligible_candidate==True];b=w['core'];area=abs(g.polygon_area_perimeter([b[0],b[2],b[2],b[0]],[b[1],b[1],b[3],b[3]])[0])/1e6
+ rows.append({'market':m,'role':w['role'],'core_area_km2':round(area,2),'source_automotive_records':len(s),'candidate_with_margin':len(e),'core_candidates':len(ec),'core_candidates_per100km2':round(len(ec)*100/area,2),'explicit_car_name_core_candidates':int(ec.explicit_car_name.sum()),'high_confidence_0_9_core_candidates':int((ec.confidence>=.9).sum()),'ambiguous_motor_name_core_candidates':int(ec.ambiguous_motor_name.sum()),'candidate_with_website':int((e.websites!='').sum()),'all_source_auto2000_name_records':int((s.provider_group=='Auto2000 name match').sum()),'all_source_otoxpert_name_records':int((s.provider_group=='OtoXpert name match').sum()),'verified_Toyota_job_records':0})
+pd.DataFrame(rows).to_csv(R/'screening_metrics.csv',index=False)
+checks={'inventory_rows':len(p),'unique_id':int(p.id.nunique()),'markets':int(p.market.nunique()),'missing_coordinates':int(p[['longitude','latitude']].isna().any(axis=1).sum()),'out_of_global_bounds':int((~p.longitude.between(-180,180)|~p.latitude.between(-90,90)).sum()),'candidate_total':int(p.eligible_candidate.sum()),'exact_same_market_id_duplicates':int(p.duplicated(['market','id']).sum()),'record_level_licenses':p.source_license.value_counts().to_dict(),'primary_source_dataset_combinations':p.source_datasets.value_counts().head(20).to_dict(),'all_candidates_specific_job_unverified':bool((p[p.eligible_candidate==True].capability_status=='Unverified for Toyota model and specific job').all()),'known_limitation':'Heuristic automotive candidates; category confidence is not task capability or verified independence. Unequal screening windows cannot be ranked by raw counts.'}
+(R/'PROVIDER_QA.json').write_text(json.dumps(checks,indent=2));print(json.dumps(checks,indent=2));print(pd.DataFrame(rows).to_string(index=False))

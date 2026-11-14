@@ -1,0 +1,11 @@
+from pathlib import Path
+import json,csv,collections
+out=Path(__file__).resolve().parent;v=json.loads((out/'direct_verification.json').read_text());by={r['source_id']:r for r in v if r.get('source_id')};rows=json.loads((out/'claim_matrix.json').read_text())
+for r in rows:
+ x=by.get(r['source_id'],{});r.update(raw_status=x.get('status'),raw_request_id=x.get('request_id'),raw_body_sha256=x.get('body_sha256'),raw_error=x.get('error'),raw_content_note=x.get('content_support_status') or x.get('content_type_note') or ('Raw transport only; operator statement not independently fulfilled' if x.get('status')==200 else x.get('method','unavailable')))
+ r['financial_role_note']=('Named insurer PT Zurich General Takaful Indonesia; no Auto2000 distribution agreement or fee verified' if r['source_id'] in ('I01','I02') else 'Source-specific responsible party; no automatic transfer of another entity income or obligation to Auto2000')
+with (out/'claim_matrix.csv').open('w',newline='',encoding='utf8') as f:w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+(out/'claim_matrix.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2))
+source_status={sid:x.get('status') for sid,x in by.items()};summary={'claims':len(rows),'used_source_urls':len({r['source_url'] for r in rows}),'catalog_sources':len(json.loads((out/'sources.json').read_text())),'latest_direct_source_status_counts':dict(collections.Counter(str(s) for s in source_status.values())),'raw200_empty_challenge_sources':['I01'],'web_retrieved_substantive_alternatives':['I01 product','I09 VinFast','I10 RVI overview','I11 RVI passenger'],'retry_note':'One longer timeout retry each for I12/I17 completed without error; initial partialresponses retained in log','illustrative_scenarios':51,'observed_scenario_records':0,'limits':['No signed insurer/distribution/fee contract','No product-specific RVI quote or local availability confirmation','No underwriting/claims/consumer demand/GP measured','Regulatory documentary review is not a legal/sharia opinion','No productabsenceclaim from unavailable search ordirectory']}
+(out/'summary.json').write_text(json.dumps(summary,indent=2));print(json.dumps(summary,indent=2))
+assert len({r['claim_id'] for r in rows})==29

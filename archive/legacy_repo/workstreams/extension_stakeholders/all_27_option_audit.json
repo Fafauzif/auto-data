@@ -1,0 +1,565 @@
+[
+  {
+    "solution_id": "SOL-01",
+    "new_evidence_ids": [
+      "EXT-E09",
+      "EXT-E18",
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Household context, commercial BEV use and PHEV dual systems weaken a one-car HEV/BEV binary.",
+    "remaining_possible_distinction": "Specific use allocation and eligible offer fit.",
+    "simpler_or_existing_alternative": "Existing comparison plus a competent needs discussion.",
+    "decisive_uncertainty_or_falsifier": "A suitable vehicle is unavailable or price alone settles the choice.",
+    "excluded_or_disadvantaged_group": "No parking, one-car dependence, fleet payload/duty-cycle constraints.",
+    "audit_disposition": "Refine context, not another calculator",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Customer/household or fleet chooses; dealer can explain only available offers; OEM controls specifications.",
+    "linked_canonical_jobs": [
+      "LC01",
+      "LC09"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-02",
+    "new_evidence_ids": [
+      "EXT-E09",
+      "EXT-E18"
+    ],
+    "baseline_or_counterevidence": "Fleet depot use is not home installation; PHEV charging purpose differs from BEV.",
+    "remaining_possible_distinction": "Feasible arrangement for this building/use case.",
+    "simpler_or_existing_alternative": "PLN/installer/building evaluation.",
+    "decisive_uncertainty_or_falsifier": "Existing providers resolve readiness or permission is impossible.",
+    "excluded_or_disadvantaged_group": "Renters, depot leases, shared parking.",
+    "audit_disposition": "Differentiate by permission and use context",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Customer chooses; building grants property permission; utility/qualified installer decides technical connection scope.",
+    "linked_canonical_jobs": [
+      "LC02",
+      "LC09"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-03",
+    "new_evidence_ids": [],
+    "baseline_or_counterevidence": "Working finance simulator and SEVA approval routes already observed.",
+    "remaining_possible_distinction": "Status and total obligations across handoff.",
+    "simpler_or_existing_alternative": "Clear existing quote and named lender status.",
+    "decisive_uncertainty_or_falsifier": "Underwriting/affordability rather than explanation controls outcome.",
+    "excluded_or_disadvantaged_group": "Rejected borrowers or unsuitable income documentation.",
+    "audit_disposition": "No new positive evidence; retain conditional",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Lender decides credit; dealer/intermediary explains status; customer accepts the actual finance contract.",
+    "linked_canonical_jobs": [
+      "LC03",
+      "LC06"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-04",
+    "new_evidence_ids": [
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Commercial BEV rental precedent exists; private-use KINTO terms do not define it.",
+    "remaining_possible_distinction": "Comparable eligible obligations for the actual duty cycle.",
+    "simpler_or_existing_alternative": "Existing lessor quote and procurement comparison.",
+    "decisive_uncertainty_or_falsifier": "No equivalent eligible contract or total obligation advantage.",
+    "excluded_or_disadvantaged_group": "Commercial, high mileage, different residual/usage obligations.",
+    "audit_disposition": "Expand comparator scope, do not import old offer",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Lessor defines eligible use and contractual obligations; customer/fleet procurement selects an eligible comparison.",
+    "linked_canonical_jobs": [
+      "LC04"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-05",
+    "new_evidence_ids": [
+      "EXT-E05",
+      "EXT-E16",
+      "EXT-E21"
+    ],
+    "baseline_or_counterevidence": "Paid work, cheaper parts channels and insurer authorization already exist.",
+    "remaining_possible_distinction": "Explain specific approval and bill changes.",
+    "simpler_or_existing_alternative": "Itemized existing repair order plus explanation.",
+    "decisive_uncertainty_or_falsifier": "Current documentation already resolves confusion.",
+    "excluded_or_disadvantaged_group": "Off-menu variants, uninsured costs, unavailable affordable parts.",
+    "audit_disposition": "Shared work-order mechanism with SOL09/19",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Branch defines scoped quote and diagnosis; customer or authorized payer approves changed work; insurer may control covered scope.",
+    "linked_canonical_jobs": [
+      "LC11",
+      "LC12",
+      "LC18",
+      "LC21"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-06",
+    "new_evidence_ids": [
+      "EXT-E03",
+      "EXT-E13",
+      "EXT-E21"
+    ],
+    "baseline_or_counterevidence": "Booking supports recall and insurance jobs, but those have external prerequisites.",
+    "remaining_possible_distinction": "Meaning of requested, accepted and committed states.",
+    "simpler_or_existing_alternative": "Clear confirmation and prerequisite disclosure.",
+    "decisive_uncertainty_or_falsifier": "No consequential status confusion; shop/insurer constraints unchanged.",
+    "excluded_or_disadvantaged_group": "Distant branches, incomplete claims, unsupported repairs.",
+    "audit_disposition": "Do not promise all-job instant capacity",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Branch confirms actual appointment/capability; customer accepts; OEM campaign or insurer prerequisite can constrain it.",
+    "linked_canonical_jobs": [
+      "LC10",
+      "LC18"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-07",
+    "new_evidence_ids": [
+      "EXT-E13",
+      "EXT-E21"
+    ],
+    "baseline_or_counterevidence": "OEM recall and insurer repair already specify preparation/authorization.",
+    "remaining_possible_distinction": "Avoid a particular lost visit through useful prerequisites.",
+    "simpler_or_existing_alternative": "Existing appointment confirmation checklist.",
+    "decisive_uncertainty_or_falsifier": "Preparation failure is absent or extra effort deters completion.",
+    "excluded_or_disadvantaged_group": "Document access, disability/language, digitally excluded.",
+    "audit_disposition": "Facet of service-entry job",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Branch specifies preparation; OEM/insurer specifies campaign/claim prerequisites; authorized customer supplies valid evidence.",
+    "linked_canonical_jobs": [
+      "LC06",
+      "LC10"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-08",
+    "new_evidence_ids": [
+      "EXT-E04",
+      "EXT-E05",
+      "EXT-E03"
+    ],
+    "baseline_or_counterevidence": "OtoXpert, Part Shop Partners and selected G-Fleet installation add real route distinctions.",
+    "remaining_possible_distinction": "Accurate job/model/provider eligibility, where it is consequential.",
+    "simpler_or_existing_alternative": "Existing directories and branch advice.",
+    "decisive_uncertainty_or_falsifier": "Provider data cannot be trusted or current routing works.",
+    "excluded_or_disadvantaged_group": "Budget older cars, remote/HV specialist or fleet jobs.",
+    "audit_disposition": "Routing baseline stronger; capability absence not shown",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Provider confirms job/model capability; customer selects; OEM sets technical protocol; directory publisher cannot create capacity.",
+    "linked_canonical_jobs": [
+      "LC10",
+      "LC18"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-09",
+    "new_evidence_ids": [
+      "EXT-E05",
+      "EXT-E07",
+      "EXT-E15"
+    ],
+    "baseline_or_counterevidence": "Budget fast-moving OEM-backed parts and official-parts warranty rules already exist.",
+    "remaining_possible_distinction": "Specific variant fit and consequence of choice.",
+    "simpler_or_existing_alternative": "Existing part counter/catalogue and written quote.",
+    "decisive_uncertainty_or_falsifier": "No fit uncertainty or economical option unavailable.",
+    "excluded_or_disadvantaged_group": "Unlisted variants; high-voltage assemblies outside fast-moving scope.",
+    "audit_disposition": "Avoid universal genuine-parts-only choice claim",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Parts seller/technician confirms actual variant fit and supply; OEM defines warranty consequences; customer approves price/work.",
+    "linked_canonical_jobs": [
+      "LC11"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-10",
+    "new_evidence_ids": [
+      "EXT-E14",
+      "EXT-E15",
+      "EXT-E16"
+    ],
+    "baseline_or_counterevidence": "Toyota warranty, XTRA, installed-parts protection and alternate paid care differ.",
+    "remaining_possible_distinction": "This vehicle’s incremental cost and actual eligibility.",
+    "simpler_or_existing_alternative": "Existing booklet/benefit statement plus adviser explanation.",
+    "decisive_uncertainty_or_falsifier": "Customers already know entitlement or benefit does not justify cost.",
+    "excluded_or_disadvantaged_group": "Age/mileage or history caps; owners with cheaper adequate care.",
+    "audit_disposition": "Contract specificity, not generic protection badge",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM/insurer defines each entitlement; dealer applies verified programme scope; customer chooses eligible paid care.",
+    "linked_canonical_jobs": [
+      "LC05",
+      "LC07",
+      "LC13",
+      "LC17",
+      "LC21"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-11",
+    "new_evidence_ids": [
+      "EXT-E14",
+      "EXT-E08",
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Toyota permits subsequent-owner continuation; restrictions from other campaigns do not generalize.",
+    "remaining_possible_distinction": "Identify what actually changes for owner/use and linked accounts.",
+    "simpler_or_existing_alternative": "Ownership update and written entitlement confirmation.",
+    "decisive_uncertainty_or_falsifier": "No affected benefit or authorization problem.",
+    "excluded_or_disadvantaged_group": "Unrecorded buyers, former owners, fleet use by contract.",
+    "audit_disposition": "Correct blanket first-owner exclusions",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM/provider determines transfer/use eligibility; customer supplies ownership evidence; dealer records within its authority.",
+    "linked_canonical_jobs": [
+      "LC07",
+      "LC25"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-12",
+    "new_evidence_ids": [
+      "EXT-E08",
+      "EXT-E10",
+      "EXT-E17"
+    ],
+    "baseline_or_counterevidence": "Battery labels and regional promises differ; HHC exists; ordinary aging is not automatically insured failure.",
+    "remaining_possible_distinction": "Measurement meaning for the specific powertrain/protocol.",
+    "simpler_or_existing_alternative": "Existing OEM result explanation.",
+    "decisive_uncertainty_or_falsifier": "No reliable measure or decision changed.",
+    "excluded_or_disadvantaged_group": "Unvalidated model/test; people seeking a price guarantee from health evidence.",
+    "audit_disposition": "No inferred common BEV/HEV diagnostic validity",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Qualified technical source establishes result; OEM sets protocol/claim rules; customer interprets; appraiser alone decides bid relevance.",
+    "linked_canonical_jobs": [
+      "LC15",
+      "LC17",
+      "LC21"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-13",
+    "new_evidence_ids": [
+      "EXT-E01",
+      "EXT-E11",
+      "EXT-E14"
+    ],
+    "baseline_or_counterevidence": "Fleet reminders and used-car historical service records exist.",
+    "remaining_possible_distinction": "Permitted continuity across specific jobs.",
+    "simpler_or_existing_alternative": "Existing mToyota/dealer record disclosure.",
+    "decisive_uncertainty_or_falsifier": "Existing records are adequate or access lacks a lawful/contractual basis.",
+    "excluded_or_disadvantaged_group": "Disputed custody or former-owner personal data.",
+    "audit_disposition": "Coordination enabler, not separate visit pool",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Source-system/data owner controls permitted records; vehicle owner authorizes relevant disclosure; dealer cannot assume former-owner consent.",
+    "linked_canonical_jobs": [
+      "LC06",
+      "LC12"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-14",
+    "new_evidence_ids": [
+      "EXT-E11",
+      "EXT-E17"
+    ],
+    "baseline_or_counterevidence": "Inspection/history benefits are already a used-car baseline.",
+    "remaining_possible_distinction": "Appraiser acceptance of reliable EV condition evidence.",
+    "simpler_or_existing_alternative": "Existing certified inspection and buyer negotiation.",
+    "decisive_uncertainty_or_falsifier": "Evidence not accepted or value unchanged.",
+    "excluded_or_disadvantaged_group": "Models lacking validated condition reports.",
+    "audit_disposition": "Condition proof is not a resale floor",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Buyer/appraiser decides evidence acceptance and bid; OEM/test issuer owns test scope; seller chooses whether to accept offer.",
+    "linked_canonical_jobs": [
+      "LC22"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-15",
+    "new_evidence_ids": [
+      "EXT-E11",
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Used tiers and commercial duty alter comparability; indicative inspection-later values already exist.",
+    "remaining_possible_distinction": "An honest range and quote conditions.",
+    "simpler_or_existing_alternative": "Actual competing bids/inspection.",
+    "decisive_uncertainty_or_falsifier": "Market price is binding, not uncertainty.",
+    "excluded_or_disadvantaged_group": "Damaged/high-mileage or thinly traded vehicles.",
+    "audit_disposition": "No precision without market evidence",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Appraiser/buyer owns a binding offer; seller accepts or compares; an estimate publisher cannot bind the buyer.",
+    "linked_canonical_jobs": [
+      "LC23"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-16",
+    "new_evidence_ids": [],
+    "baseline_or_counterevidence": "A capped incentive is a subsidy limited by its written cap.",
+    "remaining_possible_distinction": "Small defined customer credit on replacement.",
+    "simpler_or_existing_alternative": "Existing transparent trade-in allowance or price reduction.",
+    "decisive_uncertainty_or_falsifier": "Incremental contribution does not exceed subsidy/selection cost.",
+    "excluded_or_disadvantaged_group": "No qualifying replacement; cap misunderstood.",
+    "audit_disposition": "Alternative promise on LC23; no new demand count",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Entity offering incentive controls the written cap and funds it; customer accepts qualifying replacement; insurer obligation is not implied.",
+    "linked_canonical_jobs": [
+      "LC23"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-17",
+    "new_evidence_ids": [],
+    "baseline_or_counterevidence": "A full floor creates the entire written shortfall obligation.",
+    "remaining_possible_distinction": "Credible future minimum at defined dates/conditions.",
+    "simpler_or_existing_alternative": "No guarantee, or conventional known-cost commercial discount.",
+    "decisive_uncertainty_or_falsifier": "Liability cannot be reliably priced/funded/honored.",
+    "excluded_or_disadvantaged_group": "Nonqualifying condition/mileage/cohort.",
+    "audit_disposition": "Distinct obligation from capped top-up; same job",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Named guarantor owes the full written floor under conditions; CFO/risk authority must accept exposure; insurer is not automatically guarantor.",
+    "linked_canonical_jobs": [
+      "LC23"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-18",
+    "new_evidence_ids": [
+      "EXT-E01",
+      "EXT-E04",
+      "EXT-E05",
+      "EXT-E12"
+    ],
+    "baseline_or_counterevidence": "OEM fleet, budget workshop, parts and recall routes already coexist.",
+    "remaining_possible_distinction": "Clear correct route without hiding alternatives.",
+    "simpler_or_existing_alternative": "Explain and link existing routes.",
+    "decisive_uncertainty_or_falsifier": "Customers find the correct route already.",
+    "excluded_or_disadvantaged_group": "Customers needing external/cheaper providers.",
+    "audit_disposition": "Cross-cutting access enabler, not incremental demand",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Each service owner controls its job/terms; channel publisher makes routes understandable; customer chooses among permitted alternatives.",
+    "linked_canonical_jobs": [],
+    "linkage_note": "Cross-cutting coordination; attach to a named job, do not create a new demand pool.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-19",
+    "new_evidence_ids": [
+      "EXT-E21",
+      "EXT-E14"
+    ],
+    "baseline_or_counterevidence": "Insurer authorizes claims; OEM defines warranty continuation; branch context cannot replace either.",
+    "remaining_possible_distinction": "Permitted useful context at a decision handoff.",
+    "simpler_or_existing_alternative": "Named case owner and existing record.",
+    "decisive_uncertainty_or_falsifier": "Context not missing or approval remains external.",
+    "excluded_or_disadvantaged_group": "No consent/authority to transfer; unsupported channel.",
+    "audit_disposition": "No automatic underwriting/claim authority",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Current owner grants appropriate handoff authority; recipient lender/insurer/OEM retains its decision; branch owns only its delegated case work.",
+    "linked_canonical_jobs": [
+      "LC12",
+      "LC18",
+      "LC21"
+    ],
+    "linkage_note": "Cross-cutting coordination; attach to a named job, do not create a new demand pool.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-20",
+    "new_evidence_ids": [
+      "EXT-E01",
+      "EXT-E02"
+    ],
+    "baseline_or_counterevidence": "G-Fleet exists; driver, payer, fleet authorizer and vehicle owner can differ.",
+    "remaining_possible_distinction": "Necessary permission granularity for actual jobs.",
+    "simpler_or_existing_alternative": "Existing authorized representative process.",
+    "decisive_uncertainty_or_falsifier": "No unmet role need or acceptable authorization control.",
+    "excluded_or_disadvantaged_group": "Contractors, shared drivers, households without document access.",
+    "audit_disposition": "Roles are decision dependencies, not new user counts",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Legal owner/employer authorizes delegated roles; OEM platform controls supported permissions; driver authority is not payer authority.",
+    "linked_canonical_jobs": [
+      "LC08",
+      "LC25"
+    ],
+    "linkage_note": "Cross-cutting coordination; attach to a named job, do not create a new demand pool.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-21",
+    "new_evidence_ids": [
+      "EXT-E09",
+      "EXT-E16"
+    ],
+    "baseline_or_counterevidence": "Reminders already exist; low-use PHEV storage can require more than mileage triggers.",
+    "remaining_possible_distinction": "A consequential job/context beyond generic reminders.",
+    "simpler_or_existing_alternative": "Owner manual and fewer relevant contacts.",
+    "decisive_uncertainty_or_falsifier": "No meaningful missed job or communication disliked.",
+    "excluded_or_disadvantaged_group": "Backup/low-use vehicles; digitally excluded owners.",
+    "audit_disposition": "New facet, not separate twenty-eighth option",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM defines material maintenance instructions; customer chooses communication; dealer cannot make service or consent entitlements from engagement.",
+    "linked_canonical_jobs": [
+      "LC13",
+      "LC14"
+    ],
+    "linkage_note": "Cross-cutting coordination; attach to a named job, do not create a new demand pool.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-22",
+    "new_evidence_ids": [
+      "EXT-E13",
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Emergency, safety recall and ordinary breakdown are separate states.",
+    "remaining_possible_distinction": "Local help entitlement suitable to the incident.",
+    "simpler_or_existing_alternative": "Existing OEM/insurer helpline.",
+    "decisive_uncertainty_or_falsifier": "Contact clarity adequate; actual recovery supply unavailable.",
+    "excluded_or_disadvantaged_group": "Out-of-area/hour customers; commercial payload constraints.",
+    "audit_disposition": "Do not merge recall with emergency response",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM/insurer/provider defines dispatch scope and entitlement; local responder controls actual recovery; driver reports the incident.",
+    "linked_canonical_jobs": [
+      "LC16"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-23",
+    "new_evidence_ids": [
+      "EXT-E01",
+      "EXT-E19"
+    ],
+    "baseline_or_counterevidence": "Fleet rental and household backup are existing alternatives.",
+    "remaining_possible_distinction": "Credible continuity during a defined unavailable period.",
+    "simpler_or_existing_alternative": "Spare vehicle, existing rental or employer policy.",
+    "decisive_uncertainty_or_falsifier": "No actual shortfall or replacement supply/economics.",
+    "excluded_or_disadvantaged_group": "Remote customers, specialized cargo/passenger needs.",
+    "audit_disposition": "Need defined by mobility loss, not repair count",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Customer/fleet decides essential mobility; rental/insurer/provider controls qualifying replacement supply and cost.",
+    "linked_canonical_jobs": [
+      "LC19"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-24",
+    "new_evidence_ids": [
+      "EXT-E01",
+      "EXT-E02",
+      "EXT-E14"
+    ],
+    "baseline_or_counterevidence": "OEM/dealer device installation and ownership evidence already exist.",
+    "remaining_possible_distinction": "Correct owner authorization and reliable linkage.",
+    "simpler_or_existing_alternative": "Existing dealer/OEM setup support.",
+    "decisive_uncertainty_or_falsifier": "Setup already succeeds or dealer lacks necessary right.",
+    "excluded_or_disadvantaged_group": "Old/incompatible vehicle, former owner, multiple drivers.",
+    "audit_disposition": "Account binding not just app onboarding",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM/provider owns supported device/account rules; legal owner authorizes binding; dealer assists only within its role.",
+    "linked_canonical_jobs": [
+      "LC08",
+      "LC25"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-25",
+    "new_evidence_ids": [
+      "EXT-E02"
+    ],
+    "baseline_or_counterevidence": "G-Fleet subscription including hardware exists alongside consumer connected products.",
+    "remaining_possible_distinction": "Contract-specific renewal value and owner.",
+    "simpler_or_existing_alternative": "Current OEM/provider renewal page.",
+    "decisive_uncertainty_or_falsifier": "No choice uncertainty or relevant dealer role.",
+    "excluded_or_disadvantaged_group": "Ineligible hardware/model; users not benefiting from features.",
+    "audit_disposition": "Separate fleet/consumer contract, no generic upsell",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "OEM/provider owns subscription terms; payer chooses renewal; dealer revenue/right is unverified.",
+    "linked_canonical_jobs": [
+      "LC13"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-26",
+    "new_evidence_ids": [
+      "EXT-E07",
+      "EXT-E08",
+      "EXT-E15",
+      "EXT-E21"
+    ],
+    "baseline_or_counterevidence": "Manufacturer and insurer terms have different causes, geographies, model and use scopes.",
+    "remaining_possible_distinction": "Actual voluntary coverage choice and exclusions.",
+    "simpler_or_existing_alternative": "Insurer-issued policy summary and authorized advice.",
+    "decisive_uncertainty_or_falsifier": "No consequential uncertainty or feasible authorization.",
+    "excluded_or_disadvantaged_group": "HEV/PHEV excluded by BEV-only wording; uninsured causes.",
+    "audit_disposition": "Protection cannot imply SOH/residual cover",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Insurer defines cover and adjudicates claim; authorized distributor explains permitted terms; customer chooses voluntarily.",
+    "linked_canonical_jobs": [
+      "LC05",
+      "LC17",
+      "LC18",
+      "LC21"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  },
+  {
+    "solution_id": "SOL-27",
+    "new_evidence_ids": [],
+    "baseline_or_counterevidence": "International B2B RVI does not confirm an Indonesian/Sharia quote or dealer recovery right.",
+    "remaining_possible_distinction": "A feasible contract covering a specified residual obligation.",
+    "simpler_or_existing_alternative": "Retain known exposure or avoid issuing the floor.",
+    "decisive_uncertainty_or_falsifier": "No accepted insurable risk, feasible price, permitted route or funded residual.",
+    "excluded_or_disadvantaged_group": "Unsupported markets/cohorts; unaccepted insured entity.",
+    "audit_disposition": "Institutional layer behind LC23, never assumed available",
+    "no_new_unmet_need_or_effect_established": true,
+    "decision_rights": "Insurer accepts a specified B2B insured risk only under an actual contract; guarantor retains any uncovered customer obligation.",
+    "linked_canonical_jobs": [
+      "LC24"
+    ],
+    "linkage_note": "A link is a dependency, not a causal effect or independent customer need.",
+    "excluded_group_status": "Potential or contract-scoped boundary; not observed Auto2000 exclusion prevalence."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "path": "geo_study/workstreams/routing/inputs/config.json",
+    "bytes": 1484,
+    "sha256": "e111292312ab00bffdc04fecbdcbfc45c09dd894ca6bb7f04a190c045ee1ec46"
+  },
+  {
+    "path": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/surabaya_destinations.csv",
+    "bytes": 97793,
+    "sha256": "650fbb4d25250cd2fceba16e09f0ac3baa848148850730d03e05acc2ed0b4c5a"
+  },
+  {
+    "path": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/medan_destinations.csv",
+    "bytes": 60110,
+    "sha256": "5298557002d27d4c8cdb447486b5f0fe26e89c6841425b088e6d0d91cd9219e5"
+  },
+  {
+    "path": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/bandung_destinations.csv",
+    "bytes": 86334,
+    "sha256": "f5718776298e0e341d67d3c967e03d8b50717332cea4170b12c9d2bef4183eff"
+  },
+  {
+    "path": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/palembang_destinations.csv",
+    "bytes": 23205,
+    "sha256": "9e9206d36ed6632e100908e6b2bd2b1f17c5bcb758de7a7f37c2a223bae28300"
+  }
+]

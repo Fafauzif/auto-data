@@ -1,0 +1,78 @@
+[
+  {
+    "market": "Surabaya",
+    "core_bbox": [
+      112.64,
+      -7.38,
+      112.84,
+      -7.18
+    ],
+    "destination_bbox": [
+      112.56,
+      -7.46,
+      112.92,
+      -7.1
+    ],
+    "destinations": 342,
+    "auto2000": 10,
+    "otoxpert": 2,
+    "mapped_garage_candidates": 330
+  },
+  {
+    "market": "Medan",
+    "core_bbox": [
+      98.59,
+      3.48,
+      98.77,
+      3.69
+    ],
+    "destination_bbox": [
+      98.51,
+      3.4,
+      98.85,
+      3.77
+    ],
+    "destinations": 215,
+    "auto2000": 7,
+    "otoxpert": 3,
+    "mapped_garage_candidates": 205
+  },
+  {
+    "market": "Bandung",
+    "core_bbox": [
+      107.51,
+      -6.99,
+      107.74,
+      -6.82
+    ],
+    "destination_bbox": [
+      107.43,
+      -7.07,
+      107.82,
+      -6.74
+    ],
+    "destinations": 303,
+    "auto2000": 7,
+    "otoxpert": 3,
+    "mapped_garage_candidates": 293
+  },
+  {
+    "market": "Palembang",
+    "core_bbox": [
+      104.66,
+      -3.07,
+      104.85,
+      -2.88
+    ],
+    "destination_bbox": [
+      104.58,
+      -3.15,
+      104.92999999999999,
+      -2.8
+    ],
+    "destinations": 81,
+    "auto2000": 3,
+    "otoxpert": 1,
+    "mapped_garage_candidates": 77
+  }
+]

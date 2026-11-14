@@ -1,0 +1,17 @@
+{
+  "original_logical_path": "archive/legacy_repo/raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat",
+  "original_size_bytes": 95036227,
+  "original_sha256": "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558",
+  "parts": [
+    {
+      "path": "archive/legacy_repo/raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat.parts/part-00001.bin",
+      "size_bytes": 80000000,
+      "sha256": "01b07be7305b5f71389bdf7be90521f0946940a4ce7e2051e6dc62dbbf66d0c9"
+    },
+    {
+      "path": "archive/legacy_repo/raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat.parts/part-00002.bin",
+      "size_bytes": 15036227,
+      "sha256": "c9ed640ef3f25b2b3a43ca0204800c4711649bc1a1d135b09651498098e34746"
+    }
+  ]
+}

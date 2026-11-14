@@ -1,0 +1,16 @@
+{
+  "market": "Cirebon",
+  "bbox": [
+    108.44,
+    -6.83,
+    108.67,
+    -6.6
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:59.350109+00:00",
+  "status": "success",
+  "source_all_place_rows": 14117,
+  "automotive_candidate_rows": 810,
+  "sha256": "b316032c91ee513c627ac13ff8ff7691d1699a47e51bf119e83449a5e7de0dfa",
+  "seconds": 16.6
+}

@@ -1,0 +1,16 @@
+{
+  "market": "Samarinda",
+  "bbox": [
+    117.02,
+    -0.65,
+    117.3,
+    -0.36
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:32.630009+00:00",
+  "status": "success",
+  "source_all_place_rows": 15507,
+  "automotive_candidate_rows": 1047,
+  "sha256": "7ad72486cae6ad5cb31eeae1fd273df5943d5098628e4e7d27aca4218abeea5f",
+  "seconds": 17.01
+}

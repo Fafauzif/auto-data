@@ -1,0 +1,31 @@
+{
+  "python_scripts": 108,
+  "syntax_failures": [],
+  "final_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "visual_qa": {
+    "final_pdf": "output/pdf/Auto2000_Research_Findings.pdf",
+    "sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+    "pages": 41,
+    "all_pages_rendered": true,
+    "visual_qa_ranges": [
+      {
+        "receipt": "reports/STORY_FINAL_VISUAL_QA_01_16.json",
+        "matching_final_hash": true
+      },
+      {
+        "receipt": "reports/STORY_FINAL_VISUAL_QA_17_28.json",
+        "matching_final_hash": true
+      },
+      {
+        "receipt": "reports/STORY_FINAL_VISUAL_QA_29_41.json",
+        "matching_final_hash": true
+      }
+    ],
+    "all_41_pages_covered": true,
+    "zero_unresolved_observed_formatting_issues": true,
+    "ai_not_human_review": true,
+    "plots": 15,
+    "research_scope_retained": true,
+    "finalized_utc": "2026-11-11T05:13:37.260251+00:00"
+  }
+}

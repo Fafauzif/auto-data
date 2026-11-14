@@ -1,0 +1,340 @@
+[
+  {
+    "evidence_id": "EXT-E01",
+    "source_ids": [
+      "ES01"
+    ],
+    "fact_or_scoped_observation": "Toyota advertises a web-based fleet platform with location, geofencing, mileage and scheduled-care reminders.",
+    "scope": "Indonesia G-Fleet public programme",
+    "limitation": "No authenticated fleet account, completeness, customer uptake or performance inspected.",
+    "implication_hypothesis": "Generic fleet monitoring and reminders are existing OEM capabilities; a new app is not automatically a differentiated job.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/g-fleet"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E02",
+    "source_ids": [
+      "ES01"
+    ],
+    "fact_or_scoped_observation": "The Indonesian FAQ describes a one-year subscription including a device; dealer installation and model confirmation are stated.",
+    "scope": "Current undated G-Fleet page",
+    "limitation": "No price or branch inventory; device warranty limited in the source to new Toyota purchases.",
+    "implication_hypothesis": "Hardware, commercial terms and role authority must be distinguished from a web-interface opportunity.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/g-fleet"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E03",
+    "source_ids": [
+      "ES14"
+    ],
+    "fact_or_scoped_observation": "The Hilux Rangga indexed product footnote says G-Fleet is progressively available at selected dealers.",
+    "scope": "Search-retrieved current OEM product footnote",
+    "limitation": "Direct HTTP200 route yielded only a 59-character extracted shell. Search evidence cannot prove rollout completion.",
+    "implication_hypothesis": "Dealer-network presence does not establish every outlet can install or support the service.",
+    "evidence_kind": "primary_search_retrieved_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/product/all-new-hilux-rangga"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E04",
+    "source_ids": [
+      "ES02"
+    ],
+    "fact_or_scoped_observation": "Toyota described OtoXpert as dealer-operated, multibrand, economical light-service workshops and reported 40 locations.",
+    "scope": "4 March 2026 Toyota press release",
+    "limitation": "Issuer snapshot, not a verified live branch inventory; no all-model high-voltage or B&P capability stated.",
+    "implication_hypothesis": "After-free-service retention can occur through a different workshop proposition; Auto2000 branch margin and ecosystem retention may diverge.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/persiapan-mudik-lebaran-dengan-biaya-lebih-terjangkau-berkualitas-dan-bergaransi-manfaatkan-layanan"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E05",
+    "source_ids": [
+      "ES03"
+    ],
+    "fact_or_scoped_observation": "T-OPT expanded economical fast-moving parts coverage to additional passenger models and commercial Hiace/Dyna; sale channels include Part Shop Partners and OtoXpert.",
+    "scope": "21 May 2026; model-level examples, not all variants",
+    "limitation": "Not a VIN-fitment catalogue, stock count or evidence of traction-battery repair capability.",
+    "implication_hypothesis": "Parts-choice clarity must start with real budget channels; ordinary maintenance parts are not interchangeable with battery diagnostics.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/t-opt-hadir-di-inapa-2026-spare-parts-alternatif-dengan-kualitas-terpercaya-dan-harga-lebih"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E06",
+    "source_ids": [
+      "ES04",
+      "ES05"
+    ],
+    "fact_or_scoped_observation": "Two official Honda pages present different Mini eligibility/expiry descriptions: above 60,000km and 18 months versus above 40,000km and one year.",
+    "scope": "Search-retrieved official current/legacy public pages",
+    "limitation": "Both direct queues stopped at Honda robots boundary; no current customer contract or definitive version selected.",
+    "implication_hypothesis": "A version/cohort conflict is an entitlement-verification question, not proof that one headline applies universally.",
+    "evidence_kind": "primary_search_retrieved_comparison",
+    "source_urls": [
+      "https://www.honda-indonesia.com/index.php/aftersales/packages",
+      "https://www.honda-indonesia.com/honda-service"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E07",
+    "source_ids": [
+      "ES06"
+    ],
+    "fact_or_scoped_observation": "BYD Indonesia states official parts and periodic authorized service conditions and excludes damage from unauthorized modification/chargers.",
+    "scope": "Undated Indonesian warranty conditions page",
+    "limitation": "Numeric coverage tabs were not present in parsed text; retain existing scoped 2024 model evidence rather than invent current dimensions.",
+    "implication_hypothesis": "Compatibility and authorised energy equipment can alter a warranty decision; local manual remains necessary.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.byd.com/id/aftersales/warranty"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E08",
+    "source_ids": [
+      "ES07"
+    ],
+    "fact_or_scoped_observation": "BYD extended Blade Battery coverage to eight years/250,000km with 70% minimum SOH for European BEVs and Super Hybrids, including existing cars.",
+    "scope": "15 January 2026; explicitly Europe",
+    "limitation": "No Indonesian applicability follows from a worldwide media hostname or newer publication date.",
+    "implication_hypothesis": "A fresh global comparator can be less locally valid than an older country-specific contract.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://media.byd.com/byd-extends-warranty-of-blade-battery-to-eight-years-or-250000km/?lang=eng"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E09",
+    "source_ids": [
+      "ES08"
+    ],
+    "fact_or_scoped_observation": "The model-year 2020 Outlander PHEV manual includes periodic engine-use and fuel replenishment cautions alongside drive-battery storage guidance.",
+    "scope": "Indonesian MMKSI owner manual, printed2-5/PDF28",
+    "limitation": "Model-specific older manual, not a current Toyota PHEV schedule; no generalized numeric operating rule inferred.",
+    "implication_hypothesis": "PHEV ownership combines combustion and charging/storage obligations; an HEV/BEV binary loses a real job.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://microsite.mitsubishi-motors.co.id/owner-manual/media/file/originals/post/2021/12/09/owners-manual-outlander-phev-20-model-year-compressed.pdf"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E10",
+    "source_ids": [
+      "ES08"
+    ],
+    "fact_or_scoped_observation": "That manual discusses gradual drive-battery capacity loss and warns that improper disposal is hazardous.",
+    "scope": "Outlander PHEV manual, printed2-5/PDF28",
+    "limitation": "Not a warranty definition, local disposal-service offer or evidence of a dealer recycling right.",
+    "implication_hypothesis": "Condition decline, failure, storage and end-of-life are different decisions; no recycling product inferred.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://microsite.mitsubishi-motors.co.id/owner-manual/media/file/originals/post/2021/12/09/owners-manual-outlander-phev-20-model-year-compressed.pdf"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E11",
+    "source_ids": [
+      "ES09"
+    ],
+    "fact_or_scoped_observation": "Hyundai Indonesia advertises used-car history, original parts, inspection and roadside support with two age/mileage/warranty tiers.",
+    "scope": "Undated Indonesia Promise/Approved page",
+    "limitation": "Promise says all components with an asterisk; captured page does not resolve used traction-battery inclusion or exclusions.",
+    "implication_hypothesis": "Used-vehicle evidence and protection are existing categories, but battery scope requires the actual contract.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.hyundai.com/id/en/build-a-car/hyundai-promise"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E12",
+    "source_ids": [
+      "ES10"
+    ],
+    "fact_or_scoped_observation": "Toyota provides a VIN-specific recall lookup that visibly requests 17-character VIN and email.",
+    "scope": "Current public OEM lookup, no entries submitted",
+    "limitation": "No VIN eligibility, completion state, identity verification or downstream branch outcome tested.",
+    "implication_hypothesis": "Recall lookup is existing; an unresolved completion/custody job would need a different claim from building first lookup.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://ssc.toyota.astra.co.id/"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E13",
+    "source_ids": [
+      "ES11"
+    ],
+    "fact_or_scoped_observation": "The Toyota FAQ contains distinct recall campaigns involving both bZ4X and RAV4 PHEV as well as other models; instructions include dealer booking and campaign-specific repair conditions.",
+    "scope": "Multi-campaign current FAQ",
+    "limitation": "Campaign counts, durations and eligibility must not be pooled; VIN-specific checks control applicability.",
+    "implication_hypothesis": "Safety actions cross powertrains but remain campaign-specific, separate from paid preventive maintenance.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://ssc.toyota.astra.co.id/faq"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E14",
+    "source_ids": [
+      "ES12"
+    ],
+    "fact_or_scoped_observation": "Toyota says remaining warranty can continue for subsequent owners who provide ownership evidence to an authorized dealer and meet maintenance conditions.",
+    "scope": "Toyota public guidance 30 July 2026",
+    "limitation": "Guidance is not each vehicle warranty booklet; no blanket continuation despite noncompliance asserted.",
+    "implication_hypothesis": "First-owner-only exclusions from rival campaigns cannot be generalized to all Toyota warranty.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-belajar-aturan-dasar-warranty-toyota-di-indonesia-apa-saja-jenis-kerusakan-yang-tidak-bisa-diklaim"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E15",
+    "source_ids": [
+      "ES12"
+    ],
+    "fact_or_scoped_observation": "Toyota distinguishes base vehicle warranty, traction/regular battery warranties, and installed replacement-part warranty; exclusions include several causes and consumables.",
+    "scope": "30 July 2026 official explanatory article",
+    "limitation": "A public explainer is not individualized claim acceptance; PHEV-specific booklet not inspected.",
+    "implication_hypothesis": "One protection badge cannot stand for all obligations, failures or payers.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-belajar-aturan-dasar-warranty-toyota-di-indonesia-apa-saja-jenis-kerusakan-yang-tidak-bisa-diklaim"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E16",
+    "source_ids": [
+      "ES13"
+    ],
+    "fact_or_scoped_observation": "Toyota describes customer-paid services eight through eleven earning incremental six-month/10,000km warranty benefits, within stated age/mileage caps.",
+    "scope": "T-CARE XTRA explanation 3 August 2026",
+    "limitation": "Does not establish that every customer or powertrain qualifies, or that paid service is customer-saving after expected cost.",
+    "implication_hypothesis": "Post-free-service choice is a marginal cost/protection trade-off, rather than free-care continuation.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-toyota-perkuat-layanan-purnajual-lewat-t-care-xtra-berikan-perlindungan-kendaraan-hingga-6-tahun"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E17",
+    "source_ids": [
+      "ES13"
+    ],
+    "fact_or_scoped_observation": "The August2026 article names Hybrid EV and Battery EV in its Hybrid Health Check paragraph.",
+    "scope": "Official article wording, eligibility described as three years/50,000km",
+    "limitation": "Does not establish an identical BEV diagnostic protocol or override the dedicated HHC terms/individual booklet.",
+    "implication_hypothesis": "A shared marketing label must not erase measurement and powertrain differences.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-toyota-perkuat-layanan-purnajual-lewat-t-care-xtra-berikan-perlindungan-kendaraan-hingga-6-tahun"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E18",
+    "source_ids": [
+      "ES15"
+    ],
+    "fact_or_scoped_observation": "The current L100 EV page markets a commercial BEV and displays a Jabodetabek price with dealer/stock/current-price disclaimers.",
+    "scope": "Current undated commercial product page",
+    "limitation": "No fleet transaction, actual duty cycle, live availability or present warranty tab tested.",
+    "implication_hypothesis": "BEV customer scope includes commercial users; consumer-only programmes cannot define the whole BEV market.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.mitsubishi-motors.co.id/our-cars/l100-ev"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E19",
+    "source_ids": [
+      "ES16"
+    ],
+    "fact_or_scoped_observation": "Mitsubishi advertised commercial L100 EV maintenance, vehicle/battery warranty and partner rental routes in its March2024 offer.",
+    "scope": "Historical offer; February-April2024 price window",
+    "limitation": "Neither 2024 price nor offer is treated as an available2026 quote; fleet performance claims are issuer claims.",
+    "implication_hypothesis": "Commercial BEV protection/rental is not inherently excluded; verify the contract rather than assume private-use restrictions transfer across brands.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.mitsubishi-motors.co.id/siaran-pers/mmksi-hadirkan-masa-depan-kendaraan-komersial-di-giicomvec-2024"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E20",
+    "source_ids": [
+      "ES17"
+    ],
+    "fact_or_scoped_observation": "Toyota April2026 notice includes a free transmission ECU action and a renewed VIN-specific airbag invitation for listed2001-2016 models.",
+    "scope": "17 April2026 OEM notice; specified models/years/VINs",
+    "limitation": "No affected-fleet completion rate, risk incidence or open-case count measured.",
+    "implication_hypothesis": "Older and out-of-standard-warranty vehicles can have a relevant safety job even when ordinary paid-service economics look weak.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/berikan-peace-mind-pelanggan-toyota-land-cruiser-300-dan-lexus-lx-tahun-produksi-tertentu"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  },
+  {
+    "evidence_id": "EXT-E21",
+    "source_ids": [
+      "ES18"
+    ],
+    "fact_or_scoped_observation": "An insurer account of Otosurvey makes SPK issuance conditional on complete evidence and a claim within coverage.",
+    "scope": "2016 historical Astra claim workflow baseline",
+    "limitation": "Not proof of 2026 UI or guaranteed immediate issuance; modern baseline is also in first-wave insurer sources.",
+    "implication_hypothesis": "A dealer cannot make an unconditional insurer-funded repair promise merely by improving booking.",
+    "evidence_kind": "captured_primary_fact",
+    "source_urls": [
+      "https://www.asuransiastra.com/featured/rahasia-klaim-cepat-garda-oto/"
+    ],
+    "independent_need_count": false,
+    "causal_effect_established": false
+  }
+]

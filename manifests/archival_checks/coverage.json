@@ -1,0 +1,17 @@
+{
+  "original_repository_files": 596,
+  "original_uploads": 22,
+  "latest_geography_members": 535,
+  "all_legacy_paths_registered": true,
+  "all_uploads_registered": true,
+  "all_latest_members_registered": true,
+  "logical_source_paths_unique": true,
+  "source_records": 2656,
+  "unique_hashes": 1362,
+  "restoration_test_originals": [
+    "100007213-byte IGAR CSV",
+    "271361386-byte original latest geography ZIP"
+  ],
+  "restoration_test_result": "Exact SHA-256 passed; test outputs removed",
+  "credential_scan": "No high-confidence token/private-key pattern candidates; not exhaustive"
+}

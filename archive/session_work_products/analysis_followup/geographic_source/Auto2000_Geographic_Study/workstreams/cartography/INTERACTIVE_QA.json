@@ -1,0 +1,301 @@
+{
+  "runtime": "Node VM with lightweight DOM harness, not a browser render",
+  "checks": 48,
+  "all_market_scenario_metric_combinations_passed": true,
+  "provider_inspection_passed": true,
+  "layer_toggle_handlers_passed": true,
+  "reset_handler_passed": true,
+  "zoom_handler_passed": true,
+  "pan_handler_passed": true,
+  "browser_render_attempt": "Chromium blocked before page load by workspace socket/process restrictions",
+  "detail": [
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "gap",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "auto2000",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "independent",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "oilgap",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "all_routed",
+      "metric": "none",
+      "svg_elements": 396
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "gap",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "auto2000",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "independent",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "oilgap",
+      "svg_elements": 477
+    },
+    {
+      "market": "surabaya",
+      "scenario": "snap_le_250m",
+      "metric": "none",
+      "svg_elements": 396
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "gap",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "auto2000",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "independent",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "oilgap",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "all_routed",
+      "metric": "none",
+      "svg_elements": 249
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "gap",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "auto2000",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "independent",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "oilgap",
+      "svg_elements": 330
+    },
+    {
+      "market": "medan",
+      "scenario": "snap_le_250m",
+      "metric": "none",
+      "svg_elements": 249
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "gap",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "auto2000",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "independent",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "oilgap",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "all_routed",
+      "metric": "none",
+      "svg_elements": 351
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "gap",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "auto2000",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "independent",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "oilgap",
+      "svg_elements": 432
+    },
+    {
+      "market": "bandung",
+      "scenario": "snap_le_250m",
+      "metric": "none",
+      "svg_elements": 351
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "gap",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "auto2000",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "independent",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "oilgap",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "all_routed",
+      "metric": "none",
+      "svg_elements": 116
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "gap",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "auto2000",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "independent",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "collected_advertised_oil_channels",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "oilgap",
+      "svg_elements": 197
+    },
+    {
+      "market": "palembang",
+      "scenario": "snap_le_250m",
+      "metric": "none",
+      "svg_elements": 116
+    }
+  ]
+}

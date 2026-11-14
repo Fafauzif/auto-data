@@ -1,0 +1,27 @@
+{
+  "stage": "next controlled collection",
+  "inputs": [
+    {
+      "file": "01_RUN_FIRST_workshop_and_xev.json",
+      "queries": 72,
+      "max_delivered_posts": 5400,
+      "conditional_event_fee_usd": 0.81
+    },
+    {
+      "file": "02_RUN_SECOND_buyer_decisions.json",
+      "queries": 48,
+      "max_delivered_posts": 3600,
+      "conditional_event_fee_usd": 0.54
+    },
+    {
+      "file": "03_RUN_THIRD_upgrade_and_appraisal.json",
+      "queries": 40,
+      "max_delivered_posts": 3000,
+      "conditional_event_fee_usd": 0.45
+    }
+  ],
+  "max_rows": 12000,
+  "result_fees_usd_at_assumed_rate": 1.8,
+  "platform_costs": "additional; unknown",
+  "run_executed": false
+}

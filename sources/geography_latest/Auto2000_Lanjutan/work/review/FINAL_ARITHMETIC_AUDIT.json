@@ -1,0 +1,100 @@
+{
+  "checks": [
+    {
+      "check": "corrected origin minimum comparisons",
+      "actual": 0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "corrected origin rows",
+      "actual": 648,
+      "expected": 648,
+      "pass": true
+    },
+    {
+      "check": "corrected branch count",
+      "actual": 29,
+      "expected": 29,
+      "pass": true
+    },
+    {
+      "check": "Bandung corrected gap",
+      "actual": 1.7358333333333333,
+      "expected": 1.735833333333,
+      "pass": true
+    },
+    {
+      "check": "Palembang own-OX tail",
+      "actual": 0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "Palembang baseline tail",
+      "actual": 9,
+      "expected": 9,
+      "pass": true
+    },
+    {
+      "check": "new OD identifiers unique",
+      "actual": 5604,
+      "expected": 5604,
+      "pass": true
+    },
+    {
+      "check": "new OD count",
+      "actual": 5604,
+      "expected": 5604,
+      "pass": true
+    },
+    {
+      "check": "new origins count",
+      "actual": 66,
+      "expected": 66,
+      "pass": true
+    },
+    {
+      "check": "new access independent optimisation and trip arithmetic errors",
+      "actual": 0,
+      "expected": 0,
+      "pass": true
+    }
+  ],
+  "passed": 10,
+  "failed": 0,
+  "corrected_minima_comparisons": 3888,
+  "access_comparisons": 924,
+  "corrected_errors": [],
+  "access_errors": [],
+  "corrected_market_results": [
+    {
+      "market": "Surabaya",
+      "n": 59,
+      "oil_gap_median": 0.9666666666666657,
+      "baseline_tail_gt5": 10,
+      "owned_tail_gt5": 6
+    },
+    {
+      "market": "Medan",
+      "n": 78,
+      "oil_gap_median": 0.34666666666666685,
+      "baseline_tail_gt5": 3,
+      "owned_tail_gt5": 0
+    },
+    {
+      "market": "Bandung",
+      "n": 78,
+      "oil_gap_median": 1.7358333333333333,
+      "baseline_tail_gt5": 17,
+      "owned_tail_gt5": 14
+    },
+    {
+      "market": "Palembang",
+      "n": 69,
+      "oil_gap_median": 2.6383333333333328,
+      "baseline_tail_gt5": 9,
+      "owned_tail_gt5": 0
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+[
+  {
+    "file": "IGAR_CC_BY_4_0/Rating_labeled.csv",
+    "sha256": "a27a0cf3dae752789fa25e97a5fb39b906f5bc2ea3d93891ff652d0168a3a4a7",
+    "bytes": 100624936,
+    "source_dataset": "https://doi.org/10.17632/7zryc6k76z.2",
+    "license": "CC BY 4.0",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/7zryc6k76z/files/2cbb1688-aeee-45f6-8a4e-073704716f31/file_downloaded"
+  },
+  {
+    "file": "IGAR_CC_BY_4_0/VADER_labeled.csv",
+    "sha256": "852c8b662224bd62418ef7b7dac15b9e43c9a6b4cdf0fef6239042203c2eccb0",
+    "bytes": 112714141,
+    "source_dataset": "https://doi.org/10.17632/7zryc6k76z.2",
+    "license": "CC BY 4.0",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/7zryc6k76z/files/02c9019c-04a7-483c-9542-27ffbc95c146/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/data/spklu_stations.csv",
+    "sha256": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef",
+    "bytes": 4503467,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/97a13127-0d91-492a-a53a-8c462fbf6c9f/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/data/spklu_chargers.csv",
+    "sha256": "a0063074a802c8fcd6f5bf58ee5798b07ac60c5116a39acfd048ce92a245bc3a",
+    "bytes": 615496,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/e2821aba-70d2-4b7f-a6bc-447d4bbbd0f3/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/reference/spklu_province_coverage.csv",
+    "sha256": "8420ae0975caca5e0c873938085d2a62c777af413b185cdffed0f2a70ff2e7ef",
+    "bytes": 2908,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/c2284f1c-4c4e-473c-9cfb-b60adabf198f/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/reference/spklu_province_indicators.csv",
+    "sha256": "d7db2ae6b2e763a3097baa7785205461c9067874fc693abef207844d245245c3",
+    "bytes": 9892,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/e9f81401-c0f2-47a3-b595-35dafaf02058/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/reference/spklu_regency_codes.csv",
+    "sha256": "57b5e60afd14a3217b6cbaedd027ff2e0f4a6760a0eb606f3a32f3d5eae71e24",
+    "bytes": 22098,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/2abb9361-276f-42bf-bc4f-370821b04384/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/README.md",
+    "sha256": "077bb8fea4761d9dfc262ae9e4c124ddaeeba437d8413e3cf134a45394dc1684",
+    "bytes": 3682,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/a51fae64-c686-422f-8560-e9dd76dccc73/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/PROCESSING_LOG.md",
+    "sha256": "616b65c1c3ee18b556c22ce9a926b090871ec7096d2440cdb92db1aadce7be58",
+    "bytes": 4304,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/7cf7c1e8-4085-4727-b5ac-6508e4b65775/file_downloaded"
+  },
+  {
+    "file": "SPKLU_CC_BY_NC_3_0/spklu_data_dictionary.csv",
+    "sha256": "474e3ce3caae879790d90b687bf9bfb9e3495c6969b36cd56dbdc966b1c7138b",
+    "bytes": 11709,
+    "source_dataset": "https://doi.org/10.17632/z2bvd5r574.2",
+    "license": "CC BY-NC 3.0; noncommercial research only",
+    "source_bytes_unmodified": true,
+    "source_file_url": "https://data.mendeley.com/public-files/datasets/z2bvd5r574/files/4712f129-aa53-4b7e-a3bd-90b82360f860/file_downloaded"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2019_original_table_object.json",
+    "sha256": "d0e7d7143f841406c457d1d44dce10759582fd687262e28360e6e98b926a85cd",
+    "source_input_sha256": "f0e04360d11d1b8e6f4d20373972b4714589ffd06d6328652933f85c65a5ba99",
+    "bytes": 40019,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2019,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2020_original_table_object.json",
+    "sha256": "ad1c77c738a19be214413d9ba339568ce2e0d677c4297868c6ada2818bd6041e",
+    "source_input_sha256": "8c4baa4ab856bca1a53f46b15c1587b2e47c6933605c5e054fd1bbc3d8938a1a",
+    "bytes": 39978,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2020,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2021_original_table_object.json",
+    "sha256": "7dbd362a1d94ab031a4da49f7f899fb81a1ff1462b6cc1952a7824b7d45ac7c3",
+    "source_input_sha256": "b9e288a07bc403835b57070fb6e9bd662a283ea6b0842e2e570e3a525ccf67a6",
+    "bytes": 40210,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2021,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2022_original_table_object.json",
+    "sha256": "497f82f21317a67cd4ed4838ef808a16d17f30a2150c2bd98f45038ba94482dc",
+    "source_input_sha256": "2e5a46c4b3a4359e4d88b7ee246a9a0501ae9892ba0761b26e6415c0e6f0b46f",
+    "bytes": 39793,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2022,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2023_original_table_object.json",
+    "sha256": "9d1d8592d87aacc3ecd78999f13f09d37b1b63287c54de9961f05783ac206d49",
+    "source_input_sha256": "4fe618e062dfe29b65bfaecd66a4055d4a8b2ff31787d01b8e246de932350119",
+    "bytes": 43553,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2023,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2024_original_table_object.json",
+    "sha256": "2aa4ab57687f8da55b9c22046b4aa8b6772b19b1a7f7ca84800f28c8e641ef5b",
+    "source_input_sha256": "41a40576aaaf6109a7678ff264b648befc0d010d4fceea881fe9e9a411ac243f",
+    "bytes": 43886,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2024,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  },
+  {
+    "file": "BPS_extracted_public_table_payloads/vehicle_stock_2025_original_table_object.json",
+    "sha256": "4ec8a8a72d9ec7f1ccb8eca1cd52e0a2d066eb4cdf0c4ed300aaa1165cc30c0d",
+    "source_input_sha256": "0bce75ff265843b0e5d0087417dbde5253e7ceff5d9f1c52b11bd52339e89bf5",
+    "bytes": 45714,
+    "source_dataset": "BPS registered motor vehicles by province/type",
+    "source_year": 2025,
+    "source_bytes_unmodified": false,
+    "transformation": "Original table object decoded from website RSC and reserialized JSON; values unchanged; not full sourceHTML",
+    "license": "Official public factual table; no blanket license over BPS publication wording asserted"
+  }
+]

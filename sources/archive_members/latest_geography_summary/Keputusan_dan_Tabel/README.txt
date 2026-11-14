@@ -1,0 +1,1 @@
+Paket ringkas untuk membaca keputusan, tabel dan figur. Sumber mentah/kode lengkap berada pada Auto2000_Keputusan_Lanjutan_Sumber_Lengkap.zip. Paket ini bukan pengganti sumber lengkap.

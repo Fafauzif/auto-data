@@ -1,0 +1,10 @@
+[
+  {
+    "language": "id",
+    "kind": "asr",
+    "caption_endpoint_path": "/api/timedtext",
+    "robots_allowed": false,
+    "watch_request_id": "3c3044b191344944be07cbb689deb66f",
+    "status": "not_requested_disallowed"
+  }
+]

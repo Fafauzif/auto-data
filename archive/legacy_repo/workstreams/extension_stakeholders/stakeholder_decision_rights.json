@@ -1,0 +1,264 @@
+[
+  {
+    "stakeholder_id": "ST01",
+    "actor_or_lens": "Customer legal owner",
+    "decision_right_or_constraint": "Chooses eligible purchase/work/protection and supplies authority/ownership evidence.",
+    "grounded_scope": "Toyota subsequent-owner reporting and published programme conditions.",
+    "incentive_hypothesis_not_observed": "Minimize combined cost, uncertainty and inconvenience.",
+    "material_conflict": "Better terms can still fail if model or budget is unsuitable.",
+    "customer_at_risk_of_exclusion": "Undocumented new owner or disputed custody.",
+    "evidence_ids": [
+      "EXT-E14",
+      "EXT-E15"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST02",
+    "actor_or_lens": "Driver or vehicle custodian",
+    "decision_right_or_constraint": "Operates vehicle; may deliver or report incident without being legal payer.",
+    "grounded_scope": "OEM booking permits another deliverer; fleet monitoring exists.",
+    "incentive_hypothesis_not_observed": "Minimize downtime and effort, possibly not total asset cost.",
+    "material_conflict": "Driving/consent authority is not spending or telemetry-access authority.",
+    "customer_at_risk_of_exclusion": "Contractors or family driver without owner documentation.",
+    "evidence_ids": [
+      "journey:UX11",
+      "EXT-E01"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST03",
+    "actor_or_lens": "Household decision partner and payer",
+    "decision_right_or_constraint": "Shares budget/use allocation; exact purchase authority is case-specific.",
+    "grounded_scope": "Fresh narratives show backup-car use and family agreement.",
+    "incentive_hypothesis_not_observed": "Prefer safety, service confidence, liquidity or familiar brands.",
+    "material_conflict": "One member benefits from EV while another carries long-trip/charging effort.",
+    "customer_at_risk_of_exclusion": "One-car household; member whose preferences are not captured.",
+    "evidence_ids": [
+      "narrative:V004",
+      "narrative:V007",
+      "narrative:V009"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST04",
+    "actor_or_lens": "Fleet procurement and finance buyer",
+    "decision_right_or_constraint": "Selects purchase/rental contract subject to company delegation.",
+    "grounded_scope": "Commercial BEV rental partners and OEM fleet programme are published.",
+    "incentive_hypothesis_not_observed": "Optimize total obligation, risk and procurement approval.",
+    "material_conflict": "Lowest acquisition price versus usable duty cycle and residual risk.",
+    "customer_at_risk_of_exclusion": "Small firms without financing or eligible rental terms.",
+    "evidence_ids": [
+      "EXT-E02",
+      "EXT-E18",
+      "EXT-E19"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST05",
+    "actor_or_lens": "Fleet dispatcher and operating manager",
+    "decision_right_or_constraint": "Plans actual operating windows and care access; authority differs by employer.",
+    "grounded_scope": "G-Fleet provides mileage/location/reminders; commercial BEV context exists.",
+    "incentive_hypothesis_not_observed": "Avoid missed shifts, idle assets and driver disruption.",
+    "material_conflict": "Fleet dashboard visibility is not authority to approve a repair.",
+    "customer_at_risk_of_exclusion": "Night shifts, specialized payloads, no spare vehicle.",
+    "evidence_ids": [
+      "EXT-E01",
+      "EXT-E18"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST06",
+    "actor_or_lens": "Digital director and CRM/privacy owner",
+    "decision_right_or_constraint": "Publishes journey/terms and governs permitted handoff under actual company policy.",
+    "grounded_scope": "Existing Single ID/SAM systems and OEM/partner channels, not their private role permissions.",
+    "incentive_hypothesis_not_observed": "Conversion, useful assisted completion and coherent data.",
+    "material_conflict": "More sharing can expose former-owner data or duplicate established OEM journeys.",
+    "customer_at_risk_of_exclusion": "Digitally excluded owners or users lacking authorization.",
+    "evidence_ids": [
+      "capabilities:FC04",
+      "capabilities:FC07",
+      "EXT-E14"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST07",
+    "actor_or_lens": "Dealer branch manager",
+    "decision_right_or_constraint": "Controls local fulfillment within delegated rules; OEM/insurer terms remain external.",
+    "grounded_scope": "Published booking/dealer-installation routes; actual local delegation not public.",
+    "incentive_hypothesis_not_observed": "Capture feasible work and use capacity profitably.",
+    "material_conflict": "Referring a budget job can preserve ecosystem trust while reducing branch ticket.",
+    "customer_at_risk_of_exclusion": "Older cost-sensitive cars or unsupported specialist jobs.",
+    "evidence_ids": [
+      "EXT-E02",
+      "EXT-E04",
+      "EXT-E05"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST08",
+    "actor_or_lens": "Sales adviser",
+    "decision_right_or_constraint": "Explains a model/offer and assists a purchase; cannot bind lender or unsupported guarantee.",
+    "grounded_scope": "Working finance/test-drive routes; lender intermediary boundary.",
+    "incentive_hypothesis_not_observed": "Reach a completed suitable delivery within targets.",
+    "material_conflict": "An attractive guarantee or charger story can exceed verified terms.",
+    "customer_at_risk_of_exclusion": "Rejected credit, no stock, no feasible charging arrangement.",
+    "evidence_ids": [
+      "journey:UX03",
+      "competition:COMP-009",
+      "EXT-E08"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST09",
+    "actor_or_lens": "Service adviser and technician",
+    "decision_right_or_constraint": "Diagnoses/quotes/executes work within capability and delegated approval.",
+    "grounded_scope": "Official service and record conditions plus OtoXpert light-work scope.",
+    "incentive_hypothesis_not_observed": "Safe repair, understandable authorization and efficient workshop flow.",
+    "material_conflict": "Remote explanation cannot create stock, trained labor or valid diagnostic evidence.",
+    "customer_at_risk_of_exclusion": "Unlisted model, high-voltage specialist need, disputed fault.",
+    "evidence_ids": [
+      "EXT-E04",
+      "EXT-E15",
+      "EXT-E17"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST10",
+    "actor_or_lens": "Parts counter and supply manager",
+    "decision_right_or_constraint": "Verifies fitment, supply and channel terms; variant-level data untested.",
+    "grounded_scope": "T-OPT model/category expansion and official-part conditions.",
+    "incentive_hypothesis_not_observed": "Supply useful parts with realizable margin.",
+    "material_conflict": "Cheaper suitable fast-moving parts can cannibalize a higher-ticket choice.",
+    "customer_at_risk_of_exclusion": "Unlisted variants; stock shortages; customers needing battery assembly rather than consumable.",
+    "evidence_ids": [
+      "EXT-E05",
+      "EXT-E07",
+      "EXT-E15"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST11",
+    "actor_or_lens": "Body-and-paint repair operator",
+    "decision_right_or_constraint": "Accepts/executes repair; payer authorization and network conditions can bind scope.",
+    "grounded_scope": "Insurer SPK/coverage prerequisite is published.",
+    "incentive_hypothesis_not_observed": "Complete approved repair and control rework/cycle time.",
+    "material_conflict": "A dealer booking cannot authorize insurer expense or guarantee parts timing.",
+    "customer_at_risk_of_exclusion": "Uninsured collision, non-network repair or absent evidence.",
+    "evidence_ids": [
+      "EXT-E21",
+      "insurance:INS-013"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST12",
+    "actor_or_lens": "Toyota OEM/ATPM",
+    "decision_right_or_constraint": "Defines affected VINs, warranty/campaign protocols and connected-product terms.",
+    "grounded_scope": "OEM recall, warranty and G-Fleet programmes.",
+    "incentive_hypothesis_not_observed": "Product safety, quality, brand retention and viable channel support.",
+    "material_conflict": "Dealer offers must fit OEM technical and contract boundaries.",
+    "customer_at_risk_of_exclusion": "Vehicles outside campaign or programme criteria.",
+    "evidence_ids": [
+      "EXT-E01",
+      "EXT-E12",
+      "EXT-E13",
+      "EXT-E15",
+      "EXT-E20"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST13",
+    "actor_or_lens": "Lender or lessor",
+    "decision_right_or_constraint": "Sets underwriting/contract and residual obligations it actually accepts.",
+    "grounded_scope": "SEVA intermediary limits; KINTO/commercial rental precedents.",
+    "incentive_hypothesis_not_observed": "Fund eligible risk profitably with sufficient information.",
+    "material_conflict": "Sales conversion versus rejected credit; private-use versus commercial contract.",
+    "customer_at_risk_of_exclusion": "Unapproved borrower, excessive mileage/use.",
+    "evidence_ids": [
+      "competition:COMP-009",
+      "market:M045",
+      "EXT-E19"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST14",
+    "actor_or_lens": "Insurer and authorized distributor",
+    "decision_right_or_constraint": "Insurer adjudicates covered claims; distributor scope depends on actual agreement.",
+    "grounded_scope": "Motor exclusions/SPK and OJK distribution rules in first wave.",
+    "incentive_hypothesis_not_observed": "Price accepted risk, handle claims, maintain valid distribution.",
+    "material_conflict": "Customer-facing floor or SOH promise may exceed insured recovery.",
+    "customer_at_risk_of_exclusion": "Excluded powertrain, cause/use or unaccepted residual exposure.",
+    "evidence_ids": [
+      "EXT-E21",
+      "insurance:INS-007",
+      "insurance:INS-023"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST15",
+    "actor_or_lens": "Used appraiser and purchasing buyer",
+    "decision_right_or_constraint": "Controls the bid it is willing to honor; certificate alone does not bind valuation.",
+    "grounded_scope": "OLX indicative/inspection distinction; Hyundai used tiers.",
+    "incentive_hypothesis_not_observed": "Buy condition risk at a viable resale price.",
+    "material_conflict": "Customer values a health document; buyer may not accept its protocol or pricing effect.",
+    "customer_at_risk_of_exclusion": "High mileage, uncertain battery history or thin market.",
+    "evidence_ids": [
+      "market:M046",
+      "EXT-E11"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST16",
+    "actor_or_lens": "CFO and risk owner",
+    "decision_right_or_constraint": "Would approve subsidy, future-value liability and any risk-transfer capacity under actual delegation.",
+    "grounded_scope": "Different capped/full-floor/RVI obligations are derived from stated structures.",
+    "incentive_hypothesis_not_observed": "Incremental contribution after subsidy, adverse selection and residual loss.",
+    "material_conflict": "Customer promise persists even if an insurer denies or caps recovery.",
+    "customer_at_risk_of_exclusion": "Nonstandard cohorts can be expensive to serve but excluding them narrows demand.",
+    "evidence_ids": [
+      "insurance:INS-017",
+      "insurance:INS-021"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST17",
+    "actor_or_lens": "Utility, installer and building permission owners",
+    "decision_right_or_constraint": "Different parties control electrical connection, qualified installation and property permission.",
+    "grounded_scope": "PLN home readiness; no building-specific permission inspected.",
+    "incentive_hypothesis_not_observed": "Safe infrastructure and accepted operating obligations.",
+    "material_conflict": "Dealer guidance cannot grant property permission.",
+    "customer_at_risk_of_exclusion": "Renters, shared parking or inadequate electrical arrangement.",
+    "evidence_ids": [
+      "market:M019"
+    ],
+    "internal_authority_or_incentive_verified": false
+  },
+  {
+    "stakeholder_id": "ST18",
+    "actor_or_lens": "Qualified retirement/disposal counterparties",
+    "decision_right_or_constraint": "Actual authorized custody and disposal scope must be established separately.",
+    "grounded_scope": "Manual hazard warning, not an available local disposal service or entitlement.",
+    "incentive_hypothesis_not_observed": "Safe accepted handling and economically viable collection.",
+    "material_conflict": "A battery-condition record cannot establish disposal or reuse authority.",
+    "customer_at_risk_of_exclusion": "No accessible qualified route; unclear title to removed battery.",
+    "evidence_ids": [
+      "EXT-E10"
+    ],
+    "internal_authority_or_incentive_verified": false
+  }
+]

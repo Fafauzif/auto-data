@@ -1,0 +1,30 @@
+OPTIONAL FOLLOW-UP COLLECTION. Budget: USD 3.85 remaining on Apify Free.
+Actor for ALL THREE inputs: compass/google-maps-reviews-scraper
+https://apify.com/compass/google-maps-reviews-scraper
+Run each JSON ONCE, replacing old input in Input > JSON. Set Maximum charge separately in Console run options.
+
+01_auto2000_four_markets_newest.json
+8 branches x350 newest reviews since 2025-01-01 = at most 2800 reviews.
+Listed Free cost USD1.68005. Set Maximum charge USD1.75.
+
+02_oil_alternatives_four_markets_newest.json
+4 local Shop&Drive outlets x350 newest reviews since 2025-01-01 = at most 1400 reviews.
+Listed Free cost USD0.84005. Set Maximum charge USD0.90.
+
+03_auto2000_diagnostic_lowest_rating.json
+Same8 branches x200 lowest-ranked reviews, no date cutoff = at most 1600 reviews.
+Listed Free cost USD0.96005. Set Maximum charge USD1.05.
+This is an intentionally rating-selected historical diagnostic sample. It may include five-star rows if fewer low-star reviews exist. It is not a current complaint rate or comparable satisfaction sample. It overlaps run01; duplicates may be billed again. Deduplicate by reviewId and retain run membership. Do not pool runs01 and03 to estimate negative-review prevalence.
+
+Total theoretical output cap5800 rows, NOT5800 new unique reviews. Listed fees total USD3.48015 at USD0.60/1000 plus start USD0.00005 per run; platform costs included. Maximum-charge settings sum USD3.70, leaving USD0.15 of the stated USD3.85. Actual output can be smaller. No additional runs have been executed by the assistant. This is a replacement for generic further collection; do not rerun earlier JSONs.
+
+Purpose: join behavior evidence to the SAME FOUR geographic markets and branch contrasts. A.Yani versus Kertajaya; Pancing versus GatotSubroto; SoekarnoHatta versus Setiabudi; TanjungApiApi versus Plaju. Alternatives are chosen from the existing official oil-channel inventory and origin-to-outlet results, not from ratings. Shop&Drive is Astra-related, not an Auto2000 workshop; these12 selected listings do not represent the entire service market.
+
+Collection identity: current exact Maps feature references were read for Pancing, A.Yani, and all4 Shop&Drive outlets. Other branch placeIDs were sourced from public Waze directions and matched to the official branch inventory. Status, redirects and complete review availability are not execution-tested. Preserve returned canonical placeId/cid/name and reconcile them with the selected target.
+
+In analysis distinguish sales versus workshop reviews; owner/driver/delivery-worker accounts; job type; payer/entitlement; reported versus documented prices; booking request versus confirmation; completion versus repeat repair; positive counterexamples. A review posting date may describe an older event. Do not infer appointment availability, parts stock or service competence from a review count.
+
+Sources:
+https://apify.com/compass/google-maps-reviews-scraper/pricing
+https://apify.com/compass/google-maps-reviews-scraper/input-schema
+Target names and IDs: TARGETS.csv; official identity/address/service evidence: baseline/Auto2000_Geographic_Study/workstreams/branches/ and workstreams/providers/shopanddrive_official_all.csv.

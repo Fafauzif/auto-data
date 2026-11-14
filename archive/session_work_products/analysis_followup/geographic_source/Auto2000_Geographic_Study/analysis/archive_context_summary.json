@@ -1,0 +1,8 @@
+{
+  "station_records": 2454,
+  "charger_box_records": 3767,
+  "auto2000_name_anchors": 28,
+  "snapshot": "2026-06-16",
+  "not_live_uptime": true,
+  "units_note": "Stations and hardware rows are different units; no Toyota-owner demand denominator."
+}

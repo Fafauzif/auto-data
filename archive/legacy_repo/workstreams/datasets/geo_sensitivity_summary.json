@@ -1,0 +1,11 @@
+{
+  "branch_maps_crosschecked": 5,
+  "material_coordinate_conflicts_over1km": 1,
+  "max_coordinate_disagreement_km": 55.257852064738024,
+  "original_sites_with_nonauto_alternative_within5km": 27,
+  "scenario_sites_with_nonauto_alternative_within5km": 28,
+  "sites_in_subset": 28,
+  "original_median_nearest_nonauto_haversine_km": 0.3228190793294573,
+  "scenario_median_nearest_nonauto_haversine_km": 0.2847948106122488,
+  "limitation": "Sensitivity, not correctedgroundtruth. Neighbour coords and station operationalaccess remain unverified. No driving-time/availability conclusion."
+}

@@ -1,0 +1,5 @@
+market,n,saved_gt1s,saved_gt1min,saved_gt2min,saved_gt5min,median_saved_all_minutes,max_saved_minutes,additional_origins_le_10min,additional_origins_le_15min,additional_origins_le_20min,additional_origins_le_30min
+Surabaya,59,8,7,6,0,0.0,4.978333333333333,2,0,0,0
+Medan,78,15,15,12,0,0.0,3.6850000000000005,3,0,0,0
+Bandung,78,10,4,3,2,0.0,5.973333333333334,3,0,0,0
+Palembang,69,14,12,11,7,0.0,6.585000000000003,4,2,2,0

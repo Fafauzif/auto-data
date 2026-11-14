@@ -1,0 +1,541 @@
+{
+  "FC-S01": {
+    "kind": "source",
+    "title": "Astra Annual Report 2025",
+    "url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+  },
+  "FC-S02": {
+    "kind": "source",
+    "title": "Astra Annual Report 2024",
+    "url": "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2024.pdf"
+  },
+  "FC-S03": {
+    "kind": "source",
+    "title": "Astra: Making Sales Activity Management Work Across Devices",
+    "url": "https://suitmedia.com/work/astra-sam"
+  },
+  "FC01": {
+    "kind": "claim",
+    "subject": "SAP S/4HANA",
+    "source_ids": "FC-S01"
+  },
+  "FC02": {
+    "kind": "claim",
+    "subject": "SAP S/4HANA",
+    "source_ids": "FC-S01"
+  },
+  "FC03": {
+    "kind": "claim",
+    "subject": "SAP S/4HANA",
+    "source_ids": "FC-S01"
+  },
+  "FC04": {
+    "kind": "claim",
+    "subject": "Sales Activity Management",
+    "source_ids": "FC-S01"
+  },
+  "FC05": {
+    "kind": "claim",
+    "subject": "After-sales frontline systems",
+    "source_ids": "FC-S01"
+  },
+  "FC06": {
+    "kind": "claim",
+    "subject": "Management analytics",
+    "source_ids": "FC-S01"
+  },
+  "FC07": {
+    "kind": "claim",
+    "subject": "Identity and CRM",
+    "source_ids": "FC-S01"
+  },
+  "FC08": {
+    "kind": "claim",
+    "subject": "Identity and CRM",
+    "source_ids": "FC-S01"
+  },
+  "FC09": {
+    "kind": "claim",
+    "subject": "AI",
+    "source_ids": "FC-S01"
+  },
+  "FC10": {
+    "kind": "claim",
+    "subject": "Motorcycle systems",
+    "source_ids": "FC-S01"
+  },
+  "FC11": {
+    "kind": "claim",
+    "subject": "Single ID history",
+    "source_ids": "FC-S02"
+  },
+  "FC12": {
+    "kind": "claim",
+    "subject": "EV outlet footprint",
+    "source_ids": "FC-S01"
+  },
+  "FC13": {
+    "kind": "claim",
+    "subject": "Charging footprint",
+    "source_ids": "FC-S01"
+  },
+  "FC14": {
+    "kind": "claim",
+    "subject": "Existing Digiroom scope",
+    "source_ids": "FC-S01"
+  },
+  "FC15": {
+    "kind": "claim",
+    "subject": "Loyalty",
+    "source_ids": "FC-S01"
+  },
+  "FC16": {
+    "kind": "claim",
+    "subject": "TASIA",
+    "source_ids": "FC-S01"
+  },
+  "FC17": {
+    "kind": "claim",
+    "subject": "OEM digital ecosystem",
+    "source_ids": "FC-S01"
+  },
+  "FC18": {
+    "kind": "claim",
+    "subject": "Trade cycle",
+    "source_ids": "FC-S01"
+  },
+  "FC19": {
+    "kind": "claim",
+    "subject": "OLXmobbi",
+    "source_ids": "FC-S01"
+  },
+  "FC20": {
+    "kind": "claim",
+    "subject": "After-free-service economics",
+    "source_ids": "FC-S01"
+  },
+  "FC21": {
+    "kind": "claim",
+    "subject": "National market",
+    "source_ids": "FC-S01"
+  },
+  "FC22": {
+    "kind": "claim",
+    "subject": "Group market share",
+    "source_ids": "FC-S01"
+  },
+  "FC23": {
+    "kind": "claim",
+    "subject": "National xEV",
+    "source_ids": "FC-S01"
+  },
+  "FC24": {
+    "kind": "claim",
+    "subject": "Toyota and Lexus sales",
+    "source_ids": "FC-S01"
+  },
+  "FC25": {
+    "kind": "claim",
+    "subject": "Auto2000 xEV volume",
+    "source_ids": "FC-S01"
+  },
+  "FC26": {
+    "kind": "claim",
+    "subject": "Electrification penetration",
+    "source_ids": "FC-S01"
+  },
+  "FC27": {
+    "kind": "claim",
+    "subject": "Case/source discrepancies",
+    "source_ids": "FC-S01"
+  },
+  "FC28": {
+    "kind": "claim",
+    "subject": "SAM vendor history",
+    "source_ids": "FC-S03"
+  },
+  "FC29": {
+    "kind": "claim",
+    "subject": "Integration feasibility",
+    "source_ids": "FC-S01;FC-S03"
+  },
+  "FC30": {
+    "kind": "claim",
+    "subject": "Entity roles",
+    "source_ids": "FC-S01"
+  },
+  "FC31": {
+    "kind": "claim",
+    "subject": "Battery certificates",
+    "source_ids": "JX02;M015"
+  },
+  "FC32": {
+    "kind": "claim",
+    "subject": "Service cost guidance",
+    "source_ids": "JX03"
+  },
+  "FC33": {
+    "kind": "claim",
+    "subject": "Branch discovery",
+    "source_ids": "JX05"
+  },
+  "FC34": {
+    "kind": "claim",
+    "subject": "BEV trade-in",
+    "source_ids": "JX07"
+  },
+  "FC35": {
+    "kind": "claim",
+    "subject": "Private owner records",
+    "source_ids": "JX04"
+  },
+  "M001": {
+    "kind": "market_evidence",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "locator": "Indonesia paragraph"
+  },
+  "M002": {
+    "kind": "market_evidence",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "locator": "Indonesia paragraph"
+  },
+  "M003": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "locator": "Indonesia report, printed/PDF page 5"
+  },
+  "M004": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "locator": "Indonesia report, printed/PDF page 6"
+  },
+  "M005": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "locator": "Indonesia report, printed/PDF pages 6\u20137"
+  },
+  "M006": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/id-cb-automotive-ev-adoption-2026.pdf",
+    "locator": "Indonesia report, printed/PDF pages 7\u20138"
+  },
+  "M007": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "locator": "SEA report, printed/PDF page 33, Q16"
+  },
+  "M008": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "locator": "SEA report, printed/PDF page 33, Q17"
+  },
+  "M009": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "locator": "SEA report, printed/PDF page 34, Q21"
+  },
+  "M010": {
+    "kind": "market_evidence",
+    "url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "locator": "SEA report, printed/PDF page 35, Q22"
+  },
+  "M011": {
+    "kind": "market_evidence",
+    "url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+    "locator": "Maintenance Comparison"
+  },
+  "M012": {
+    "kind": "market_evidence",
+    "url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+    "locator": "Maintenance Comparison"
+  },
+  "M013": {
+    "kind": "market_evidence",
+    "url": "https://afdc.energy.gov/vehicles/electric-maintenance",
+    "locator": "Battery Maintenance"
+  },
+  "M014": {
+    "kind": "market_evidence",
+    "url": "https://aftersales.toyota.astra.co.id/hybrid-health-check",
+    "locator": "intro andTerms1"
+  },
+  "M015": {
+    "kind": "market_evidence",
+    "url": "https://aftersales.toyota.astra.co.id/hybrid-health-check",
+    "locator": "Terms2\u20134"
+  },
+  "M016": {
+    "kind": "market_evidence",
+    "url": "https://pressroom.toyota.astra.co.id/toyota-perkuat-layanan-purnajual-lewat-t-care-xtra",
+    "locator": "program detail"
+  },
+  "M017": {
+    "kind": "market_evidence",
+    "url": "https://pressroom.toyota.astra.co.id/toyota-perkuat-layanan-purnajual-lewat-t-care-xtra",
+    "locator": "program detail"
+  },
+  "M018": {
+    "kind": "market_evidence",
+    "url": "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id",
+    "locator": "CaraMenggunakanSPKLU/TripPlanner"
+  },
+  "M019": {
+    "kind": "market_evidence",
+    "url": "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id",
+    "locator": "HomeCharging"
+  },
+  "M020": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.6028/NIST.TN.2328",
+    "locator": "NIST printed page 8 (PDF page 16), conclusion printed page 47 (PDF page 55)"
+  },
+  "M021": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.6028/NIST.TN.2328",
+    "locator": "NIST conclusion printed page 47 (PDF page 55)"
+  },
+  "M022": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.6028/NIST.TN.2328",
+    "locator": "NIST conclusion printed pages 47\u201348 (PDF pages 55\u201356)"
+  },
+  "M023": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.22146/jcef.22067",
+    "locator": "JCEF methods PDF page 4, respondent profile PDF page 8"
+  },
+  "M024": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.22146/jcef.22067",
+    "locator": "JCEF results 4.2.2, PDF page 8"
+  },
+  "M025": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.22146/jcef.22067",
+    "locator": "JCEF abstract and discussion; limitations PDF page 13"
+  },
+  "M026": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.14716/ijtech.v16i6.7804",
+    "locator": "UI methods, PDF pages 6\u20137"
+  },
+  "M027": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.14716/ijtech.v16i6.7804",
+    "locator": "UI Table 1, printed page 2132 (PDF page 11)"
+  },
+  "M028": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.17358/jabm.11.3.818",
+    "locator": "IPB UTAUT2 Methods, printed pages 820\u2013821"
+  },
+  "M029": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.17358/jabm.11.3.818",
+    "locator": "IPB UTAUT2 Table 3 and narrative, printed page 827 (PDF page 10)"
+  },
+  "M030": {
+    "kind": "market_evidence",
+    "url": "https://doi.org/10.17358/jabm.10.2.469",
+    "locator": "IPB environmental paper, Methods and Table 4"
+  },
+  "M031": {
+    "kind": "market_evidence",
+    "url": "https://www.coxautoinc.com/insights/cox-automotive-car-buyer-journey-study-finds-efficiency-digital-tools-and-ai-drive-record-satisfaction/",
+    "locator": "Omnichannel section"
+  },
+  "M032": {
+    "kind": "market_evidence",
+    "url": "https://www.coxautoinc.com/insights/cox-automotive-car-buyer-journey-study-finds-efficiency-digital-tools-and-ai-drive-record-satisfaction/",
+    "locator": "Omnichannel section"
+  },
+  "M033": {
+    "kind": "market_evidence",
+    "url": "https://www.coxautoinc.com/press-releases/ev-battery-health-scores-now-available-on-autotrader-listings/",
+    "locator": "January2025release"
+  },
+  "M034": {
+    "kind": "market_evidence",
+    "url": "https://media.carmax.com/press-releases/news-release/2025/CarMax-Announces-Tools-Resources-and-Incentives-to-Enhance-Used-EV-Buying-Experience/default.aspx",
+    "locator": "2025announcement"
+  },
+  "M035": {
+    "kind": "market_evidence",
+    "url": "https://media.carmax.com/press-releases/news-release/2025/CarMax-Announces-Tools-Resources-and-Incentives-to-Enhance-Used-EV-Buying-Experience/default.aspx",
+    "locator": "2025announcement"
+  },
+  "M036": {
+    "kind": "market_evidence",
+    "url": "https://www.toyota.co.uk/owners/toyota-warranty",
+    "locator": "ServiceActivatedWarranty"
+  },
+  "M037": {
+    "kind": "market_evidence",
+    "url": "https://www.toyota.co.uk/owners/toyota-warranty",
+    "locator": "FAQHowitworks"
+  },
+  "M038": {
+    "kind": "market_evidence",
+    "url": "https://www.toyota.co.uk/used-cars",
+    "locator": "Usedbenefits"
+  },
+  "M039": {
+    "kind": "market_evidence",
+    "url": "https://www.jdpower.com/business/press-releases/2026-us-customer-service-index-csi-study",
+    "locator": "methodparagraph"
+  },
+  "M040": {
+    "kind": "market_evidence",
+    "url": "https://www.jdpower.com/business/press-releases/2026-us-customer-service-index-csi-study",
+    "locator": "photo/video finding"
+  },
+  "M041": {
+    "kind": "market_evidence",
+    "url": "https://www.jdpower.com/business/press-releases/2025-japan-customer-service-index-csi-study",
+    "locator": "bookingfindings"
+  },
+  "M042": {
+    "kind": "market_evidence",
+    "url": "https://www.jdpower.com/business/press-releases/2017-indonesia-customer-service-index-mass-market-study",
+    "locator": "studyfindings/method"
+  },
+  "M043": {
+    "kind": "market_evidence",
+    "url": "https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-ownership-study",
+    "locator": "opening andmethod"
+  },
+  "M044": {
+    "kind": "market_evidence",
+    "url": "https://taf.co.id/kinto/faq",
+    "locator": "FAQbenefits/ownership"
+  },
+  "M045": {
+    "kind": "market_evidence",
+    "url": "https://taf.co.id/kinto/faq",
+    "locator": "FAQcommercialuse/mileage/ownrisk"
+  },
+  "M046": {
+    "kind": "market_evidence",
+    "url": "https://www.olx.co.id/olxmobbi/pertanyaan-umum",
+    "locator": "FAQinspection/finalprice"
+  },
+  "M047": {
+    "kind": "market_evidence",
+    "url": "https://www.seva.id/blog/ingin-kredit-mobil-mudah-ikuti-proses-pinjaman-seva-mudah-dan-cepat-kg",
+    "locator": "creditprocess"
+  },
+  "UX01": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/c/mobil-baru-toyota",
+    "observed_date": "2026-11-11",
+    "limit": "No selected filter tested. Price year/model/terms not reconciled; no conversion effect measured."
+  },
+  "UX02": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/mobil-baru-toyota/komparasi?code=INNOVAHYBRID%3AMAG10GHA%2FT20_T1G3&code=INNOVA%3AMAG10GA%2FT20_T1G3",
+    "observed_date": "2026-11-11",
+    "limit": "Initial timeout is browser-instrument failure, not proven site defect. Add-card text click did not open selector; plus icon did. No participant comprehension test."
+  },
+  "UX03": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid",
+    "observed_date": "2026-11-11",
+    "limit": "Illustrative simulator output, not lender quote or approval. Insurance/first-instalment timing are disclosed. Exact component fees not itemized in inspected result state; no hidden-fee inference."
+  },
+  "UX04": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid",
+    "observed_date": "2026-11-11",
+    "limit": "One model/location/scenario; does not identify interest rate, exact insurance cover, all fees, eligibility or actual lender terms."
+  },
+  "UX05": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/testdrive/new-car/INNOVAHYBRID",
+    "observed_date": "2026-11-11",
+    "limit": "Tentative windows are not verified real capacity or confirmed appointment. No lead submitted, no actual fulfilment tested."
+  },
+  "UX06": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/layanan-bengkel",
+    "observed_date": "2026-11-11",
+    "limit": "Stopped before invented plate/contact. Necessity of qualification, abandonment, branch capacity and next steps unmeasured."
+  },
+  "UX07": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/services-toyota/tukar-tambah",
+    "observed_date": "2026-11-11",
+    "limit": "No plate/contact entered; no estimate generated; true appraisal accuracy and data necessity untested."
+  },
+  "UX08": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/body-paint-service",
+    "observed_date": "2026-11-11",
+    "limit": "No conclusion of zerocapacity or permanent absence: date state could depend on vehicle/context or loading. No booking/insurance data submitted. Successful alternate-location search contradicts interpreting initial no-branch as universal failure."
+  },
+  "UX09": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/ths-home-service",
+    "observed_date": "2026-11-11",
+    "limit": "No personal or plate data entered; geographic eligibility/capacity not tested."
+  },
+  "UX10": {
+    "kind": "journey",
+    "url": "https://www.byd.com/id/test-asia-driver",
+    "observed_date": "2026-11-11",
+    "limit": "OEM vs dealer and BEV vs hybrid differences remain. No actual appointment, response or entire brand ranking. Transient zero is not persistent failure. Checkbox glyphs do not establish effective consent state."
+  },
+  "UX11": {
+    "kind": "journey",
+    "url": "https://www.toyota.astra.co.id/service-booking",
+    "observed_date": "2026-11-11",
+    "limit": "No entries or progression; operational reason/customer frequency unknown. Not independent evidence of Auto2000 execution."
+  },
+  "UX12": {
+    "kind": "journey",
+    "url": "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1",
+    "observed_date": "2026-11-11",
+    "limit": "Direct destination verification, not seamless click or context-preserving deep-link proof. No app installed/loggedin. Download total is not active use. Visible review/reply dates require independent reconciliation before measuring response timing."
+  },
+  "JX01": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/search/global?text=Hybrid%20Health%20Check",
+    "observed_date": "2026-11-11",
+    "limit": "One exact-language query and one route; cannot infer sitewide absence, user findability rate or search traffic."
+  },
+  "JX02": {
+    "kind": "journey",
+    "url": "https://aftersales.toyota.astra.co.id/hybrid-health-check/generate-certificate",
+    "observed_date": "2026-11-11",
+    "limit": "No VIN/personal details entered; no certificate retrieved. Actual metric/method, history completeness, owner verification and appraisal acceptance not tested."
+  },
+  "JX03": {
+    "kind": "journey",
+    "url": "https://aftersales.toyota.astra.co.id/t-care",
+    "observed_date": "2026-11-11",
+    "limit": "General program guidance and old estimates, not personalized entitlement/current2026 invoice. No VIN supplied; vehicle service history untested."
+  },
+  "JX04": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/login",
+    "observed_date": "2026-11-11",
+    "limit": "No authentication or account creation attempted. Not evidence that service/battery history is absent, complete or connected to appraisal."
+  },
+  "JX05": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/layanan-bengkel",
+    "observed_date": "2026-11-11",
+    "limit": "No per-model HVbattery/HHC jobcertification filter in inspected panel, but not wholeecosystem absence. No plate to inspect later job/branch filtering; no claim branch context lost or branch unqualified."
+  },
+  "JX06": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/testdrive/new-car/INNOVAHYBRID",
+    "observed_date": "2026-11-11",
+    "limit": "Published workflow, no measured adviser speed/actual inventory/confirmed appointment. No guarantee calendarwindows reserve stock."
+  },
+  "JX07": {
+    "kind": "journey",
+    "url": "https://auto2000.co.id/services-toyota/tukar-tambah",
+    "observed_date": "2026-11-11",
+    "limit": "No estimate generated or batterycertificate accepted/rejected. No floor/resaleguarantee or insurer integration tested. No conclusion about postidentifier features."
+  }
+}

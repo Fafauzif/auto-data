@@ -1,0 +1,86 @@
+{
+  "frozen_baseline_sha_matches": true,
+  "frozen_plan_sha_matches": true,
+  "csv_widths": {
+    "ER_T05_new_report_types.csv": {
+      "data_rows": 18,
+      "columns": 12,
+      "all_rows_same_width": true
+    },
+    "ER_T04_digiroom_relaunch_date_context.csv": {
+      "data_rows": 2,
+      "columns": 8,
+      "all_rows_same_width": true
+    },
+    "ER_T01_rating_experience_crosstab.csv": {
+      "data_rows": 210,
+      "columns": 12,
+      "all_rows_same_width": true
+    },
+    "new_reviews_derived.csv": {
+      "data_rows": 148,
+      "columns": 30,
+      "all_rows_same_width": true
+    },
+    "ER_T05_original_counterexamples.csv": {
+      "data_rows": 10,
+      "columns": 17,
+      "all_rows_same_width": true
+    },
+    "source_capture_index.csv": {
+      "data_rows": 9,
+      "columns": 15,
+      "all_rows_same_width": true
+    },
+    "ER_T03_original_locale_pair_sensitivity.csv": {
+      "data_rows": 6,
+      "columns": 21,
+      "all_rows_same_width": true
+    },
+    "ER_T02_classification_sensitivity.csv": {
+      "data_rows": 42,
+      "columns": 15,
+      "all_rows_same_width": true
+    },
+    "capture_relations.csv": {
+      "data_rows": 148,
+      "columns": 8,
+      "all_rows_same_width": true
+    },
+    "EX_Suzuki_vehicle_context_sensitivity.csv": {
+      "data_rows": 3,
+      "columns": 9,
+      "all_rows_same_width": true
+    },
+    "ER_T06_wave_recency_sensitivity.csv": {
+      "data_rows": 12,
+      "columns": 8,
+      "all_rows_same_width": true
+    },
+    "ER_T06_combined_pair_context.csv": {
+      "data_rows": 9,
+      "columns": 11,
+      "all_rows_same_width": true
+    },
+    "ER_T04_date_version_strata.csv": {
+      "data_rows": 84,
+      "columns": 12,
+      "all_rows_same_width": true
+    }
+  },
+  "all_csv_widths_pass": true,
+  "new_rows": 148,
+  "combined_unique_keys": 358,
+  "all_148_join_capture_hash": true,
+  "all_148_join_capture_time": true,
+  "all_148_public_listing_locators": true,
+  "public_capture_counts_sum148": true,
+  "public_text_columns_absent": true,
+  "new_id_namespace_distinct": true,
+  "second_ai_checked_n": 16,
+  "human_validation_all_false": true,
+  "semantic_coding_independently_verified": false,
+  "checked_utc": "2026-11-11T04:21:07.321979+00:00",
+  "second_ai_check_scope": "targeted_nonblind16_source_inspection_not_human_reliability",
+  "second_ai_check_receipt": "SECOND_AI_CHECK_RECEIPT.json"
+}

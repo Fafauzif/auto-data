@@ -1,0 +1,10 @@
+{
+  "duplicate_chargerbox_id_values": 0,
+  "station_boxcount_mismatches": 0,
+  "station_chargerunit_total_mismatches": 0,
+  "station_connector_total_mismatches": 0,
+  "sum_box_n_chargers": 7593,
+  "sum_box_n_connectors": 4665,
+  "missing_inferred_current": 829,
+  "interpretation": "Source unit counts reconstructed by author from boxes. No simultaneousservicecapacity or physicalportvalidation."
+}

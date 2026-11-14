@@ -1,0 +1,19 @@
+{
+  "retrieval_date": "2026-11-14",
+  "public_search_and_open": "Web search service used to inspect official pages; reference IDs in sources.csv",
+  "direct_network_attempt": {
+    "url": "https://otoxpert.co.id/workshop",
+    "outcome": "HTTP403; fallback web retrieval succeeded"
+  },
+  "directory_entries_observed": 37,
+  "embedded_coordinate_urls_extracted": 37,
+  "embedded_map_render": "Failed redirect/access; coordinates transcribed from official iframe href exposed by click output; not map-render or field verification",
+  "raw_web_bodies_redistributed": false,
+  "source_capture_policy": "Structured factual extracts and URLs; no full third-party HTML, images, or downloaded press releases",
+  "otoxpert_network_count_disagreement": {
+    "directory_entries_this_run": 37,
+    "Toyota_product_page": 38,
+    "Toyota_2026_03_04_release": 40
+  },
+  "SPKLU_local_source_sha256": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef"
+}

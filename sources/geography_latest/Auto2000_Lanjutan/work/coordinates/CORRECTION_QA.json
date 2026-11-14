@@ -1,0 +1,22 @@
+{
+  "od_rows": 324,
+  "unique_pairs": 1,
+  "all_nonnegative": true,
+  "direction_counts": "{('Bandung', 'outbound'): 81, ('Bandung', 'return'): 81, ('Surabaya', 'outbound'): 81, ('Surabaya', 'return'): 81}",
+  "summary": [
+    {
+      "market": "Bandung",
+      "strict_origins": 78,
+      "median_minutes": 13.625,
+      "destination_snap_metres": 30.63866399,
+      "min_minutes": 1.3016666666666665
+    },
+    {
+      "market": "Surabaya",
+      "strict_origins": 59,
+      "median_minutes": 23.12,
+      "destination_snap_metres": 12.40669436,
+      "min_minutes": 12.770000000000001
+    }
+  ]
+}

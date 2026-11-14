@@ -1,0 +1,127 @@
+{
+  "checks": [
+    {
+      "check": "Origin identifiers unique within market",
+      "passed": true,
+      "detail": 324
+    },
+    {
+      "check": "OD identifiers unique",
+      "passed": true,
+      "detail": 76221
+    },
+    {
+      "check": "Every acquired duration is nonnegative",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every acquired distance is nonnegative",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All matrix batches complete for all origins",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Route-status null handling consistent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Road distance plus snapping bounds straight-line distance (1pct+30m tolerance)",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "auto2000:10<=20<=30minute reachable-count monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "auto2000:removing long snaps cannot improve nearest time",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "auto2000:expanding destinations cannot worsen nearest time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "independent:10<=20<=30minute reachable-count monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "independent:removing long snaps cannot improve nearest time",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "independent:expanding destinations cannot worsen nearest time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "otoxpert:10<=20<=30minute reachable-count monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "otoxpert:removing long snaps cannot improve nearest time",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "otoxpert:expanding destinations cannot worsen nearest time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "non_auto2000:10<=20<=30minute reachable-count monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "non_auto2000:removing long snaps cannot improve nearest time",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "non_auto2000:expanding destinations cannot worsen nearest time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "documented_alternative:10<=20<=30minute reachable-count monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "documented_alternative:removing long snaps cannot improve nearest time",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "documented_alternative:expanding destinations cannot worsen nearest time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Illustrative route geometry agrees with supplied distance within5pct",
+      "passed": true,
+      "detail": 0.0043049862252602595
+    },
+    {
+      "check": "No job-qualified alternative inferred from empty evidence",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 24,
+  "failed": 0,
+  "limitations": "Arithmetic/network checks only; not field verification, customer evidence or actual traffic validation."
+}

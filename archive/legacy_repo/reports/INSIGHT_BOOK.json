@@ -1,0 +1,2142 @@
+{
+  "title": "Auto2000 cross-source insight book",
+  "as_of_date": "2026-11-11",
+  "purpose": "Diagnostic synthesis and broad alternatives for user choice; no strategy selection or implementation plan.",
+  "evidence_rules": [
+    "Certain refers to a captured state, published statement or reproduced calculation, not universal operational truth.",
+    "Guessing marks mechanism or commercial interpretation not identified by these sources.",
+    "Published terms, self-reports, evaluator walkthroughs, auxiliary data and synthetic examples have different evidentiary roles.",
+    "Evidence-record counts, related workstreams and repeated issuer sources are not independent customer samples.",
+    "Existing capabilities are baselines; a plausible improvement is not evidence of a missing feature.",
+    "No numerical confidence score, human validation, measured causal uplift or selected winner is claimed."
+  ],
+  "insights": [
+    {
+      "insight_id": "IB01",
+      "title": "Most of the xEV decline coincides arithmetically with a shrinking total portfolio",
+      "scoped_observation": "Toyota and Lexus xEV sales fell from 37,693 to 31,668 in 2024–2025, or 15.98%; their total sales fell 13.59%. xEV mix moved from 12.93% to 12.57%, a decline of 0.36 percentage points. Holding the earlier mix in the stated decomposition allocates about 5,121 of the 6,025-unit decrease to total-sales scale and 904 to mix.",
+      "evidence_refs": [
+        "capabilities:FC24",
+        "capabilities:FC25",
+        "capabilities:FC26",
+        "calculation:portfolio_mix",
+        "market:M001"
+      ],
+      "actors": [
+        "Auto2000 commercial team",
+        "Toyota/Lexus portfolio owners",
+        "analyst"
+      ],
+      "possible_mechanism": "A broad portfolio contraction can produce a substantial electrified-sales decline without a similarly large mix shift. Product, supply, prices and demand remain competing causes.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "A small mix movement can still matter commercially. Aggregation may hide BEV/HEV, model, region or dealer differences; national BEV/PHEV measures also use a different powertrain scope.",
+      "conditional_business_implication": "Separate market scale, within-portfolio mix and dealer conversion questions before attributing lost sales to Digiroom. Sales flows cannot stand in for the service-eligible installed base.",
+      "options_opened": [
+        "MO11",
+        "OPT-C15"
+      ],
+      "limits": [
+        "Toyota AND Lexus, not Auto2000 volume.",
+        "Accounting allocation is order-dependent and noncausal.",
+        "No model-level contribution, dealer share or profit observed."
+      ],
+      "observation_confidence": "(certain) Published totals and reproduced arithmetic; causal interpretation remains unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB02",
+      "title": "An awareness gap does not yet locate the lost sale",
+      "scoped_observation": "The supplied Rakuten Toyota 28% / BYD 57% awareness values were not independently verified from the underlying chart. Verified study metadata does not verify those particular values. Live journeys do establish existing comparison, finance and test-drive routes, while original narratives include budget, household agreement, service support and product preference as choice considerations.",
+      "evidence_refs": [
+        "survey:RAK_SCOPE",
+        "survey:RAK_ID_META",
+        "survey:RAK_TOYOTA",
+        "survey:RAK_BYD",
+        "journey:UX02",
+        "journey:UX03",
+        "journey:UX05",
+        "narrative:V007",
+        "narrative:V009",
+        "logic:L01"
+      ],
+      "actors": [
+        "prospective buyer",
+        "household decision makers",
+        "sales adviser",
+        "marketing team"
+      ],
+      "possible_mechanism": "Exposure might help people form a relevant shortlist, but intent, eligibility, contact, test drive, approval and delivery are separate transitions.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "People already aware and interested may still reject price, vehicle fit or available stock; increased visibility could merely move existing customers between channels.",
+      "conditional_business_implication": "Treat awareness as an upstream hypothesis and keep the downstream sales chain explicit. Better exposure and better practical fit remain separate optional directions, with no verified incremental delivery estimate.",
+      "options_opened": [
+        "OPT-C01",
+        "MO09",
+        "MO11",
+        "OPT-C12"
+      ],
+      "limits": [
+        "No awareness-to-person-to-delivery linkage.",
+        "No representative funnel abandonment data.",
+        "The logical counterexample is synthetic reasoning, not a business observation."
+      ],
+      "observation_confidence": "(certain) Verification status and inspected routes; (guessing) the reported numerical awareness gap and its commercial importance.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB03",
+      "title": "Service visits, work content and who pays can move in different directions",
+      "scoped_observation": "Toyota publicly describes common xEV periodic-service intervals, while technical evidence distinguishes BEV engine-related maintenance from HEV/PHEV work. The inspected T-CARE page separately presents included early services and priced later work. Equal scheduled visits therefore need not mean equal jobs, customer payments or dealer contribution.",
+      "evidence_refs": [
+        "cadence:CAD01",
+        "market:M011",
+        "market:M012",
+        "market:M016",
+        "market:M017",
+        "journey:JX03",
+        "logic:L02",
+        "logic:L03",
+        "narrative:V001"
+      ],
+      "actors": [
+        "vehicle owner",
+        "service adviser",
+        "OEM program payer",
+        "dealer aftersales finance"
+      ],
+      "possible_mechanism": "Powertrain changes work mix; program coverage changes payment incidence; usage and ownership age change the relevant service occasion. An app can be quiet between legitimate needs.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Fewer engine jobs do not establish fewer scheduled visits. Conversely, a published interval does not establish adherence, adequate margins or successful retention.",
+      "conditional_business_implication": "Assess relevant completed work and contribution at the appropriate vehicle/program cohort. App openings, payer shifts or migration from WhatsApp alone cannot establish incremental gross profit.",
+      "options_opened": [
+        "MO12",
+        "MO04",
+        "MO02",
+        "OPT-C15"
+      ],
+      "limits": [
+        "Toyota article is a generic operator representation, not a model/year manual or actual attendance.",
+        "No work-order, claim-payment or cost microdata.",
+        "GP identities hold assumptions fixed and are not forecasts."
+      ],
+      "observation_confidence": "(certain) Distinct published program/technical categories and arithmetic logic; actual Auto2000 cohort economics unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB04",
+      "title": "The baseline already contains calculators; the open question is decision usefulness and scope",
+      "scoped_observation": "The inspected Auto2000 flow compared HEV/ICE variants and ran a repeatable credit simulation without compulsory income or contact entry. Financing insurance changed displayed upfront and monthly amounts. Toyota also exposes variant-specific service estimates; the inspected Yaris Cross hybrid cost table explicitly dates its estimates to March 2024, even though accessed in November 2026.",
+      "evidence_refs": [
+        "journey:UX02",
+        "journey:UX03",
+        "journey:UX04",
+        "journey:JX03",
+        "cadence:CAD02",
+        "market:M047",
+        "narrative:V007"
+      ],
+      "actors": [
+        "shopper",
+        "household budget holder",
+        "sales adviser",
+        "finance provider"
+      ],
+      "possible_mechanism": "Scope, date, entitlement and finance status may matter more than adding another calculation. A result can be numerically precise without being a current personalized commitment.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "The existing tools may already be adequate; actual affordability, model preference or adviser skill can dominate information presentation.",
+      "conditional_business_implication": "Any cost/fit option needs a specific unresolved decision beyond the existing comparison, simulation and dated cost guidance. Do not describe a calculator or contact-free simulation as absent.",
+      "options_opened": [
+        "OPT-C15",
+        "MO11",
+        "OPT-C12",
+        "MO08",
+        "OPT-C13"
+      ],
+      "limits": [
+        "Evaluator walkthrough, not participant comprehension testing.",
+        "No lender approval, actual invoice or customer entitlement verified.",
+        "Historical estimates and live finance examples are not directly additive ownership-cost totals."
+      ],
+      "observation_confidence": "(certain) Captured tool behavior and displayed estimate date; comprehension and conversion effects unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB05",
+      "title": "A booking request is only one state in the service promise",
+      "scoped_observation": "The live test-drive route and FAQ represent subsequent team confirmation; service routes require vehicle qualification before proceeding. Current and historical app reviews separately allege nonconfirmation or booking failures. Positive reports and resolved issues coexist with those accounts. The public evidence never observes the resulting work order or fulfilled appointment.",
+      "evidence_refs": [
+        "journey:UX05",
+        "journey:UX06",
+        "journey:JX05",
+        "journey:JX06",
+        "review:REV-0030",
+        "review:REV-0035",
+        "review:REV-0137",
+        "narrative:N002",
+        "narrative:N003",
+        "narrative:N005",
+        "narrative:N006"
+      ],
+      "actors": [
+        "owner",
+        "contact team",
+        "branch service scheduler",
+        "technician/parts team"
+      ],
+      "possible_mechanism": "Requested, reviewed, confirmed, inspected and completed states can have different owners and constraints. A clear digital request can coexist with a later capacity or eligibility problem.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Qualification may be necessary and functioning; a complaint can reflect customer expectations, a specific branch, an old version or an unobserved exception.",
+      "conditional_business_implication": "Keep state clarity, preparation and physical fulfillment distinct in the option menu. A faster form cannot be presumed to create an available technician, part or confirmed slot.",
+      "options_opened": [
+        "OPT-C03",
+        "OPT-C04",
+        "OPT-C17",
+        "OPT-C02"
+      ],
+      "limits": [
+        "Reviewer claims are not independently verified.",
+        "Neither current failure incidence nor branch adherence measured.",
+        "No slots reserved, personal data submitted or real appointment completed."
+      ],
+      "observation_confidence": "(certain) Published confirmation boundary and presence of contrasting accounts; actual failure mechanism and prevalence unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB06",
+      "title": "A digital certificate exists; appraisal acceptance is the unresolved bridge",
+      "scoped_observation": "The live Toyota HHC route offers certificate generation through VIN, personal details and download stages. The public Auto2000 trade-in flow accepts BEV model selection, and Digiroom reviews include both positive history use and incomplete-history requests. Owner discussions distinguish service receipts, records and independent condition checks. None establishes a resale premium or appraiser acceptance of a particular certificate.",
+      "evidence_refs": [
+        "journey:JX02",
+        "journey:JX04",
+        "journey:JX07",
+        "review:REV-0014",
+        "review:REV-0151",
+        "review:REV-0165",
+        "narrative:N013",
+        "narrative:N016",
+        "narrative:V015",
+        "narrative:V016",
+        "market:M015",
+        "market:M046"
+      ],
+      "actors": [
+        "current owner",
+        "used-car buyer",
+        "OEM certificate issuer",
+        "appraiser/remarketer"
+      ],
+      "possible_mechanism": "Evidence can exist but differ in discoverability, completeness, interpretation or commercial acceptance. Those are separate handoffs rather than a single missing-certificate problem.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "An appraiser may already accept existing documents, or may rationally prefer its own inspection. Market price pressure may swamp any information benefit.",
+      "conditional_business_implication": "Retain certificate interpretation, lifecycle record continuity and appraisal use as distinct optional questions. M2 novelty cannot rest on creating the first digital certificate or first BEV trade-in route.",
+      "options_opened": [
+        "OPT-C08",
+        "MO10",
+        "MO05",
+        "OPT-C09",
+        "OPT-C10"
+      ],
+      "limits": [
+        "Stopped before VIN; no personal certificate, health metric or history retrieved.",
+        "BEV model selection is not an accepted offer or completed appraisal.",
+        "No portability agreement, premium or willingness to pay measured."
+      ],
+      "observation_confidence": "(certain) Existing public retrieval/model-selection routes and source statements; acceptance and value effects unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB07",
+      "title": "Battery protection is several contracts with different promise owners",
+      "scoped_observation": "Toyota programs concern conditional maintenance/warranty benefits. The inspected official EVsyariah RIPLAY concerns four-wheel BEVs and specified insured events, with monetary limits and deductibles; an authorized-brand workshop benefit is optional. Existing insurer apps already support claims. These facts do not establish normal degradation cover, future resale-price cover or automatic routing to Auto2000.",
+      "evidence_refs": [
+        "market:M014",
+        "market:M015",
+        "market:M016",
+        "insurance:INS-002",
+        "insurance:INS-003",
+        "insurance:INS-005",
+        "insurance:INS-006",
+        "insurance:INS-007",
+        "insurance:INS-008",
+        "insurance:INS-012",
+        "insurance:INS-013",
+        "insurance:INS-016",
+        "narrative:N024",
+        "narrative:V003"
+      ],
+      "actors": [
+        "owner",
+        "OEM warranty decision maker",
+        "insurer/claims handler",
+        "eligible repairer",
+        "dealer"
+      ],
+      "possible_mechanism": "An owner-facing battery concern can span defect, accident, wear, claim authorization and price loss. The dealer may not control the coverage decision or repair assignment.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "An exclusion can be correctly applied without a communication failure; insurer processes and dealer coordination may already work well for eligible claims.",
+      "conditional_business_implication": "Distinguish coverage explanation from claim-context continuity and incremental repair capture. Neither a partner product listing nor a charging benefit proves an Auto2000 distribution fee or repair revenue.",
+      "options_opened": [
+        "OPT-I01",
+        "OPT-I02",
+        "OPT-I03",
+        "OPT-C05",
+        "OPT-C08"
+      ],
+      "limits": [
+        "No signed Auto2000 insurer agreement, accepted repair route or dealer fee verified.",
+        "Public policy terms are not a customer-specific claim decision.",
+        "Some narrative attribution is disputed, not technical/legal adjudication."
+      ],
+      "observation_confidence": "(certain) Scope and conditions in published products; actual customer confusion, claim outcomes and dealer economics unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB08",
+      "title": "Capped top-up, full value floor and insurer recovery are different obligations",
+      "scoped_observation": "The contract arithmetic separates a capped customer top-up from an unconditional floor and from an insurer recovery. In the friend illustration, a Rp180m inspected offer, Rp200m target and Rp10m cap produce Rp190m customer credit, not Rp200m. Official ordinary motor coverage does not establish residual-value protection; the located international RVI offering is bespoke B2B, not a verified Indonesian syariah quote.",
+      "evidence_refs": [
+        "logic:L04",
+        "insurance:synthetic_obligations",
+        "insurance:INS-012",
+        "insurance:INS-017",
+        "insurance:INS-018",
+        "insurance:INS-020",
+        "insurance:INS-021",
+        "insurance:INS-022",
+        "insurance:INS-025"
+      ],
+      "actors": [
+        "repeat purchaser",
+        "dealer promise owner",
+        "insurer/underwriter",
+        "remarketer",
+        "funding party"
+      ],
+      "possible_mechanism": "A cap limits customer benefit; an insurance limit limits recovery. If a full floor is promised, uncovered shortfall and timing can remain with its promisor.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "A small, transparent capped benefit may still be useful. Conversely, a floor can attract existing buyers without generating incremental deliveries, and correlated resale declines can stress many redemptions together.",
+      "conditional_business_implication": "Keep all three concepts distinct so the user can choose the intended obligation. Scenario arithmetic can expose a promise mismatch but cannot price the program or establish commercial viability.",
+      "options_opened": [
+        "OPT-I04",
+        "OPT-I05",
+        "OPT-I06",
+        "OPT-I08",
+        "OPT-C10"
+      ],
+      "limits": [
+        "51 synthetic scenarios, zero observed redemptions or claims.",
+        "No actual offer distribution, policy premium, underwriter appetite or aggregate-risk estimate.",
+        "Regulatory sources are scoped evidence, not a product-specific legal approval."
+      ],
+      "observation_confidence": "(certain) Arithmetic and distinction between obligations; demand, pricing, local availability and incremental profit unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB09",
+      "title": "The relevant unit of EV fit can be the household, not one car or one attitude",
+      "scoped_observation": "Fresh-source narratives include a shopper becoming more receptive to an EV because another household car can cover trips, a family whose consensus weakens around unanswered questions, and a reported hybrid purchase balancing several trade-offs. Other discovery accounts retain strong product preferences or step back because of usage and budget. The stated-choice research also has explicitly bounded samples.",
+      "evidence_refs": [
+        "narrative:V004",
+        "narrative:V007",
+        "narrative:V009",
+        "narrative:N018",
+        "narrative:N035",
+        "narrative:V015",
+        "market:M023",
+        "market:M024",
+        "journey:UX02"
+      ],
+      "actors": [
+        "daily driver",
+        "other household drivers",
+        "joint budget holder",
+        "sales adviser"
+      ],
+      "possible_mechanism": "Backup vehicles, shared budget, trip exceptions, local service support and household agreement can change the useful comparison even for the same nominal driving distance.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Design, driving feel, promotion timing or genuine brand preference may dominate a calculated cost advantage. Not all shoppers seek the economically cheapest option.",
+      "conditional_business_implication": "Household use-fit, home readiness and cost-entitlement comparisons can remain broad alternatives. These accounts support asking different questions; they do not establish an addressable segment size or conversion uplift.",
+      "options_opened": [
+        "MO11",
+        "MO03",
+        "OPT-C15",
+        "OPT-C23",
+        "MO07"
+      ],
+      "limits": [
+        "Purposive unverified owner/shopper reports, not representative prevalence.",
+        "Several units share threads and respondents.",
+        "Stated choices and question-only posts are not completed purchases."
+      ],
+      "observation_confidence": "(certain) Contrasting reported contexts exist; (guessing) their prevalence and commercial importance for Auto2000.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB10",
+      "title": "Home-charging intention and a usable home-charging arrangement are different bases",
+      "scoped_observation": "The verified Deloitte 2026 Indonesia table reports 61% expecting primary home charging among 223 BEV/PHEV intenders; dedicated residential access is 54% among the 136-person home-charging subset. These are nested question bases, not independent populations. PLN already provides public charging and home-application routes; owner accounts describe both workable home/trip use and holiday inconvenience.",
+      "evidence_refs": [
+        "survey:D26_HOME",
+        "survey:D26_DEDICATED",
+        "market:M018",
+        "market:M019",
+        "narrative:N036",
+        "narrative:N037",
+        "narrative:N038",
+        "narrative:V004"
+      ],
+      "actors": [
+        "prospective owner",
+        "household/property decision maker",
+        "PLN/installer",
+        "building manager"
+      ],
+      "possible_mechanism": "Power, permission, parking and occasional-trip needs can remain unresolved even when a person prefers home charging. A directory alone cannot grant physical access.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Existing utility information may already resolve the task. Some owners have reliable home access and need little repeated digital support, while trip exceptions remain material to others.",
+      "conditional_business_implication": "Keep readiness and use-context questions separate from a universal charger-map proposal. Do not add the two percentages or generalize them to all Indonesian owners.",
+      "options_opened": [
+        "MO03",
+        "MO11",
+        "MO12",
+        "OPT-C18"
+      ],
+      "limits": [
+        "Intentions, not verified installations or energy use.",
+        "Rounded survey results cannot supply exact respondent counts.",
+        "No Auto2000 customer-specific home-readiness distribution."
+      ],
+      "observation_confidence": "(certain) Published nested bases and existing routes; actual readiness barriers and value of further assistance unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB11",
+      "title": "Millions of distance calculations do not establish a local charging gap",
+      "scoped_observation": "The SPKLU source contains 2,454 station and 3,767 charger-box rows; 6,019,662 pairwise distances are derived computations. Seventeen coordinate flags were found. A five-branch crosscheck found one approximately 55.3 km disagreement; a sensitivity changes sites with a non-Auto2000 alternative within 5 km from 27/28 to 28/28. Internally reconciling charger/connector totals does not validate physical capacity.",
+      "evidence_refs": [
+        "datasets:spklu",
+        "datasets:geo_sensitivity",
+        "datasets:charging_grain",
+        "capabilities:FC13",
+        "market:M018",
+        "journey:JX05"
+      ],
+      "actors": [
+        "owner planning a trip",
+        "charging operator",
+        "dealer location team",
+        "analyst"
+      ],
+      "possible_mechanism": "An erroneous coordinate or ambiguous site identity can change a locality conclusion before compatibility, access, uptime or road travel are considered.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Most source coordinates may still be useful for broad context, and a nearby station may be inaccessible or incompatible. The sensitivity does not reveal which alternative is operational.",
+      "conditional_business_implication": "Treat the map as contextual evidence, not proof for a new charger, a service desert or a guaranteed nearby alternative. Operational charging and job-qualified branch access remain different questions.",
+      "options_opened": [
+        "MO03",
+        "OPT-C17",
+        "OPT-C18"
+      ],
+      "limits": [
+        "Five-branch check is targeted and small.",
+        "Scenario coordinates are not certified corrections.",
+        "No live access, utilization, queue, uptime, permissions or driving-time validation."
+      ],
+      "observation_confidence": "(certain) Reproduced source-grain and sensitivity arithmetic; operational coverage unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB12",
+      "title": "A high rating can coexist with an unperformed task or a specific limitation",
+      "scoped_observation": "The 210-review convenience corpus contains 132 statements coded as specific self-reported app jobs, alongside branch, product, prospective and unknown experiences. REV-0001 rates before service; REV-0020 reports not yet owning a car. Other high ratings accompany a multi-vehicle booking limitation, missing images or a resolved past problem. These are different evidence types, not completion labels.",
+      "evidence_refs": [
+        "reviews:corpus",
+        "reviews:semantic_audit",
+        "review:REV-0001",
+        "review:REV-0020",
+        "review:REV-0003",
+        "review:REV-0122",
+        "review:REV-0130",
+        "review:REV-0131",
+        "journey:UX12"
+      ],
+      "actors": [
+        "app user/reviewer",
+        "branch customer",
+        "product manager",
+        "research analyst"
+      ],
+      "possible_mechanism": "A rating may express brand affection, courtesy, anticipation, mixed use or recovery from a prior failure. It need not summarize a completed end-to-end app task.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Positive ratings can also reflect successful jobs. Coding by an AI researcher cannot independently verify what happened or why a rating was chosen.",
+      "conditional_business_implication": "Keep rating, claimed task, date/version and claimed outcome separate. Compare concrete task evidence with live routes before assigning an app defect, success rate or engagement problem.",
+      "options_opened": [
+        "OPT-C03",
+        "MO05",
+        "OPT-C23",
+        "MO12"
+      ],
+      "limits": [
+        "132 is an AI-coded corpus count, not 132 verified completed jobs.",
+        "All 210 source-inspected by AI; 30 targeted second-AI checks, no human validation or reliability coefficient.",
+        "Platform-selected convenience samples with unequal time windows."
+      ],
+      "observation_confidence": "(certain) Captured statements and disclosed coding counts; reviewer truth and population performance unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB13",
+      "title": "The apparent competitor story changes when the listing language changes",
+      "scoped_observation": "For the same BYD Google Play app and ID storefront, the Indonesian-language public listing yielded 19 five-star reviews out of 20; the English-language listing yielded only 3 ratings of four or five out of 20. The two 20-ID sets were disjoint and stable on the inspected repeat. An English ID-storefront account mentions snow/ice, and another describes a charging control being added.",
+      "evidence_refs": [
+        "reviews:corpus",
+        "review:REV-0197",
+        "review:REV-0205",
+        "review:REV-0141",
+        "review:REV-0207"
+      ],
+      "actors": [
+        "competitor analyst",
+        "app reviewer",
+        "platform",
+        "product team"
+      ],
+      "possible_mechanism": "Language, platform ranking, model/version, market and reviewer composition can alter the visible sample, creating opposite brand impressions without a change in the underlying installed base.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "The difference could reflect real experience differences among the displayed cohorts; the research does not identify the platform-selection algorithm or each reviewer’s residence.",
+      "conditional_business_implication": "Preserve source cohorts rather than publish a pooled brand league table. A competitor wishlist or failure cannot prove the same feature is absent for every model, version or market.",
+      "options_opened": [
+        "OPT-C21",
+        "OPT-C22",
+        "OPT-C23",
+        "OPT-C01"
+      ],
+      "limits": [
+        "Two tiny nonrandom public-listing slices, not representative language populations.",
+        "Storefront/locale is not residence.",
+        "No counterfactual app-version or model match."
+      ],
+      "observation_confidence": "(certain) Captured cohort difference and record statements; cause and wider generalizability unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB14",
+      "title": "More weakly labeled text can increase apparent precision without increasing truth",
+      "scoped_observation": "In auxiliary IGAR government-app reviews, 617,722 aligned rows contain 255,414 disagreements between rating-derived and source VADER labels, or 41.35%. Disagreement is 40.64% with a translation present and 97.25% among 7,775 missing-translation rows. The two views describe the same underlying records; neither is human ground truth. This dataset is not Auto2000 evidence.",
+      "evidence_refs": [
+        "datasets:igar",
+        "datasets:igar_missing_translation",
+        "reviews:semantic_audit",
+        "review:REV-0003",
+        "review:REV-0130"
+      ],
+      "actors": [
+        "NLP researcher",
+        "business analyst",
+        "reader of a sentiment dashboard"
+      ],
+      "possible_mechanism": "Proxy-label choice, translation status and mixed/task-specific language can change conclusions before any business mechanism is considered. Large row counts do not validate the target label.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Disagreement does not identify which label is correct; missing translation may mark other differences and is not demonstrated to cause error.",
+      "conditional_business_implication": "Use this as a measurement stress test and keep Auto2000 task/event coding separate. No Auto2000 sentiment accuracy, complaint prevalence or brand ranking follows from an auxiliary benchmark.",
+      "options_opened": [
+        "MO12",
+        "OPT-C01"
+      ],
+      "limits": [
+        "Historical government apps, 2012–March 2023, not automotive app users.",
+        "617,703 distinct composite keys and 19 duplicate excess rows per view.",
+        "Conditional differences are descriptive; no calibrated model probability or human accuracy measured."
+      ],
+      "observation_confidence": "(certain) Reproduced same-record disagreement arithmetic; correct labels and transfer validity unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB15",
+      "title": "Published infrastructure makes generic novelty claims weaker but does not prove usable context",
+      "scoped_observation": "Astra reports sales, reminder, service-adviser, analytics and identity systems; SAP completion across Auto2000 branches remains an end-2026 target in the FY2025 report. It also reports 31 integrated EV-service outlets. Those disclosures do not provide branch adoption, permission, identity-match accuracy, job capability or live capacity. Current booking/retrieval routes show some public functions, not the internal handoffs.",
+      "evidence_refs": [
+        "capabilities:FC01",
+        "capabilities:FC04",
+        "capabilities:FC05",
+        "capabilities:FC06",
+        "capabilities:FC07",
+        "capabilities:FC08",
+        "capabilities:FC12",
+        "capabilities:FC29",
+        "journey:JX04",
+        "journey:JX05",
+        "review:REV-0165"
+      ],
+      "actors": [
+        "branch adviser",
+        "head-office system owner",
+        "customer",
+        "research team"
+      ],
+      "possible_mechanism": "Technology existence, rollout completion and decision-time usability are different claims. Access, stale records, authority or local process can remain competing explanations.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "The systems may work well for their intended users. A difficult public journey or one review cannot demonstrate internal integration failure.",
+      "conditional_business_implication": "Any role/context option needs a distinct unresolved decision beyond a generic CRM, dashboard or locator. Shared group ownership does not establish data access, integration permission or partner acceptance.",
+      "options_opened": [
+        "OPT-C01",
+        "OPT-C02",
+        "MO09",
+        "MO05",
+        "OPT-C17"
+      ],
+      "limits": [
+        "Issuer descriptions, not independent usage audits.",
+        "31 outlets is a reported footprint, not 31 interchangeable job-capable workshops.",
+        "No public API rights, branch denominators or measured integration benefits."
+      ],
+      "observation_confidence": "(certain) Published scope and target wording; current completion, adoption and usable context unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    },
+    {
+      "insight_id": "IB16",
+      "title": "Service certainty has quality and trust dimensions beyond booking convenience",
+      "scoped_observation": "In Deloitte 2026 Indonesia, usual-provider choice includes quality 23%, trust 21% and warranty 18% versus cost 7% (n=618). Improvement priorities include price/work transparency 32% and treatment 28%; booking and appointment availability each round to 0%. Relationship responses favor the usual service dealer 46% over purchase dealer 20% (n=629). These coexist with public booking complaints, a promised estimate/approval process and positive dealer accounts.",
+      "evidence_refs": [
+        "market:M007",
+        "market:M008",
+        "market:M009",
+        "market:M010",
+        "cadence:CAD02",
+        "review:REV-0030",
+        "narrative:N002",
+        "narrative:N003",
+        "narrative:N013",
+        "narrative:V009"
+      ],
+      "actors": [
+        "owner",
+        "service adviser/technician",
+        "usual service dealer",
+        "purchase dealer"
+      ],
+      "possible_mechanism": "The relationship may depend on confidence in work and treatment, while booking serves as a prerequisite for a narrower job. Ownership of the sale does not automatically imply ownership of later service.",
+      "mechanism_status": "not causally identified",
+      "strongest_rival_or_counterevidence": "Rounded zero does not mean nobody needs booking, and EV/app segments may differ. Stated importance does not prove Auto2000 currently underperforms on transparency or trust.",
+      "conditional_business_implication": "Preserve quality/trust, entitlement and explanation as rivals to an app-activity or booking-only diagnosis. Retention and repair options need the provider/counterparty context; more screens or lower prices are not established answers.",
+      "options_opened": [
+        "MO01",
+        "MO02",
+        "OPT-C03",
+        "OPT-C05",
+        "MO05",
+        "OPT-I03"
+      ],
+      "limits": [
+        "General Indonesia service survey, not Auto2000- or EV-only.",
+        "Question-specific bases differ; percentages are separate rounded responses.",
+        "October–November 2025 fieldwork; no causal test of any option."
+      ],
+      "observation_confidence": "(certain) Verified published survey values and contrasting source accounts; local driver strength and commercial effect unknown.",
+      "mechanism_confidence": "(guessing) Plausible interpretation; no measured incremental effect.",
+      "human_validated": false,
+      "winning_strategy_selected": false
+    }
+  ],
+  "evidence_index": {
+    "cadence:CAD01": {
+      "file": "workstreams/friend_challenge/cadence_checks.json",
+      "selector": {
+        "evidence_id": "CAD01"
+      },
+      "source_urls": [
+        "https://itstimeforeveryone.toyota.astra.co.id/news-and-events/bikin-hati-tenang-servis-berkala-mobil-hybrid-di-bengkel-resmi-toyota-banyak-untungnya"
+      ],
+      "evidence_kind": "published operator statement",
+      "locator": "main text L69-72; FAQ L114-115"
+    },
+    "cadence:CAD02": {
+      "file": "workstreams/friend_challenge/cadence_checks.json",
+      "selector": {
+        "evidence_id": "CAD02"
+      },
+      "source_urls": [
+        "https://itstimeforeveryone.toyota.astra.co.id/news-and-events/bikin-hati-tenang-servis-berkala-mobil-hybrid-di-bengkel-resmi-toyota-banyak-untungnya"
+      ],
+      "evidence_kind": "published operator commitment",
+      "locator": "main text L79-80"
+    },
+    "calculation:portfolio_mix": {
+      "file": "workstreams/friend_capabilities/economic_diagnostics.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "arithmetic from published Toyota and Lexus totals",
+      "locator": "named fields in JSON"
+    },
+    "capabilities:FC01": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC01"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "124"
+    },
+    "capabilities:FC04": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC04"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "125"
+    },
+    "capabilities:FC05": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC05"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "125"
+    },
+    "capabilities:FC06": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC06"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "125"
+    },
+    "capabilities:FC07": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC07"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "126"
+    },
+    "capabilities:FC08": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC08"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "126"
+    },
+    "capabilities:FC12": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC12"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "137"
+    },
+    "capabilities:FC13": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC13"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "138"
+    },
+    "capabilities:FC24": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC24"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "140"
+    },
+    "capabilities:FC25": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC25"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "140"
+    },
+    "capabilities:FC26": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC26"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "135,140"
+    },
+    "capabilities:FC29": {
+      "file": "workstreams/friend_capabilities/claim_matrix.json",
+      "selector": {
+        "claim_id": "FC29"
+      },
+      "source_urls": [
+        "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf",
+        "https://suitmedia.com/work/astra-sam"
+      ],
+      "evidence_kind": "published claim/source extraction",
+      "locator": ""
+    },
+    "datasets:charging_grain": {
+      "file": "workstreams/datasets/spklu_grain_reconciliation.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://doi.org/10.17632/z2bvd5r574.2"
+      ],
+      "evidence_kind": "internal grain reconciliation, not physical capacity validation",
+      "locator": "named fields in JSON"
+    },
+    "datasets:geo_sensitivity": {
+      "file": "workstreams/datasets/geo_sensitivity_summary.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://doi.org/10.17632/z2bvd5r574.2"
+      ],
+      "evidence_kind": "five-branch coordinate crosscheck and sensitivity, not corrected ground truth",
+      "locator": "named fields in JSON"
+    },
+    "datasets:igar": {
+      "file": "workstreams/datasets/igar_analysis_summary.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://doi.org/10.17632/7zryc6k76z.2"
+      ],
+      "evidence_kind": "auxiliary government-app dataset arithmetic",
+      "locator": "named fields in JSON"
+    },
+    "datasets:igar_missing_translation": {
+      "file": "workstreams/datasets/igar_conditional_analysis.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://doi.org/10.17632/7zryc6k76z.2"
+      ],
+      "evidence_kind": "auxiliary descriptive conditional comparison",
+      "locator": "named fields in JSON"
+    },
+    "datasets:spklu": {
+      "file": "workstreams/datasets/spklu_analysis_summary.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://doi.org/10.17632/z2bvd5r574.2"
+      ],
+      "evidence_kind": "station/box data and derived distances",
+      "locator": "named fields in JSON"
+    },
+    "insurance:INS-002": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-002"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "PDFp1; physicalpage1"
+    },
+    "insurance:INS-003": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-003"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "PDFp11 benefit table"
+    },
+    "insurance:INS-005": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-005"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "notestablished_asautomatic",
+      "locator": "PDFp10 package table"
+    },
+    "insurance:INS-006": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-006"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "PDFp12 riskself table"
+    },
+    "insurance:INS-007": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-007"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "notestablished_forcapacitydecline",
+      "locator": "PDFp4 exclusions"
+    },
+    "insurance:INS-008": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-008"
+      },
+      "source_urls": [
+        "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf"
+      ],
+      "evidence_kind": "existingcapability_confirmed",
+      "locator": "PDFp5–6 claimprocess"
+    },
+    "insurance:INS-012": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-012"
+      },
+      "source_urls": [
+        "https://www.asuransiastra.com/garda-oto/"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "cover/exclusion/claimsections"
+    },
+    "insurance:INS-013": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-013"
+      },
+      "source_urls": [
+        "https://www.asuransiastra.com/garda-oto/"
+      ],
+      "evidence_kind": "existingcapability_confirmed",
+      "locator": "myGarda andclaimprocedure"
+    },
+    "insurance:INS-016": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-016"
+      },
+      "source_urls": [
+        "https://www.jasindosyariah.co.id/pages/asuransi-kendaraan-bermotor"
+      ],
+      "evidence_kind": "confirmed_indexed_operatorprocess",
+      "locator": "claimprocess"
+    },
+    "insurance:INS-017": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-017"
+      },
+      "source_urls": [
+        "https://www.hyundai.com/id/id/myhyundaicare/jual-kembali/resale-value-guarantee"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "terms1–3"
+    },
+    "insurance:INS-018": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-018"
+      },
+      "source_urls": [
+        "https://www.hyundai.com/id/id/myhyundaicare/jual-kembali/resale-value-guarantee"
+      ],
+      "evidence_kind": "narrowed",
+      "locator": "terms7–10"
+    },
+    "insurance:INS-020": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-020"
+      },
+      "source_urls": [
+        "https://www.rvigroup.com/residual-value-insurance/"
+      ],
+      "evidence_kind": "internationalprecedent_confirmed",
+      "locator": "productoverview"
+    },
+    "insurance:INS-021": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-021"
+      },
+      "source_urls": [
+        "https://www.rvigroup.com/passenger-vehicle/"
+      ],
+      "evidence_kind": "narrowed_B2Bprecedent",
+      "locator": "passengervehicleproduct"
+    },
+    "insurance:INS-022": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-022"
+      },
+      "source_urls": [
+        "https://ojk.go.id/id/regulasi/Documents/Pages/POJK-8-Tahun-2024-Produk-Asuransi-dan-Saluran-Pemasaran-Produk-Asuransi/POJK%208%20Tahun%202024%20Produk%20Asuransi%20dan%20Saluran%20Pemasaran%20Produk%20Asuransi.pdf"
+      ],
+      "evidence_kind": "document_requirement_confirmed",
+      "locator": "Art3;PDFp5"
+    },
+    "insurance:INS-025": {
+      "file": "workstreams/friend_insurance/claim_matrix.json",
+      "selector": {
+        "claim_id": "INS-025"
+      },
+      "source_urls": [
+        "https://ojk.go.id/id/regulasi/Pages/SEOJK-14-SEOJK05-2024-Persetujuan-dan-Pelaporan-Produk-Asuransi.aspx"
+      ],
+      "evidence_kind": "framework_confirmed",
+      "locator": "officialsummary"
+    },
+    "insurance:synthetic_obligations": {
+      "file": "workstreams/friend_insurance/risk_math_summary.json",
+      "selector": "whole summary",
+      "source_urls": [],
+      "evidence_kind": "51 hypothetical arithmetic scenarios; zero observed claims",
+      "locator": "named fields in JSON"
+    },
+    "journey:JX02": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX02"
+      },
+      "source_urls": [
+        "https://aftersales.toyota.astra.co.id/hybrid-health-check",
+        "https://aftersales.toyota.astra.co.id/hybrid-health-check/generate-certificate"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:JX03": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX03"
+      },
+      "source_urls": [
+        "https://aftersales.toyota.astra.co.id/t-care"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:JX04": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX04"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/login",
+        "https://auto2000.co.id/myaccount/overview"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:JX05": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX05"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/dealer-toyota",
+        "https://auto2000.co.id/layanan-bengkel"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:JX06": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX06"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/testdrive/new-car/INNOVAHYBRID"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:JX07": {
+      "file": "workstreams/journeys/friendcontext_JX_observations.json",
+      "selector": {
+        "observation_id": "JX07"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/services-toyota/tukar-tambah"
+      ],
+      "evidence_kind": "live evaluator walkthrough; AX/DOM; no forms submitted",
+      "locator": "record"
+    },
+    "journey:UX02": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX02"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/komparasi?code=INNOVAHYBRID%3AMAG10GHA%2FT20_T1G3&code=INNOVA%3AMAG10GA%2FT20_T1G3",
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "journey:UX03": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX03"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "journey:UX04": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX04"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "journey:UX05": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX05"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid",
+        "https://auto2000.co.id/testdrive/new-car/INNOVAHYBRID"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "journey:UX06": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX06"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/",
+        "https://auto2000.co.id/layanan-bengkel"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "journey:UX12": {
+      "file": "workstreams/journeys/journey_observations.json",
+      "selector": {
+        "observation_id": "UX12"
+      },
+      "source_urls": [
+        "https://auto2000.co.id/body-paint-service",
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1"
+      ],
+      "evidence_kind": "evaluator walkthrough; visible AX/DOM and selected screenshot checks",
+      "locator": "record"
+    },
+    "logic:L01": {
+      "file": "workstreams/friend_challenge/logic_tests.json",
+      "selector": {
+        "test_id": "L01"
+      },
+      "source_urls": [],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "record"
+    },
+    "logic:L02": {
+      "file": "workstreams/friend_challenge/logic_tests.json",
+      "selector": {
+        "test_id": "L02"
+      },
+      "source_urls": [],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "record"
+    },
+    "logic:L03": {
+      "file": "workstreams/friend_challenge/logic_tests.json",
+      "selector": {
+        "test_id": "L03"
+      },
+      "source_urls": [],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "record"
+    },
+    "logic:L04": {
+      "file": "workstreams/friend_challenge/logic_tests.json",
+      "selector": {
+        "test_id": "L04"
+      },
+      "source_urls": [],
+      "evidence_kind": "published claim/source extraction",
+      "locator": "record"
+    },
+    "market:M001": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M001"
+      },
+      "source_urls": [
+        "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "Indonesia paragraph"
+    },
+    "market:M007": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M007"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "SEA report, printed/PDF page 33, Q16"
+    },
+    "market:M008": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M008"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "SEA report, printed/PDF page 33, Q17"
+    },
+    "market:M009": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M009"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "SEA report, printed/PDF page 34, Q21"
+    },
+    "market:M010": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M010"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "SEA report, printed/PDF page 35, Q22"
+    },
+    "market:M011": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M011"
+      },
+      "source_urls": [
+        "https://afdc.energy.gov/vehicles/electric-maintenance"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "Maintenance Comparison"
+    },
+    "market:M012": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M012"
+      },
+      "source_urls": [
+        "https://afdc.energy.gov/vehicles/electric-maintenance"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "Maintenance Comparison"
+    },
+    "market:M014": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M014"
+      },
+      "source_urls": [
+        "https://aftersales.toyota.astra.co.id/hybrid-health-check"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "intro andTerms1"
+    },
+    "market:M015": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M015"
+      },
+      "source_urls": [
+        "https://aftersales.toyota.astra.co.id/hybrid-health-check"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "Terms2–4"
+    },
+    "market:M016": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M016"
+      },
+      "source_urls": [
+        "https://pressroom.toyota.astra.co.id/toyota-perkuat-layanan-purnajual-lewat-t-care-xtra"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "program detail"
+    },
+    "market:M017": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M017"
+      },
+      "source_urls": [
+        "https://pressroom.toyota.astra.co.id/toyota-perkuat-layanan-purnajual-lewat-t-care-xtra"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "program detail"
+    },
+    "market:M018": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M018"
+      },
+      "source_urls": [
+        "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "CaraMenggunakanSPKLU/TripPlanner"
+    },
+    "market:M019": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M019"
+      },
+      "source_urls": [
+        "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "HomeCharging"
+    },
+    "market:M023": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M023"
+      },
+      "source_urls": [
+        "https://doi.org/10.22146/jcef.22067"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "JCEF methods PDF page 4, respondent profile PDF page 8"
+    },
+    "market:M024": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M024"
+      },
+      "source_urls": [
+        "https://doi.org/10.22146/jcef.22067"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "JCEF results 4.2.2, PDF page 8"
+    },
+    "market:M046": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M046"
+      },
+      "source_urls": [
+        "https://www.olx.co.id/olxmobbi/pertanyaan-umum"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "FAQinspection/finalprice"
+    },
+    "market:M047": {
+      "file": "workstreams/market/evidence.json",
+      "selector": {
+        "evidence_id": "M047"
+      },
+      "source_urls": [
+        "https://www.seva.id/blog/ingin-kredit-mobil-mudah-ikuti-proses-pinjaman-seva-mudah-dan-cepat-kg"
+      ],
+      "evidence_kind": "directly_observed_source_fact",
+      "locator": "creditprocess"
+    },
+    "narrative:N002": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N002"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1wm2njw/ada_yang_pernah_klaim_garansi_toyota/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L117-119"
+    },
+    "narrative:N003": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N003"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1wm2njw/ada_yang_pernah_klaim_garansi_toyota/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L134"
+    },
+    "narrative:N005": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N005"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1wm2njw/ada_yang_pernah_klaim_garansi_toyota/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L172-176"
+    },
+    "narrative:N006": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N006"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1wm2njw/ada_yang_pernah_klaim_garansi_toyota/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L227-233"
+    },
+    "narrative:N013": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N013"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1q2hreq/alternatif_bengkel_resmi_kalo_service_covernya/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L21-22"
+    },
+    "narrative:N016": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N016"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1q2hreq/alternatif_bengkel_resmi_kalo_service_covernya/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L116-118"
+    },
+    "narrative:N018": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N018"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1pcxmoq/update_pembeli_mobil_pertama_membutuhkan_masukkan/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L21-58"
+    },
+    "narrative:N024": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N024"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1sik11j/ada_yang_punya_pengalaman_dengan_aftersales_ev/"
+      ],
+      "evidence_kind": "secondhand_report",
+      "locator": "comment L125-148"
+    },
+    "narrative:N035": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N035"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1tujh6g/dilema_beli_mobil_baru_pertama_buat_keluarga/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L20-22; replies L180,L309"
+    },
+    "narrative:N036": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N036"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1tujh6g/dilema_beli_mobil_baru_pertama_buat_keluarga/"
+      ],
+      "evidence_kind": "household_report",
+      "locator": "comment L49-51"
+    },
+    "narrative:N037": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N037"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1tujh6g/dilema_beli_mobil_baru_pertama_buat_keluarga/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L214-239"
+    },
+    "narrative:N038": {
+      "file": "workstreams/narratives/narrative_units.jsonl",
+      "selector": {
+        "record_id": "N038"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1tujh6g/dilema_beli_mobil_baru_pertama_buat_keluarga/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "comment L319-324"
+    },
+    "narrative:V001": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V001"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1oo2vp1/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP"
+    },
+    "narrative:V003": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V003"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1q1v6bc/garansi_void_karna_rack_steer_kecipratan_anti/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP"
+    },
+    "narrative:V004": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V004"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1spbuap/first_car_budget_350jt_chinese_ev_vs_japanese/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L23-44; replies L88-90,L282-284"
+    },
+    "narrative:V007": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V007"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1rd6fr9/saran_beli_ev/"
+      ],
+      "evidence_kind": "household_report",
+      "locator": "OP L21-29; replies L72-78"
+    },
+    "narrative:V009": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V009"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1vk9qan/daihatsu_rocky_hybrid_first_impressions_and/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L21-46"
+    },
+    "narrative:V015": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V015"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1uyiqvr/first_car_buyer_butuh_bantuan_untuk_mobil_second/"
+      ],
+      "evidence_kind": "first_person_report",
+      "locator": "OP L23-58; replies L300-302,L351"
+    },
+    "narrative:V016": {
+      "file": "workstreams/narratives/validation_units.jsonl",
+      "selector": {
+        "record_id": "V016"
+      },
+      "source_urls": [
+        "https://www.reddit.com/r/indocartalk/comments/1uyiqvr/first_car_buyer_butuh_bantuan_untuk_mobil_second/"
+      ],
+      "evidence_kind": "opinion_or_advice",
+      "locator": "comment L313"
+    },
+    "review:REV-0001": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0001"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=89a89c62-d4b3-491e-92fd-2f984ee51265; date=2026-09-21 15:40:07; version=7.12.0"
+    },
+    "review:REV-0003": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0003"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=5d1b42c7-6909-421d-97af-d47c270d2aea; date=2026-11-01 11:51:10; version=7.14.1"
+    },
+    "review:REV-0014": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0014"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=29f1b34b-5ca3-4822-9756-9d4336eeff26; date=2019-03-15 07:49:00; version=4.14.1"
+    },
+    "review:REV-0020": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0020"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=66fcc73b-800f-490b-bcce-be5beb967287; date=2026-06-11 17:56:25; version=7.8.1"
+    },
+    "review:REV-0030": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0030"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=com.toyota.m&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=46d03e6f-a4bb-46fd-8c27-776f1c9f3c66; date=2026-08-25 21:49:35; version=4.2.7"
+    },
+    "review:REV-0035": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0035"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=com.toyota.m&hl=id&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=c2a5a7a3-68cc-477f-95b2-92dd1e9d13f0; date=2026-10-13 22:48:49; version=4.2.9"
+    },
+    "review:REV-0122": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0122"
+      },
+      "source_urls": [
+        "https://apps.apple.com/id/app/id421805050?see-all=reviews"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=7461665868; date=2021-06-13T23:06:26.000Z; version="
+    },
+    "review:REV-0130": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0130"
+      },
+      "source_urls": [
+        "https://apps.apple.com/id/app/id421805050?see-all=reviews"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=7470104162; date=2021-06-16T07:00:23.000Z; version="
+    },
+    "review:REV-0131": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0131"
+      },
+      "source_urls": [
+        "https://apps.apple.com/id/app/id1480809215?see-all=reviews"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=8763403232; date=2022-06-11T13:36:44.000Z; version="
+    },
+    "review:REV-0137": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0137"
+      },
+      "source_urls": [
+        "https://apps.apple.com/id/app/id1480809215?see-all=reviews"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=14728507608; date=2026-10-30T06:42:23.000Z; version="
+    },
+    "review:REV-0141": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0141"
+      },
+      "source_urls": [
+        "https://apps.apple.com/id/app/id1492400299?see-all=reviews"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=14720263361; date=2026-10-28T03:59:59.000Z; version="
+    },
+    "review:REV-0151": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0151"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=en&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=ea43d4ba-0212-4efb-aca8-6f5d915968bb; date=2026-07-13 05:40:46; version=7.10.0"
+    },
+    "review:REV-0165": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0165"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=en&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=38e2f244-1d2a-401c-aed3-4c0e156af676; date=2026-03-10 23:33:53; version=7.4.0"
+    },
+    "review:REV-0197": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0197"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=f9b48c9e-735e-4860-8068-328c319b8967; date=2026-10-26 14:59:16; version=3.6.0"
+    },
+    "review:REV-0205": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0205"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=dae3208c-61ae-4a9a-8bab-992438fb981d; date=2026-10-05 05:35:46; version=3.5.2"
+    },
+    "review:REV-0207": {
+      "file": "workstreams/reviews/reviews_derived.csv",
+      "selector": {
+        "evidence_id": "REV-0207"
+      },
+      "source_urls": [
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID"
+      ],
+      "evidence_kind": "platform-selected reviewer statement; AI source inspection",
+      "locator": "review_id=7c19d97d-3304-46a4-9626-67e4c8c795ab; date=2026-07-18 07:33:07; version=3.4.5"
+    },
+    "reviews:corpus": {
+      "file": "workstreams/reviews/review_summary.json",
+      "selector": "whole summary",
+      "source_urls": [
+        "https://apps.apple.com/id/app/id1480809215?see-all=reviews",
+        "https://apps.apple.com/id/app/id1492400299?see-all=reviews",
+        "https://apps.apple.com/id/app/id421805050?see-all=reviews",
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=en&gl=ID",
+        "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=com.toyota.m&hl=en&gl=ID",
+        "https://play.google.com/store/apps/details?id=com.toyota.m&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=com.yonyou.cip.sgmw&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=en&gl=ID",
+        "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=id.co.hyundaimotor.mmp&hl=id&gl=ID",
+        "https://play.google.com/store/apps/details?id=id.co.mmksi.mitsubishimotors&hl=id&gl=ID"
+      ],
+      "evidence_kind": "descriptive corpus summary, not population estimates",
+      "locator": "named fields in JSON"
+    },
+    "reviews:semantic_audit": {
+      "file": "workstreams/reviews/manual_audit_summary.json",
+      "selector": "whole summary",
+      "source_urls": [],
+      "evidence_kind": "single-AI classification with 30 targeted second-AI checks; no human validation",
+      "locator": "named fields in JSON"
+    },
+    "survey:D26_DEDICATED": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "D26_DEDICATED"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "verified_primary",
+      "locator": "PDFp10,Q44,parentactualfile"
+    },
+    "survey:D26_HOME": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "D26_HOME"
+      },
+      "source_urls": [
+        "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf"
+      ],
+      "evidence_kind": "verified_primary",
+      "locator": "PDFp10,Q43,parentactualfile"
+    },
+    "survey:RAK_BYD": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "RAK_BYD"
+      },
+      "source_urls": [
+        "https://www.statista.com/statistics/1028942/indonesia-brand-awareness-of-electric-cars/"
+      ],
+      "evidence_kind": "user_provided_not_independently_verified",
+      "locator": "Usercontext citing Statista dossier slide37,not available"
+    },
+    "survey:RAK_ID_META": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "RAK_ID_META"
+      },
+      "source_urls": [
+        "https://www.statista.com/statistics/1028942/indonesia-brand-awareness-of-electric-cars/"
+      ],
+      "evidence_kind": "verified_metadata_only",
+      "locator": "Public index metadata,field23–30Jun2026"
+    },
+    "survey:RAK_SCOPE": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "RAK_SCOPE"
+      },
+      "source_urls": [
+        "https://insight.rakuten.com/how-to-win-the-ev-shift-in-2026/"
+      ],
+      "evidence_kind": "verified_primary",
+      "locator": "Publicblog10Sep2026"
+    },
+    "survey:RAK_TOYOTA": {
+      "file": "workstreams/friend_surveys/survey_claims.json",
+      "selector": {
+        "claim_id": "RAK_TOYOTA"
+      },
+      "source_urls": [
+        "https://www.statista.com/statistics/1028942/indonesia-brand-awareness-of-electric-cars/"
+      ],
+      "evidence_kind": "user_provided_not_independently_verified",
+      "locator": "Usercontext citing Statista dossier slide37,not available"
+    }
+  },
+  "option_index": {
+    "MO01": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO01"
+      },
+      "title": "Make service work and price understandable"
+    },
+    "MO02": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO02"
+      },
+      "title": "Clarify protection eligibility across lifecycle stages"
+    },
+    "MO03": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO03"
+      },
+      "title": "Connect home-charging intention to practical readiness"
+    },
+    "MO04": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO04"
+      },
+      "title": "Differentiate ownership information by powertrain and work due"
+    },
+    "MO05": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO05"
+      },
+      "title": "Preserve relationship context across ownership tasks"
+    },
+    "MO07": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO07"
+      },
+      "title": "Compare purchase and subscription on total obligations"
+    },
+    "MO08": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO08"
+      },
+      "title": "Distinguish credit exploration from final approval"
+    },
+    "MO09": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO09"
+      },
+      "title": "Support the customer’s preferred assisted route"
+    },
+    "MO10": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO10"
+      },
+      "title": "Explain battery evidence together with protection and limitations"
+    },
+    "MO11": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO11"
+      },
+      "title": "Frame vehicle choice around practical use trade-offs"
+    },
+    "MO12": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "MO12"
+      },
+      "title": "Recognize successful quiet periods in ownership"
+    },
+    "OPT-C01": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C01"
+      },
+      "title": "Explain the distinct roles of ecosystem apps"
+    },
+    "OPT-C02": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C02"
+      },
+      "title": "Preserve a customer task summary into human assistance"
+    },
+    "OPT-C03": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C03"
+      },
+      "title": "Distinguish requested, reviewed and confirmed booking states"
+    },
+    "OPT-C04": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C04"
+      },
+      "title": "Show task-specific preparation before a visit"
+    },
+    "OPT-C05": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C05"
+      },
+      "title": "Explain coverage eligibility for the actual vehicle cohort"
+    },
+    "OPT-C08": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C08"
+      },
+      "title": "Explain the meaning and limits of battery-check results"
+    },
+    "OPT-C09": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C09"
+      },
+      "title": "Connect verified ownership evidence to appraisal questions"
+    },
+    "OPT-C10": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C10"
+      },
+      "title": "Make indicative and inspected trade-in values visibly different"
+    },
+    "OPT-C12": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C12"
+      },
+      "title": "Explain prequalification validity and decision authority"
+    },
+    "OPT-C13": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C13"
+      },
+      "title": "Explain household inputs needed for a finance decision"
+    },
+    "OPT-C15": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C15"
+      },
+      "title": "Compare ownership cost with service entitlements included"
+    },
+    "OPT-C17": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C17"
+      },
+      "title": "Match specialist repair needs to a suitable branch"
+    },
+    "OPT-C18": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C18"
+      },
+      "title": "Explain emergency support by service and locality"
+    },
+    "OPT-C21": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C21"
+      },
+      "title": "Explain connected-account setup and ownership changes"
+    },
+    "OPT-C22": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C22"
+      },
+      "title": "Make connected-service renewal terms understandable"
+    },
+    "OPT-C23": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-C23"
+      },
+      "title": "Assess multi-vehicle and multi-user needs separately"
+    },
+    "OPT-I01": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I01"
+      },
+      "title": "Compare the selected EV coverage package"
+    },
+    "OPT-I02": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I02"
+      },
+      "title": "Clarify warranty, covered damage and resale-risk boundaries"
+    },
+    "OPT-I03": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I03"
+      },
+      "title": "Connect an existing insurer claim to an eligible repair job"
+    },
+    "OPT-I04": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I04"
+      },
+      "title": "Consider a plainly capped trade-in benefit"
+    },
+    "OPT-I05": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I05"
+      },
+      "title": "Investigate a full residual floor as a different obligation"
+    },
+    "OPT-I06": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I06"
+      },
+      "title": "Investigate a bespoke B2B risk-transfer layer"
+    },
+    "OPT-I08": {
+      "file": "reports/option_review.json",
+      "selector": {
+        "option_id": "OPT-I08"
+      },
+      "title": "Explain how much of a promise remains outside insurance"
+    }
+  },
+  "qa": {
+    "insights": 16,
+    "distinct_evidence_refs": 112,
+    "missing_refs": 0,
+    "draft_option_universe": 45,
+    "human_validation": false,
+    "causal_effects_established": 0,
+    "strategy_selected": false
+  }
+}

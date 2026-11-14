@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-14",
+  "geographic_zip_files": 312,
+  "manifest_rows_checked": 311,
+  "manifest_hash_errors": 0,
+  "geographic_pdf_sha256": "9561b2c32f7307dc0e82e2858d76f74b1df987a93203f68c8c85b78608fa964c",
+  "attached_pdf_identical_to_bundled_pdf": true,
+  "inputs": [
+    {
+      "file": "Auto2000_Geographic_Workshop_Study(1).pdf",
+      "bytes": 4103729,
+      "sha256": "9561b2c32f7307dc0e82e2858d76f74b1df987a93203f68c8c85b78608fa964c",
+      "review_mode": "complete text read; geography report also four representative visual pages"
+    },
+    {
+      "file": "Auto2000_Master_AI_Context_Updated (2).md",
+      "bytes": 915492,
+      "sha256": "8fd56eeba9d659c7089334ae139f889cee84813005dd491290170d6361509b68",
+      "review_mode": "full text indexed; current strategy and relevant evidence sections read; historical duplicated registers used as reference"
+    },
+    {
+      "file": "Mentoring Notes — Problem Analysis in BCC.pdf",
+      "bytes": 40429,
+      "sha256": "e2b1a7ece670ebc0f625a2362197771eb9438754bc8af02269bef66bd3eb7c4e",
+      "review_mode": "complete text read; geography report also four representative visual pages"
+    },
+    {
+      "file": "Pasted text (2).txt",
+      "bytes": 67408,
+      "sha256": "ee486c69b7282a124dc1475df5c738686a86d6dcfb1f3591f25cd37a11f5a888",
+      "review_mode": "run logs parsed as acquisition evidence, not customer evidence"
+    },
+    {
+      "file": "Pasted text(20261114-094701).txt",
+      "bytes": 119658,
+      "sha256": "8033daa37954398c5b46145328aee4a22fc75daa41325de45995d78543782c90",
+      "review_mode": "run logs parsed as acquisition evidence, not customer evidence"
+    },
+    {
+      "file": "Pasted text(20261114-095542).txt",
+      "bytes": 90464,
+      "sha256": "f4c794190b828011c062e7c059b47da7e851f863442e36aeaaac101fcf2e74b6",
+      "review_mode": "run logs parsed as acquisition evidence, not customer evidence"
+    },
+    {
+      "file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json",
+      "bytes": 7924884,
+      "sha256": "7f6188740bf60f9d71ae7e870c0aa825ca29d94ae3ad10d7da8e950977e98683",
+      "rows": 3147,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json",
+      "bytes": 2028890,
+      "sha256": "2272e644c16ae2ec80478c9e5e15cd150d5eb5a6ce88dcccc93b1b007a9c4d78",
+      "rows": 829,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-21-02-237.json",
+      "bytes": 2816573,
+      "sha256": "300a770514ef3a642895bf700791c5d88e49fecf769156aa3bfd1f744da45fff",
+      "rows": 434,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-38-04-072.json",
+      "bytes": 10247,
+      "sha256": "aed16a8fd9744334e2ab72dcfc647a1cbd165f7213b0075d7fb5dc8979e33ffe",
+      "rows": 1,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-40-55-137.json",
+      "bytes": 206389,
+      "sha256": "8e75ec4b5694761744cb5893386c6afd95d44a8c171e827092a5c6f7223be068",
+      "rows": 24,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-41-47-486.json",
+      "bytes": 216636,
+      "sha256": "4e7115c24431ad02bb9aa83104d752284db8bf750e1a2acb672b593ebe617bb0",
+      "rows": 25,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-46-07-948.json",
+      "bytes": 1714256,
+      "sha256": "5ffc1e310d55bf24ffbf9691f5fd28751da91dd6aff2234885403169d50e2144",
+      "rows": 198,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-53-55-576.json",
+      "bytes": 2608286,
+      "sha256": "2b94c683829f037ef4a11803c32c6183a2c50a5596eeb38cb027272914615d83",
+      "rows": 309,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_09-56-07-477.json",
+      "bytes": 534044,
+      "sha256": "6c676a4963b3b96053aedb0be7b610e1c3a832036f6d2cab8cc1a8d99b090014",
+      "rows": 66,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_10-08-40-188.json",
+      "bytes": 19242812,
+      "sha256": "e6d8f3c99fb5b5a45d503e97fd0142ce6bb0bebb3fdadfbc27d90d109c4ceb00",
+      "rows": 3424,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_10-09-51-533.json",
+      "bytes": 12597213,
+      "sha256": "c20e0a8e94cc8454b4d7a49c26919b3cfc92bbe636999a5ce2fc6f0d832f98d6",
+      "rows": 2003,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_x-tweet-scraper_2026-11-14_10-14-55-218.json",
+      "bytes": 51608836,
+      "sha256": "b6b7e0e5d20ee48e893dd86eb33c2652904bb587f6fa719747d533246967d392",
+      "rows": 8408,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    },
+    {
+      "file": "dataset_youtube-comments-scraper_2026-11-14_11-08-14-195.json",
+      "bytes": 41702,
+      "sha256": "89a4736c03db8dc544ed3b12f8b108bc1f4f40f9c3aa674e22cac66b9c28deaa",
+      "rows": 74,
+      "review_mode": "full structural parse, deduplication and targeted qualitative reading; not manual coding of every post"
+    }
+  ],
+  "units": {
+    "x_raw_rows": 14892,
+    "x_unique_post_ids": 14291,
+    "google_reviews_raw_and_unique": 3976,
+    "google_places": 25,
+    "google_reviews_with_text": 2870,
+    "google_reviews_stars_1_to_3": 297,
+    "youtube_items": 74,
+    "youtube_top_level_comments": 56,
+    "youtube_replies": 18,
+    "youtube_videos": 3
+  },
+  "scope_warning": "No pooled respondent total. Social accounts are purposively collected. Maps outlets are Jabodetabek; four geographic windows are elsewhere. Review posting date does not necessarily equal experience date."
+}

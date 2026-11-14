@@ -1,0 +1,412 @@
+[
+  {
+    "file": "Folder16_Raw.mat",
+    "mat_format": "MATLAB5-compatible",
+    "keys": [
+      "TimeCurr",
+      "Curr",
+      "TimeVolt",
+      "Volt",
+      "TimeSoC",
+      "SoC",
+      "TimeTemp",
+      "Temp",
+      "TimeEpoch",
+      "Epoch"
+    ],
+    "actual_signal_values": 18690149,
+    "signal_lengths": {
+      "TimeCurr": 6188617,
+      "Curr": 6188617,
+      "TimeVolt": 6188617,
+      "Volt": 6188617,
+      "TimeSoC": 6189309,
+      "SoC": 6189309,
+      "TimeTemp": 123606,
+      "Temp": 123606,
+      "TimeEpoch": 61041,
+      "Epoch": 61041
+    },
+    "signals": {
+      "Curr": {
+        "min": -431.0,
+        "max": 742.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 4391164.106420999,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 84,
+        "gap_above_30s": 75,
+        "gap_above_300s": 64,
+        "max_gap_s": 570669.2124670001
+      },
+      "Volt": {
+        "min": 369.0,
+        "max": 453.25,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 4391164.106420999,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 84,
+        "gap_above_30s": 75,
+        "gap_above_300s": 64,
+        "max_gap_s": 570669.2124670001
+      },
+      "SoC": {
+        "min": 27.85,
+        "max": 96.55000000000001,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 4391164.106420999,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 84,
+        "gap_above_30s": 75,
+        "gap_above_300s": 64,
+        "max_gap_s": 570669.0224290001
+      },
+      "Temp": {
+        "min": 17.5,
+        "max": 31.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 4391163.663965,
+        "median_positive_step_s": 0.49998899968340993,
+        "gap_above_1s": 84,
+        "gap_above_30s": 75,
+        "gap_above_300s": 64,
+        "max_gap_s": 570671.768606
+      }
+    },
+    "Volt_clock_exactly_current_clock": true,
+    "SoC_clock_exactly_current_clock": false,
+    "Temp_clock_exactly_current_clock": false
+  },
+  {
+    "file": "Folder1_Raw.mat",
+    "mat_format": "MATLAB7.3/HDF5",
+    "keys": [
+      "Curr",
+      "Epoch",
+      "SoC",
+      "Temp",
+      "TimeCurr",
+      "TimeEpoch",
+      "TimeSoC",
+      "TimeTemp",
+      "TimeVolt",
+      "Volt"
+    ],
+    "actual_signal_values": 10001322,
+    "signal_lengths": {
+      "Curr": 3311696,
+      "Epoch": 44,
+      "SoC": 3311696,
+      "Temp": 66234,
+      "TimeCurr": 3311696,
+      "TimeEpoch": 44,
+      "TimeSoC": 3311696,
+      "TimeTemp": 66234,
+      "TimeVolt": 3311696,
+      "Volt": 3311696
+    },
+    "signals": {
+      "Curr": {
+        "min": -1.0,
+        "max": 19.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 33116.200463,
+        "median_positive_step_s": 0.00999999999839929,
+        "gap_above_1s": 0,
+        "gap_above_30s": 0,
+        "gap_above_300s": 0,
+        "max_gap_s": 0.013754999999946449
+      },
+      "Volt": {
+        "min": 436.5,
+        "max": 445.75,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 33116.200463,
+        "median_positive_step_s": 0.00999999999839929,
+        "gap_above_1s": 0,
+        "gap_above_30s": 0,
+        "gap_above_300s": 0,
+        "max_gap_s": 0.013754999999946449
+      },
+      "SoC": {
+        "min": 86.0,
+        "max": 91.85000000000001,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 33116.200463,
+        "median_positive_step_s": 0.00999999999839929,
+        "gap_above_1s": 0,
+        "gap_above_30s": 0,
+        "gap_above_300s": 0,
+        "max_gap_s": 0.013754999999946449
+      },
+      "Temp": {
+        "min": 21.5,
+        "max": 26.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 33115.7505,
+        "median_positive_step_s": 0.4999889999999141,
+        "gap_above_1s": 0,
+        "gap_above_30s": 0,
+        "gap_above_300s": 0,
+        "max_gap_s": 0.5037470000024769
+      }
+    },
+    "Volt_clock_exactly_current_clock": true,
+    "SoC_clock_exactly_current_clock": true,
+    "Temp_clock_exactly_current_clock": false
+  },
+  {
+    "file": "Folder2_Raw.mat",
+    "mat_format": "MATLAB7.3/HDF5",
+    "keys": [
+      "Curr",
+      "Epoch",
+      "SoC",
+      "Temp",
+      "TimeCurr",
+      "TimeEpoch",
+      "TimeSoC",
+      "TimeTemp",
+      "TimeVolt",
+      "Volt"
+    ],
+    "actual_signal_values": 6477275,
+    "signal_lengths": {
+      "Curr": 2144773,
+      "Epoch": 21391,
+      "SoC": 2144862,
+      "Temp": 42867,
+      "TimeCurr": 2144773,
+      "TimeEpoch": 21391,
+      "TimeSoC": 2144862,
+      "TimeTemp": 42867,
+      "TimeVolt": 2144773,
+      "Volt": 2144773
+    },
+    "signals": {
+      "Curr": {
+        "min": -432.0,
+        "max": 980.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 410013.23686799995,
+        "median_positive_step_s": 0.009999999980209395,
+        "gap_above_1s": 20,
+        "gap_above_30s": 14,
+        "gap_above_300s": 10,
+        "max_gap_s": 156046.687868
+      },
+      "Volt": {
+        "min": 352.75,
+        "max": 454.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 410013.23686799995,
+        "median_positive_step_s": 0.009999999980209395,
+        "gap_above_1s": 20,
+        "gap_above_30s": 14,
+        "gap_above_300s": 10,
+        "max_gap_s": 156046.687868
+      },
+      "SoC": {
+        "min": 33.300000000000004,
+        "max": 96.15,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 410013.23686799995,
+        "median_positive_step_s": 0.009999999980209395,
+        "gap_above_1s": 20,
+        "gap_above_30s": 14,
+        "gap_above_300s": 10,
+        "max_gap_s": 156046.687868
+      },
+      "Temp": {
+        "min": 15.5,
+        "max": 33.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 410012.695988,
+        "median_positive_step_s": 0.4999909999896772,
+        "gap_above_1s": 21,
+        "gap_above_30s": 14,
+        "gap_above_300s": 10,
+        "max_gap_s": 156047.044754
+      }
+    },
+    "Volt_clock_exactly_current_clock": true,
+    "SoC_clock_exactly_current_clock": false,
+    "Temp_clock_exactly_current_clock": false
+  },
+  {
+    "file": "Folder7_Raw.mat",
+    "mat_format": "MATLAB7.3/HDF5",
+    "keys": [
+      "Curr",
+      "Epoch",
+      "SoC",
+      "Temp",
+      "TimeCurr",
+      "TimeEpoch",
+      "TimeSoC",
+      "TimeTemp",
+      "TimeVolt",
+      "Volt"
+    ],
+    "actual_signal_values": 18531728,
+    "signal_lengths": {
+      "Curr": 6136329,
+      "Epoch": 186,
+      "SoC": 6136348,
+      "Temp": 122722,
+      "TimeCurr": 6136329,
+      "TimeEpoch": 186,
+      "TimeSoC": 6136348,
+      "TimeTemp": 122722,
+      "TimeVolt": 6136329,
+      "Volt": 6136329
+    },
+    "signals": {
+      "Curr": {
+        "min": -13.0,
+        "max": 19.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 185981.88266999973,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 3,
+        "gap_above_30s": 3,
+        "gap_above_300s": 3,
+        "max_gap_s": 67894.97204799997
+      },
+      "Volt": {
+        "min": 387.25,
+        "max": 451.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 185981.88266999973,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 3,
+        "gap_above_30s": 3,
+        "gap_above_300s": 3,
+        "max_gap_s": 67894.97204799997
+      },
+      "SoC": {
+        "min": 33.6,
+        "max": 96.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 185981.88266999973,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 3,
+        "gap_above_30s": 3,
+        "gap_above_300s": 3,
+        "max_gap_s": 67894.97204799997
+      },
+      "Temp": {
+        "min": 12.0,
+        "max": 19.5,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 185981.36538199987,
+        "median_positive_step_s": 0.49998899968340993,
+        "gap_above_1s": 3,
+        "gap_above_30s": 3,
+        "gap_above_300s": 3,
+        "max_gap_s": 67895.49476599973
+      }
+    },
+    "Volt_clock_exactly_current_clock": true,
+    "SoC_clock_exactly_current_clock": false,
+    "Temp_clock_exactly_current_clock": false
+  },
+  {
+    "file": "Folder8_Raw.mat",
+    "mat_format": "MATLAB7.3/HDF5",
+    "keys": [
+      "Curr",
+      "Epoch",
+      "SoC",
+      "Temp",
+      "TimeCurr",
+      "TimeEpoch",
+      "TimeSoC",
+      "TimeTemp",
+      "TimeVolt",
+      "Volt"
+    ],
+    "actual_signal_values": 2806727,
+    "signal_lengths": {
+      "Curr": 929380,
+      "Epoch": 9248,
+      "SoC": 929380,
+      "Temp": 18587,
+      "TimeCurr": 929380,
+      "TimeEpoch": 9248,
+      "TimeSoC": 929380,
+      "TimeTemp": 18587,
+      "TimeVolt": 929380,
+      "Volt": 929380
+    },
+    "signals": {
+      "Curr": {
+        "min": -381.0,
+        "max": 990.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 226895.58163300017,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 10,
+        "gap_above_30s": 9,
+        "gap_above_300s": 9,
+        "max_gap_s": 52870.47273099981
+      },
+      "Volt": {
+        "min": 347.75,
+        "max": 453.75,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 226895.58163300017,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 10,
+        "gap_above_30s": 9,
+        "gap_above_300s": 9,
+        "max_gap_s": 52870.47273099981
+      },
+      "SoC": {
+        "min": 33.6,
+        "max": 96.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 226895.58163300017,
+        "median_positive_step_s": 0.009999999776482582,
+        "gap_above_1s": 10,
+        "gap_above_30s": 9,
+        "gap_above_300s": 9,
+        "max_gap_s": 52870.47273099981
+      },
+      "Temp": {
+        "min": 11.0,
+        "max": 22.0,
+        "nonfinite": 0,
+        "clock_nonpositive_steps": 0,
+        "span_s": 226895.2032850003,
+        "median_positive_step_s": 0.49998700013384223,
+        "gap_above_1s": 10,
+        "gap_above_30s": 9,
+        "gap_above_300s": 9,
+        "max_gap_s": 52870.97355500003
+      }
+    },
+    "Volt_clock_exactly_current_clock": true,
+    "SoC_clock_exactly_current_clock": true,
+    "Temp_clock_exactly_current_clock": false
+  }
+]

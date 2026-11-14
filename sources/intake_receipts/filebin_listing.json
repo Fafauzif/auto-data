@@ -1,0 +1,56 @@
+{
+  "bin": {
+    "id": "auto2000-complete-bccbfeb359e64c",
+    "readonly": false,
+    "bytes": 275157974,
+    "bytes_readable": "275 MB",
+    "files": 3,
+    "updated_at": "2026-11-14T13:20:16.178185Z",
+    "updated_at_relative": "21 minutes ago",
+    "created_at": "2026-11-14T13:19:25.547605Z",
+    "created_at_relative": "22 minutes ago",
+    "expired_at": "2026-11-21T13:20:16.178185Z",
+    "expired_at_relative": "6 days from now"
+  },
+  "files": [
+    {
+      "filename": "Auto2000_Keputusan_Cabang_dan_Layanan.pdf",
+      "content-type": "application/pdf",
+      "bytes": 1448104,
+      "bytes_readable": "1.4 MB",
+      "md5": "07ixm/z8WtL6sg6tH8rmtQ==",
+      "sha1": "185e94101227be1cde6496751a0e3f76bb7d2397",
+      "sha256": "179d0bd510e135f4917ffbb8b42ec4cc5ccc9569b38e220fb887462ad7886d55",
+      "updated_at": "2026-11-14T13:20:07.644125Z",
+      "updated_at_relative": "21 minutes ago",
+      "created_at": "2026-11-14T13:20:07.644125Z",
+      "created_at_relative": "21 minutes ago"
+    },
+    {
+      "filename": "Auto2000_Keputusan_dan_Tabel_Ringkas.zip",
+      "content-type": "application/zip",
+      "bytes": 2348484,
+      "bytes_readable": "2.3 MB",
+      "md5": "HKOPm/KdSnnI8s15cJchew==",
+      "sha1": "f61f3e38e980cf74f183fe5e418731c83aa94d5d",
+      "sha256": "084662df05a86507ff080da222588999cc66963f8d44d3ab93879e13c4853f1a",
+      "updated_at": "2026-11-14T13:20:16.025345Z",
+      "updated_at_relative": "21 minutes ago",
+      "created_at": "2026-11-14T13:20:16.025345Z",
+      "created_at_relative": "21 minutes ago"
+    },
+    {
+      "filename": "Auto2000_Keputusan_Lanjutan_Sumber_Lengkap.zip",
+      "content-type": "application/zip",
+      "bytes": 271361386,
+      "bytes_readable": "271 MB",
+      "md5": "Wm73vwU1pbVF+reHZhiBbw==",
+      "sha1": "04277c62947db234a4ee7bfaaacfb9b8f053e902",
+      "sha256": "429676d061275613f0a989777b9f04b76e3b8182e0bea6e3adaf42ac86df65a8",
+      "updated_at": "2026-11-14T13:19:58.811194Z",
+      "updated_at_relative": "22 minutes ago",
+      "created_at": "2026-11-14T13:19:58.811194Z",
+      "created_at_relative": "22 minutes ago"
+    }
+  ]
+}

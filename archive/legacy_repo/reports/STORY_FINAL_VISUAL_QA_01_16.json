@@ -1,0 +1,322 @@
+{
+  "reviewed_at_utc": "2026-11-11T05:05:24.234967+00:00",
+  "reviewer": "AI visual review only; not human review",
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+  "pdf_pages": 41,
+  "scope": [
+    1,
+    16
+  ],
+  "prior_reviewed_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "changed_pages_full_visually_rechecked": [
+    1,
+    3,
+    6,
+    8,
+    12,
+    14,
+    15,
+    16
+  ],
+  "unchanged_pages_with_verified_pixel_identity": [
+    {
+      "page": 2,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact plus full page",
+      "pixel_sha256": "86cdd02be9badac7d0ca8a4a0d7344df3e0f94b995d7d3d54f9719dd3e519b02"
+    },
+    {
+      "page": 4,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact review",
+      "pixel_sha256": "191349ecc7fb930dd568d09334b889ae49e9e0093018b78824515a5ff05bfb6c"
+    },
+    {
+      "page": 5,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact review",
+      "pixel_sha256": "58aa9c87c8fa033b5172f168d617506690674cf43ad88de885214d959a71f131"
+    },
+    {
+      "page": 7,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact plus full page",
+      "pixel_sha256": "dc252cd6a455a8f09fc199f25314e5d1a56d8c6540452a14ed27a0e25afa5092"
+    },
+    {
+      "page": 9,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact plus full page",
+      "pixel_sha256": "77a8042008d811e3c96fab7017329b8f5ba6643560f7eb26aaecf2b79a4220b0"
+    },
+    {
+      "page": 10,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact plus full page",
+      "pixel_sha256": "094dd043d36e3ac12ecf1679db5a548bd85dc5b0dd3a97be92edc00289bf90f9"
+    },
+    {
+      "page": 11,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact review",
+      "pixel_sha256": "515228bc204664b08f5f2ef62bd291475698d88e0bb85f49a2acf7fc13e2021e"
+    },
+    {
+      "page": 13,
+      "pixel_identical_to_prior_review": true,
+      "prior_review": "contact plus full page",
+      "pixel_sha256": "57dfe906f0a40132cfd22cd870d3b9e5d306a184d1fa74cbba075face909e907"
+    }
+  ],
+  "coverage": [
+    {
+      "page": 1,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Spaced27-concept label corrected; cover and three cards fit and remain readable."
+    },
+    {
+      "page": 2,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact plus full page"
+    },
+    {
+      "page": 3,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Revised smaller-total-portfolio headline fits. Waterfall values/labels and accounting limits remain clear."
+    },
+    {
+      "page": 4,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact review"
+    },
+    {
+      "page": 5,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact review"
+    },
+    {
+      "page": 6,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Finance axes, values and scenario labels readable;59-payment caption spacing corrected."
+    },
+    {
+      "page": 7,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact plus full page"
+    },
+    {
+      "page": 8,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Four evidence cards fit; preference-versus-delivery distinction and source caption remain readable."
+    },
+    {
+      "page": 9,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact plus full page"
+    },
+    {
+      "page": 10,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact plus full page"
+    },
+    {
+      "page": 11,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact review"
+    },
+    {
+      "page": 12,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Survey chart labels and denominator source remain readable; no overflow."
+    },
+    {
+      "page": 13,
+      "final_review": "Prior visual coverage carried forward after independent pixel-identity verification",
+      "note": "contact plus full page"
+    },
+    {
+      "page": 14,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Both branch handoff arrows and cards render correctly; branch-code spacing corrected."
+    },
+    {
+      "page": 15,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Headline now says covered visits. Legacy row contains exactly six circles; pale seventh circle removed. Coverage labels and limits remain readable."
+    },
+    {
+      "page": 16,
+      "final_review": "Changed page visually inspected at full-page resolution",
+      "note": "Stacked bill chart and totals remain clear;2026-price limit spacing corrected and March2024 basis visible."
+    }
+  ],
+  "status": "PASS carried forward to immutable final seal by16-page RGB identity proof",
+  "blocking_issues": 0,
+  "unresolved_visual_defects": [],
+  "resolved_items": [
+    "Main numeric-spacing corrections visible in reviewed changed pages.",
+    "Legacy programme visual now has only six covered events; ambiguous pale seventh circle removed.",
+    "Headline specifies covered visits."
+  ],
+  "checks": {
+    "clipping": false,
+    "overlap": false,
+    "missing_glyphs": false,
+    "card_overflow": false,
+    "orphan_headings": false,
+    "unreadable_chart_labels": false,
+    "source_and_uncertainty_text_readable": true,
+    "page_numbers_readable": true
+  },
+  "limitations": "Readability/rendering QA, not fresh source verification or human review. No PDF was edited. Minor compact source-identifier styling does not obscure the source or conclusion. Other agents cover17-41.",
+  "final_seal_verified_at_utc": "2026-11-11T05:09:07.853090+00:00",
+  "previous_final_pdf_sha256": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+  "final_seal_method": "All assigned pages1-16 independently compared as decoded RGB pixels against visually reviewed v3; no visual redo or new research.",
+  "all_assigned_pages_pixel_identity_to_reviewed_v3": [
+    {
+      "page": 1,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "c64d41b84483bcc348b343f88b7b9e4ff2034be68d73a18c84e6113364cf4913"
+    },
+    {
+      "page": 2,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "86cdd02be9badac7d0ca8a4a0d7344df3e0f94b995d7d3d54f9719dd3e519b02"
+    },
+    {
+      "page": 3,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "a01ab057d0d3c1d2eea963ac98031606c6f02f56e2470608c9a76aed234c8fa8"
+    },
+    {
+      "page": 4,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "191349ecc7fb930dd568d09334b889ae49e9e0093018b78824515a5ff05bfb6c"
+    },
+    {
+      "page": 5,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "58aa9c87c8fa033b5172f168d617506690674cf43ad88de885214d959a71f131"
+    },
+    {
+      "page": 6,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "20e3111c9dcf8460eedecb4dd6141ecf6230dc3eaa721440842f155cbf183aa1"
+    },
+    {
+      "page": 7,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "dc252cd6a455a8f09fc199f25314e5d1a56d8c6540452a14ed27a0e25afa5092"
+    },
+    {
+      "page": 8,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "2b255280748fb3422e2b401001f3ebadd165849dd096cd46ff1a29942ad44836"
+    },
+    {
+      "page": 9,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "77a8042008d811e3c96fab7017329b8f5ba6643560f7eb26aaecf2b79a4220b0"
+    },
+    {
+      "page": 10,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "094dd043d36e3ac12ecf1679db5a548bd85dc5b0dd3a97be92edc00289bf90f9"
+    },
+    {
+      "page": 11,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "515228bc204664b08f5f2ef62bd291475698d88e0bb85f49a2acf7fc13e2021e"
+    },
+    {
+      "page": 12,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "e481ad96f1b7fb4a5b077529588da47429e2c45c82e06ce0ebdb44a97bf0b8d3"
+    },
+    {
+      "page": 13,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "57dfe906f0a40132cfd22cd870d3b9e5d306a184d1fa74cbba075face909e907"
+    },
+    {
+      "page": 14,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "dfaaecfa4f8a73a2709f67920b56867abc5596b47f0539930427764aa50d6d95"
+    },
+    {
+      "page": 15,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "90f0d68315cf2369c3f3036aa84ae1e59af3d93895722f8c584dea1c7b5dd1ee"
+    },
+    {
+      "page": 16,
+      "pixel_identical_to_v3": true,
+      "rgb_dimensions": [
+        794,
+        1123
+      ],
+      "rgb_sha256": "c5105c72f34d879d497c660fdef34bff4182d1a09606947248f8b7fdfd92d11b"
+    }
+  ]
+}

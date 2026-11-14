@@ -1,0 +1,46 @@
+source_file,cohort,branch_title,rows,text_rows,rating_1to3_rows,min_review_publication,max_review_publication
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,1 Station - Lotte Mart Meruya,185,131,17,2025-01-05T12:52:08.341Z,2026-11-11T16:54:27.633Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Auto2000 Cempaka Putih,250,176,7,2025-11-15T08:09:03.647Z,2026-11-14T06:09:16.059Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Auto2000 Cilandak,250,174,14,2025-08-26T03:45:35.807Z,2026-11-05T04:28:31.980Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Auto2000 Daan Mogot Jakarta,250,147,4,2026-02-13T07:48:05.507Z,2026-11-14T08:19:11.617Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Auto2000 Kelapa Gading,250,187,10,2025-10-16T01:29:50.876Z,2026-11-14T04:23:34.653Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Auto2000 Yos Sudarso,250,148,4,2026-04-17T08:50:54.173Z,2026-11-14T08:21:35.023Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,B-Quik Citra 8,250,183,28,2025-09-21T09:10:16.330Z,2026-11-09T02:52:53.466Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,B-Quik Lebak Bulus,62,48,8,2025-01-10T11:34:43.207Z,2025-08-06T00:47:43.553Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,BYD Arista Kalimalang,209,158,24,2025-01-17T04:58:49.320Z,2026-11-13T11:15:56.538Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,BYD Haka Auto Cibubur,147,103,26,2025-01-04T05:45:23.326Z,2026-11-06T06:37:03.068Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,CARSOME Alam Sutera Inspection Center,48,34,15,2025-06-19T11:00:18.329Z,2026-09-16T01:07:52.258Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,CARSOME Showroom BSD Junction,74,69,1,2026-04-17T04:30:58.944Z,2026-11-11T09:09:01.368Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,CHERY KALIMALANG,113,87,27,2025-01-31T05:48:46.612Z,2026-11-02T04:54:19.845Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Chery Arta Kelapa Gading,81,61,9,2025-02-22T10:08:38.905Z,2026-11-12T05:17:08.030Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Chery Dunia Palmerah,72,61,9,2025-01-01T13:05:27.433Z,2026-11-03T07:42:06.680Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Hyundai Simprug Official,250,90,22,2026-01-29T22:57:47.212Z,2026-11-14T06:24:32.728Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,"OLXmobbi Store - Buaran, Jakarta",250,244,5,2026-04-21T22:41:18.298Z,2026-11-14T03:27:37.221Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,"OLXmobbi Store - Tamini Square, Jakarta",132,122,5,2025-02-26T13:14:58.708Z,2026-11-06T13:40:26.550Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,earlier_jabodetabek_selected_outlets,Toyota Auto 2000 Bekasi Timur,24,17,8,2025-01-08T14:56:11.783Z,2026-11-14T04:03:16.207Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Bengkel Dokter Mobil Kalimalang - Service AC & Tune Up Mobil Terbaik,116,86,10,2025-01-04T04:36:32.065Z,2026-11-07T23:43:43.707Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Bengkel Otoklix Ciputat,56,43,1,2025-02-10T09:55:47.849Z,2026-11-02T15:52:23.934Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Bengkel Otoklix Plus Simprug,250,201,18,2025-07-08T10:47:49.877Z,2026-11-05T02:04:10.236Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Domo Pegangsaan 2,39,27,8,2025-01-05T07:58:48.224Z,2026-11-09T03:27:57.426Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Nawilis Radio Dalam,226,161,9,2025-01-05T20:08:08.574Z,2026-11-14T09:07:38.155Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,earlier_jabodetabek_selected_outlets,Nawilis Tanah Abang 12,142,112,8,2025-01-06T17:28:51.311Z,2026-11-09T04:18:09.632Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,AUTO2000 Gatot Subroto,350,165,13,2026-05-19T08:52:19.753Z,2026-11-14T05:22:39.363Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,AUTO2000 Soekarno Hatta,301,145,12,2025-01-12T08:01:48.311Z,2026-11-11T14:16:06.814Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Auto2000 Ahmad Yani,87,47,4,2025-01-14T07:04:38.787Z,2026-10-31T09:23:36.310Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Auto2000 Kertajaya,350,275,7,2025-11-17T05:32:48.120Z,2026-11-14T06:24:37.990Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Auto2000 Medan Pancing,350,249,4,2026-01-14T07:02:52.977Z,2026-11-13T07:18:26.648Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Toyota Auto2000 Plaju,79,50,14,2025-01-23T08:33:31.306Z,2026-11-09T07:11:38.195Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Toyota Auto2000 Setiabudi,189,125,4,2025-01-03T03:27:36.138Z,2026-11-09T06:37:13.275Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,latest_auto2000_four_markets_since2025,Toyota Auto2000 Tanjung Api Api,209,146,35,2025-01-01T10:02:15.378Z,2026-11-13T01:54:01.805Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json,latest_shopdrive_four_markets_since2025,"Shop & Drive - Cibaduyut Baru, Bandung",350,223,2,2025-03-13T01:13:02.708Z,2026-11-14T08:44:09.916Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json,latest_shopdrive_four_markets_since2025,"Shop & Drive - Gagak Hitam, Medan",239,199,1,2025-03-01T10:02:47.749Z,2026-11-14T03:34:54.925Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json,latest_shopdrive_four_markets_since2025,"Shop & Drive - MERR, Surabaya",173,110,5,2025-01-09T12:43:34.988Z,2026-10-30T09:15:00.263Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json,latest_shopdrive_four_markets_since2025,"Shop & Drive - Pangeran Ayin, Palembang",170,120,1,2025-01-18T09:19:44.078Z,2026-11-11T05:58:51.581Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,AUTO2000 Gatot Subroto,200,124,168,2015-01-01T04:18:21.416Z,2026-11-07T03:37:33.316Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,AUTO2000 Soekarno Hatta,200,121,171,2015-03-05T12:11:06.031Z,2026-11-04T04:59:31.800Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Auto2000 Ahmad Yani,169,112,29,2019-12-24T03:49:30.073Z,2026-10-31T09:23:36.310Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Auto2000 Kertajaya,200,133,110,2011-09-03T10:48:44.870Z,2026-10-12T01:51:12.359Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Auto2000 Medan Pancing,200,137,69,2016-02-02T09:37:02.785Z,2026-11-04T03:02:38.366Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Toyota Auto2000 Plaju,200,124,111,2016-04-04T11:05:27.340Z,2026-11-03T07:20:36.394Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Toyota Auto2000 Setiabudi,193,148,47,2016-12-31T16:08:02.607Z,2026-10-30T02:33:36.975Z
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,lowest_ranking_diagnostic_all_years,Toyota Auto2000 Tanjung Api Api,200,116,163,2015-10-24T07:43:08.386Z,2026-10-12T07:26:41.488Z

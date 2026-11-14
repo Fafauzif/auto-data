@@ -1,0 +1,537 @@
+{
+  "built_utc": "2026-11-11T05:26:32.177118+00:00",
+  "output": "Auto2000_Master_AI_Context_Updated.md",
+  "words_whitespace": 106982,
+  "bytes_utf8": 884186,
+  "sha256": "19994dee2f457ba0709017f99df64b3d98426ecdf8aacf0e29243c487248f7d9",
+  "chapters": 60,
+  "historical_original_sha256": "e76c307877a47d89a3f47fd6cb71a30d448e4cdfd1aaebc625fdb980f13b9be3",
+  "historical_source_words": 9903,
+  "historical_private_url_redactions": 6,
+  "historical_lines_changed": 6,
+  "historical_output_matches_redacted_original": true,
+  "original_source_unchanged": true,
+  "private_storage_markers_found": 0,
+  "unrelated_profile_markers_found": 0,
+  "local_link_targets_checked": 9,
+  "unresolved_local_links": [],
+  "inputs": {
+    "IBSC_2026_Auto2000_Digiroom_Master_AI_Context (2).md": {
+      "bytes": 76636,
+      "sha256": "e76c307877a47d89a3f47fd6cb71a30d448e4cdfd1aaebc625fdb980f13b9be3"
+    },
+    "workstreams/extension_reviews/analysis_summary.json": {
+      "bytes": 977,
+      "sha256": "52d1c93f64b4d936950857b8268e5194e7ca03ecb44666b836ed64b1364eff0a"
+    },
+    "workstreams/reviews/review_summary.json": {
+      "bytes": 8139,
+      "sha256": "866cd290432b12ea2357514c3b9b8c27bd7119fa74d88d50b57d7af2091c8b8b"
+    },
+    "workstreams/narratives/combined_metrics.json": {
+      "bytes": 859,
+      "sha256": "478987ce341fbffd5e6a59c2bacc76054482dd4c3d98f248e39499efbbcdf1e7"
+    },
+    "workstreams/site/summary.json": {
+      "bytes": 1291,
+      "sha256": "36d0ae7d98a82212c9f85a29cd571ee4870a70243698ceaa995e39f37eeed15e"
+    },
+    "workstreams/extension_battery/INITIAL_SIGNAL_AUDIT.json": {
+      "bytes": 10577,
+      "sha256": "a37ba084f8be69dc7580a78e4676d8da9b468d489276c1f08fcb169acd5e60e5"
+    },
+    "workstreams/extension_battery/SIGN_ENDPOINT_AUDIT.json": {
+      "bytes": 2563,
+      "sha256": "1d1cbde872fffddd97f32656406aaca5df305cb65d5748c2b36401ff42bf554b"
+    },
+    "workstreams/extension_battery/SOURCE_FILE_MANIFEST.json": {
+      "bytes": 3054,
+      "sha256": "f6bfbb0da0b965ea20108b81ef0d96da6568c12533ceec74ffeadee2e645aec8"
+    },
+    "workstreams/extension_journeys/summary.json": {
+      "bytes": 471,
+      "sha256": "c5c624df1b1e800bf7a62bd6e3d9e063a6eafd69de5a7a38ec6a9e09a3ea08de"
+    },
+    "workstreams/extension_stakeholders/summary.json": {
+      "bytes": 541,
+      "sha256": "fdec684a677948b1bcf9ee9b79178798cc7007a80c9b826fdc3e616c05e78877"
+    },
+    "workstreams/friend_challenge/claims_summary.json": {
+      "bytes": 555,
+      "sha256": "43b5e5465323dbfdfb028c705f353f97ac0d857e06402c986479558f54281643"
+    },
+    "workstreams/extension_economics/summary.json": {
+      "bytes": 1476,
+      "sha256": "b9e4b7944fc69cf6f9c26dd7568f298961bbc46bb5cbb82fd1dab04a5b055339"
+    },
+    "release_receipts/PUBLIC_BACKUP_RECEIPT.json": {
+      "bytes": 6699,
+      "sha256": "3b4a6147a56af60d68be3c98864b4411b84e55292c93acd3b101dc4c5a8bb982"
+    },
+    "Audit_Kesesuaian_Umpan_Balik_Juri (2).pdf": {
+      "bytes": 1935681,
+      "sha256": "1811dd36a2b873be8cd3deb693f3304e678786e1d9c31d1db3605963af74da8b"
+    },
+    "output/pdf/Auto2000_Research_Findings.pdf": {
+      "bytes": 1156530,
+      "sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1"
+    },
+    "reports/STORY_DATA_CLAIM_QA.json": {
+      "bytes": 8240,
+      "sha256": "9bf3f7aeb227d77bb3875fc748f6f6733c39f2d71b3c358c279a1fed3436fc0c"
+    },
+    "reports/STORY_ECONOMIC_CLAIM_QA.json": {
+      "bytes": 20875,
+      "sha256": "2e46e7ebbd32b5672a52048480e383150b0af5af1e98f020bccb9ed8c56196a6"
+    },
+    "reports/STORY_FINAL_QA.json": {
+      "bytes": 761,
+      "sha256": "e1e8c9efe18a8ff657c51e68f6f972cec00e68a9054db4592bdf1b62a03d2e3b"
+    },
+    "reports/STORY_FINAL_VISUAL_QA_01_16.json": {
+      "bytes": 10261,
+      "sha256": "af5c76dad3958a195c2c1e20488c3b418d32902bdac2a300927e3c9982353abf"
+    },
+    "reports/STORY_FINAL_VISUAL_QA_17_28.json": {
+      "bytes": 13999,
+      "sha256": "de3cfea82527600f3997fdbc299d90b92ea6fdcd101ab7220f493f58f7f79394"
+    },
+    "reports/STORY_FINAL_VISUAL_QA_29_41.json": {
+      "bytes": 20829,
+      "sha256": "ce11eb9486be53bc36ede7fd50db33064b1eb4f19cc0ad178cfefcfeb473b288"
+    },
+    "reports/STORY_FINAL_VISUAL_QA_29_41_3bc178b6.json": {
+      "bytes": 15833,
+      "sha256": "b3a39e80db4678d19eb7923356f2197024523ac3cf1ea0cd55e3dcd4decc6201"
+    },
+    "reports/STORY_RENDER_QA.json": {
+      "bytes": 337,
+      "sha256": "b64851841f3ed276515b1d358952adca6cb582ea9e212bc32cf2bddd638614ee"
+    },
+    "reports/STORY_VISUAL_QA_01_16.json": {
+      "bytes": 7445,
+      "sha256": "336d81e4a0a3b2368177a7ff0134756bbc2932d39be9b3713ff7df90aa290bc9"
+    },
+    "reports/STORY_VISUAL_QA_17_28.json": {
+      "bytes": 5496,
+      "sha256": "2a11b5e4685ff5d7f44e7ea217a6915071d55e968a4416343a5b483addff1995"
+    },
+    "reports/STORY_VISUAL_QA_29_41.json": {
+      "bytes": 15611,
+      "sha256": "1cfee9d5b0c4e85fec0d04d0c0bb4e9f53fddb93007db9800d0246fea6795aaa"
+    },
+    "EXECUTION_RECORD.md": {
+      "bytes": 9825,
+      "sha256": "687b14f6d28240027dc4feb2fcf7adc826757b738b1cde9903201a50dcd268e0"
+    },
+    "reports/RESEARCH_REPORT.md": {
+      "bytes": 27754,
+      "sha256": "ca952989fece2c5e87cd4c6c556617470ab09747eb0d87c69e51f40ff19ee619"
+    },
+    "reports/FRIEND_RESEARCH_CHALLENGE.docx": {
+      "bytes": 51228,
+      "sha256": "31423c2629f761a003e751ae393947bf12dab2b94923f5ef264463e1857e9129"
+    },
+    "reports/INSIGHT_BOOK.md": {
+      "bytes": 33100,
+      "sha256": "8ee56ddbadab34877005c520a77245d780502a3ab820a2187daaf0a684faf0dd"
+    },
+    "reports/SOLUTION_MENU.md": {
+      "bytes": 20434,
+      "sha256": "e6e1fb803156bd1f6d525fc580054b7c6e2362dd5df249cb9ed4778154346cd6"
+    },
+    "reports/option_review.md": {
+      "bytes": 13001,
+      "sha256": "523b89a7381aa523f5fe9f253303dafd8d38990c75d16a511c217d55f8f1532a"
+    },
+    "reports/HYPOTHESIS_ASSESSMENT_NOTES.md": {
+      "bytes": 3586,
+      "sha256": "da6b74b1eb53afebe9e951ebcad1f523b262b0ac249918c1c0a2c89c8aca559f"
+    },
+    "reports/NUMERICAL_QA.md": {
+      "bytes": 10006,
+      "sha256": "db165d99e69296709d48bda18ac467c199ab23e25ec765e2296650d6099ba180"
+    },
+    "workstreams/market/REPORT.md": {
+      "bytes": 14658,
+      "sha256": "a6589ef644c5cdf6a61e05fbbb5eb88016153edba7bc77a1835a9e8044fa00fc"
+    },
+    "workstreams/narratives/FINDINGS.md": {
+      "bytes": 13753,
+      "sha256": "3eeea402de6dd6cb91121173c4b76fca337c10d1475cb8fcece6bdb93b86784a"
+    },
+    "workstreams/reviews/FINDINGS.md": {
+      "bytes": 11533,
+      "sha256": "f76ec5a39183e5d107ed05c39f31c99432211b255d082bd8cecbdfd7424ee264"
+    },
+    "workstreams/datasets/DATASETS_REPORT.md": {
+      "bytes": 14497,
+      "sha256": "d8f38195928186cba8b545318c3530b0e6a0a6b32a2dacdcd846492c42d33910"
+    },
+    "workstreams/journeys/RESEARCH_FINDINGS.md": {
+      "bytes": 10883,
+      "sha256": "e76c6576a6e957391f2846d684289f0e36169b1318b2e7a8b52537f374e66b52"
+    },
+    "workstreams/journeys/FRIEND_CONTEXT_CHALLENGE.md": {
+      "bytes": 7909,
+      "sha256": "3981659682af5749534f9290ecb5d43f5d965d7c19c587ea93de3a88d50e25f1"
+    },
+    "workstreams/friend_capabilities/REPORT.md": {
+      "bytes": 10690,
+      "sha256": "1fa5fe45cdd5f7e1464b1a2ae8c75c5bfa362836e8e0cebb51fb123a69c54ec4"
+    },
+    "workstreams/friend_surveys/SURVEY_CLAIM_AUDIT.md": {
+      "bytes": 8078,
+      "sha256": "4788aa73f790f8be876ac15dee8e00b3b1e2dc014c1245c02778c6c7bf10eb24"
+    },
+    "workstreams/friend_insurance/README.md": {
+      "bytes": 1927,
+      "sha256": "17a6e6d995a483a65de27af4a0d81b77e93bace839673b2a2a85b8ebe1d8fe46"
+    },
+    "reports/EXTENSION_SYNTHESIS.md": {
+      "bytes": 13294,
+      "sha256": "d90e748901d35c4fb9641bc1e7c1ae4ae127147376d07fc049dcd2d65ea5470c"
+    },
+    "story_assets/mechanism_story.md": {
+      "bytes": 4517,
+      "sha256": "f20b120f72d747d0152fde9888beac1ef692e08239e0e2d1f1a3e046b0a4eb70"
+    },
+    "story_assets/data_story.md": {
+      "bytes": 7567,
+      "sha256": "f62b672ace39701e0a7519813fdeade77d03a6df16e799ffe2efd3258db5761d"
+    },
+    "story_assets/economic_story.md": {
+      "bytes": 20446,
+      "sha256": "57a3288c697d0b5d5aba10af29fd07e20f2b8bf03a0d1338f7c2c47ea772a616"
+    },
+    "story_assets/review_story.md": {
+      "bytes": 6877,
+      "sha256": "8ccbc22a5296c09859e53ea613947e12ab438a5e3d36da99cd6d37eb540a6384"
+    },
+    "workstreams/extension_reviews/EXTENSION_REVIEW_REPORT.md": {
+      "bytes": 13257,
+      "sha256": "1b47f61acc56e6bcce5ee487e4bd8323d3fc7bbdaf302fb09f0c9d22a671fd7c"
+    },
+    "workstreams/extension_geography/GEOGRAPHY_ROBUSTNESS_REPORT.md": {
+      "bytes": 13791,
+      "sha256": "dcd8d5111cf2a30c8c449ba58ae5e843e002f854f61ba3cb39d1fc4964d15b52"
+    },
+    "workstreams/extension_geography/INDEPENDENT_CHALLENGE.md": {
+      "bytes": 7053,
+      "sha256": "b55cd09465c1805d2e7a020a6c19d53ac7e652b76580f2b88ad42663f9c990df"
+    },
+    "workstreams/extension_journeys/REPORT.md": {
+      "bytes": 14166,
+      "sha256": "b7fa6651cd3dc3878311dc2e7e9659c83b029d44fa79953a5b0c0de9a6dbdbf4"
+    },
+    "workstreams/extension_economics/EXTENSION_ECONOMICS_REPORT.md": {
+      "bytes": 15616,
+      "sha256": "e7e63620412e3adaf2885b7fb4ffffaa311fee5ea8c5a9243c807500f84f5c56"
+    },
+    "workstreams/extension_hypotheses/REPORT.md": {
+      "bytes": 8789,
+      "sha256": "b1ac5a5519716ee9050a0011b3210c9b6c7c787d540b872f929211b7a0f84420"
+    },
+    "workstreams/extension_hypotheses/INDEPENDENT_REVIEW.md": {
+      "bytes": 13321,
+      "sha256": "6d35295c880323d94c04bf9df6490668ea23206da256c9fb17baa9ed258e4544"
+    },
+    "workstreams/extension_stakeholders/independent_mece_challenge.md": {
+      "bytes": 7439,
+      "sha256": "38a1d1ebc602d539d75589dd9bdb0d7f246a3e33ccee9dc9b252364b84464e61"
+    },
+    "workstreams/extension_battery/BATTERY_TELEMETRY_REPORT.md": {
+      "bytes": 12297,
+      "sha256": "9d23ca928cc2cd014d43a4fb75b63b04c35c53bc4a5e62a54b7365d9ebfc3bd3"
+    },
+    "workstreams/extension_stakeholders/MECE_STAKEHOLDER_REPORT.md": {
+      "bytes": 21072,
+      "sha256": "e9e557b93d7f80e7a286c71270fb7db386c8635d8d47f6c7c5aaf1bdf3b2647d"
+    },
+    "workstreams/extension_stakeholders/README.md": {
+      "bytes": 2593,
+      "sha256": "3064b6c267934d6c6c074568ed41afef5a53ba6cf97255c4438689e50932cd36"
+    },
+    "workstreams/extension_journeys/EXTENSION_JOURNEY_REPORT.md": {
+      "bytes": 14166,
+      "sha256": "b7fa6651cd3dc3878311dc2e7e9659c83b029d44fa79953a5b0c0de9a6dbdbf4"
+    },
+    "workstreams/extension_journeys/QA_REPORT.md": {
+      "bytes": 1557,
+      "sha256": "7a37fc419ad83f32c2930c6e2fc54d007a59137e59e9bf3a37e34ae8761fc000"
+    },
+    "workstreams/extension_journeys/report_source.md": {
+      "bytes": 14166,
+      "sha256": "b7fa6651cd3dc3878311dc2e7e9659c83b029d44fa79953a5b0c0de9a6dbdbf4"
+    },
+    "workstreams/friend_challenge/claims.json": {
+      "bytes": 149284,
+      "sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+    },
+    "workstreams/friend_capabilities/claim_matrix.json": {
+      "bytes": 25382,
+      "sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+    },
+    "workstreams/friend_insurance/claim_matrix.json": {
+      "bytes": 35374,
+      "sha256": "e545354e02301d441e2783c421c641268257d4a4c2e5eb95fa6f405931c937f2"
+    },
+    "workstreams/friend_surveys/survey_claims.json": {
+      "bytes": 30302,
+      "sha256": "31edc2f31c42005bce051ea242462c4b46f4c37771164144c0c32ff167b96095"
+    },
+    "workstreams/market/evidence.json": {
+      "bytes": 43631,
+      "sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+    },
+    "workstreams/extension_stakeholders/evidence_register.json": {
+      "bytes": 17628,
+      "sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+    },
+    "workstreams/extension_stakeholders/lifecycle_jobs.json": {
+      "bytes": 30841,
+      "sha256": "ec0681d63d5fddda9fbd784cca3ccb9c66ba6872c2126b1edd3e4a1725d154f0"
+    },
+    "workstreams/extension_stakeholders/stakeholder_decision_rights.json": {
+      "bytes": 13373,
+      "sha256": "0ab40538cd473ff6d94d646e3fd624ad293d3a27c9dd1241d3ebf335392b1811"
+    },
+    "workstreams/extension_stakeholders/all_27_option_audit.json": {
+      "bytes": 31301,
+      "sha256": "ed9a73b885f32e89f655b8a769dd52ebf2f012742bed25fb4f489eff4eb9a265"
+    },
+    "workstreams/extension_stakeholders/new_option_candidates.json": {
+      "bytes": 1764,
+      "sha256": "a5784b5ebc6c11cc8424c1a3c4eb4d04f1a64631439821b2eb9ba4698d4a7fa9"
+    },
+    "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json": {
+      "bytes": 7212,
+      "sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+    },
+    "workstreams/friend_capabilities/economic_diagnostics.json": {
+      "bytes": 1722,
+      "sha256": "b50dfe317077275cc015d2795d0d37147aa15b0b27494095bda332ba93d43a40"
+    },
+    "workstreams/extension_geography/KEY_FINDINGS.json": {
+      "bytes": 3522,
+      "sha256": "4d7ed20dee5aa6ab529e787f92823e586ea0784a07976b5bfb8c56aa94388792"
+    },
+    "workstreams/extension_economics/portfolio_decompositions.json": {
+      "bytes": 1042,
+      "sha256": "dca22271fab0e02ebbd96d02802a32fc39c23bdc909621e9c85d2b84ab27953b"
+    },
+    "workstreams/extension_economics/program_distinctions.json": {
+      "bytes": 2445,
+      "sha256": "ae16204bfc110807f7df681cc588f7ed22f3489d224fe9033dae1530f698c44c"
+    },
+    "workstreams/extension_economics/dated_service_estimate_sums.json": {
+      "bytes": 1369,
+      "sha256": "ef482740508cd74a8c5032e5a21e5f0e1a9ab3e368529c236d6a9129c12c64d7"
+    },
+    "workstreams/extension_economics/constructed_aggregate_risk.json": {
+      "bytes": 2222,
+      "sha256": "a1ec2bce6e8aeb88754810cfbfbc9d116eda727458b411bf5ea7c7d31df6bfd3"
+    },
+    "workstreams/extension_economics/constructed_contract_tail.json": {
+      "bytes": 3077,
+      "sha256": "9e834e06f932712c319cdf72d48033cda2d345ab8a3909c1309cb9599890ed9b"
+    },
+    "workstreams/extension_battery/BATTERY_SUMMARY.json": {
+      "bytes": 2051,
+      "sha256": "90b1ef17a655047a42cbbde1f337fe0db28b35ac33e210d3607ff0a1451f02c6"
+    },
+    "workstreams/extension_battery/KEY_FINDINGS.json": {
+      "bytes": 1813,
+      "sha256": "5bd7ca87a753760f9a90eae88998a214f899159db7ec23ab349c4cfc76401c27"
+    },
+    "workstreams/extension_battery/RAW_PRIVACY_AND_LICENSE_REVIEW.json": {
+      "bytes": 1205,
+      "sha256": "ec2a328a4fa848247a0ddcf054c645e61dfb735c8c25ad167f83b2118f032701"
+    },
+    "workstreams/extension_battery/QA_RECEIPT.json": {
+      "bytes": 5244,
+      "sha256": "c476e81ea00cc0328857b4a5ab09d0668862e0640f78f505b85d20ab5a160997"
+    },
+    "workstreams/extension_reviews/interpretation_summary.json": {
+      "bytes": 491,
+      "sha256": "04a76f365112876aeb8e25b3b444497a8388b9a3c3883bed794e8d2f6d899a4d"
+    },
+    "workstreams/extension_reviews/validation.json": {
+      "bytes": 1088,
+      "sha256": "2d143230138bff237cd7848a064915fe66029b316cfeb9295dbfcac42ca5f511"
+    },
+    "reports/REPRODUCIBILITY.md": {
+      "bytes": 16402,
+      "sha256": "d20acd7320add8ed9fdf23d6c4a8b144a53da86a1d964d6bea40a3ab936719f3"
+    },
+    "raw_licensed_data/README.md": {
+      "bytes": 4841,
+      "sha256": "ce694d342028ad2472c9fe3c444aa7926035c0a4c26248fa42827d801faf3370"
+    },
+    "DATA_GUIDE.md": {
+      "bytes": 15682,
+      "sha256": "1767d00b1fa6296ca89da03a3a170189b9a445eb82ac5bf3de399edfce0014df"
+    }
+  },
+  "missing_expected_artifacts": [],
+  "battery_signal_values_excluding_clocks": 56507201,
+  "battery_mat_files_downloaded": 5,
+  "battery_mat_files_staged": 5,
+  "mobile_journeys_current_summary": 0,
+  "new_reviews": 148,
+  "combined_review_ids": 358,
+  "identical_report_aliases": [
+    {
+      "alias": "workstreams/extension_journeys/EXTENSION_JOURNEY_REPORT.md",
+      "same_content_as": "workstreams/extension_journeys/REPORT.md",
+      "sha256_trimmed_text": "0388a41a76a1d347181a79a2ab0adf2e8d920faa2252e812ca87f1ddf025c83e"
+    },
+    {
+      "alias": "workstreams/extension_journeys/report_source.md",
+      "same_content_as": "workstreams/extension_journeys/REPORT.md",
+      "sha256_trimmed_text": "0388a41a76a1d347181a79a2ab0adf2e8d920faa2252e812ca87f1ddf025c83e"
+    }
+  ],
+  "visual_reference": {
+    "filename": "Audit_Kesesuaian_Umpan_Balik_Juri (2).pdf",
+    "sha256": "1811dd36a2b873be8cd3deb693f3304e678786e1d9c31d1db3605963af74da8b",
+    "role": "visual reference only, not IBSC evidence"
+  },
+  "final_visual_pdf": {
+    "filename": "Auto2000_Research_Findings.pdf",
+    "bytes": 1156530,
+    "sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+    "pages": 41,
+    "pdf_text_words_whitespace": 7359
+  },
+  "visual_memo_qa_receipts": [
+    {
+      "file": "reports/STORY_DATA_CLAIM_QA.json",
+      "checked_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "matches_explicit_final_pdf": false,
+      "scope": "Source and numeric review of seven data-story pages plusIGAR. Separate from full-document visual QA. No new retrieval or analysis; only verification of existing source/derived tables.",
+      "status": "PASS_WITH_MINOR_VISUAL_AND_COPY_QUALIFICATIONS",
+      "passed": 43,
+      "failed": 0,
+      "blocking_issue_count": null,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_ECONOMIC_CLAIM_QA.json",
+      "checked_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "matches_explicit_final_pdf": false,
+      "scope": "Independent frozen-input arithmetic, final PDF text, chart-generator inputs and AI inspection of the eight rendered pages. Not a repeat of old80-pageQA.",
+      "status": "see original receipt",
+      "passed": 40,
+      "failed": 0,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_FINAL_QA.json",
+      "checked_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_explicit_final_pdf": true,
+      "scope": "see original receipt",
+      "status": "see original receipt",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": null,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_FINAL_VISUAL_QA_01_16.json",
+      "checked_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_explicit_final_pdf": true,
+      "scope": [
+        1,
+        16
+      ],
+      "status": "PASS carried forward to immutable final seal by16-page RGB identity proof",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_FINAL_VISUAL_QA_17_28.json",
+      "checked_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_explicit_final_pdf": true,
+      "scope": "AI_visual_review_not_human_validation",
+      "status": "passed",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_FINAL_VISUAL_QA_29_41.json",
+      "checked_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_explicit_final_pdf": true,
+      "scope": "Final v4 AI visual inspection of full pages38/39; RGB pixel identity against the visually reviewed v3 render proved for other assigned pages29-37,40,41. All prior card identity, field completeness, family counts, exact paths and confidence-label checks remain supported by identical pixels.",
+      "status": "PASS",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_FINAL_VISUAL_QA_29_41_3bc178b6.json",
+      "checked_pdf_sha256": "3bc178b6d610f6783c9cc243197bcdb88b6e347fb0f1cdafa88edee2118ce5f6",
+      "matches_explicit_final_pdf": false,
+      "scope": "AI visual reinspection of current contacts08-11;current full pages29,36,39,41;all27 titles and81 field strings rechecked by PDF extraction. Prior full-page review of all13 pages belongs to the historical7c1fc15d hash and is retained separately.",
+      "status": "PASS_LAYOUT_AND_CARD_COMPLETENESS",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_RENDER_QA.json",
+      "checked_pdf_sha256": "e46506c9ecce3bf316f844de0700f64b20e8a8605f97316d177a3dc9c94861d1",
+      "matches_explicit_final_pdf": true,
+      "scope": "see original receipt",
+      "status": "see original receipt",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": null,
+      "visual_review_pending": false
+    },
+    {
+      "file": "reports/STORY_VISUAL_QA_01_16.json",
+      "checked_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "matches_explicit_final_pdf": false,
+      "scope": "AI visual review only; not human review",
+      "status": "passes visual readability/rendering checks with two minor polish observations",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_VISUAL_QA_17_28.json",
+      "checked_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "matches_explicit_final_pdf": false,
+      "scope": "AI_visual_review_not_human_validation",
+      "status": "requires_axis_label_fix_before_approval",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 1,
+      "visual_review_pending": null
+    },
+    {
+      "file": "reports/STORY_VISUAL_QA_29_41.json",
+      "checked_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+      "matches_explicit_final_pdf": false,
+      "scope": "AI visual inspection of contacts08-11 and every assigned page opened individually at96dpi. Exact card text/identity and confidence labels checked with PDF extraction as a supplement, not a substitute for visual inspection.",
+      "status": "PASS_WITH_MINOR_TYPOGRAPHY_AND_REFERENCE_NOTES",
+      "passed": null,
+      "failed": null,
+      "blocking_issue_count": 0,
+      "visual_review_pending": null
+    }
+  ],
+  "final_visual_qa_state": "Three matching final-version AI visual QA receipts pass their assigned page ranges (1–16,17–28,29–41), with zero blocking defects. Changed pages were rechecked and unchanged coverage retained only as described in the receipts. Any nonblocking notes are limited to those explicitly recorded in the final receipts. This is visual/readability QA, not human or causal validation.",
+  "no_new_retrieval_by_builder": true,
+  "human_validation": false,
+  "winning_strategy_selected": false
+}

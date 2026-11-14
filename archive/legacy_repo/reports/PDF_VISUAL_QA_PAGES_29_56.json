@@ -1,0 +1,297 @@
+{
+  "pdf_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "d804c31f79b278a4d5fe9992d840ef46a9741df4e33569071f2119f251125c18",
+  "expected_hash_matched": true,
+  "total_pdf_pages": 80,
+  "owned_page_range": [
+    29,
+    56
+  ],
+  "pages_covered": 28,
+  "contact_sheets_inspected": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "full_size_pages_inspected": [
+    29,
+    32,
+    35,
+    44,
+    45,
+    46,
+    47,
+    48,
+    50,
+    52,
+    54,
+    55
+  ],
+  "render_dpi": 96,
+  "review_type": "AI_visual_review_of_rendered_PNGs_not_human_validation",
+  "reviewer_agent": "/root/social_plan",
+  "recorded_utc": "2026-11-11T04:25:51.116608+00:00",
+  "blocking_defects_observed": [],
+  "status": "pass_with_minor_nonblocking_observations",
+  "minor_observations": [
+    {
+      "page": 48,
+      "type": "inline_list_formatting",
+      "finding": "Three intended coverage-boundary bullets appear within one paragraph with literal asterisk separators. Full text remains readable; no clipping or loss."
+    },
+    {
+      "pages": [
+        29,
+        54,
+        55
+      ],
+      "type": "small_figure_fine_print",
+      "finding": "Embedded figure source notes are small at96dpi and may benefit from zoom. Main labels, headings and explanatory body text remain readable."
+    }
+  ],
+  "checks": [
+    "table_columns_and_row_fit",
+    "continued_table_header_repetition",
+    "figure_axes_legends_labels_and_captions",
+    "heading_body_adjacency",
+    "page_margins_headers_and_footers",
+    "visible_clipping_or_overlap"
+  ],
+  "scope_limits": [
+    "Contact inspection for all28pages;12potentially_dense_or_graphical_pages_also_inspected_at_full_PNG_size",
+    "No_human_review_claim",
+    "No_full_factual_or_numeric_revalidation_in_this_visual_pass",
+    "No_claim_beyond_pages29_to56",
+    "PDF_not_modified"
+  ],
+  "page_coverage": [
+    {
+      "page": 29,
+      "contact_sheet": "contact-08.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Two geographic figures fit the page, with separate captions. Axes, legend and data labels readable; embedded fine-print source notes are small at the inspected 96dpi scale."
+    },
+    {
+      "page": 30,
+      "contact_sheet": "contact-08.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Site/box bar chart and location plot fit without clipping; remainder is white space before next chapter."
+    },
+    {
+      "page": 31,
+      "contact_sheet": "contact-08.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Section heading and narrative align; readable body with clean margins."
+    },
+    {
+      "page": 32,
+      "contact_sheet": "contact-08.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Dense evidence table fully fits with no cell overlap; following headings retain body text."
+    },
+    {
+      "page": 33,
+      "contact_sheet": "contact-09.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Narrative and section headings fit; continuation text is not clipped."
+    },
+    {
+      "page": 34,
+      "contact_sheet": "contact-09.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Technical feasibility and implications paragraphs fit; headings retain subsequent content."
+    },
+    {
+      "page": 35,
+      "contact_sheet": "contact-09.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Long URLs wrap inside their column; source rows and final paragraph fit with no overflow."
+    },
+    {
+      "page": 36,
+      "contact_sheet": "contact-09.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Accounting bridge table and heading fit; three rows remain intact."
+    },
+    {
+      "page": 37,
+      "contact_sheet": "contact-10.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Waterfall figure and programme table both fit; legend, row labels and table cells are readable."
+    },
+    {
+      "page": 38,
+      "contact_sheet": "contact-10.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Four-event table fits; multiline headings and following narrative remain intact."
+    },
+    {
+      "page": 39,
+      "contact_sheet": "contact-10.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Service-fee figure and caption fit; continuation narrative ends above footer."
+    },
+    {
+      "page": 40,
+      "contact_sheet": "contact-10.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Stress-state table fits in three columns; no truncated labels or overlap."
+    },
+    {
+      "page": 41,
+      "contact_sheet": "contact-11.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Narrative and waterfall chart fit; caption remains with figure."
+    },
+    {
+      "page": 42,
+      "contact_sheet": "contact-11.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Service-fee figure fits with its caption; substantial lower white space is a section transition."
+    },
+    {
+      "page": 43,
+      "contact_sheet": "contact-11.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Long lifecycle title wraps cleanly; narrative and two subsection headings fit."
+    },
+    {
+      "page": 44,
+      "contact_sheet": "contact-11.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Decision matrix begins with two rows near bottom; continuation has a repeated header on45."
+    },
+    {
+      "page": 45,
+      "contact_sheet": "contact-12.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Continued matrix repeats its header, then a separate decision-rights table fits with complete rows."
+    },
+    {
+      "page": 46,
+      "contact_sheet": "contact-12.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Concept table SOL01-SOL18 fits page; continuation on47 repeats all column headers."
+    },
+    {
+      "page": 47,
+      "contact_sheet": "contact-12.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Concept table SOL19-SOL27 completes; following section6 heading has substantial body text. Three-boundaries introduction continues onto48."
+    },
+    {
+      "page": 48,
+      "contact_sheet": "contact-12.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Source table ES01-ES18 fits. Three coverage-boundary items render as one paragraph with literal asterisk separators; text remains present and readable."
+    },
+    {
+      "page": 49,
+      "contact_sheet": "contact-13.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Short concluding paragraph with large intentional section-end white space; no orphan heading or missing text observed."
+    },
+    {
+      "page": 50,
+      "contact_sheet": "contact-13.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Battery file metadata renders as vertical labeled blocks; labels and values remain readable and intact."
+    },
+    {
+      "page": 51,
+      "contact_sheet": "contact-13.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Continued file blocks, scalar counts and clock-alignment narrative fit with clean margins."
+    },
+    {
+      "page": 52,
+      "contact_sheet": "contact-13.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Energy-integration table and two subsection headings fit; complete row values and units are readable."
+    },
+    {
+      "page": 53,
+      "contact_sheet": "contact-14.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "SOC slope table fits; implication and raw-file headings retain body text."
+    },
+    {
+      "page": 54,
+      "contact_sheet": "contact-14.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Reproduction paragraphs and paired figure fit. Figure fine-print source notes are small at96dpi but not clipped."
+    },
+    {
+      "page": 55,
+      "contact_sheet": "contact-14.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": true,
+      "blocking_defects_observed": false,
+      "observation": "Charge-sign and SOC-slope paired figure fits; all data labels/axes visible. Fine-print notes are small; large lower white space precedes new chapter."
+    },
+    {
+      "page": 56,
+      "contact_sheet": "contact-14.png",
+      "contact_inspected": true,
+      "full_page_png_inspected": false,
+      "blocking_defects_observed": false,
+      "observation": "Two insight cards fit, with bold field labels, confidence notes and evidence references; no orphan headings or clipping."
+    }
+  ]
+}

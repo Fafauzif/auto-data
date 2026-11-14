@@ -1,0 +1,118 @@
+[
+  {
+    "name": "All numeric zeros are valid",
+    "actual": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "expected": "all zero",
+    "passed": true
+  },
+  {
+    "name": "Incremental contribution case",
+    "actual": [
+      [
+        20
+      ],
+      [
+        20000000
+      ],
+      [
+        1000000
+      ],
+      [
+        0
+      ],
+      [
+        3000000
+      ],
+      [
+        17000000
+      ],
+      [
+        7000000
+      ]
+    ],
+    "expected": [
+      20,
+      20000000,
+      1000000,
+      0,
+      3000000,
+      17000000,
+      7000000
+    ],
+    "passed": true
+  },
+  {
+    "name": "Capacity displacement is deducted once",
+    "actual": [
+      [
+        12000000
+      ],
+      [
+        2000000
+      ]
+    ],
+    "expected": [
+      12000000,
+      2000000
+    ],
+    "passed": true
+  },
+  {
+    "name": "Zero incrementality preserves programme and displacement cost",
+    "actual": [
+      [
+        -8000000
+      ],
+      [
+        -18000000
+      ]
+    ],
+    "expected": [
+      -8000000,
+      -18000000
+    ],
+    "passed": true
+  },
+  {
+    "name": "Missing incrementality does not become zero",
+    "actual": [
+      [
+        "Missing inputs"
+      ],
+      [
+        "Missing inputs"
+      ]
+    ],
+    "expected": [
+      "Missing inputs",
+      "Missing inputs"
+    ],
+    "passed": true
+  }
+]

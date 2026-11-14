@@ -1,0 +1,1572 @@
+[
+  {
+    "check_id": "NQ01",
+    "topic": "Casebook inputs",
+    "assertion": "All transcribed arithmetic inputs appear on casebook printed/PDF page 8",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "Supplied casebook p8",
+    "scope_limit": "Case data, including estimated Toyota xEV volume; not independent audited operating records."
+  },
+  {
+    "check_id": "NQ02",
+    "topic": "Casebook inputs",
+    "assertion": "All transcribed arithmetic inputs appear on casebook printed/PDF page 9",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "Supplied casebook p9",
+    "scope_limit": "Case data, including estimated Toyota xEV volume; not independent audited operating records."
+  },
+  {
+    "check_id": "NQ03",
+    "topic": "Casebook inputs",
+    "assertion": "All transcribed arithmetic inputs appear on casebook printed/PDF page 10",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "Supplied casebook p10",
+    "scope_limit": "Case data, including estimated Toyota xEV volume; not independent audited operating records."
+  },
+  {
+    "check_id": "NQ04",
+    "topic": "Casebook P&L",
+    "assertion": "Revenue lines sum to 69,000 bn",
+    "status": "PASS",
+    "observed": "69000",
+    "expected": "69000",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ05",
+    "topic": "Casebook P&L",
+    "assertion": "Gross-profit lines sum to 6,750 bn",
+    "status": "PASS",
+    "observed": "6750",
+    "expected": "6750",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ06",
+    "topic": "Casebook P&L",
+    "assertion": "After-sales revenue 9,000 bn",
+    "status": "PASS",
+    "observed": "9000",
+    "expected": "9000",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ07",
+    "topic": "Casebook P&L",
+    "assertion": "After-sales GP 3,150 bn",
+    "status": "PASS",
+    "observed": "3150",
+    "expected": "3150",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ08",
+    "topic": "Casebook P&L",
+    "assertion": "After-sales revenue share rounds 13.0%",
+    "status": "PASS",
+    "observed": "13.0",
+    "expected": "13.0",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ09",
+    "topic": "Casebook P&L",
+    "assertion": "After-sales GP share rounds 46.7%",
+    "status": "PASS",
+    "observed": "46.7",
+    "expected": "46.7",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ10",
+    "topic": "Casebook P&L",
+    "assertion": "Combined after-sales GM 35%",
+    "status": "PASS",
+    "observed": "35.0",
+    "expected": "35.0",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": "Weighted combined margin, not the 55% services-only line margin."
+  },
+  {
+    "check_id": "NQ11",
+    "topic": "Casebook P&L",
+    "assertion": "Operating profit after unallocated opex 2,130 bn",
+    "status": "PASS",
+    "observed": "2130",
+    "expected": "2130",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ12",
+    "topic": "Casebook P&L",
+    "assertion": "Operating margin rounds 3.1%",
+    "status": "PASS",
+    "observed": "3.1",
+    "expected": "3.1",
+    "evidence_refs": "Casebook p10",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ13",
+    "topic": "Casebook market",
+    "assertion": "Powertrain units reconcile to 175,144",
+    "status": "PASS",
+    "observed": "175144",
+    "expected": "175144",
+    "evidence_refs": "Casebook p8",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ14",
+    "topic": "Casebook market",
+    "assertion": "xEV market share rounds 21.8%",
+    "status": "PASS",
+    "observed": "21.8",
+    "expected": "21.8",
+    "evidence_refs": "Casebook p8",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ15",
+    "topic": "Casebook market",
+    "assertion": "xEV growth rounds 69.7%",
+    "status": "PASS",
+    "observed": "69.7",
+    "expected": "69.7",
+    "evidence_refs": "Casebook p8",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ16",
+    "topic": "Casebook engagement",
+    "assertion": "46% main activity and 16% booking channel have different denominators.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "Casebook p11",
+    "scope_limit": "Neither produces completed bookings, work orders or GP when multiplied by MAU. Main activity is not a transaction log."
+  },
+  {
+    "check_id": "NQ17",
+    "topic": "Casebook engagement",
+    "assertion": "Approximate 21 kMAU divided by 500 k+downloads is not a precisely identified activation rate.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "Casebook p11",
+    "scope_limit": "Downloads are a cumulative threshold and may not be unique people/retained installs. The case itself describes approximately 4%;21 k/500 k=4.2% is conditional arithmetic, not an exact observed rate."
+  },
+  {
+    "check_id": "NQ18",
+    "topic": "Market sensitivity",
+    "assertion": "Weighted segments recover overall Toyota share",
+    "status": "PASS",
+    "observed": "0.3116026512809091",
+    "expected": "0.31160265128090914",
+    "evidence_refs": "MC01;Casebook p8–9",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ19",
+    "topic": "Market sensitivity",
+    "assertion": "10 ppcategory-mix change yields stated overall-share change",
+    "status": "PASS",
+    "observed": "-1.5057667099577865",
+    "expected": "-1.5057667099577865",
+    "evidence_refs": "MC01",
+    "scope_limit": "Constant within-category shares assumed; percentage-point effect, not percent decline or forecast."
+  },
+  {
+    "check_id": "NQ20",
+    "topic": "Synthetic mechanisms",
+    "assertion": "Both lower due-work and lower capture produce 120 versus 160",
+    "status": "PASS",
+    "observed": "[120.0, 120.0]",
+    "expected": "[120.0, 120.0]",
+    "evidence_refs": "MC02",
+    "scope_limit": "Constructed counterexample; not 100 actual vehicles."
+  },
+  {
+    "check_id": "NQ21",
+    "topic": "Nested survey",
+    "assertion": "Rounded nested-share calculation 28.06%",
+    "status": "PASS",
+    "observed": "28.059999999999995",
+    "expected": "28.059999999999995",
+    "evidence_refs": "MC04;MS02",
+    "scope_limit": "EV intenders under the common-base interpretation; lack of dedicated access is not inability to charge."
+  },
+  {
+    "check_id": "NQ22",
+    "topic": "Finance",
+    "assertion": "10 displayed options across 2 insurance choices and 5 tenors",
+    "status": "PASS",
+    "observed": "10",
+    "expected": "10",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ23",
+    "topic": "Finance",
+    "assertion": "BaseDP 20% of 475.4 m equals 95.08 m",
+    "status": "PASS",
+    "observed": "95080000.0",
+    "expected": "95080000",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "BaseDP differs from total cash required upfront."
+  },
+  {
+    "check_id": "NQ24",
+    "topic": "Finance",
+    "assertion": "All rows preserve model/location/price/baseDP/ADDM/blankincome",
+    "status": "PASS",
+    "observed": "[1, 1, 1, 1, 1, 1, 1]",
+    "expected": "[1, 1, 1, 1, 1, 1, 1]",
+    "evidence_refs": "finance_scenarios.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ25",
+    "topic": "Finance",
+    "assertion": "Remaining months equal tenor minus 1 for all rows",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "ADDM first instalment timing; do not multiply monthly amount by 60 in addition to full upfront."
+  },
+  {
+    "check_id": "NQ26",
+    "topic": "Finance",
+    "assertion": "Insurance financing reduces displayed upfront cash by 45,314,339",
+    "status": "PASS",
+    "observed": "45314339",
+    "expected": "45314339",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Conditional simulation; not verified approval, all-in cost or fee itemization."
+  },
+  {
+    "check_id": "NQ27",
+    "topic": "Finance",
+    "assertion": "Insurance financing raises monthly amount by 1,132,241",
+    "status": "PASS",
+    "observed": "1132241",
+    "expected": "1132241",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ28",
+    "topic": "Finance",
+    "assertion": "Upfront 32.57% and 23.04% ofprice differ from baseDP 20%",
+    "status": "PASS",
+    "observed": "[32.57, 23.04]",
+    "expected": "[32.57, 23.04]",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "No claim that the difference is hidden fees."
+  },
+  {
+    "check_id": "NQ29-upfront-60",
+    "topic": "Finance scope",
+    "assertion": "upfront insurance, 60 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-upfront-48",
+    "topic": "Finance scope",
+    "assertion": "upfront insurance, 48 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-upfront-36",
+    "topic": "Finance scope",
+    "assertion": "upfront insurance, 36 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-upfront-24",
+    "topic": "Finance scope",
+    "assertion": "upfront insurance, 24 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-upfront-12",
+    "topic": "Finance scope",
+    "assertion": "upfront insurance, 12 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-instalments-60",
+    "topic": "Finance scope",
+    "assertion": "instalments insurance, 60 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-instalments-48",
+    "topic": "Finance scope",
+    "assertion": "instalments insurance, 48 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-instalments-36",
+    "topic": "Finance scope",
+    "assertion": "instalments insurance, 36 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-instalments-24",
+    "topic": "Finance scope",
+    "assertion": "instalments insurance, 24 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ29-instalments-12",
+    "topic": "Finance scope",
+    "assertion": "instalments insurance, 12 months: binding quote flag is False.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "UX03;UX04",
+    "scope_limit": "Displayed nominal cash flows do not identify APR, exact insurance cover or complete contractual fees."
+  },
+  {
+    "check_id": "NQ30",
+    "topic": "Astra portfolio",
+    "assertion": "xev_change_pct",
+    "status": "PASS",
+    "observed": "-15.984400286525347",
+    "expected": "-15.984400286525347",
+    "evidence_refs": "AR2025printed140/PDF142;FC-N12–15",
+    "scope_limit": "Toyota AND Lexus domestic sales; not Auto2000 or installed-base adoption."
+  },
+  {
+    "check_id": "NQ31",
+    "topic": "Astra portfolio",
+    "assertion": "total_change_pct",
+    "status": "PASS",
+    "observed": "-13.585946235157731",
+    "expected": "-13.585946235157731",
+    "evidence_refs": "AR2025printed140/PDF142;FC-N12–15",
+    "scope_limit": "Toyota AND Lexus domestic sales; not Auto2000 or installed-base adoption."
+  },
+  {
+    "check_id": "NQ32",
+    "topic": "Astra portfolio",
+    "assertion": "xev_mix_2024_pct",
+    "status": "PASS",
+    "observed": "12.92777621533375",
+    "expected": "12.92777621533375",
+    "evidence_refs": "AR2025printed140/PDF142;FC-N12–15",
+    "scope_limit": "Toyota AND Lexus domestic sales; not Auto2000 or installed-base adoption."
+  },
+  {
+    "check_id": "NQ33",
+    "topic": "Astra portfolio",
+    "assertion": "xev_mix_2025_pct",
+    "status": "PASS",
+    "observed": "12.56896100081761",
+    "expected": "12.56896100081761",
+    "evidence_refs": "AR2025printed140/PDF142;FC-N12–15",
+    "scope_limit": "Toyota AND Lexus domestic sales; not Auto2000 or installed-base adoption."
+  },
+  {
+    "check_id": "NQ34",
+    "topic": "Astra portfolio",
+    "assertion": "mix_change_percentage_points",
+    "status": "PASS",
+    "observed": "-0.3588152145161394",
+    "expected": "-0.3588152145161394",
+    "evidence_refs": "AR2025printed140/PDF142;FC-N12–15",
+    "scope_limit": "Toyota AND Lexus domestic sales; not Auto2000 or installed-base adoption."
+  },
+  {
+    "check_id": "NQ35",
+    "topic": "Astra accounting",
+    "assertion": "Reported ordering scale+mix reconstructs−6,025 units",
+    "status": "PASS",
+    "observed": "-6024.999999999999",
+    "expected": "-6025",
+    "evidence_refs": "economic_diagnostics.json",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ36",
+    "topic": "Astra accounting",
+    "assertion": "2024 mix applied to 2025 total gives 32,572.049",
+    "status": "PASS",
+    "observed": "32572.049285581998",
+    "expected": "32572.049285581998",
+    "evidence_refs": "economic_diagnostics.json",
+    "scope_limit": "Counterfactual holds mix only; no causal assumption about why total sales changed."
+  },
+  {
+    "check_id": "NQ37",
+    "topic": "Astra accounting",
+    "assertion": "Alternative ordering also reconstructs change",
+    "status": "PASS",
+    "observed": "-6024.999999999999",
+    "expected": "-6025",
+    "evidence_refs": "AR2025p140;independent recomputation",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ38",
+    "topic": "Astra accounting",
+    "assertion": "Scale/mix components depend on the chosen ordering, not identified causes.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "NQ35;NQ37",
+    "scope_limit": "Reported ordering units scale=-5120.951, mix=-904.049; alternative scale=-4978.817, mix=-1046.183. Do not say 85% ofdecline was caused by market weakness."
+  },
+  {
+    "check_id": "NQ39",
+    "topic": "Insurance illustration",
+    "assertion": "51 deterministic rows, not 51 customers orquotes",
+    "status": "PASS",
+    "observed": "51",
+    "expected": "51",
+    "evidence_refs": "illustrative_risk_scenarios.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ40-ILL-001",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[120000000, 5000000, 85000000, 15000000, 105000000, 100000000, 2400000000, 2100000000]",
+    "expected": "[120000000, 5000000, 85000000, 15000000, 105000000, 100000000, 2400000000, 2100000000]",
+    "evidence_refs": "ILL-001",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-002",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[120000000, 10000000, 90000000, 15000000, 105000000, 200000000, 2400000000, 2100000000]",
+    "expected": "[120000000, 10000000, 90000000, 15000000, 105000000, 200000000, 2400000000, 2100000000]",
+    "evidence_refs": "ILL-002",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-003",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[120000000, 20000000, 100000000, 15000000, 105000000, 400000000, 2400000000, 2100000000]",
+    "expected": "[120000000, 20000000, 100000000, 15000000, 105000000, 400000000, 2400000000, 2100000000]",
+    "evidence_refs": "ILL-003",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-004",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[110000000, 5000000, 95000000, 15000000, 95000000, 100000000, 2200000000, 1900000000]",
+    "expected": "[110000000, 5000000, 95000000, 15000000, 95000000, 100000000, 2200000000, 1900000000]",
+    "evidence_refs": "ILL-004",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-005",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[110000000, 10000000, 100000000, 15000000, 95000000, 200000000, 2200000000, 1900000000]",
+    "expected": "[110000000, 10000000, 100000000, 15000000, 95000000, 200000000, 2200000000, 1900000000]",
+    "evidence_refs": "ILL-005",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-006",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[110000000, 20000000, 110000000, 15000000, 95000000, 400000000, 2200000000, 1900000000]",
+    "expected": "[110000000, 20000000, 110000000, 15000000, 95000000, 400000000, 2200000000, 1900000000]",
+    "evidence_refs": "ILL-006",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-007",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[100000000, 5000000, 105000000, 15000000, 85000000, 100000000, 2000000000, 1700000000]",
+    "expected": "[100000000, 5000000, 105000000, 15000000, 85000000, 100000000, 2000000000, 1700000000]",
+    "evidence_refs": "ILL-007",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-008",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[100000000, 10000000, 110000000, 15000000, 85000000, 200000000, 2000000000, 1700000000]",
+    "expected": "[100000000, 10000000, 110000000, 15000000, 85000000, 200000000, 2000000000, 1700000000]",
+    "evidence_refs": "ILL-008",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-009",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[100000000, 20000000, 120000000, 15000000, 85000000, 400000000, 2000000000, 1700000000]",
+    "expected": "[100000000, 20000000, 120000000, 15000000, 85000000, 400000000, 2000000000, 1700000000]",
+    "evidence_refs": "ILL-009",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-010",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[90000000, 5000000, 115000000, 15000000, 75000000, 100000000, 1800000000, 1500000000]",
+    "expected": "[90000000, 5000000, 115000000, 15000000, 75000000, 100000000, 1800000000, 1500000000]",
+    "evidence_refs": "ILL-010",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-011",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[90000000, 10000000, 120000000, 15000000, 75000000, 200000000, 1800000000, 1500000000]",
+    "expected": "[90000000, 10000000, 120000000, 15000000, 75000000, 200000000, 1800000000, 1500000000]",
+    "evidence_refs": "ILL-011",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-012",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[90000000, 20000000, 130000000, 15000000, 75000000, 400000000, 1800000000, 1500000000]",
+    "expected": "[90000000, 20000000, 130000000, 15000000, 75000000, 400000000, 1800000000, 1500000000]",
+    "evidence_refs": "ILL-012",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-013",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[80000000, 5000000, 125000000, 15000000, 65000000, 100000000, 1600000000, 1300000000]",
+    "expected": "[80000000, 5000000, 125000000, 15000000, 65000000, 100000000, 1600000000, 1300000000]",
+    "evidence_refs": "ILL-013",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-014",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[80000000, 10000000, 130000000, 15000000, 65000000, 200000000, 1600000000, 1300000000]",
+    "expected": "[80000000, 10000000, 130000000, 15000000, 65000000, 200000000, 1600000000, 1300000000]",
+    "evidence_refs": "ILL-014",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-015",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[80000000, 20000000, 140000000, 15000000, 65000000, 400000000, 1600000000, 1300000000]",
+    "expected": "[80000000, 20000000, 140000000, 15000000, 65000000, 400000000, 1600000000, 1300000000]",
+    "evidence_refs": "ILL-015",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-016",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[70000000, 5000000, 135000000, 15000000, 55000000, 100000000, 1400000000, 1100000000]",
+    "expected": "[70000000, 5000000, 135000000, 15000000, 55000000, 100000000, 1400000000, 1100000000]",
+    "evidence_refs": "ILL-016",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-017",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[70000000, 10000000, 140000000, 15000000, 55000000, 200000000, 1400000000, 1100000000]",
+    "expected": "[70000000, 10000000, 140000000, 15000000, 55000000, 200000000, 1400000000, 1100000000]",
+    "evidence_refs": "ILL-017",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-018",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[70000000, 20000000, 150000000, 15000000, 55000000, 400000000, 1400000000, 1100000000]",
+    "expected": "[70000000, 20000000, 150000000, 15000000, 55000000, 400000000, 1400000000, 1100000000]",
+    "evidence_refs": "ILL-018",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-019",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[60000000, 5000000, 145000000, 15000000, 45000000, 100000000, 1200000000, 900000000]",
+    "expected": "[60000000, 5000000, 145000000, 15000000, 45000000, 100000000, 1200000000, 900000000]",
+    "evidence_refs": "ILL-019",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-020",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[60000000, 10000000, 150000000, 15000000, 45000000, 200000000, 1200000000, 900000000]",
+    "expected": "[60000000, 10000000, 150000000, 15000000, 45000000, 200000000, 1200000000, 900000000]",
+    "evidence_refs": "ILL-020",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-021",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[60000000, 20000000, 160000000, 15000000, 45000000, 400000000, 1200000000, 900000000]",
+    "expected": "[60000000, 20000000, 160000000, 15000000, 45000000, 400000000, 1200000000, 900000000]",
+    "evidence_refs": "ILL-021",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-022",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[50000000, 5000000, 155000000, 15000000, 35000000, 100000000, 1000000000, 700000000]",
+    "expected": "[50000000, 5000000, 155000000, 15000000, 35000000, 100000000, 1000000000, 700000000]",
+    "evidence_refs": "ILL-022",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-023",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[50000000, 10000000, 160000000, 15000000, 35000000, 200000000, 1000000000, 700000000]",
+    "expected": "[50000000, 10000000, 160000000, 15000000, 35000000, 200000000, 1000000000, 700000000]",
+    "evidence_refs": "ILL-023",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-024",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[50000000, 20000000, 170000000, 15000000, 35000000, 400000000, 1000000000, 700000000]",
+    "expected": "[50000000, 20000000, 170000000, 15000000, 35000000, 400000000, 1000000000, 700000000]",
+    "evidence_refs": "ILL-024",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-025",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[40000000, 5000000, 165000000, 15000000, 25000000, 100000000, 800000000, 500000000]",
+    "expected": "[40000000, 5000000, 165000000, 15000000, 25000000, 100000000, 800000000, 500000000]",
+    "evidence_refs": "ILL-025",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-026",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[40000000, 10000000, 170000000, 15000000, 25000000, 200000000, 800000000, 500000000]",
+    "expected": "[40000000, 10000000, 170000000, 15000000, 25000000, 200000000, 800000000, 500000000]",
+    "evidence_refs": "ILL-026",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-027",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[40000000, 20000000, 180000000, 15000000, 25000000, 400000000, 800000000, 500000000]",
+    "expected": "[40000000, 20000000, 180000000, 15000000, 25000000, 400000000, 800000000, 500000000]",
+    "evidence_refs": "ILL-027",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-028",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[30000000, 5000000, 175000000, 15000000, 15000000, 100000000, 600000000, 300000000]",
+    "expected": "[30000000, 5000000, 175000000, 15000000, 15000000, 100000000, 600000000, 300000000]",
+    "evidence_refs": "ILL-028",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-029",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[30000000, 10000000, 180000000, 15000000, 15000000, 200000000, 600000000, 300000000]",
+    "expected": "[30000000, 10000000, 180000000, 15000000, 15000000, 200000000, 600000000, 300000000]",
+    "evidence_refs": "ILL-029",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-030",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[30000000, 20000000, 190000000, 15000000, 15000000, 400000000, 600000000, 300000000]",
+    "expected": "[30000000, 20000000, 190000000, 15000000, 15000000, 400000000, 600000000, 300000000]",
+    "evidence_refs": "ILL-030",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-031",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[20000000, 5000000, 185000000, 10000000, 10000000, 100000000, 400000000, 200000000]",
+    "expected": "[20000000, 5000000, 185000000, 10000000, 10000000, 100000000, 400000000, 200000000]",
+    "evidence_refs": "ILL-031",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-032",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[20000000, 10000000, 190000000, 10000000, 10000000, 200000000, 400000000, 200000000]",
+    "expected": "[20000000, 10000000, 190000000, 10000000, 10000000, 200000000, 400000000, 200000000]",
+    "evidence_refs": "ILL-032",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-033",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[20000000, 20000000, 200000000, 10000000, 10000000, 400000000, 400000000, 200000000]",
+    "expected": "[20000000, 20000000, 200000000, 10000000, 10000000, 400000000, 400000000, 200000000]",
+    "evidence_refs": "ILL-033",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-034",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[10000000, 5000000, 195000000, 0, 10000000, 100000000, 200000000, 200000000]",
+    "expected": "[10000000, 5000000, 195000000, 0, 10000000, 100000000, 200000000, 200000000]",
+    "evidence_refs": "ILL-034",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-035",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[10000000, 10000000, 200000000, 0, 10000000, 200000000, 200000000, 200000000]",
+    "expected": "[10000000, 10000000, 200000000, 0, 10000000, 200000000, 200000000, 200000000]",
+    "evidence_refs": "ILL-035",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-036",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[10000000, 10000000, 200000000, 0, 10000000, 200000000, 200000000, 200000000]",
+    "expected": "[10000000, 10000000, 200000000, 0, 10000000, 200000000, 200000000, 200000000]",
+    "evidence_refs": "ILL-036",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-037",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-037",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-038",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-038",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-039",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 200000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-039",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-040",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-040",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-041",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-041",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-042",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 210000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-042",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-043",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-043",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-044",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-044",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-045",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 220000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-045",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-046",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-046",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-047",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-047",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-048",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 230000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-048",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-049",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-049",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-050",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-050",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ40-ILL-051",
+    "topic": "Insurance arithmetic",
+    "assertion": "All 8 shortfall/credit/recovery/aggregate arithmetic fields agree",
+    "status": "PASS",
+    "observed": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "expected": "[0, 0, 240000000, 0, 0, 0, 0, 0]",
+    "evidence_refs": "ILL-051",
+    "scope_limit": "Conditional eligible cover, no aggregate exhaustion, premium, expense, time value or insurer default. Not an available insurance quote."
+  },
+  {
+    "check_id": "NQ41",
+    "topic": "Insurance economics",
+    "assertion": "Contribution, ujrah, dealer fee, insurer recovery and dealer GP are distinct.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "friend_insurance/analysis.md;INSclaimmatrix",
+    "scope_limit": "No signed dealer compensation, contribution level or underwriting appetite was established. Arithmetic does not demonstrate availability or economic viability."
+  },
+  {
+    "check_id": "NQ42",
+    "topic": "Deloitte survey",
+    "assertion": "28 numeric cells, not 28 respondents",
+    "status": "PASS",
+    "observed": "28",
+    "expected": "28",
+    "evidence_refs": "deloitte_service_indonesia.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ43-Q16",
+    "topic": "Deloitte survey",
+    "assertion": "Q 16 uses its own base 629",
+    "status": "PASS",
+    "observed": "[629]",
+    "expected": "[629]",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "These related questions are not independent respondent samples to add together."
+  },
+  {
+    "check_id": "NQ44-Q16",
+    "topic": "Deloitte survey",
+    "assertion": "Q 16 rounded published shares sum within 1 ppof 100",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "Rounded published shares; do not back-calculate exact respondent counts."
+  },
+  {
+    "check_id": "NQ43-Q17",
+    "topic": "Deloitte survey",
+    "assertion": "Q 17 uses its own base 618",
+    "status": "PASS",
+    "observed": "[618]",
+    "expected": "[618]",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "These related questions are not independent respondent samples to add together."
+  },
+  {
+    "check_id": "NQ44-Q17",
+    "topic": "Deloitte survey",
+    "assertion": "Q 17 rounded published shares sum within 1 ppof 100",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "Rounded published shares; do not back-calculate exact respondent counts."
+  },
+  {
+    "check_id": "NQ43-Q21",
+    "topic": "Deloitte survey",
+    "assertion": "Q 21 uses its own base 618",
+    "status": "PASS",
+    "observed": "[618]",
+    "expected": "[618]",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "These related questions are not independent respondent samples to add together."
+  },
+  {
+    "check_id": "NQ44-Q21",
+    "topic": "Deloitte survey",
+    "assertion": "Q 21 rounded published shares sum within 1 ppof 100",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "Rounded published shares; do not back-calculate exact respondent counts."
+  },
+  {
+    "check_id": "NQ43-Q22",
+    "topic": "Deloitte survey",
+    "assertion": "Q 22 uses its own base 629",
+    "status": "PASS",
+    "observed": "[629]",
+    "expected": "[629]",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "These related questions are not independent respondent samples to add together."
+  },
+  {
+    "check_id": "NQ44-Q22",
+    "topic": "Deloitte survey",
+    "assertion": "Q 22 rounded published shares sum within 1 ppof 100",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "MS03p33–35",
+    "scope_limit": "Rounded published shares; do not back-calculate exact respondent counts."
+  },
+  {
+    "check_id": "NQ45",
+    "topic": "Deloitte survey",
+    "assertion": "Printed 0% most-important booking factors do not establish zero demand.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "MS03p34Q21",
+    "scope_limit": "Question is the most-important aspect; rounded 0% is not zero users, usage, usefulness or a causal effect."
+  },
+  {
+    "check_id": "NQ46",
+    "topic": "Figure inputs",
+    "assertion": "Q 17 ranking quality 23,trust 21,warranty 18",
+    "status": "PASS",
+    "observed": "[[\"Quality of work\", 23], [\"Trust\", 21], [\"Warranty coverage\", 18]]",
+    "expected": "[[\"Quality of work\", 23], [\"Trust\", 21], [\"Warranty coverage\", 18]]",
+    "evidence_refs": "service_choice_factors.png;MS03Q17",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ47",
+    "topic": "GAIKINDO categories",
+    "assertion": "2025 category table totals 803,687",
+    "status": "PASS",
+    "observed": "803687",
+    "expected": "803687",
+    "evidence_refs": "gaikindo_2025_category_derived.csv",
+    "scope_limit": "Vehicle categories are not powertrain categories."
+  },
+  {
+    "check_id": "NQ48",
+    "topic": "GAIKINDO conflict",
+    "assertion": "72 category cells total 679,202",
+    "status": "PASS",
+    "observed": "679202",
+    "expected": "679202",
+    "evidence_refs": "gaikindo_2026_monthly_category_derived.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ49",
+    "topic": "GAIKINDO conflict",
+    "assertion": "Nine monthly totals agree with category table",
+    "status": "PASS",
+    "observed": "679202",
+    "expected": "679202",
+    "evidence_refs": "gaikindo_2026_monthly_totals_derived.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ50",
+    "topic": "GAIKINDO conflict",
+    "assertion": "Chart exceeds narrative 679,020 by 182",
+    "status": "PASS",
+    "observed": "182",
+    "expected": "182",
+    "evidence_refs": "DATASETS_REPORT.md;GAIKINDOnarrative",
+    "scope_limit": "Preserved source/version conflict; neither silently repaired nor presented as harmonized."
+  },
+  {
+    "check_id": "NQ51",
+    "topic": "Hybrid concentration",
+    "assertion": "Zenix share 23,934/30,110=79.49%",
+    "status": "PASS",
+    "observed": "0.7948854201262039",
+    "expected": "0.7948854201262039",
+    "evidence_refs": "selectedhybridmodels.csv;GAIKINDO-hostedDetik",
+    "scope_limit": "Toyota source context, not Auto2000; overall source includes mild hybrids."
+  },
+  {
+    "check_id": "NQ52",
+    "topic": "Hybrid concentration",
+    "assertion": "Three selected Toyota models total 97.03% ofToyota hybrids",
+    "status": "PASS",
+    "observed": "0.970275655928263",
+    "expected": "0.970275655928263",
+    "evidence_refs": "gaikindo_2025_hybrid_selected_models.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ53",
+    "topic": "IGAR labels",
+    "assertion": "3 x 3 crosstab accounts for 617,722 same underlying rows",
+    "status": "PASS",
+    "observed": "617722",
+    "expected": "617722",
+    "evidence_refs": "igar_label_agreement_crosstab.csv",
+    "scope_limit": "Two label views, not 1.235 million independent reviews."
+  },
+  {
+    "check_id": "NQ54",
+    "topic": "IGAR labels",
+    "assertion": "Off-diagonal disagreement 255,414",
+    "status": "PASS",
+    "observed": "255414",
+    "expected": "255414",
+    "evidence_refs": "igar_label_agreement_crosstab.csv",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ55",
+    "topic": "IGAR labels",
+    "assertion": "Disagreement 41.3477%",
+    "status": "PASS",
+    "observed": "0.4134772599972156",
+    "expected": "0.4134772599972156",
+    "evidence_refs": "igar_analysis_summary.json",
+    "scope_limit": "Disagreement between weak labels, not either method accuracy; not automotive customers."
+  },
+  {
+    "check_id": "NQ56",
+    "topic": "IGAR duplicates",
+    "assertion": "617,722−617,703=19 duplicate excess perview",
+    "status": "PASS",
+    "observed": "19",
+    "expected": "19",
+    "evidence_refs": "igar_analysis_summary.json",
+    "scope_limit": "Composite keys are not verified unique people; preserve duplicate distinction."
+  },
+  {
+    "check_id": "NQ57-2400",
+    "topic": "Coordinate chart",
+    "assertion": "Independent Haversine matches stored separation",
+    "status": "PASS",
+    "observed": "0.00853680687224993",
+    "expected": "0.008536806872073657",
+    "evidence_refs": "https://auto2000.co.id/dealer-toyota/kabupaten-bogor/auto2000cibinong",
+    "scope_limit": "Official direction candidate is a comparison, not field-verified charger ground truth."
+  },
+  {
+    "check_id": "NQ57-2397",
+    "topic": "Coordinate chart",
+    "assertion": "Independent Haversine matches stored separation",
+    "status": "PASS",
+    "observed": "55.25785206473807",
+    "expected": "55.257852064738024",
+    "evidence_refs": "https://auto2000.co.id/dealer-toyota/balikpapan/auto2000balikpapansudirman",
+    "scope_limit": "Official direction candidate is a comparison, not field-verified charger ground truth."
+  },
+  {
+    "check_id": "NQ57-2408",
+    "topic": "Coordinate chart",
+    "assertion": "Independent Haversine matches stored separation",
+    "status": "PASS",
+    "observed": "0.13453241366753937",
+    "expected": "0.13453241366791735",
+    "evidence_refs": "https://auto2000.co.id/dealer-toyota/tangerang/auto2000tangerang",
+    "scope_limit": "Official direction candidate is a comparison, not field-verified charger ground truth."
+  },
+  {
+    "check_id": "NQ57-2144",
+    "topic": "Coordinate chart",
+    "assertion": "Independent Haversine matches stored separation",
+    "status": "PASS",
+    "observed": "0.014236210700020098",
+    "expected": "0.014236210699935192",
+    "evidence_refs": "https://auto2000.co.id/dealer-toyota/tangerang-selatan/auto2000bsdcity",
+    "scope_limit": "Official direction candidate is a comparison, not field-verified charger ground truth."
+  },
+  {
+    "check_id": "NQ57-2154",
+    "topic": "Coordinate chart",
+    "assertion": "Independent Haversine matches stored separation",
+    "status": "PASS",
+    "observed": "0.02834202330031883",
+    "expected": "0.028342023300833408",
+    "evidence_refs": "https://auto2000.co.id/dealer-toyota/jakarta-barat/auto2000kapuk",
+    "scope_limit": "Official direction candidate is a comparison, not field-verified charger ground truth."
+  },
+  {
+    "check_id": "NQ58",
+    "topic": "Coordinate sensitivity",
+    "assertion": "One of 5 selected comparisons exceeds 1 km",
+    "status": "PASS",
+    "observed": "1",
+    "expected": "1",
+    "evidence_refs": "five_branch_coordinate_crosscheck.csv",
+    "scope_limit": "Five purposively selected cases; not geographic error prevalence."
+  },
+  {
+    "check_id": "NQ59",
+    "topic": "Coordinate sensitivity",
+    "assertion": "Scenario 27→28 outof 28 within 5 km",
+    "status": "PASS",
+    "observed": "[27, 28]",
+    "expected": "[27, 28]",
+    "evidence_refs": "auto2000_geo_sensitivity.csv",
+    "scope_limit": "Haversine proximity; not route time, access, available chargers or corrected ground truth."
+  },
+  {
+    "check_id": "NQ60",
+    "topic": "Derived volume",
+    "assertion": "2,454×2,453=6,019,662 directed pair computations",
+    "status": "PASS",
+    "observed": "6019662",
+    "expected": "6019662",
+    "evidence_refs": "spklu_analysis_summary.json",
+    "scope_limit": "Unique unordered pairs are half this number; neither is new source observations."
+  },
+  {
+    "check_id": "NQ61",
+    "topic": "SPKLU source counts",
+    "assertion": "Provider-type source counts reconcile to 2,454",
+    "status": "PASS",
+    "observed": "2454",
+    "expected": "2454",
+    "evidence_refs": "spklu_analysis_summary.json",
+    "scope_limit": "Source station records distinct from charger boxes, reconstructed unit counts and connector counts."
+  },
+  {
+    "check_id": "NQ62",
+    "topic": "Charging density",
+    "assertion": "Every province density uses registered passenger-car stock",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "province_charging_vs_registered_cars.csv",
+    "scope_limit": "2026 site numerator/2025 allregisteredcars denominator, not per-BEV adequacy or active demand."
+  },
+  {
+    "check_id": "NQ63",
+    "topic": "Review grain",
+    "assertion": "210 unique public review records",
+    "status": "PASS",
+    "observed": "210",
+    "expected": "210",
+    "evidence_refs": "reviews_derived.csv",
+    "scope_limit": "Platform-selected mixed-date/locale corpus, not population complaint prevalence."
+  },
+  {
+    "check_id": "NQ64",
+    "topic": "Review coding",
+    "assertion": "132 AI-coded app-job-eligible records",
+    "status": "PASS",
+    "observed": "132",
+    "expected": "132",
+    "evidence_refs": "reviews_derived.csv;manual_audit.csv",
+    "scope_limit": "AI-coded source reports; no independent task verification or human-validation claim."
+  },
+  {
+    "check_id": "NQ65",
+    "topic": "Review coding",
+    "assertion": "30 targeted second-AI checks",
+    "status": "PASS",
+    "observed": "30",
+    "expected": "30",
+    "evidence_refs": "manual_audit.csv",
+    "scope_limit": "Targeted nonblind check, not a random holdout or calibrated inter-rater reliability estimate."
+  },
+  {
+    "check_id": "NQ66",
+    "topic": "Narrative grain",
+    "assertion": "75 discovery+20 followup=95 annotation units",
+    "status": "PASS",
+    "observed": "95",
+    "expected": "95",
+    "evidence_refs": "combined_metrics.json",
+    "scope_limit": "38 source documents; not 95 independent customers or verified incidents."
+  },
+  {
+    "check_id": "NQ67",
+    "topic": "Narrative grain",
+    "assertion": "Evidence-kind counts reconcile to 95",
+    "status": "PASS",
+    "observed": "95",
+    "expected": "95",
+    "evidence_refs": "combined_metrics.json",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ68",
+    "topic": "Final site freeze",
+    "assertion": "Frozen source counts reconcile across page CSV and structural-link database",
+    "status": "PASS",
+    "observed": "[345, 281, 181158, 15323]",
+    "expected": "[345, 281, 181158, 15323]",
+    "evidence_refs": "site/summary.json;page_observations.csv;data/site_evidence.sqlite",
+    "scope_limit": "Purposive requested URLs and selected raw text, not unique customers, rendered user outcomes or sitewide error prevalence."
+  },
+  {
+    "check_id": "NQ69",
+    "topic": "Figure state",
+    "assertion": "Scoped Q 17 chart generator and refreshed output timestamp",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "shared/make_figures.py;service_choice_factors.png",
+    "scope_limit": "Timestamp freshness check, not an automated OCR or new visual inspection. Numeric values independently checked in NQ 46."
+  },
+  {
+    "check_id": "NQ70",
+    "topic": "IGAR conditional",
+    "assertion": "Missing/present translation groups reconcile to 617,722 rows",
+    "status": "PASS",
+    "observed": "617722",
+    "expected": "617722",
+    "evidence_refs": "igar_conditional_analysis.json",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ71",
+    "topic": "IGAR conditional",
+    "assertion": "Group disagreements reconcile to 255,414",
+    "status": "PASS",
+    "observed": "255414",
+    "expected": "255414",
+    "evidence_refs": "igar_conditional_analysis.json",
+    "scope_limit": ""
+  },
+  {
+    "check_id": "NQ72-False",
+    "topic": "IGAR conditional",
+    "assertion": "Disagreement mean equals group numerator/denominator",
+    "status": "PASS",
+    "observed": "0.40635169940994875",
+    "expected": "0.40635169940994875",
+    "evidence_refs": "igar_conditional_analysis.json",
+    "scope_limit": "Observational association; missing translation is not randomized and neither label is ground truth."
+  },
+  {
+    "check_id": "NQ72-True",
+    "topic": "IGAR conditional",
+    "assertion": "Disagreement mean equals group numerator/denominator",
+    "status": "PASS",
+    "observed": "0.972475884244373",
+    "expected": "0.972475884244373",
+    "evidence_refs": "igar_conditional_analysis.json",
+    "scope_limit": "Observational association; missing translation is not randomized and neither label is ground truth."
+  },
+  {
+    "check_id": "NQ73",
+    "topic": "IGAR conditional",
+    "assertion": "Missing-translation group contributes only 2.96% ofall disagreements",
+    "status": "PASS",
+    "observed": "2.96",
+    "expected": "2.96",
+    "evidence_refs": "igar_conditional_analysis.json",
+    "scope_limit": "97.25% within-group disagreement does not mean this small group explains the overall 41.35% rate."
+  },
+  {
+    "check_id": "NQ74",
+    "topic": "Friend illustration",
+    "assertion": "Equal visits with different jobs:200 visits,800 versus 400 jobs",
+    "status": "PASS",
+    "observed": "[200, 800, 400]",
+    "expected": "[200, 800, 400]",
+    "evidence_refs": "friend_challenge:L02",
+    "scope_limit": "Constructed identity; equal scheduled visit cadence does not imply equal work quantity or margin."
+  },
+  {
+    "check_id": "NQ75",
+    "topic": "Friend illustration",
+    "assertion": "Same job GP 500 k−300 k=200 k",
+    "status": "PASS",
+    "observed": "200000",
+    "expected": "200000",
+    "evidence_refs": "friend_challenge:L03",
+    "scope_limit": "Channel or payer change alone does not change GP when all modeled economics are fixed."
+  },
+  {
+    "check_id": "NQ76",
+    "topic": "Friend illustration",
+    "assertion": "Capped trade-in credit 180 m+10 m=190 m",
+    "status": "PASS",
+    "observed": "190",
+    "expected": "190",
+    "evidence_refs": "friend_challenge:L04",
+    "scope_limit": "This benefit remains below a full 200 m floor."
+  },
+  {
+    "check_id": "NQ77",
+    "topic": "Friend illustration",
+    "assertion": "20×10 m top-up maximum 200 m",
+    "status": "PASS",
+    "observed": "200",
+    "expected": "200",
+    "evidence_refs": "friend_challenge:L04",
+    "scope_limit": "Quota bounds this defined capped benefit before operations, not an uncapped full floor."
+  },
+  {
+    "check_id": "NQ78",
+    "topic": "Awareness scope",
+    "assertion": "57% minus 28%=29 percentage points is unverified-input arithmetic.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "friend_surveys/SURVEY_CLAIM_AUDIT.md",
+    "scope_limit": "Awareness values remain supplied figures because full masked original chart was not accessed. Do not present the 29 pp as independently verified, purchase conversion, Digiroom awareness or incremental sales."
+  },
+  {
+    "check_id": "NQ79",
+    "topic": "PwC scope",
+    "assertion": "33% owner return consideration and 71% reason have nested conditional bases.",
+    "status": "QUALIFIED",
+    "observed": "Not an identified numeric effect",
+    "expected": "Use only with the stated scope",
+    "evidence_refs": "friend_surveys/SURVEY_CLAIM_AUDIT.md",
+    "scope_limit": "The 71% concerns owners considering return; regional chart n 158 is not an Indonesia denominator. Neither figure measures observed switches or maintenance invoices."
+  },
+  {
+    "check_id": "NQ80",
+    "topic": "Casebook constraint",
+    "assertion": "Actual source states 150 billion incremental investment cap 2026–2028",
+    "status": "PASS",
+    "observed": "true",
+    "expected": "true",
+    "evidence_refs": "Casebook p6",
+    "scope_limit": "A cap is not approved spending, an estimated program budget or a bound on every later contingent liability."
+  },
+  {
+    "check_id": "NQ81",
+    "topic": "Casebook BEV context",
+    "assertion": "BYD 46,711/103,931 rounds to 45% ofBEV sales",
+    "status": "PASS",
+    "observed": "45",
+    "expected": "45",
+    "evidence_refs": "Casebook p4,p8",
+    "scope_limit": "BEV segment share; not total xEV, all cars, Auto2000 lost sales or a causal Digiroom effect."
+  },
+  {
+    "check_id": "NQ82",
+    "topic": "Final site freeze",
+    "assertion": "Status counts reconcile to 345 requestedURLs",
+    "status": "PASS",
+    "observed": "345",
+    "expected": "345",
+    "evidence_refs": "site/summary.json;page_observations.csv",
+    "scope_limit": "HTTP 0 is a recorded transport failure state; not an HTTPserver response."
+  },
+  {
+    "check_id": "NQ83",
+    "topic": "Final site freeze",
+    "assertion": "Successful source-family counts reconcile to 281 HTMLpages",
+    "status": "PASS",
+    "observed": "281",
+    "expected": "281",
+    "evidence_refs": "site/summary.json",
+    "scope_limit": "Purposive family mix, not a prevalence-weighted website sample."
+  },
+  {
+    "check_id": "NQ84",
+    "topic": "Final site freeze",
+    "assertion": "Summary words and links match independently read aggregates",
+    "status": "PASS",
+    "observed": "[181158, 15323]",
+    "expected": "[181158, 15323]",
+    "evidence_refs": "site/summary.json;page_observations.csv;site_evidence.sqlite",
+    "scope_limit": "Structural link rows differ from occurrence count and independentinformation count."
+  },
+  {
+    "check_id": "NQ85",
+    "topic": "Final site QA",
+    "assertion": "All 24 fixed reference selections match production word counts and content hashes",
+    "status": "PASS",
+    "observed": "24",
+    "expected": "24",
+    "evidence_refs": "site/v3_qa_reference.csv;page_observations.csv",
+    "scope_limit": "An independentAI cached-source comparison, not human review, fresh visits or randomsiteprevalence."
+  },
+  {
+    "check_id": "NQ86",
+    "topic": "Final site QA",
+    "assertion": "24 published comparisons pass every recorded check",
+    "status": "PASS",
+    "observed": "24",
+    "expected": "24",
+    "evidence_refs": "site/v3_qa_published_comparison.csv",
+    "scope_limit": "Fixed purposive 24-source audit; no human-validation or sitewide accuracy claim."
+  },
+  {
+    "check_id": "NQ87",
+    "topic": "Final site QA",
+    "assertion": "Audit explicitly reports no network requests and no human validation",
+    "status": "PASS",
+    "observed": "[0, false, true]",
+    "expected": "[0, false, true]",
+    "evidence_refs": "site/v3_qa_reference_summary.json",
+    "scope_limit": "Offline comparison against captured HTML, not verified customer behavior."
+  }
+]

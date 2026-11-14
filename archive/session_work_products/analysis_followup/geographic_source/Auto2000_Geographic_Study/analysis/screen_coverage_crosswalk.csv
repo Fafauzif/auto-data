@@ -1,0 +1,22 @@
+label,context_administrative_screen,overture_bbox_screen,crosswalk_note
+Balikpapan,True,True,Same label does not establish identical administrative vs bbox coverage
+Bandar Lampung,True,True,Same label does not establish identical administrative vs bbox coverage
+Bandung,True,True,Same label does not establish identical administrative vs bbox coverage
+Banjarmasin,True,True,Same label does not establish identical administrative vs bbox coverage
+Bekasi,True,False,Nested within Overture Jabodetabek bbox; not identical area
+Bogor,True,False,Nested within Overture Jabodetabek bbox; not identical area
+Cirebon,False,True,Available in one screen only; not zero in other source
+Denpasar,True,False,Available in one screen only; not zero in other source
+Jabodetabek,False,True,Includes multiple context cities; not an identical administrative unit
+Jakarta core,True,False,Nested within Overture Jabodetabek bbox; not identical area
+Jember,False,True,Available in one screen only; not zero in other source
+Kediri,False,True,Available in one screen only; not zero in other source
+Malang,True,True,Same label does not establish identical administrative vs bbox coverage
+Medan,True,True,Same label does not establish identical administrative vs bbox coverage
+Padang,True,True,Same label does not establish identical administrative vs bbox coverage
+Palembang,True,True,Same label does not establish identical administrative vs bbox coverage
+Pekanbaru,False,True,Available in one screen only; not zero in other source
+Pontianak,True,False,Available in one screen only; not zero in other source
+Samarinda,False,True,Available in one screen only; not zero in other source
+Surabaya,True,True,Same label does not establish identical administrative vs bbox coverage
+Tangerang,True,False,Nested within Overture Jabodetabek bbox; not identical area

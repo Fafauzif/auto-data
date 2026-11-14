@@ -1,0 +1,111 @@
+[
+  {
+    "kind": "robots",
+    "domain": "play.google.com",
+    "status": 200,
+    "request_id": "d7eb447dbc6e4d9281741a560a3c6e54",
+    "retrieved": "2026-11-11T02:44:59.790342+00:00"
+  },
+  {
+    "kind": "robots",
+    "domain": "itunes.apple.com",
+    "status": 200,
+    "request_id": "52d8dc4a3ec6459b9e23f575cbccb7d3",
+    "retrieved": "2026-11-11T02:44:59.791794+00:00"
+  },
+  {
+    "kind": "robots",
+    "domain": "apps.apple.com",
+    "status": 200,
+    "request_id": "88cd271298c74df7bf59a09da9e97986",
+    "retrieved": "2026-11-11T02:44:59.792597+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "digiroom",
+    "url": "https://play.google.com/store/apps/details?id=id.co.astra.ai.dev1&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "f95a9d315afa473b8cc83b4349d5047e",
+    "retrieved": "2026-11-11T02:44:59.793959+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "mtoyota",
+    "url": "https://play.google.com/store/apps/details?id=com.toyota.m&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "892f0c9eed13480c808da748ea0b5f43",
+    "retrieved": "2026-11-11T02:44:59.823725+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "seva",
+    "url": "https://play.google.com/store/apps/details?id=id.seva&hl=id&gl=ID",
+    "status": 404,
+    "request_id": "618e8582dd20430f9fd2cd27404109e8",
+    "retrieved": "2026-11-11T02:45:06.669653+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "byd_auto",
+    "url": "https://play.google.com/store/apps/details?id=com.byd.bydautolink&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "65607ea33e67461ca3c92f46a869ed90",
+    "retrieved": "2026-11-11T02:45:06.670288+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "myhyundai_indonesia",
+    "url": "https://play.google.com/store/apps/details?id=id.co.hyundaimotor.mmp&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "dc6584fc3b6f45e096dfc3aca9ab2323",
+    "retrieved": "2026-11-11T02:45:13.645934+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "my_wuling",
+    "url": "https://play.google.com/store/apps/details?id=com.yonyou.cip.sgmw&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "4e60a8392445448988539a24ed50a69d",
+    "retrieved": "2026-11-11T02:45:20.771555+00:00"
+  },
+  {
+    "kind": "google_play_listing",
+    "app": "mitsubishi_motors_id",
+    "url": "https://play.google.com/store/apps/details?id=id.co.mmksi.mitsubishimotors&hl=id&gl=ID",
+    "status": 200,
+    "request_id": "c8ca1858b8c5413b9732c82425ba458a",
+    "retrieved": "2026-11-11T02:45:31.180303+00:00"
+  },
+  {
+    "kind": "apple_reviews_public",
+    "app": "digiroom",
+    "url": "https://apps.apple.com/id/app/id421805050?see-all=reviews",
+    "status": 200,
+    "request_id": "5741a92f656947e6947c1dfe4bc84b70",
+    "retrieved": "2026-11-11T02:45:31.235491+00:00"
+  },
+  {
+    "kind": "apple_reviews_public",
+    "app": "mtoyota",
+    "url": "https://apps.apple.com/id/app/id1480809215?see-all=reviews",
+    "status": 200,
+    "request_id": "dddccccd43b74c8c858309a0afeb0bba",
+    "retrieved": "2026-11-11T02:45:31.239316+00:00"
+  },
+  {
+    "kind": "apple_reviews_public",
+    "app": "seva",
+    "url": "https://apps.apple.com/id/app/id1589727482?see-all=reviews",
+    "status": 404,
+    "request_id": "250ec1d7245c4982ab87d3de8f6e16b8",
+    "retrieved": "2026-11-11T02:45:38.961927+00:00"
+  },
+  {
+    "kind": "apple_reviews_public",
+    "app": "byd_auto",
+    "url": "https://apps.apple.com/id/app/id1492400299?see-all=reviews",
+    "status": 200,
+    "request_id": "54f15f60a86943b2876906326b01eb64",
+    "retrieved": "2026-11-11T02:45:38.962833+00:00"
+  }
+]

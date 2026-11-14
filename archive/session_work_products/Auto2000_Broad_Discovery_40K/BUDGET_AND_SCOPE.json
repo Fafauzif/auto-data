@@ -1,0 +1,39 @@
+{
+  "actor": "xquik/x-tweet-scraper",
+  "prepared_date": "2026-11-14",
+  "date_range_utc": {
+    "since_inclusive": "2025-01-01",
+    "until_exclusive": "2026-11-14"
+  },
+  "assumed_result_price_usd": 0.00015,
+  "collections": [
+    {
+      "file": "01_SHOWROOM_AND_BUYING_BIG.json",
+      "themes": 60,
+      "dated_searches": 480,
+      "maximum_delivered_rows": 24000,
+      "conditional_result_fee_usd": 3.6
+    },
+    {
+      "file": "02_WORKSHOP_AND_OWNERSHIP_BIG.json",
+      "themes": 25,
+      "dated_searches": 200,
+      "maximum_delivered_rows": 10000,
+      "conditional_result_fee_usd": 1.5
+    },
+    {
+      "file": "03_REPLACEMENT_AND_TRADEIN_BIG.json",
+      "themes": 15,
+      "dated_searches": 120,
+      "maximum_delivered_rows": 6000,
+      "conditional_result_fee_usd": 0.9
+    }
+  ],
+  "total_maximum_delivered_rows": 40000,
+  "total_conditional_result_fees_usd": 6.0,
+  "platform_usage": "additional; not estimated",
+  "previous_actual_usage": "unknown; check Console balance",
+  "evidence_scope": "Cross-brand, all powertrains, Indonesian-language public discourse; not a verified Indonesia-customer sample",
+  "code_status": "JSON syntax, fields/enums, date windows, unique query strings and cap arithmetic checked locally; no paid run executed",
+  "repository_context": "https://github.com/Fafauzif/auto-data commit 34498fe033ae4dcd1a52c8d2e039f870b00d08fe, interpreted under the later user-supplied 14 November strategy"
+}

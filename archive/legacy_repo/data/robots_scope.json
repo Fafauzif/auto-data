@@ -1,0 +1,23 @@
+{
+  "url": "https://auto2000.co.id/robots.txt",
+  "request_id": "c2d2908d9bbc4d24a73a7bba8b8ba0a5",
+  "rules": [
+    "/login",
+    "/cart",
+    "/checkout",
+    "/my-account",
+    "/COLOR_DEFAULT",
+    "/brands",
+    "/page",
+    "/tag",
+    "/category",
+    "*?productCode=*",
+    "*?branchCode=*",
+    "*?category=*",
+    "*?src=*",
+    "*filter?*",
+    "*widget*",
+    "*?q*",
+    "/api/*"
+  ]
+}

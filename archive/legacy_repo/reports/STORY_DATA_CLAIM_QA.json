@@ -1,0 +1,305 @@
+{
+  "pdf_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "expected_pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "pages_reviewed": [
+    17,
+    18,
+    19,
+    20,
+    23,
+    24,
+    25,
+    38
+  ],
+  "scope": "Source and numeric review of seven data-story pages plusIGAR. Separate from full-document visual QA. No new retrieval or analysis; only verification of existing source/derived tables.",
+  "reviewed_at_utc": "2026-11-11T04:55:11.368469+00:00",
+  "checks_total": 43,
+  "passed": 43,
+  "failed": 0,
+  "status": "PASS_WITH_MINOR_VISUAL_AND_COPY_QUALIFICATIONS",
+  "checks": [
+    {
+      "check": "Exact requested PDF hash",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034"
+    },
+    {
+      "check": "41-page visual edition",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_01",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_02",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_03",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_05",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_06",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Chart manifest exactly matches brief DATA_STORY_07",
+      "pass": true,
+      "pdf_page": null,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_01",
+      "pass": true,
+      "pdf_page": 17,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_02",
+      "pass": true,
+      "pdf_page": 18,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_03",
+      "pass": true,
+      "pdf_page": 19,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_05",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_06",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Embedded plot pixels equal expected PNG data_07",
+      "pass": true,
+      "pdf_page": 25,
+      "evidence": null
+    },
+    {
+      "check": "1km20to8 and5km27to26 with28 anchors",
+      "pass": true,
+      "pdf_page": 17,
+      "evidence": null
+    },
+    {
+      "check": "Median display0.323to1.413 matches exact source",
+      "pass": true,
+      "pdf_page": 17,
+      "evidence": null
+    },
+    {
+      "check": "Map headline preserves unverified usability",
+      "pass": true,
+      "pdf_page": 17,
+      "evidence": null
+    },
+    {
+      "check": "Balikpapan55.258km and55.26roundings",
+      "pass": true,
+      "pdf_page": 18,
+      "evidence": null
+    },
+    {
+      "check": "Other four differences below135metres",
+      "pass": true,
+      "pdf_page": 18,
+      "evidence": null
+    },
+    {
+      "check": "No physical-location truth claim",
+      "pass": true,
+      "pdf_page": 18,
+      "evidence": null
+    },
+    {
+      "check": "Boundary ratios and ranks Papua Barat",
+      "pass": true,
+      "pdf_page": 19,
+      "evidence": null
+    },
+    {
+      "check": "Boundary ratios and ranks Papua",
+      "pass": true,
+      "pdf_page": 19,
+      "evidence": null
+    },
+    {
+      "check": "Omitted70800 androunded0.339% correct",
+      "pass": true,
+      "pdf_page": 19,
+      "evidence": "0.339% appears in brief support card; PDF body shows70,800."
+    },
+    {
+      "check": "Denominator scope not BEV adequacy",
+      "pass": true,
+      "pdf_page": 19,
+      "evidence": null
+    },
+    {
+      "check": "Four hardware counts reconcile to licensed source",
+      "pass": true,
+      "pdf_page": 20,
+      "evidence": null
+    },
+    {
+      "check": "Counts not asserted to be capacity",
+      "pass": true,
+      "pdf_page": 20,
+      "evidence": null
+    },
+    {
+      "check": "56.5million correctly rounds56507201signal scalars",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": null
+    },
+    {
+      "check": "Clock arrays and epochs excluded from sample claim",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": null
+    },
+    {
+      "check": "I/V5SOC2temperature0 exact-clock counts",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": null
+    },
+    {
+      "check": "One historicAudiCalifornia, notToyota certificate",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": null
+    },
+    {
+      "check": "Withheld reference not asserted independent lab groundtruth",
+      "pass": true,
+      "pdf_page": 23,
+      "evidence": "Public source omits BMS-derived capacity series; no independent laboratory validation standard is established."
+    },
+    {
+      "check": "Folder2integrals156.206to230.433match",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Relative inflation47.52%correct",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Supported51.97hours correctly rounded",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Gap result framed as unsupported integral,notextra actualenergy",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Tested1/30/300energy agreement retained",
+      "pass": true,
+      "pdf_page": 24,
+      "evidence": null
+    },
+    {
+      "check": "Four slope labels match exact persisted intervals",
+      "pass": true,
+      "pdf_page": 25,
+      "evidence": null
+    },
+    {
+      "check": "Integergrid true without invented accuracybound",
+      "pass": true,
+      "pdf_page": 25,
+      "evidence": null
+    },
+    {
+      "check": "Slopes not healthscores/capacity/degradation claim",
+      "pass": true,
+      "pdf_page": 25,
+      "evidence": null
+    },
+    {
+      "check": "IGAR pairedrows617722 disagreement255414 agree362308",
+      "pass": true,
+      "pdf_page": 38,
+      "evidence": null
+    },
+    {
+      "check": "IGAR percentlabels41.35and58.65correct",
+      "pass": true,
+      "pdf_page": 38,
+      "evidence": null
+    },
+    {
+      "check": "IGAR distinctkeys617703duplicateexcess19",
+      "pass": true,
+      "pdf_page": 38,
+      "evidence": null
+    },
+    {
+      "check": "IGAR humanGT andcustomer-scope limitations present",
+      "pass": true,
+      "pdf_page": 38,
+      "evidence": null
+    }
+  ],
+  "qualifications": [
+    {
+      "severity": "minor_visual",
+      "page": 25,
+      "issue": "The long vertical y-axis title indata_07.png is clipped at the top edge. The numeric values and full unit in the page body are correct.",
+      "suggestion": "Shorten axis title to NegativeAh perSOCpoint and define percentagepoint in the visible caption.",
+      "numeric_claim_affected": false,
+      "pdf_not_modified": true
+    },
+    {
+      "severity": "minor_copy",
+      "page": 38,
+      "issue": "Several source/body tokens lack spaces, e.g. on255,414 and with617,703; numeric values remain correct.",
+      "suggestion": "Apply spacing cleanup if rebuilding.",
+      "numeric_claim_affected": false,
+      "pdf_not_modified": true
+    }
+  ],
+  "visual_evidence": "Reviewed all six source chart PNGs andpage38render; programmatically verified embeddedchartpixelidentity on pages17/18/19/23/24/25. Other agents own full-page visual coverage.",
+  "source_files": {
+    "story_asset": "/workspace/scratch/70444ed5f561/auto2000_run/story_assets/data_story.json",
+    "chart_manifest": "/workspace/scratch/70444ed5f561/auto2000_run/figures/story/STORY_CHART_MANIFEST.json"
+  },
+  "pdf_modified": false
+}

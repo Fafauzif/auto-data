@@ -1,0 +1,15 @@
+{
+  "freeze_timestamp_utc": "2026-11-11T03:00:51.088303+00:00",
+  "hypotheses": 25,
+  "assessment_counts": {
+    "unresolved": 19,
+    "contradicted": 0,
+    "partly_corroborated": 6,
+    "supported": 0
+  },
+  "business_mechanisms_unresolved": 25,
+  "unique_referenced_records": 67,
+  "all_references_resolve": true,
+  "causal_effects_established": 0,
+  "result": "passed"
+}

@@ -1,0 +1,10 @@
+# Execution notes and superseded attempts
+
+1. A one-origin test verified OSRM Table duration/distance units and waypoint snap metadata. Its synthetic-labelled files are retained under `test_*` only; they are excluded from study counts.
+2. A partial Surabaya/Medan attempt used an earlier candidate eligibility freeze and16x75 batches. It was interrupted before export when the provider exclusions were refined. Its cached responses are not counted in the final76221 primary OD rows.
+3. The final pipeline changed to27x70 batches (97coordinates maximum) to reduce bounded public-server calls. The completed run used941destination rows in four market-specific inventories and324origins.
+4. `partial_completed2/` is an offline checkpoint reconstructed from completed cache responses for Surabaya/Medan while the final two markets were running. It adds no source observations or analysis origins.
+5. A supplementary process handle returned a tool-layer network-approval cancellation message before any response was cached. A bounded one-origin/two-destination probe then returnedHTTP200. The parent resumed the same supplementary command without escalation; the completed supplementary run has no recorded HTTP/API failures.
+6. Supplemental comparison broadened from eight purposively selected Shop&Drive outlets to all67 official chain-coordinate candidates in the four collection windows once the complete official directory became accessible. Three DokterMobil and three selected other authorised Toyota endpoints were retained as separately named paths. The8outlet file remains an earlier research product, not the final coverage denominator.
+7. The canonical study counts are76221primary and5913supplementary OD comparisons,82134total. Test calls, earlier cached attempts, example route calls, derived sensitivity rows and source-directory entries are different units and are not added to those counts.
+8. Original acquisition configurations preserve absolute workspace paths for provenance. `inputs/portable_config.json` uses relative destination filenames. The exact cached-source hashes and source metadata remain with each completed log and input receipt.

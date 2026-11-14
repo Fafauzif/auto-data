@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://overpass-api.de/api/interpreter",
+    "started_utc": "2026-11-14T10:52:28.802747+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "failed",
+    "error": "HTTP Error 406: Not Acceptable",
+    "seconds": 4.16
+  },
+  {
+    "url": "https://overpass.kumi.systems/api/interpreter",
+    "started_utc": "2026-11-14T10:52:28.803438+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "seconds": 22.61
+  },
+  {
+    "url": "https://overpass.private.coffee/api/interpreter",
+    "started_utc": "2026-11-14T10:52:28.803797+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "seconds": 24.76
+  },
+  {
+    "url": "https://overpass.osm.ch/api/interpreter",
+    "started_utc": "2026-11-14T10:52:32.959421+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "success",
+    "bytes": 272,
+    "elements": 0,
+    "seconds": 5.35
+  },
+  {
+    "url": "https://overpass.openstreetmap.fr/api/interpreter",
+    "started_utc": "2026-11-14T10:52:38.311889+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "seconds": 4.74
+  },
+  {
+    "url": "https://overpass.nchc.org.tw/api/interpreter",
+    "started_utc": "2026-11-14T10:52:43.055132+00:00",
+    "query": "[out:json][timeout:12];nwr[\"shop\"=\"car_repair\"](-7.30,112.72,-7.24,112.78);out center tags;",
+    "status": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "seconds": 7.23
+  }
+]

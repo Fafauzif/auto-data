@@ -1,0 +1,30 @@
+market,branch_id,branch_name,baseline_assigned_n,unique_nearest_lower_n,possibly_nearest_upper_n,tail_gt5_lower_n,tail_gt5_upper_n,median_gap_excluding_ties_min,median_gap_including_all_ties_min,meaning
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,3,3,3,0,0,2.828333333333,2.828333333333,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,7,7,7,3,3,2.233333333333,2.233333333333,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,4,4,4,0,0,0.7216666666665,0.7216666666665,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,4,4,4,0,0,-0.5816666666665,-0.5816666666665,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,11,11,11,3,3,2.133333333333,2.133333333333,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,11,11,11,0,0,0.745,0.745,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,11,11,11,1,1,-0.96,-0.96,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,3,3,3,2,2,5.618333333333,5.618333333333,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,4,4,4,0,0,0.0,0.0,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,1,1,1,1,1,5.166666666667,5.166666666667,Allocation bounds; possible upper counts must not be summed across branches
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,0,0,0,0,0,,,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,20,20,20,0,0,2.385833333333,2.385833333333,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,22,22,22,3,3,0.8966666666665,0.8966666666665,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,0,0,0,0,0,,,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,7,7,7,0,0,-1.951666666667,-1.951666666667,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,24,24,24,0,0,0.346666666667,0.346666666667,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,5,5,5,0,0,0.195,0.195,Allocation bounds; possible upper counts must not be summed across branches
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,0,0,0,0,0,,,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,6,6,6,2,2,3.2083333333335,3.2083333333335,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,14,14,14,1,1,1.3841666666669998,1.3841666666669998,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,3,3,3,1,1,2.56,2.56,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,0,0,0,0,0,,,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,9,9,9,1,1,1.695,1.695,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,21,21,21,9,9,4.248333333333,4.248333333333,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:45b671187335,Auto2000 Soreang,5,5,5,0,0,0.561666666667,0.561666666667,Allocation bounds; possible upper counts must not be summed across branches
+Bandung,auto2000:suci_corrected,Auto2000 Suci,20,20,20,3,3,1.0833333333335,1.0833333333335,Allocation bounds; possible upper counts must not be summed across branches
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,19,19,19,0,0,2.638333333333,2.638333333333,Allocation bounds; possible upper counts must not be summed across branches
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,25,24,25,7,8,2.9566666666665,3.615,Allocation bounds; possible upper counts must not be summed across branches
+Palembang,auto2000:19504371b654,Auto2000 Veteran,25,25,26,1,2,2.946666666667,3.011666666667,Allocation bounds; possible upper counts must not be summed across branches

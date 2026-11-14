@@ -1,0 +1,12 @@
+{
+  "frozen_utc": "2026-11-11T03:43:19.601777+00:00",
+  "plan_sha256": "bf2b21366f6beba5d61d6202f7989b781345bcad316a6d5c0a1ad29e3d958fb6",
+  "external_preregistration": false,
+  "prior_210_records_known": true,
+  "new_calculations_started": false,
+  "new_listing_acquisition_started": false,
+  "baseline_csv_sha256": "c1c47a349c0d683e873ff79bf3a54de00d82f90f31d438cde570022efa494cb9",
+  "baseline_validation_sha256": "68ee653c7f9a94b45a386cf38877d36a9271b0d9ff59abb99d91f1cc5e4b22dd",
+  "max_new_listing_pages": 12,
+  "no_Auto2000_bulk_retry": true
+}

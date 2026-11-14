@@ -1,0 +1,16 @@
+{
+  "market": "Kediri",
+  "bbox": [
+    111.9,
+    -7.95,
+    112.15,
+    -7.65
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:58:26.862074+00:00",
+  "status": "success",
+  "source_all_place_rows": 11499,
+  "automotive_candidate_rows": 522,
+  "sha256": "25ca7326ca94d5ed7211c5c0a541665061af0c706d4534ba87e91c54f23f7371",
+  "seconds": 20.87
+}

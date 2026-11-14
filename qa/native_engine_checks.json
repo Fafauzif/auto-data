@@ -1,0 +1,14 @@
+{
+  "engine": "LibreOfficeDev 26.8 bundled primary runtime",
+  "checks": {
+    "operating_profit": "2130",
+    "after_sales_GP": "3150",
+    "missing_operating_input": "Missing inputs",
+    "missing_displacement": "Missing inputs",
+    "missing_investment": "Missing inputs",
+    "surabaya_after": "6",
+    "palembang_after": "0"
+  },
+  "formula_error_cells": [],
+  "passed": true
+}

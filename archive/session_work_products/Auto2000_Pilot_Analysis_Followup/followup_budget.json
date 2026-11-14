@@ -1,0 +1,47 @@
+{
+  "assumed_event_price_usd": 0.00015,
+  "actual_pilot_cost_unknown": true,
+  "pilot_export_rows": 434,
+  "pilot_conditional_result_fee_usd": 0.0651,
+  "preflight_rows": 400,
+  "parent_lookup_rows": 15,
+  "replies_rows": 1500,
+  "programme_claims_rows": 100,
+  "main_searches": [
+    {
+      "run": "01_P1_buyer_decisions",
+      "target_queries": 48,
+      "max_rows": 9600,
+      "event_fee_usd": 1.44
+    },
+    {
+      "run": "02_P2_paid_jobs_and_xev",
+      "target_queries": 72,
+      "max_rows": 14400,
+      "event_fee_usd": 2.16
+    },
+    {
+      "run": "03_P3_upgrade_and_appraisal",
+      "target_queries": 40,
+      "max_rows": 8000,
+      "event_fee_usd": 1.2
+    },
+    {
+      "run": "04_shared_handoff",
+      "target_queries": 16,
+      "max_rows": 800,
+      "event_fee_usd": 0.12
+    }
+  ],
+  "optional_top_rows": 2000,
+  "max_new_delivered_rows": 36815,
+  "new_event_fee_ceiling_usd": 5.5222,
+  "conditional_pilot_plus_new_event_fees_usd": 5.5873,
+  "nominal_remainder_of_10_usd_before_actual_platform_costs": 4.4127,
+  "important": [
+    "Bulk inputs and their atomic counterparts are ALTERNATIVES. Running both repeats work and spends extra.",
+    "Preflight plus main intentional query overlap is budgeted as delivered rows, not unique-post promises.",
+    "Actual remaining balance cannot be computed without pilot and account usage.",
+    "Treat previous broad input pack as superseded for this next wave."
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "market": "Surabaya",
+    "bbox": [
+      112.56,
+      -7.46,
+      112.92,
+      -7.1
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:04.862832+00:00",
+    "status": "success",
+    "source_all_place_rows": 87606,
+    "automotive_candidate_rows": 4156,
+    "sha256": "07122115be981def1f65240fc129c3e548877e77bd76ae019b4e9113148ee0d8",
+    "seconds": 25.44
+  },
+  {
+    "market": "Medan",
+    "bbox": [
+      98.51,
+      3.4,
+      98.85,
+      3.77
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:04.863199+00:00",
+    "status": "success",
+    "source_all_place_rows": 48377,
+    "automotive_candidate_rows": 2709,
+    "sha256": "902b0190b40076eb97b2dceb1e04ade199bc550f500dbb86a27de1f6e8620cd9",
+    "seconds": 26.34
+  },
+  {
+    "market": "Bandung",
+    "bbox": [
+      107.43,
+      -7.07,
+      107.82,
+      -6.74
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:30.329612+00:00",
+    "status": "success",
+    "source_all_place_rows": 96031,
+    "automotive_candidate_rows": 4487,
+    "sha256": "c934fda99647fc5a20e3496b9730d17455d9ae53c770bd0f171f791c5a4e4759",
+    "seconds": 17.36
+  },
+  {
+    "market": "Palembang",
+    "bbox": [
+      104.58,
+      -3.15,
+      104.92999999999999,
+      -2.8
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:31.220975+00:00",
+    "status": "success",
+    "source_all_place_rows": 22687,
+    "automotive_candidate_rows": 1580,
+    "sha256": "12af25cb59356aa67eabd30af7a39c54a14ec64ebdf1f04454173acc9b5f7432",
+    "seconds": 25.6
+  },
+  {
+    "market": "Jabodetabek",
+    "bbox": [
+      106.4,
+      -6.8,
+      107.3,
+      -5.95
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:47.709851+00:00",
+    "status": "success",
+    "source_all_place_rows": 462560,
+    "automotive_candidate_rows": 23198,
+    "sha256": "c093412e148437cfbe306ccc8e36cdce787a778bfe2c6e11842df3fe50dd0d4b",
+    "seconds": 28.6
+  },
+  {
+    "market": "Bandar Lampung",
+    "bbox": [
+      105.12,
+      -5.55,
+      105.4,
+      -5.28
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:56:56.836793+00:00",
+    "status": "success",
+    "source_all_place_rows": 15650,
+    "automotive_candidate_rows": 1089,
+    "sha256": "d5d4b65e85086f2205ac16f6a8897099e7b0e04cfa224ce8b2d4a32565a227dc",
+    "seconds": 19.18
+  },
+  {
+    "market": "Balikpapan",
+    "bbox": [
+      116.76,
+      -1.35,
+      117.02,
+      -1.05
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:16.068247+00:00",
+    "status": "success",
+    "source_all_place_rows": 12246,
+    "automotive_candidate_rows": 665,
+    "sha256": "e32cb8dda1994ea410140b714808a447eaba0630ffa11aa6a2ba808c52f4646f",
+    "seconds": 16.55
+  },
+  {
+    "market": "Banjarmasin",
+    "bbox": [
+      114.48,
+      -3.46,
+      114.75,
+      -3.2
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:16.416796+00:00",
+    "status": "success",
+    "source_all_place_rows": 9979,
+    "automotive_candidate_rows": 625,
+    "sha256": "5df90b1cec306ecae419edc7ed7a9a269ed778194ef30f31394cae2e7b7f89a3",
+    "seconds": 25.09
+  },
+  {
+    "market": "Samarinda",
+    "bbox": [
+      117.02,
+      -0.65,
+      117.3,
+      -0.36
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:32.630009+00:00",
+    "status": "success",
+    "source_all_place_rows": 15507,
+    "automotive_candidate_rows": 1047,
+    "sha256": "7ad72486cae6ad5cb31eeae1fd273df5943d5098628e4e7d27aca4218abeea5f",
+    "seconds": 17.01
+  },
+  {
+    "market": "Pekanbaru",
+    "bbox": [
+      101.3,
+      0.35,
+      101.6,
+      0.65
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:41.515804+00:00",
+    "status": "success",
+    "source_all_place_rows": 23828,
+    "automotive_candidate_rows": 1958,
+    "sha256": "bfe18b909c1f4f484306b059dd633bd33aa779fe795aad1858570c520f363445",
+    "seconds": 17.82
+  },
+  {
+    "market": "Padang",
+    "bbox": [
+      100.25,
+      -1.05,
+      100.5,
+      -0.75
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:49.646763+00:00",
+    "status": "success",
+    "source_all_place_rows": 13283,
+    "automotive_candidate_rows": 701,
+    "sha256": "840252879b0bc1042e0a1ea71d992b1f56a81792bd0f5c61c24ee2b897740983",
+    "seconds": 18.46
+  },
+  {
+    "market": "Cirebon",
+    "bbox": [
+      108.44,
+      -6.83,
+      108.67,
+      -6.6
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:57:59.350109+00:00",
+    "status": "success",
+    "source_all_place_rows": 14117,
+    "automotive_candidate_rows": 810,
+    "sha256": "b316032c91ee513c627ac13ff8ff7691d1699a47e51bf119e83449a5e7de0dfa",
+    "seconds": 16.6
+  },
+  {
+    "market": "Malang",
+    "bbox": [
+      112.5,
+      -8.08,
+      112.75,
+      -7.85
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:58:08.114911+00:00",
+    "status": "success",
+    "source_all_place_rows": 34485,
+    "automotive_candidate_rows": 1271,
+    "sha256": "3878bad92fe6276dd79a0aa52bba52da44e689f54bdb2715b569e1bfbbc6b5ac",
+    "seconds": 18.74
+  },
+  {
+    "market": "Jember",
+    "bbox": [
+      113.55,
+      -8.3,
+      113.85,
+      -8.05
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:58:15.961709+00:00",
+    "status": "success",
+    "source_all_place_rows": 7509,
+    "automotive_candidate_rows": 384,
+    "sha256": "ad17e3bf77c8748681e3361b1700a59f06971b242cdbcb6ad33e6dcebc618235",
+    "seconds": 20.42
+  },
+  {
+    "market": "Kediri",
+    "bbox": [
+      111.9,
+      -7.95,
+      112.15,
+      -7.65
+    ],
+    "release": "2026-10-21.0",
+    "retrieved_utc": "2026-11-14T10:58:26.862074+00:00",
+    "status": "success",
+    "source_all_place_rows": 11499,
+    "automotive_candidate_rows": 522,
+    "sha256": "25ca7326ca94d5ed7211c5c0a541665061af0c706d4534ba87e91c54f23f7371",
+    "seconds": 20.87
+  }
+]

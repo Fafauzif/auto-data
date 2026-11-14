@@ -1,0 +1,13 @@
+{
+  "original_files": 596,
+  "release_paths_protected": 1478,
+  "dry_run_eligible": 593,
+  "moved_to_sibling_backup": 593,
+  "modified_legacy_kept": [],
+  "all_active_release_paths_remain": true,
+  "oversized_legacy_csv_moved": true,
+  "git_config_untouched": true,
+  "obsolete_files_left": [],
+  "method": "Hardlink snapshot; overlay unlinks destinations before linking and migration only renames entries",
+  "passed": true
+}

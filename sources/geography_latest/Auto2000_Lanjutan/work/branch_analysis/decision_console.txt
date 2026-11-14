@@ -1,0 +1,8 @@
+                                                branch_name           recommended_intervention                                                 decision_objective
+                                         Auto2000 Kertajaya Pilihan Oli Rungkut dari Kertajaya        routing pekerjaan oli ke kanal Auto2000 yang sudah tersedia
+Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota          Oli Pasti Selesai A. Yani                               penawaran dan kepastian penyelesaian
+                                     Auto2000 Gatot Subroto          Oli Tepat Kanal Ring Road                           pilihan kanal ekonomis operator Auto2000
+                                           Auto2000 Pancing   Slot Sampai Serah-Terima Pancing                          penawaran dan perlindungan keandalan slot
+                                  Auto2000 Soekarno - Hatta       Sekali Datang Soekarno-Hatta     kurangi jumlah perjalanan untuk kantong ketertinggalan tersisa
+                                              Auto2000 Suci                  Tujuan Benar Suci                            perbaiki koordinat dan branch selection
+                                 Auto2000 Tanjung Api - Api          Oli Tepat Kanal Palembang alih tujuan pekerjaan oli ke OtoXpert Palembang sebelum perjalanan

@@ -1,0 +1,17 @@
+{
+  "new_directional_od_rows": 5604,
+  "origins": 66,
+  "unique_od_direction_rows": true,
+  "roundtrip_joins": 2802,
+  "max_asymmetry_seconds": 668.0999999999999,
+  "median_asymmetry_seconds": 55.0,
+  "both_directions_acquired": true,
+  "numeric_nonnegative": true,
+  "model": "OSRM publicprofile; hypothetical visit-count/queue scenarios labelled; no observed queue or service duration",
+  "building_origins": 42,
+  "building_max_target_displacement_m": 167.73582409189274,
+  "outbound_minimum_separate_from_roundtrip": true,
+  "source_building_query_bytes": 270953241,
+  "source_building_query_files": 16,
+  "final": true
+}

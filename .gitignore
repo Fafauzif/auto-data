@@ -1,0 +1,13 @@
+# Reconstructed original files may exceed GitHub's individual-file limit.
+.restored/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.env
+.env.*
+!*.env.example
+# Build ZIPs belong outside this repository tree.
+/dist/
+/release-build/

@@ -1,0 +1,8 @@
+{
+  "migration_dry_run_passed": true,
+  "migration_apply_passed": true,
+  "unknown_files_protected": true,
+  "modified_files_protected": true,
+  "new_active_paths_protected": true,
+  "git_directory_protected": true
+}

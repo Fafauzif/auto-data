@@ -1,0 +1,70 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.google.com/maps?cid=5370034576044810015"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=16686014284272525632"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=6666654091629526576"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=15871981546284366836"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=14533801628642832983"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=12956872591306703351"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=12665174734276281487"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=13574150336156445890"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=17042806650116313178"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=13099416475661073654"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=5302898204097296334"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=15817911381300720656"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=1765574061674056581"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=9428129856210743017"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=13580189648085254339"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=14158697579269854601"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=14251238877406319422"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=9103666996500696158"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=2984979993764195852"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=6390074300724605482"
+    }
+  ],
+  "maxReviews": 250,
+  "reviewsSort": "newest",
+  "reviewsStartDate": "2025-01-01",
+  "language": "id",
+  "reviewsOrigin": "google",
+  "personalData": false
+}

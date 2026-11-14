@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-14",
+  "private_repository": true,
+  "main_language": "English",
+  "source_language": "preserve_original",
+  "reorganization_authorized": true,
+  "all_evidence_families_required": true,
+  "analysis_and_packaging_authorized": true,
+  "paid_collection_authorized": false,
+  "github_push_authorized": false,
+  "distribution": "private",
+  "file_ceiling_bytes": 90000000,
+  "context_type": "reconstructed_project_context_with_preserved_available_sources",
+  "prior_diagnosis_only_mandate": "superseded_by_current_user"
+}

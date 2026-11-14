@@ -1,0 +1,6 @@
+{
+  "before_new_calculation": true,
+  "purposeful_existing_record_set_not_blind_holdout": true,
+  "record_ids": ["REV-0001", "REV-0003", "REV-0020", "REV-0030", "REV-0035", "REV-0122", "REV-0130", "REV-0141", "REV-0165", "REV-0205"],
+  "selection_reason": "Known prior counterexamples spanning no-job favorable rating, constrained high rating, current handoff claim, historical recovery, feature request and feature evolution. These test interpretation boundaries, not frequency or classifier accuracy."
+}

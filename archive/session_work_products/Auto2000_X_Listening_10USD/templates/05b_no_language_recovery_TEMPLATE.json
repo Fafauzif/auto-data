@@ -1,0 +1,10 @@
+{
+  "mode": "search",
+  "searchTerms": [
+    "REPLACE_WITH_A_VALIDATED_QUERY_WITHOUT_lang_id_AND_WITH_DATE_BOUNDS"
+  ],
+  "queryType": "Latest",
+  "maxItems": 1000,
+  "maxItemsPerTarget": 250,
+  "outputVariant": "rich"
+}

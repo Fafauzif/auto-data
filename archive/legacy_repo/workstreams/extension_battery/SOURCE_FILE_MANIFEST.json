@@ -1,0 +1,67 @@
+[
+  {
+    "folder": "Folder1",
+    "source_file_id": "49926802-c6f1-4fbb-9158-28ba0b8a11af",
+    "source_filename": "Raw.mat",
+    "source_size": 51900236,
+    "source_url": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/49926802-c6f1-4fbb-9158-28ba0b8a11af/file_downloaded",
+    "source_sha256": "56660fea9aa13bb75710c6466d74e5e6e61ae17da6c105543694bf3cf9650134",
+    "retrieved_bytes": 51900236,
+    "retrieved_sha256": "56660fea9aa13bb75710c6466d74e5e6e61ae17da6c105543694bf3cf9650134",
+    "hash_matches": true,
+    "license": "CC BY-NC3.0",
+    "source_doi": "10.17632/7vdkzpnjgj.2"
+  },
+  {
+    "folder": "Folder2",
+    "source_file_id": "a83bf37d-5deb-4f2d-bff9-8a34f2025fea",
+    "source_filename": "Raw.mat",
+    "source_size": 32644636,
+    "source_url": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/a83bf37d-5deb-4f2d-bff9-8a34f2025fea/file_downloaded",
+    "source_sha256": "f7dd9f401878b3b9ed9997341efa8b98a705cc4057552c8ab68c38ededc19268",
+    "retrieved_bytes": 32644636,
+    "retrieved_sha256": "f7dd9f401878b3b9ed9997341efa8b98a705cc4057552c8ab68c38ededc19268",
+    "hash_matches": true,
+    "license": "CC BY-NC3.0",
+    "source_doi": "10.17632/7vdkzpnjgj.2"
+  },
+  {
+    "folder": "Folder7",
+    "source_file_id": "60e58f05-e4cc-41db-a6ea-5972dedf1378",
+    "source_filename": "Raw.mat",
+    "source_size": 89170861,
+    "source_url": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/60e58f05-e4cc-41db-a6ea-5972dedf1378/file_downloaded",
+    "source_sha256": "41437b187c5c3d919f415af688cf6e297716192c2ddc6f134056c2720ce096b7",
+    "retrieved_bytes": 89170861,
+    "retrieved_sha256": "41437b187c5c3d919f415af688cf6e297716192c2ddc6f134056c2720ce096b7",
+    "hash_matches": true,
+    "license": "CC BY-NC3.0",
+    "source_doi": "10.17632/7vdkzpnjgj.2"
+  },
+  {
+    "folder": "Folder8",
+    "source_file_id": "2fb1c343-ae76-4a3d-9776-4fedf44645b2",
+    "source_filename": "Raw.mat",
+    "source_size": 14389506,
+    "source_url": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/2fb1c343-ae76-4a3d-9776-4fedf44645b2/file_downloaded",
+    "source_sha256": "2f3e9ecead573e384e7051ece4e9b145921d9901568b96269c8c3a3383f21055",
+    "retrieved_bytes": 14389506,
+    "retrieved_sha256": "2f3e9ecead573e384e7051ece4e9b145921d9901568b96269c8c3a3383f21055",
+    "hash_matches": true,
+    "license": "CC BY-NC3.0",
+    "source_doi": "10.17632/7vdkzpnjgj.2"
+  },
+  {
+    "folder": "Folder16",
+    "source_file_id": "ea7fdd30-53b4-45ec-8d9d-46bfc603d6a1",
+    "source_filename": "Raw.mat",
+    "source_size": 95036227,
+    "source_url": "https://data.mendeley.com/public-files/datasets/7vdkzpnjgj/files/ea7fdd30-53b4-45ec-8d9d-46bfc603d6a1/file_downloaded",
+    "source_sha256": "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558",
+    "retrieved_bytes": 95036227,
+    "retrieved_sha256": "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558",
+    "hash_matches": true,
+    "license": "CC BY-NC3.0",
+    "source_doi": "10.17632/7vdkzpnjgj.2"
+  }
+]

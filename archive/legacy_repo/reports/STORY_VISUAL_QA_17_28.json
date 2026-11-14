@@ -1,0 +1,157 @@
+{
+  "pdf_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "pdf_sha256": "7c1fc15d879afc59b217bb89d43b5625dfb5710e4b2c4acc2a8f127f84444034",
+  "expected_hash_matched": true,
+  "total_pdf_pages": 41,
+  "coverage_pages": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "contact_sheets": [
+    5,
+    6,
+    7
+  ],
+  "full_resolution_pngs_inspected": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "review_type": "AI_visual_review_not_human_validation",
+  "reviewer_agent": "/root/social_plan",
+  "recorded_utc": "2026-11-11T04:53:37.768529+00:00",
+  "status": "requires_axis_label_fix_before_approval",
+  "blocking_issue_count": 1,
+  "issues": [
+    {
+      "severity": "blocking",
+      "page": 25,
+      "kind": "clipped_chart_axis_label",
+      "description": "Vertical y-axis title is clipped at its top and visibly ends at percentage poi.",
+      "suggested_fix": "Shorten to Ah per SOC percentage point or add chart-image padding; rerender and visually inspect."
+    },
+    {
+      "severity": "minor",
+      "pages": [
+        21,
+        27,
+        28
+      ],
+      "kind": "missing_spaces",
+      "description": "Run-together text in body/source notes. P21 checks.18targeted and URLs;21; P27 offers,20units/state; P28 organizes25, The260, not260, audit:26, units,10grouped, roles,18.",
+      "suggested_fix": "Insert spaces in the source strings before rebuilding."
+    }
+  ],
+  "overall_readability": "The assigned range uses short finding-led paragraphs, large charts/diagrams, readable takeaways and visible limits rather than dense full-page text.",
+  "scope_limits": [
+    "Visual inspection of pages17to28 only",
+    "No full factual/numeric audit in this visual pass",
+    "No PDF edits performed",
+    "This is the41page story build, not the archived80page report"
+  ],
+  "page_coverage": [
+    {
+      "page": 17,
+      "contact_sheet": "contact-05.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Large paired bars, labels, legend, callout and source notes fit; paragraph is short and readable.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 18,
+      "contact_sheet": "contact-05.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Five-row distance chart labels and values fit, including long branch name; large local discrepancy remains clear.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 19,
+      "contact_sheet": "contact-05.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Boundary-match dumbbell plot fits; both category labels, four values and legend are legible.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 20,
+      "contact_sheet": "contact-05.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Four count cards separate units clearly; no clipping or overlapping text.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 21,
+      "contact_sheet": "contact-06.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Customer/ecosystem/business cards fit; readable prose. Source note has run-together text: checks.18targeted and URLs;21.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 22,
+      "contact_sheet": "contact-06.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Five decision links fit in a readable vertical diagram; body is longer than other pages but remains one compact paragraph with no overlap.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 23,
+      "contact_sheet": "contact-06.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Clock-alignment bar chart has readable labels/counts; explanatory paragraph supplies the matched-clock meaning. Sources and limits fit.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 24,
+      "contact_sheet": "contact-06.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Two-bar gap comparison fits with clear units and values; no missing glyphs or overlap.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 25,
+      "contact_sheet": "contact-07.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Blocking: y-axis title ends at percentage poi because its top is clipped within the embedded chart image. Main values and bars are readable.",
+      "blocking_defect_observed": true
+    },
+    {
+      "page": 26,
+      "contact_sheet": "contact-07.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Two illustration panels, two-line category labels and stacked-bar legend fit cleanly; limits clearly mark assumptions.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 27,
+      "contact_sheet": "contact-07.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Four-state chart and labels fit. Source note has run-together text: offers,20units/state.",
+      "blocking_defect_observed": false
+    },
+    {
+      "page": 28,
+      "contact_sheet": "contact-07.png",
+      "full_resolution_png_inspected": true,
+      "observation": "Lifecycle cards and main headline fit. Body/source-note strings have run-together words/numbers, including organizes25, The260 and not260.",
+      "blocking_defect_observed": false
+    }
+  ]
+}

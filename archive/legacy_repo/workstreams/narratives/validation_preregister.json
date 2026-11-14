@@ -1,0 +1,15 @@
+{
+ "status":"frozen before validation-source search",
+ "created_date":"2026-11-11",
+ "purpose":"Exploratory follow-up validation on fresh source threads, not formal preregistered causal study",
+ "discovery_sources":"S01-S26",
+ "exclusions":"No reused thread or known same incident; label possible same-account or incident overlap. Search cache and relative times remain uncertain.",
+ "target":"15-25 narrative units from new threads/documents, positive/neutral/negative and rival explanations",
+ "hypotheses":[
+  {"id":"VH1","prediction":"Service certainty separates permission/coverage, confirmed scheduling and physical parts availability","support":"Accounts explicitly distinguish at least two stages","rival":"A straightforward single-stage booking consistently resolves the need","reject_or_limit":"No distinction in fresh accounts, or confusion is solely mechanical defect without information/handoff concern"},
+  {"id":"VH2","prediction":"Service records matter as decision evidence but dealer exclusivity of records is contested","support":"Fresh buyer/owner accounts use history or receipts for condition/resale","rival":"Vehicle inspection, price or relationship dominates and record provenance is irrelevant","reject_or_limit":"Fresh accounts show no record concern or show official-dealer trail required in a narrowly specified transaction"},
+  {"id":"VH3","prediction":"Free-service/warranty labels can leave parts, exclusions and counterparty responsibilities unresolved","support":"Fresh narratives contrast promise with a particular condition or responsibility","rival":"Stated terms are clear; outcome is preference or a covered/uncovered accident case rather than communication failure","reject_or_limit":"Fresh sources show clear understood conditions and satisfactory service"},
+  {"id":"VH4","prediction":"Powertrain choice remains conditional on purchase budget and actual usage, not general EV attitude","support":"Fresh shoppers change consideration due budget, use or charging context","rival":"Strong product preference remains despite those constraints or EV economics dominate for low-mileage buyers","reject_or_limit":"No context-specific tradeoff or actual choice observed"}
+ ],
+ "analysis":"Source-grounded manual coding; record supports/mixed/contradicts/not_informative per hypothesis. No population pvalues, no causal effect claims. Search deliberately spans competing terms and favorable accounts."
+}

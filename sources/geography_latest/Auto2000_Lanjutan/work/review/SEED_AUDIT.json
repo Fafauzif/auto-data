@@ -1,0 +1,147 @@
+{
+  "source": "Raw main and supplement OD rows, endpoint snapping<=250m, directly recomputed minima",
+  "checks": [
+    {
+      "market": "Surabaya",
+      "field": "n",
+      "actual": 59,
+      "expected": 59.0,
+      "pass": true
+    },
+    {
+      "market": "Surabaya",
+      "field": "generic_gap_median",
+      "actual": 3.621666666666667,
+      "expected": 3.621666666666667,
+      "pass": true
+    },
+    {
+      "market": "Surabaya",
+      "field": "oil_gap_median",
+      "actual": 0.9666666666666657,
+      "expected": 0.9666666666666657,
+      "pass": true
+    },
+    {
+      "market": "Surabaya",
+      "field": "gap_gt5",
+      "actual": 10,
+      "expected": 10.0,
+      "pass": true
+    },
+    {
+      "market": "Surabaya",
+      "field": "not_slower",
+      "actual": 23,
+      "expected": 23.0,
+      "pass": true
+    },
+    {
+      "market": "Medan",
+      "field": "n",
+      "actual": 78,
+      "expected": 78.0,
+      "pass": true
+    },
+    {
+      "market": "Medan",
+      "field": "generic_gap_median",
+      "actual": 4.085833333333333,
+      "expected": 4.085833333333333,
+      "pass": true
+    },
+    {
+      "market": "Medan",
+      "field": "oil_gap_median",
+      "actual": 0.34666666666666685,
+      "expected": 0.34666666666666685,
+      "pass": true
+    },
+    {
+      "market": "Medan",
+      "field": "gap_gt5",
+      "actual": 3,
+      "expected": 3.0,
+      "pass": true
+    },
+    {
+      "market": "Medan",
+      "field": "not_slower",
+      "actual": 32,
+      "expected": 32.0,
+      "pass": true
+    },
+    {
+      "market": "Bandung",
+      "field": "n",
+      "actual": 78,
+      "expected": 78.0,
+      "pass": true
+    },
+    {
+      "market": "Bandung",
+      "field": "generic_gap_median",
+      "actual": 5.199999999999999,
+      "expected": 5.199999999999999,
+      "pass": true
+    },
+    {
+      "market": "Bandung",
+      "field": "oil_gap_median",
+      "actual": 2.6358333333333333,
+      "expected": 2.6358333333333333,
+      "pass": true
+    },
+    {
+      "market": "Bandung",
+      "field": "gap_gt5",
+      "actual": 21,
+      "expected": 21.0,
+      "pass": true
+    },
+    {
+      "market": "Bandung",
+      "field": "not_slower",
+      "actual": 8,
+      "expected": 8.0,
+      "pass": true
+    },
+    {
+      "market": "Palembang",
+      "field": "n",
+      "actual": 69,
+      "expected": 69.0,
+      "pass": true
+    },
+    {
+      "market": "Palembang",
+      "field": "generic_gap_median",
+      "actual": 3.424999999999999,
+      "expected": 3.424999999999999,
+      "pass": true
+    },
+    {
+      "market": "Palembang",
+      "field": "oil_gap_median",
+      "actual": 2.6383333333333328,
+      "expected": 2.6383333333333328,
+      "pass": true
+    },
+    {
+      "market": "Palembang",
+      "field": "gap_gt5",
+      "actual": 9,
+      "expected": 9.0,
+      "pass": true
+    },
+    {
+      "market": "Palembang",
+      "field": "not_slower",
+      "actual": 5,
+      "expected": 5.0,
+      "pass": true
+    }
+  ],
+  "passed": 20,
+  "failed": 0
+}

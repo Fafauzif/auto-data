@@ -1,0 +1,105 @@
+{
+  "rows": 434,
+  "unique_post_ids": 434,
+  "unique_authors": 214,
+  "unique_conversation_ids": 409,
+  "replies": 177,
+  "replies_missing_immediate_parent": 168,
+  "unique_missing_parent_ids": 161,
+  "unique_missing_root_ids": 152,
+  "quote_posts": 34,
+  "native_reposts": 0,
+  "date_min": "2026-01-03T06:30:40+00:00",
+  "date_max": "2026-11-13T23:32:50+00:00",
+  "monthly_counts": {
+    "2026-01": 16,
+    "2026-02": 19,
+    "2026-03": 24,
+    "2026-04": 44,
+    "2026-05": 28,
+    "2026-06": 29,
+    "2026-07": 25,
+    "2026-08": 27,
+    "2026-09": 19,
+    "2026-10": 19,
+    "2026-11": 184
+  },
+  "language_metadata": {
+    "in": 434
+  },
+  "zero_like_posts": 152,
+  "top_author_counts": [
+    [
+      "AUTO2000ID_",
+      41
+    ],
+    [
+      "Cryptominer2050",
+      33
+    ],
+    [
+      "ToyotaID",
+      24
+    ],
+    [
+      "akunanyepp",
+      20
+    ],
+    [
+      "SmwGwOto",
+      18
+    ],
+    [
+      "Zenius14",
+      15
+    ],
+    [
+      "MasMasBiassaa",
+      14
+    ],
+    [
+      "innovacommunity",
+      12
+    ],
+    [
+      "LambeSahamjja",
+      7
+    ],
+    [
+      "kompascom",
+      7
+    ],
+    [
+      "putrapostdaily",
+      6
+    ],
+    [
+      "detikoto",
+      5
+    ],
+    [
+      "rianusedcars",
+      4
+    ],
+    [
+      "hariankompas",
+      4
+    ],
+    [
+      "IndonesiaGaruda",
+      4
+    ]
+  ],
+  "digiroom_mentions": 29,
+  "digiroom_mention_authors": {
+    "AUTO2000ID_": 29
+  },
+  "auto2000_literal_mentions": 38,
+  "conditional_event_fee_usd": 0.0651,
+  "actual_run_cost": "not provided",
+  "actual_submitted_input": "not provided",
+  "run_status_and_diagnostics": "not provided",
+  "raw_source_sha256": "300a770514ef3a642895bf700791c5d88e49fecf769156aa3bfd1f744da45fff",
+  "no_lexical_anchor_count": 116,
+  "no_lexical_anchor_caution": "A mechanical audit flag, not a count of irrelevant posts; lexicon omits some valid terms such as Brio."
+}

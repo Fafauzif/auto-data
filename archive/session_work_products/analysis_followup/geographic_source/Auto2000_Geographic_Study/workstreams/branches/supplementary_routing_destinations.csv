@@ -1,0 +1,12 @@
+market,destination_id,name,longitude,latitude,kind,capability_status,source_url
+Surabaya,ALT_QUALIFIED_01,Shop & Drive Lontar,112.65816,-7.282582,other,network_advertised,https://www.shopanddrive.com/outlet
+Surabaya,ALT_QUALIFIED_02,Shop & Drive Tidar,112.7216212,-7.2564618,other,network_advertised,https://www.shopanddrive.com/outlet
+Bandung,ALT_QUALIFIED_03,Shop & Drive Buah Batu,107.62935,-6.94372,other,network_advertised,https://www.shopanddrive.com/outlet
+Bandung,ALT_QUALIFIED_04,Shop & Drive Sudirman,107.58624,-6.91878,other,network_advertised,https://www.shopanddrive.com/outlet
+Medan,ALT_QUALIFIED_05,Shop & Drive Jamin Ginting,98.657685,3.544724,other,network_advertised,https://www.shopanddrive.com/outlet
+Medan,ALT_QUALIFIED_06,Shop & Drive Setiabudi,98.6432323,3.5777459,other,network_advertised,https://www.shopanddrive.com/outlet
+Palembang,ALT_QUALIFIED_07,Shop & Drive Kenten,104.767175,-2.944551,other,network_advertised,https://www.shopanddrive.com/outlet
+Palembang,ALT_QUALIFIED_08,Shop & Drive Plaju,104.787094,-2.990637,other,network_advertised,https://www.shopanddrive.com/outlet
+Surabaya,ALT_QUALIFIED_09,Dokter Mobil Lontar,112.662554,-7.2827215,other,local_oil_advertised,https://www.doktermobil.com/lontar/
+Surabaya,ALT_QUALIFIED_10,Dokter Mobil Ngagel,112.75563147,-7.29261554,other,local_oil_advertised,https://www.doktermobil.com/ngagel/
+Bandung,ALT_QUALIFIED_11,Dokter Mobil Bandung,107.60052335,-6.94791656,other,local_oil_advertised,https://www.doktermobil.com/bandung/

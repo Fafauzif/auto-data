@@ -1,0 +1,7 @@
+{
+  "branch_rows": 54,
+  "focal_rows": 12,
+  "checks": 216,
+  "errors": [],
+  "interpretation": "Leave-one-out finite-grid geometry, not actual customer catchments or closure economics"
+}

@@ -1,0 +1,1865 @@
+[
+  {
+    "file": "DATA_DICTIONARY.md",
+    "bytes": 4307,
+    "text_characters": 4307,
+    "lines": 30,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "ENVIRONMENT.txt",
+    "bytes": 2602,
+    "text_characters": 2602,
+    "lines": 144,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "MANIFEST_SHA256.csv",
+    "bytes": 41349,
+    "rows": 311,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "QA_SUMMARY.md",
+    "bytes": 3186,
+    "text_characters": 3186,
+    "lines": 31,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2562,
+    "text_characters": 2562,
+    "lines": 21,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "REPRODUCE.md",
+    "bytes": 2096,
+    "text_characters": 2096,
+    "lines": 18,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "SOURCES_AND_RIGHTS.md",
+    "bytes": 2437,
+    "text_characters": 2437,
+    "lines": 19,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "analysis/archive_context_summary.json",
+    "bytes": 249,
+    "top_level_items": 6,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "analysis/archive_nearest_scenarios.csv",
+    "bytes": 2984,
+    "rows": 25,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "analysis/province_station_counts.csv",
+    "bytes": 583,
+    "rows": 34,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "analysis/screen_coverage_crosswalk.csv",
+    "bytes": 1832,
+    "rows": 21,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/access_20_minutes.png",
+    "bytes": 62571,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/branch_influence.png",
+    "bytes": 131599,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/candidate_filter_retention.png",
+    "bytes": 71550,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/candidate_sensitivity_comparison.png",
+    "bytes": 55085,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/context_inventory_denominators.png",
+    "bytes": 122915,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/context_market_screen.png",
+    "bytes": 203382,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/context_national_channels.png",
+    "bytes": 339395,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/context_otoxpert_operators.png",
+    "bytes": 135746,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/destination_boundary_sensitivity.png",
+    "bytes": 60932,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/gap_bandung.png",
+    "bytes": 152031,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/gap_distributions.png",
+    "bytes": 51096,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/gap_medan.png",
+    "bytes": 138748,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/gap_palembang.png",
+    "bytes": 171301,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/gap_surabaya.png",
+    "bytes": 161912,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/national_charging.png",
+    "bytes": 225475,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/official_oil_alternatives.png",
+    "bytes": 284926,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/oil_access_comparison.png",
+    "bytes": 213885,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/origin_snapping.png",
+    "bytes": 80945,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/providers_bandung.png",
+    "bytes": 199625,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/providers_medan.png",
+    "bytes": 176295,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/providers_palembang.png",
+    "bytes": 148303,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/providers_surabaya.png",
+    "bytes": 216017,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/province_charging.png",
+    "bytes": 83708,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_detail_bandung.png",
+    "bytes": 97371,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_detail_medan.png",
+    "bytes": 93954,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_detail_palembang.png",
+    "bytes": 101856,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_detail_surabaya.png",
+    "bytes": 91905,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_examples_bandung.png",
+    "bytes": 191419,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_examples_medan.png",
+    "bytes": 176519,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_examples_palembang.png",
+    "bytes": 212908,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/route_examples_surabaya.png",
+    "bytes": 184763,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/snap_sensitivity.png",
+    "bytes": 59463,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "figures/travel_cdf.png",
+    "bytes": 215957,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "maps/Auto2000_Geographic_Explorer.html",
+    "bytes": 2052068,
+    "text_characters": 2052060,
+    "lines": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "qa/PDF_CONTENT_CHECK.json",
+    "bytes": 230,
+    "top_level_items": 6,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "qa/pdf_layout_bounds.json",
+    "bytes": 3932,
+    "top_level_items": 50,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "report/Auto2000_Geographic_Workshop_Study.pdf",
+    "bytes": 4103729,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "report/report_content.json",
+    "bytes": 72273,
+    "top_level_items": 50,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 131,
+    "text_characters": 131,
+    "lines": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "scripts/archive_context.py",
+    "bytes": 2536,
+    "text_characters": 2536,
+    "lines": 25,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "scripts/build_report.py",
+    "bytes": 52777,
+    "text_characters": 52777,
+    "lines": 289,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "scripts/package_release.py",
+    "bytes": 2284,
+    "text_characters": 2284,
+    "lines": 32,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_input_manifest.json",
+    "bytes": 2225,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/raw_licensed_data/SPKLU_CC_BY_NC_3_0/PROCESSING_LOG.md",
+    "bytes": 4304,
+    "text_characters": 4304,
+    "lines": 33,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/raw_licensed_data/SPKLU_CC_BY_NC_3_0/README.md",
+    "bytes": 3682,
+    "text_characters": 3682,
+    "lines": 73,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_chargers.csv",
+    "bytes": 615496,
+    "rows": 3767,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_stations.csv",
+    "bytes": 4503467,
+    "rows": 2454,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/raw_licensed_data/SPKLU_CC_BY_NC_3_0/spklu_data_dictionary.csv",
+    "bytes": 11709,
+    "rows": 89,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/datasets/bps_metadata.json",
+    "bytes": 49473,
+    "top_level_items": 7,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/datasets/bps_vehicle_stock_long.csv",
+    "bytes": 344344,
+    "rows": 1285,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/datasets/five_branch_coordinate_crosscheck.csv",
+    "bytes": 2380,
+    "rows": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/extension_geography/GEOGRAPHY_ROBUSTNESS_REPORT.md",
+    "bytes": 13791,
+    "text_characters": 13781,
+    "lines": 89,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/extension_geography/nearest_scenario_summary.csv",
+    "bytes": 2984,
+    "rows": 25,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/archive_inputs/workstreams/extension_geography/province_ratio_scenarios.csv",
+    "bytes": 583291,
+    "rows": 2992,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "sources/natural_earth_countries.geojson",
+    "bytes": 838726,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/ALTERNATIVE_CAPABILITY_FINDINGS.md",
+    "bytes": 4361,
+    "text_characters": 4361,
+    "lines": 39,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/BRANCH_METHODS.md",
+    "bytes": 6460,
+    "text_characters": 6460,
+    "lines": 38,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/acquisition_log.json",
+    "bytes": 612,
+    "top_level_items": 6,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/branch_inventory_summary.json",
+    "bytes": 941,
+    "top_level_items": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/build_alternative_evidence.py",
+    "bytes": 5811,
+    "text_characters": 5811,
+    "lines": 43,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/build_branch_inventory.py",
+    "bytes": 2777,
+    "text_characters": 2777,
+    "lines": 28,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/directory_source_register.csv",
+    "bytes": 10725,
+    "rows": 59,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/official_branch_facts.json",
+    "bytes": 127170,
+    "top_level_items": 155,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/official_branches.csv",
+    "bytes": 61290,
+    "rows": 155,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/official_branches_unique.csv",
+    "bytes": 70987,
+    "rows": 131,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/official_branches_unique.geojson",
+    "bytes": 141666,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/other_authorized_toyota.csv",
+    "bytes": 1288,
+    "rows": 4,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/routing_destinations.csv",
+    "bytes": 14246,
+    "rows": 96,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/supplementary_routing_destinations.csv",
+    "bytes": 1518,
+    "rows": 11,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/verified_alternative_evidence.csv",
+    "bytes": 12449,
+    "rows": 11,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/branches/verified_alternative_evidence.geojson",
+    "bytes": 19933,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/INTERACTIVE_QA.json",
+    "bytes": 6690,
+    "top_level_items": 10,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/README.md",
+    "bytes": 2018,
+    "text_characters": 2018,
+    "lines": 18,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/VISUAL_QA.md",
+    "bytes": 1875,
+    "text_characters": 1875,
+    "lines": 7,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/build_figures.py",
+    "bytes": 28043,
+    "text_characters": 28029,
+    "lines": 216,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/build_interactive.py",
+    "bytes": 12618,
+    "text_characters": 12610,
+    "lines": 40,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/check_explorer.cjs",
+    "bytes": 3077,
+    "text_characters": 3077,
+    "lines": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/figure_registry.json",
+    "bytes": 18542,
+    "top_level_items": 27,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/cartography/map_counts.csv",
+    "bytes": 147,
+    "rows": 4,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/CONTEXT_FINDINGS.md",
+    "bytes": 8381,
+    "text_characters": 8371,
+    "lines": 69,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/acquisition_log.json",
+    "bytes": 955,
+    "top_level_items": 10,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/build_context.py",
+    "bytes": 15817,
+    "text_characters": 15809,
+    "lines": 111,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/figure_contact_sheet.png",
+    "bytes": 351223,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/figure_registry.json",
+    "bytes": 3004,
+    "top_level_items": 4,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/make_context_figures.py",
+    "bytes": 9610,
+    "text_characters": 9606,
+    "lines": 75,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/otoxpert_official_inventory.csv",
+    "bytes": 16735,
+    "rows": 37,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/otoxpert_official_inventory.geojson",
+    "bytes": 38639,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/screening.csv",
+    "bytes": 7936,
+    "rows": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/service_evidence.csv",
+    "bytes": 1867,
+    "rows": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/context/sources.csv",
+    "bytes": 3230,
+    "rows": 13,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/PROVIDERS_METHODS.md",
+    "bytes": 9350,
+    "text_characters": 9350,
+    "lines": 73,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/PROVIDER_QA.json",
+    "bytes": 775,
+    "top_level_items": 11,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/acquire_overture.py",
+    "bytes": 3693,
+    "text_characters": 3693,
+    "lines": 34,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/balikpapan_acquisition.json",
+    "bytes": 367,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/bandar_lampung_acquisition.json",
+    "bytes": 371,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/bandung_acquisition.json",
+    "bytes": 365,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/banjarmasin_acquisition.json",
+    "bytes": 366,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/build_inventory.py",
+    "bytes": 5148,
+    "text_characters": 5148,
+    "lines": 56,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/chain_candidate_records.csv",
+    "bytes": 71022,
+    "rows": 176,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/cirebon_acquisition.json",
+    "bytes": 362,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/endpoint_probe_log.json",
+    "bytes": 1946,
+    "top_level_items": 6,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/extract_shopanddrive.py",
+    "bytes": 2723,
+    "text_characters": 2723,
+    "lines": 24,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/jabodetabek_acquisition.json",
+    "bytes": 367,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/jember_acquisition.json",
+    "bytes": 361,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/kediri_acquisition.json",
+    "bytes": 362,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/malang_acquisition.json",
+    "bytes": 363,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/market_provider_summary.csv",
+    "bytes": 804,
+    "rows": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/medan_acquisition.json",
+    "bytes": 358,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/oil_chain_geocode_candidates.csv",
+    "bytes": 15369,
+    "rows": 41,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/overture_acquisition_log.json",
+    "bytes": 5987,
+    "top_level_items": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/overture_catalog.json",
+    "bytes": 13138,
+    "top_level_items": 13,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/padang_acquisition.json",
+    "bytes": 362,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/palembang_acquisition.json",
+    "bytes": 377,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/pekanbaru_acquisition.json",
+    "bytes": 363,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/probe_endpoints.py",
+    "bytes": 1268,
+    "text_characters": 1268,
+    "lines": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/provider_inventory.csv",
+    "bytes": 17051333,
+    "rows": 45202,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/provider_inventory.geojson",
+    "bytes": 39134882,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/provider_qa.py",
+    "bytes": 2258,
+    "text_characters": 2258,
+    "lines": 11,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/balikpapan_automotive_source.parquet",
+    "bytes": 119979,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/bandar_lampung_automotive_source.parquet",
+    "bytes": 179269,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/bandung_automotive_source.parquet",
+    "bytes": 695413,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/banjarmasin_automotive_source.parquet",
+    "bytes": 113544,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/cirebon_automotive_source.parquet",
+    "bytes": 142248,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/jabodetabek_automotive_source.parquet",
+    "bytes": 3639647,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/jember_automotive_source.parquet",
+    "bytes": 78189,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/kediri_automotive_source.parquet",
+    "bytes": 99633,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/malang_automotive_source.parquet",
+    "bytes": 213377,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/medan_automotive_source.parquet",
+    "bytes": 413896,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/padang_automotive_source.parquet",
+    "bytes": 123710,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/palembang_automotive_source.parquet",
+    "bytes": 249171,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/pekanbaru_automotive_source.parquet",
+    "bytes": 296854,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/samarinda_automotive_source.parquet",
+    "bytes": 171688,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/raw/surabaya_automotive_source.parquet",
+    "bytes": 640276,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/samarinda_acquisition.json",
+    "bytes": 366,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/screening_metrics.csv",
+    "bytes": 1257,
+    "rows": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/shopanddrive_official_all.csv",
+    "bytes": 159495,
+    "rows": 425,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/shopanddrive_official_focal8.csv",
+    "bytes": 3161,
+    "rows": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/shopanddrive_official_study.csv",
+    "bytes": 106842,
+    "rows": 282,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/shopanddrive_source_receipt.json",
+    "bytes": 561,
+    "top_level_items": 10,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/study_windows.json",
+    "bytes": 3439,
+    "top_level_items": 15,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/providers/surabaya_acquisition.json",
+    "bytes": 365,
+    "top_level_items": 9,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/ACTUAL_REVIEW.md",
+    "bytes": 12445,
+    "text_characters": 12445,
+    "lines": 82,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/BRANCH_INFLUENCE_CHECK.json",
+    "bytes": 187,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/DESIGN_CRITIQUE.md",
+    "bytes": 8903,
+    "text_characters": 8903,
+    "lines": 72,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/FINAL_REVIEW_RECEIPT.json",
+    "bytes": 3460,
+    "top_level_items": 11,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/INDEPENDENT_CHECKS.json",
+    "bytes": 11871,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/PARTIAL_ROUTE_CHECK.json",
+    "bytes": 240,
+    "top_level_items": 6,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/SUPPLEMENT_CHECK.json",
+    "bytes": 893,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/check_stdout.json",
+    "bytes": 11872,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/independent_branch_checks.py",
+    "bytes": 1962,
+    "text_characters": 1962,
+    "lines": 29,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/independent_candidate_sample.csv",
+    "bytes": 9835,
+    "rows": 60,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/independent_checks.py",
+    "bytes": 6189,
+    "text_characters": 6189,
+    "lines": 62,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/independent_supplement_checks.py",
+    "bytes": 3460,
+    "text_characters": 3460,
+    "lines": 30,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_1.jpg",
+    "bytes": 246722,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_2.jpg",
+    "bytes": 262943,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_3.jpg",
+    "bytes": 254559,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_4.jpg",
+    "bytes": 264722,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_5.jpg",
+    "bytes": 246458,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/latest_contact_6.jpg",
+    "bytes": 134536,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/review/report_text.txt",
+    "bytes": 71369,
+    "text_characters": 71369,
+    "lines": 1837,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/EXECUTION_NOTES.md",
+    "bytes": 2161,
+    "text_characters": 2161,
+    "lines": 10,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/README.md",
+    "bytes": 5551,
+    "text_characters": 5551,
+    "lines": 53,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/ROUTING_FINDINGS.md",
+    "bytes": 7000,
+    "text_characters": 7000,
+    "lines": 55,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/branch_influence.py",
+    "bytes": 3712,
+    "text_characters": 3712,
+    "lines": 40,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/build_config.py",
+    "bytes": 4151,
+    "text_characters": 4151,
+    "lines": 47,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/000b062cf163c57150803e908419bf4620a7862243baa55a4bf6ec9baf6c0071.json",
+    "bytes": 41308,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/0025da1788cf273daae51ce6e80866965becc04878e48e9cbaf0b56a021ad557.json",
+    "bytes": 4467,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/0253ecd9d9145dd82f67b8dde72984cc1c7f9e2bc65302a37045ad0000daa6f0.json",
+    "bytes": 45901,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/03a7562373c0b067a986cb9196d6f84aef0db8684b3a3572e81d36b939c6d633.json",
+    "bytes": 45014,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/04f17a49e7dd70516422f62538a8b2b994120645dbb1fa0ef9b55b1612aa18a2.json",
+    "bytes": 4116,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/055670a3677bb0b8a89f34d7e46ab1bdf16b7227e9f66261455a667324216fa1.json",
+    "bytes": 45710,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/07ab2f623f3219c60d65a9c10ae208a0ba32fc30a463711d4704feb000f3e138.json",
+    "bytes": 3116,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/08c52cd77425658204233cd754f6e4606ff896ccc5205145df479996479c0f71.json",
+    "bytes": 3670,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/09c3d0724956a1c25d6596de8cf150f8e14a3a1af54c7c7397b410a1d32dab92.json",
+    "bytes": 10635,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/0cebce3de4ce7c55711bd43439892e11a293893b37462862d4e3d40e5a0a28e0.json",
+    "bytes": 35433,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/0efb8980f2781756b0303afdfd2f1c12c637b79bc453ff56c78009f75b7de8eb.json",
+    "bytes": 35831,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/12a2705d2d97167041b83a696e596b2710a3a5fb075b1702dd042576b804ab9c.json",
+    "bytes": 10632,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/1aaedbf51e664520788633306c66e2932ddca195788df41a7d76497ff834f1c4.json",
+    "bytes": 8353,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/1e98cc4eb0538272c514b06affa6871fc9f6834c5f8d0794ade7088dbfe4fc59.json",
+    "bytes": 47033,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/214890f968fa1185a7b01c00e6234d21c14bf5dc87a32b954d561c55c5fa6f53.json",
+    "bytes": 46319,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/21d1b522d4cd8e2fb380fe8b90addbbff53b1ae72d0363d0af84b6d1c9c07877.json",
+    "bytes": 46312,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/21d887622bf9435d92ab368bb867374ffd10d960973d570ed43360bf4b7245a7.json",
+    "bytes": 1823,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/23d2acba4150f259832d01a31af010c480325c264434798658c06d440172c421.json",
+    "bytes": 46189,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/2449dd46c70602e62ff6a1b9d7386f7bab61aae925b5bde244279e20b8c39c13.json",
+    "bytes": 46930,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/277752da910f6ef76831b5458b3a0016c499d2508709d6420c1816ce5a4cbbb3.json",
+    "bytes": 3194,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/27b84b706c31b6f8babe77aa73706a7ac3af4609242f3ccf975c388247209deb.json",
+    "bytes": 44997,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/298c95f69a0c98f0d62f7887491184ca5fb8e1ad988de55447e3e6b2979768e9.json",
+    "bytes": 46688,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/2a8d787ed18f0d841966fa5d1a863c66d067a0afac8d9e48bc4f462775b990d9.json",
+    "bytes": 46223,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/2af0cb5aa0896e655475d10c0c49e11eb23480166301e1291a015ceea47df08a.json",
+    "bytes": 19946,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/2af4d09300845cacd266b88f41649f26730c642189f1f8e3c16f128dee8fa8c0.json",
+    "bytes": 35205,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/2d642d9cb69ea0d2247bbb160c3f0c5287b60dd191395e3c458614acc9c72bcc.json",
+    "bytes": 10560,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/32e2958cdec7cdce03d83c9a03b6978ff3b59476457036e1f99a22b1f106333c.json",
+    "bytes": 4439,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/33f85e2a3c8f74643846790e777603d71d5f9eddd9bf3848f125fc69554d28db.json",
+    "bytes": 46050,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/39cbf4154dac7c4104b51b3aee488b7adc72c9575de3872a26af4f06572bc3e2.json",
+    "bytes": 35889,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/3a03bed731814fb338e78308382d988c01cef39a862ca7f2b0b88cb5d90e1130.json",
+    "bytes": 46732,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/3c558a5f0594118af1e732bd69440c277f0fa85b2627935c762e93ec7796c19f.json",
+    "bytes": 18902,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/3e3561ede72d03f3b6c719b7f0b74c4eddb0dab30d3491621094e8184f61e63a.json",
+    "bytes": 1652,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/3e9ce19b0a194f5b9f8fd96cde6dce076d9c9b2423d8e136bd63ce435a8c7ea5.json",
+    "bytes": 11589,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/4a36daf0854c3a4f338f3782c32594a69f1fc588909050f46ec6c461a6d5f31f.json",
+    "bytes": 45248,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/5640540322921c30cfe901f79047693a5fe38606d97b5f2d462e345878329ac4.json",
+    "bytes": 45287,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/5653fdf0994d9457b394a71ecf734d04c86c7158be40c5920fa0efa9930cab95.json",
+    "bytes": 46603,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/5a03b17b0a59c2da856c04eccfe8b1d23606ab50938de23b315d97151094606f.json",
+    "bytes": 35520,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/5bb511c5ea05a09c7f6fb9ce9b92dda78d17d0245a56e7903dd5aa9ecae000a1.json",
+    "bytes": 46527,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/5e1daf36281a23a6147f12af30d0c3c9daa94421af2cbb5fbfd673146034204e.json",
+    "bytes": 8607,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/6ba6db3ab6c412feda50346fa4b4406806fa6cb15097f6ca4607cc5fd1338d3f.json",
+    "bytes": 19078,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/6c67cb6efc2be143ca9988e45a09d0538b0354f3cbcf7388278cf49846819755.json",
+    "bytes": 35383,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/6cad6c31588098cb551f4833ba80c71e7191a5788f7fd8488c26ab97328f6b36.json",
+    "bytes": 10603,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/6f811d067a9eeda1b05c8b3156ede0de68536182540f6560911fbf204f7667c1.json",
+    "bytes": 2677,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/77909de4cbae4d5648eaf165004223582130988c4029a951c0a78ea59ab952bc.json",
+    "bytes": 44554,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/7a2ebcdfe8f2dfa0fd26b1814dcc661da528473c43ee61263f32ae24de7464d1.json",
+    "bytes": 44874,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/7a8967ef9071f77fa5609bd98ab520849d2c7664217b076ca74f59eec0563ce4.json",
+    "bytes": 23352,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/7aeb771f7f68d6cf328ecfcf915bed62b63da5fa9f3231f3d182f6ab44986e6d.json",
+    "bytes": 35450,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/7ef646283f6b62f85d9295a2b177db754bfd4c67172c4325e37e93bc7481b286.json",
+    "bytes": 45337,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/84ed9604a15b04787604e7034b03d30ba50ce0fbb34820e795f088e4694f47b4.json",
+    "bytes": 45522,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/85e4eac4a6e216201199f3f61ff968de557e2d12601a2984fd162771768c0f12.json",
+    "bytes": 3138,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/873b6d4e16da9938dc485065b8a02ef423196a202929ceb65d2a389e29708692.json",
+    "bytes": 20324,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/88aa572a11db61edc660f5de803dbbdcaf2acb210cd778f8f61366082667cf4e.json",
+    "bytes": 19159,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/8935ec17e975ae2f43115f3a7747197e79b6f13952132a6e8bc2ea004b871655.json",
+    "bytes": 45547,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/8a763e595cebf96ff9792a4e2034cd7869baf6d5ee4a3521a35b41b4771b03cf.json",
+    "bytes": 21588,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/8ec99ed0f349b864458ca2afaa88b1cb8cbc6009a4e497b791df893cbcb423a2.json",
+    "bytes": 42074,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9025e4f0c7b93fc4cd91eef4224d5a55c3c57f86cd12ec174580b788587666cb.json",
+    "bytes": 23314,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9105ee0ddf344ff7b1bea776772c182156a76d8c3a04947405355a636d0e39c6.json",
+    "bytes": 47260,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/927d9af0de3181a29b023d7a0726317b247191fa97580a00c28510b8f1c9028d.json",
+    "bytes": 17901,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9527248a25d8d32762f5a539f85f2b3ab66ab04787521ef2ad548770436663cf.json",
+    "bytes": 6606,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/968a0f7548d4b209f81f5ffefb34989a37107c270f116c903813a8b3ec667195.json",
+    "bytes": 2382,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9bd78014922bf7734a95ae38de41dbcc0b959093f97aeac7b2317e8d7ff53b8b.json",
+    "bytes": 8259,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9d07934fe26e7dc01c490b482f8327a180d78ebaf6123c0d376cd07c9f2b1d80.json",
+    "bytes": 6992,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/9e9a53c5091a4f25ea25679d730ad8c2489db04e49626c72d14cc80f31b02c99.json",
+    "bytes": 3680,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/a5297e0fd18f7fa26b31859f4a90ed110155d268ca277f96eb2d2c37886139c2.json",
+    "bytes": 35865,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/acf70e2cf643609632f2ea410dca8d572c3c4add1ae1314ee83f40f52cb31307.json",
+    "bytes": 20307,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/ae79faf85423fe8f6731679c3cfdf1d84c30b2af2010f99f15e20683027355fe.json",
+    "bytes": 23346,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/aeeb38fe646a242bd770510176db92e3d0f54e4a5310b27a8645f9ad4671262d.json",
+    "bytes": 45879,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/b171376004674eb162e51bf6a4dbafe3f6f2e0fcd9549b85686a22bc2cb9c85b.json",
+    "bytes": 35396,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/b9956f914ae520ffba4adf4d62212c7dd4dc431f53a38490f7d106b016267353.json",
+    "bytes": 46618,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/bcbab993010b16fd59dc7ce80d7b6a3656fc154371e547aa7604ae364bfaba19.json",
+    "bytes": 8154,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/be24a1c2a4254b4d848b8fa48de98c1596a66bbe99fcaea2e3d74578bff6af58.json",
+    "bytes": 35164,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/be7b15a16d8a184414dd9c4641baa4b9bc447241bdcc79691653a977607706d5.json",
+    "bytes": 10549,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/c1f86296b11f6be9bfb82599634f30c6327dfc68fef407b1f70e5f44c52d6034.json",
+    "bytes": 8923,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/c40081f0a7a7ec727e183d5f44970e0249e795a1be6f08a987382e1ff46946f2.json",
+    "bytes": 1716,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/c49861d1b047dbb6ab157274270e299f7f17b95d2737594f5cf0d9590f67e6ac.json",
+    "bytes": 11787,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/c550c17a17c2bc327f20ae76b9669ee02e9328f6d5e9518333b8aad794658bff.json",
+    "bytes": 45826,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/c9f03cc0f785016b150aa358580ee472a3d45d9cc8416f859735080e7f1a23ae.json",
+    "bytes": 35590,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/cf3e306c098b4185ba6104e7d5e90ed7e0ac8b7bf3f1d3801c647beef3fe1eca.json",
+    "bytes": 4314,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/cf499e0b2c42621a24d6bfe668778ae77dc58432b51efc26c3575c7432931086.json",
+    "bytes": 10751,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/cf7cdff4747a6c62f4027426bc07a8fb199a2a2a4579bd1666b7297e867c9b75.json",
+    "bytes": 46571,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d11922e3187a83d50f0b0ec2d146d5d1a8debe91800fa2c3f06ccf4ce42e7e73.json",
+    "bytes": 41155,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d11fbb0901ddbadc27967fe5e477f1af5193f2a713a746a627d3faf2401ae876.json",
+    "bytes": 46288,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d31e89963bddf9e8a43e9cc8cd6d443b9a01b52163ab5876331ef9094cddece5.json",
+    "bytes": 46497,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d778ed2b3fb599a4a63fb9e048cdbd495879e822326870f968be1e8901fa19aa.json",
+    "bytes": 44857,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d832bc5b2d406e4fa49c4ed728fbbf033fe54dfd8d2b8ef5f68c1e22e9f52517.json",
+    "bytes": 45880,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/d942658cb33b267afcdb0af562348bef0eb5e6c3092b4d536ef9bb8c709de3a4.json",
+    "bytes": 11858,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/de2507bc0bbbb6140b4a6dcdc6219183f9c5f5d134d0b7df946aa980653ee8f7.json",
+    "bytes": 46716,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/deb5c9eb2a18b63bfef0589d70bc5a11b1b48461d63d86cc62f034a5e683fe9a.json",
+    "bytes": 10616,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/e0c63a7b273f65e7d02e2a79c10381e3deefbe38bf45b4c60452b8ff6c143822.json",
+    "bytes": 35366,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/e458aaafca745e7556ff4dab550b1a179f72294815accb83ff4f35249930cca8.json",
+    "bytes": 941,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/e52fc5ff8281476ad054d41f377310f2443fa2827b1bf5c7fedf1e316767f077.json",
+    "bytes": 23297,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/ea4ce864d2668d29a6ed9ac5af252e1eb82fde10a3ac33fb4f5152ae8d67a7da.json",
+    "bytes": 9975,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/eac70c809f089ba06d6176874b5ec79bb85f38b71f0b28d804fd14f26e002887.json",
+    "bytes": 45479,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/ebc48cdc17655060e805a2e449440fdc599178cd2b07f4bfeda101a438c47789.json",
+    "bytes": 47286,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/ee9a8bcf622619bafd296ad11ce611698feedbb088761f4ff0c2d52d78fd4962.json",
+    "bytes": 45037,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/f8a197d35a7cb0569e891bac087942d39945e1d5c1c56afabc75bda1f8318caa.json",
+    "bytes": 21562,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/fb4d4d46195a200b5935c2ab44c9f0555728c066313e0795562322dec9ccf4e9.json",
+    "bytes": 44897,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/cache/ffe1aff92f347a202295821f3aea4184b94c8e1ceaa0882520b3b8da839d3f33.json",
+    "bytes": 1986,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/derive_sensitivity.py",
+    "bytes": 3375,
+    "text_characters": 3375,
+    "lines": 38,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/bandung_destinations.csv",
+    "bytes": 86334,
+    "rows": 303,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/completed2_config.json",
+    "bytes": 739,
+    "top_level_items": 1,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/config.json",
+    "bytes": 1484,
+    "top_level_items": 1,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/inventory_receipt.json",
+    "bytes": 1195,
+    "top_level_items": 4,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/medan_destinations.csv",
+    "bytes": 60110,
+    "rows": 215,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/palembang_destinations.csv",
+    "bytes": 23205,
+    "rows": 81,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/partial_config.json",
+    "bytes": 739,
+    "top_level_items": 1,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/portable_config.json",
+    "bytes": 1208,
+    "top_level_items": 1,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/supplement_destinations.csv",
+    "bytes": 17437,
+    "rows": 73,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/inputs/surabaya_destinations.csv",
+    "bytes": 97793,
+    "rows": 342,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/QA_RECEIPT.json",
+    "bytes": 3266,
+    "top_level_items": 4,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/acquisition_log.json",
+    "bytes": 141316,
+    "top_level_items": 72,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/branch_influence.csv",
+    "bytes": 15088,
+    "rows": 54,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/candidate_sensitivity_origins.csv",
+    "bytes": 188219,
+    "rows": 2240,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/candidate_sensitivity_summary.csv",
+    "bytes": 2949,
+    "rows": 32,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/failures.csv",
+    "bytes": 51,
+    "rows": 0,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/focal12_branches.csv",
+    "bytes": 4961,
+    "rows": 12,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/illustrative_routes.geojson",
+    "bytes": 145631,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/illustrative_routes_screened.geojson",
+    "bytes": 118539,
+    "top_level_items": 2,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/input_hashes.json",
+    "bytes": 1052,
+    "top_level_items": 5,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/market_summary.csv",
+    "bytes": 2580,
+    "rows": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/od_pairs.csv",
+    "bytes": 12749552,
+    "rows": 76221,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/origin_accessibility.csv",
+    "bytes": 244688,
+    "rows": 648,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/origins.csv",
+    "bytes": 24241,
+    "rows": 324,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/run_receipt.json",
+    "bytes": 567,
+    "top_level_items": 10,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/sensitivity_console.json",
+    "bytes": 10722,
+    "top_level_items": 32,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/output/snapping.csv",
+    "bytes": 2589114,
+    "rows": 25731,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/route_analysis.py",
+    "bytes": 12283,
+    "text_characters": 12283,
+    "lines": 141,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/QA_RECEIPT.json",
+    "bytes": 935,
+    "top_level_items": 3,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/combined_market_summary.csv",
+    "bytes": 2835,
+    "rows": 8,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/combined_origin_accessibility.csv",
+    "bytes": 322280,
+    "rows": 648,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/supplement_acquisition_log.json",
+    "bytes": 20072,
+    "top_level_items": 12,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/supplement_failures.json",
+    "bytes": 2,
+    "top_level_items": 0,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/supplement_od_pairs.csv",
+    "bytes": 1148165,
+    "rows": 5913,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement/supplement_origin_accessibility.csv",
+    "bytes": 79362,
+    "rows": 648,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/supplement_routes.py",
+    "bytes": 5323,
+    "text_characters": 5323,
+    "lines": 56,
+    "status": "parsed_or_binary_inventory"
+  },
+  {
+    "file": "workstreams/routing/validate.py",
+    "bytes": 3608,
+    "text_characters": 3608,
+    "lines": 37,
+    "status": "parsed_or_binary_inventory"
+  }
+]

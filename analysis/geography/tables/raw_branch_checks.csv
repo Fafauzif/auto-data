@@ -1,0 +1,291 @@
+market,branch_id,branch_name,field,recomputed,published,matches
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,nearest_origins_n,3,3.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,median_oil_gap_min,2.828333333333,2.828333333333,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,median_owned_network_gap_min,2.828333333333,2.828333333333,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,second_branch_penalty_median_min,1.6116666666666666,1.6116666666666666,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,grid_loses_10min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b8cde856194a,Auto2000 Basuki Rachmat,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,nearest_origins_n,7,7.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,oil_gap_gt5_n,3,3.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,owned_network_gap_gt5_n,3,3.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,median_oil_gap_min,2.233333333333,2.233333333333,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,median_owned_network_gap_min,2.233333333333,2.233333333333,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,second_branch_penalty_median_min,1.45,1.45,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,grid_loses_10min_without_branch_n,1,1.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d3bc6f3f3a04,Auto2000 HR Muhammad,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,nearest_origins_n,4,4.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,median_oil_gap_min,0.7216666666665,0.7216666666665,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,median_owned_network_gap_min,0.250833333333,0.250833333333,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,second_branch_penalty_median_min,1.3316666666666668,1.3316666666666668,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,grid_loses_10min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:b71c46313e08,Auto2000 Jemur Sari,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,nearest_origins_n,4,4.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,median_oil_gap_min,-0.5816666666665,-0.5816666666665,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,median_owned_network_gap_min,-0.5816666666665,-0.5816666666665,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,second_branch_penalty_median_min,0.849166666666667,0.849166666666667,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,grid_loses_10min_without_branch_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:48a87558adc0,Auto2000 Kenjeran,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,nearest_origins_n,11,11.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,oil_gap_gt5_n,3,3.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,median_oil_gap_min,2.133333333333,2.133333333333,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,median_owned_network_gap_min,1.08,1.08,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,second_branch_penalty_median_min,0.1216666666666678,0.1216666666666678,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,grid_loses_10min_without_branch_n,0,0.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,grid_loses_15min_without_branch_n,1,1.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:3202d92a65b4,Auto2000 Kertajaya,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,nearest_origins_n,11,11.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,median_oil_gap_min,0.745,0.745,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,median_owned_network_gap_min,0.745,0.745,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,second_branch_penalty_median_min,2.056666666666666,2.056666666666666,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,grid_loses_10min_without_branch_n,1,1.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:4461e3940054,Auto2000 Pecindilan,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,nearest_origins_n,11,11.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,oil_gap_gt5_n,1,1.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,median_oil_gap_min,-0.96,-0.96,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,median_owned_network_gap_min,-0.96,-0.96,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,second_branch_penalty_median_min,3.7566666666666664,3.7566666666666655,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,grid_loses_10min_without_branch_n,5,5.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,grid_loses_15min_without_branch_n,1,1.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:a16d56442a39,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,nearest_origins_n,3,3.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,oil_gap_gt5_n,2,2.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,owned_network_gap_gt5_n,2,2.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,median_oil_gap_min,5.618333333333,5.618333333333,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,median_owned_network_gap_min,5.618333333333,5.618333333333,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,second_branch_penalty_median_min,2.795,2.795,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,grid_loses_10min_without_branch_n,1,1.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c7e1d30ccca6,Auto2000 Waru,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,nearest_origins_n,4,4.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,median_oil_gap_min,0.0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,median_owned_network_gap_min,0.0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,second_branch_penalty_median_min,5.429166666666667,5.429166666666667,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,grid_loses_10min_without_branch_n,3,3.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:c724030c9aaa,Auto2000 Wiyung,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,nearest_origins_n,1,1.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,oil_gap_gt5_n,1,1.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,owned_network_gap_gt5_n,1,1.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,median_oil_gap_min,5.166666666667,5.166666666667,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,median_owned_network_gap_min,5.166666666667,5.166666666667,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,second_branch_penalty_median_min,3.7399999999999998,3.74,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,grid_loses_10min_without_branch_n,1,1.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:d4dbbc463f79,Auto2000 Manyar,grid_loses_30min_without_branch_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,nearest_origins_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,oil_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,owned_network_gap_gt5_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,median_oil_gap_min,,,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,median_owned_network_gap_min,,,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,second_branch_penalty_median_min,,,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,grid_loses_10min_without_branch_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,grid_loses_15min_without_branch_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,grid_loses_20min_without_branch_n,0,0.0,True
+Surabaya,auto2000:sidoarjo_corrected,Auto2000 Sidoarjo,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,nearest_origins_n,20,20.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,median_oil_gap_min,2.385833333333,2.385833333333,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,median_owned_network_gap_min,0.0,0.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,second_branch_penalty_median_min,2.618333333333333,2.618333333333333,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,grid_loses_10min_without_branch_n,8,8.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,grid_loses_15min_without_branch_n,2,2.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,grid_loses_20min_without_branch_n,0,0.0,True
+Medan,auto2000:b629609142d3,Auto2000 Gatot Subroto,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,nearest_origins_n,22,22.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,oil_gap_gt5_n,3,3.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,median_oil_gap_min,0.8966666666665,0.8966666666665,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,median_owned_network_gap_min,0.7616666666665,0.7616666666665,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,second_branch_penalty_median_min,1.45,1.45,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,grid_loses_10min_without_branch_n,5,5.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,grid_loses_15min_without_branch_n,2,2.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,grid_loses_20min_without_branch_n,1,1.0,True
+Medan,auto2000:61fc8cf24a82,Auto2000 Medan Amplas,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,nearest_origins_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,median_oil_gap_min,,,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,median_owned_network_gap_min,,,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,second_branch_penalty_median_min,,,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,grid_loses_10min_without_branch_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,grid_loses_15min_without_branch_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,grid_loses_20min_without_branch_n,0,0.0,True
+Medan,auto2000:254b89e73f0c,Auto2000 Medan Binjai,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,nearest_origins_n,7,7.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,median_oil_gap_min,-1.951666666667,-1.951666666667,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,median_owned_network_gap_min,-1.951666666667,-1.951666666667,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,second_branch_penalty_median_min,4.1850000000000005,4.1850000000000005,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,grid_loses_10min_without_branch_n,2,2.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,grid_loses_15min_without_branch_n,2,2.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,grid_loses_20min_without_branch_n,1,1.0,True
+Medan,auto2000:57070869de39,Auto2000 Medan Marelan,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,nearest_origins_n,24,24.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,median_oil_gap_min,0.346666666667,0.346666666667,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,median_owned_network_gap_min,0.346666666667,0.346666666667,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,second_branch_penalty_median_min,3.5700000000000003,3.5700000000000003,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,grid_loses_10min_without_branch_n,9,9.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,grid_loses_15min_without_branch_n,8,8.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,grid_loses_20min_without_branch_n,2,2.0,True
+Medan,auto2000:d159e4e5042b,Auto2000 Pancing,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,nearest_origins_n,5,5.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,median_oil_gap_min,0.195,0.195,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,median_owned_network_gap_min,0.195,0.195,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,second_branch_penalty_median_min,2.603333333333333,2.603333333333333,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,grid_loses_10min_without_branch_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,grid_loses_15min_without_branch_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,grid_loses_20min_without_branch_n,0,0.0,True
+Medan,auto2000:90c0811ed496,Auto2000 Sisingamangaraja,grid_loses_30min_without_branch_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,nearest_origins_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,oil_gap_gt5_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,owned_network_gap_gt5_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,median_oil_gap_min,,,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,median_owned_network_gap_min,,,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,second_branch_penalty_median_min,,,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,grid_loses_10min_without_branch_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,grid_loses_15min_without_branch_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,grid_loses_20min_without_branch_n,0,0.0,True
+Medan,auto2000:48eff074586a,Auto2000 Tanjung Morawa,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,nearest_origins_n,6,6.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,oil_gap_gt5_n,2,2.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,owned_network_gap_gt5_n,0,0.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,median_oil_gap_min,3.2083333333335,3.2083333333335,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,median_owned_network_gap_min,1.9741666666665,1.9741666666665,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,second_branch_penalty_median_min,0.8725000000000004,0.8725000000000004,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,grid_loses_10min_without_branch_n,0,0.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,grid_loses_15min_without_branch_n,0,0.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:a89287d8bff0,Auto2000 Asia Afrika,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,nearest_origins_n,14,14.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,oil_gap_gt5_n,1,1.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,owned_network_gap_gt5_n,1,1.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,median_oil_gap_min,1.3841666666669998,1.3841666666669998,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,median_owned_network_gap_min,1.3841666666669998,1.3841666666669998,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,second_branch_penalty_median_min,3.585833333333334,3.585833333333334,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,grid_loses_10min_without_branch_n,5,5.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,grid_loses_15min_without_branch_n,2,2.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:a1616f7fdef1,Auto2000 Cibiru,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,nearest_origins_n,3,3.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,oil_gap_gt5_n,1,1.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,owned_network_gap_gt5_n,1,1.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,median_oil_gap_min,2.56,2.56,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,median_owned_network_gap_min,2.56,2.56,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,second_branch_penalty_median_min,1.1633333333333344,1.1633333333333344,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,grid_loses_10min_without_branch_n,0,0.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,grid_loses_15min_without_branch_n,0,0.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:2c5e2b8ea15b,Auto2000 Pasteur,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,nearest_origins_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,oil_gap_gt5_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,owned_network_gap_gt5_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,median_oil_gap_min,,,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,median_owned_network_gap_min,,,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,second_branch_penalty_median_min,,,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,grid_loses_10min_without_branch_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,grid_loses_15min_without_branch_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:c7c6f639bc27,Auto2000 Rancaekek,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,nearest_origins_n,9,9.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,oil_gap_gt5_n,1,1.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,owned_network_gap_gt5_n,1,1.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,median_oil_gap_min,1.695,1.695,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,median_owned_network_gap_min,1.695,1.695,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,second_branch_penalty_median_min,2.155000000000001,2.155000000000001,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,grid_loses_10min_without_branch_n,1,1.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,grid_loses_15min_without_branch_n,0,0.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:db35fafd172a,Auto2000 Setiabudi,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,nearest_origins_n,21,21.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,oil_gap_gt5_n,9,9.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,owned_network_gap_gt5_n,8,8.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,median_oil_gap_min,4.248333333333,4.248333333333,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,median_owned_network_gap_min,3.435,3.435,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,second_branch_penalty_median_min,1.3083333333333342,1.3083333333333342,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,grid_loses_10min_without_branch_n,7,7.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,grid_loses_15min_without_branch_n,0,0.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:dba10a500b6d,Auto2000 Soekarno - Hatta,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,nearest_origins_n,5,5.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,oil_gap_gt5_n,0,0.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,owned_network_gap_gt5_n,0,0.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,median_oil_gap_min,0.561666666667,0.561666666667,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,median_owned_network_gap_min,0.561666666667,0.561666666667,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,second_branch_penalty_median_min,4.368333333333334,4.368333333333334,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,grid_loses_10min_without_branch_n,3,3.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,grid_loses_15min_without_branch_n,1,1.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:45b671187335,Auto2000 Soreang,grid_loses_30min_without_branch_n,0,0.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,nearest_origins_n,20,20.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,oil_gap_gt5_n,3,3.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,owned_network_gap_gt5_n,3,3.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,median_oil_gap_min,1.0833333333335,1.0833333333335,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,median_owned_network_gap_min,1.0833333333335,1.0833333333335,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,second_branch_penalty_median_min,2.294999999999998,2.294999999999998,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,grid_loses_10min_without_branch_n,2,2.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,grid_loses_15min_without_branch_n,3,3.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,grid_loses_20min_without_branch_n,0,0.0,True
+Bandung,auto2000:suci_corrected,Auto2000 Suci,grid_loses_30min_without_branch_n,0,0.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,nearest_origins_n,19,19.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,oil_gap_gt5_n,0,0.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,owned_network_gap_gt5_n,0,0.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,median_oil_gap_min,2.638333333333,2.638333333333,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,median_owned_network_gap_min,2.638333333333,2.638333333333,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,second_branch_penalty_median_min,1.5083333333333333,1.5083333333333333,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,grid_loses_10min_without_branch_n,3,3.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,grid_loses_15min_without_branch_n,1,1.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,grid_loses_20min_without_branch_n,0,0.0,True
+Palembang,auto2000:828504b70fe1,Auto2000 Plaju,grid_loses_30min_without_branch_n,0,0.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,nearest_origins_n,25,25.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,oil_gap_gt5_n,8,8.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,owned_network_gap_gt5_n,0,0.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,median_oil_gap_min,3.615,3.615,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,median_owned_network_gap_min,0.366666666667,0.366666666667,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,second_branch_penalty_median_min,3.6783333333333323,3.678333333333332,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,grid_loses_10min_without_branch_n,9,9.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,grid_loses_15min_without_branch_n,7,7.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,grid_loses_20min_without_branch_n,0,0.0,True
+Palembang,auto2000:b2118393db41,Auto2000 Tanjung Api - Api,grid_loses_30min_without_branch_n,0,0.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,nearest_origins_n,25,25.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,oil_gap_gt5_n,1,1.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,owned_network_gap_gt5_n,0,0.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,median_oil_gap_min,2.946666666667,2.946666666667,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,median_owned_network_gap_min,2.233333333333,2.233333333333,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,second_branch_penalty_median_min,3.2833333333333323,3.2833333333333323,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,grid_loses_10min_without_branch_n,5,5.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,grid_loses_15min_without_branch_n,2,2.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,grid_loses_20min_without_branch_n,1,1.0,True
+Palembang,auto2000:19504371b654,Auto2000 Veteran,grid_loses_30min_without_branch_n,0,0.0,True

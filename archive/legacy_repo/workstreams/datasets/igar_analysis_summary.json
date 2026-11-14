@@ -1,0 +1,33 @@
+{
+  "scope": "AUXILIARY_NOT_AUTO2000",
+  "rating_view_rows": 617722,
+  "vader_view_rows": 617722,
+  "shared_composite_keys": 617703,
+  "unique_rating_composite_keys": 617703,
+  "unique_vader_composite_keys": 617703,
+  "matched_rows_including_duplicate_ordinals": 617722,
+  "exact_duplicate_excess_rows_rating": 19,
+  "exact_duplicate_excess_rows_vader": 19,
+  "same_key_count_distributions_equal": true,
+  "label_disagreement_rows": 255414,
+  "label_disagreement_share": 0.4134772599972156,
+  "missing_content": 26,
+  "missing_translation": 7775,
+  "source_date_min": "2012-05-11 17:18:48",
+  "source_date_max": "2023-03-26 01:32:45",
+  "release_feature_rows": 617722,
+  "release_feature_columns": 15,
+  "true_accuracies_not_measured": true,
+  "ground_truth": "Neither rating-derived nor source VADER is human groundtruth",
+  "alignment_keys": [
+    "app",
+    "content",
+    "score",
+    "at",
+    "appVersion",
+    "translation"
+  ],
+  "pii_export": "No userhandles, rawtext, translation or exacttimestamp; pseudonymous content-based composite ID and month only",
+  "license": "CC BY4.0",
+  "citation": "Isnan, M., & Pardamean, B. (2025). IGAR: Indonesian Government App Review Dataset (V2). Mendeley Data. https://doi.org/10.17632/7zryc6k76z.2"
+}

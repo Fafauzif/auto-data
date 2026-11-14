@@ -1,0 +1,8 @@
+{
+  "observed_at_utc": "2026-11-11T03:20:41.456750+00:00",
+  "event": "Expanded shell network crawl process interrupted",
+  "tool_error": "Unified exec process failed: network approval was cancelled before a decision was returned",
+  "fetched_url_records_preserved": 345,
+  "response": "No escalation or bypass. Continue cached-only extraction and analysis; preserve queue and artifact checkpoint.",
+  "site_outage_inferred": false
+}

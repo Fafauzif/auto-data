@@ -1,0 +1,16 @@
+{
+  "market": "Balikpapan",
+  "bbox": [
+    116.76,
+    -1.35,
+    117.02,
+    -1.05
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:16.068247+00:00",
+  "status": "success",
+  "source_all_place_rows": 12246,
+  "automotive_candidate_rows": 665,
+  "sha256": "e32cb8dda1994ea410140b714808a447eaba0630ffa11aa6a2ba808c52f4646f",
+  "seconds": 16.55
+}

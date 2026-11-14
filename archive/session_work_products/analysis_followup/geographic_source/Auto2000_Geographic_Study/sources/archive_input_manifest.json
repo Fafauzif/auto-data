@@ -1,0 +1,61 @@
+{
+  "repository": "https://github.com/Fafauzif/auto-data",
+  "commit": "34498fe",
+  "files": [
+    {
+      "source": "raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_stations.csv",
+      "sha256": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef",
+      "bytes": 4503467
+    },
+    {
+      "source": "raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_chargers.csv",
+      "sha256": "a0063074a802c8fcd6f5bf58ee5798b07ac60c5116a39acfd048ce92a245bc3a",
+      "bytes": 615496
+    },
+    {
+      "source": "raw_licensed_data/SPKLU_CC_BY_NC_3_0/spklu_data_dictionary.csv",
+      "sha256": "474e3ce3caae879790d90b687bf9bfb9e3495c6969b36cd56dbdc966b1c7138b",
+      "bytes": 11709
+    },
+    {
+      "source": "raw_licensed_data/SPKLU_CC_BY_NC_3_0/README.md",
+      "sha256": "077bb8fea4761d9dfc262ae9e4c124ddaeeba437d8413e3cf134a45394dc1684",
+      "bytes": 3682
+    },
+    {
+      "source": "raw_licensed_data/SPKLU_CC_BY_NC_3_0/PROCESSING_LOG.md",
+      "sha256": "616b65c1c3ee18b556c22ce9a926b090871ec7096d2440cdb92db1aadce7be58",
+      "bytes": 4304
+    },
+    {
+      "source": "workstreams/datasets/bps_vehicle_stock_long.csv",
+      "sha256": "40a73e7e2a96da5b8ba0c3e3f4c4287e52d428ac6001ba56a06585854d3c2762",
+      "bytes": 344344
+    },
+    {
+      "source": "workstreams/datasets/bps_metadata.json",
+      "sha256": "7213b79cb0556484143e27c468bc7e3c7772257dbd4c65e61d66f3c3041e0516",
+      "bytes": 49473
+    },
+    {
+      "source": "workstreams/datasets/five_branch_coordinate_crosscheck.csv",
+      "sha256": "9491882b33b12e5e058631b544a2c40b0f5711525b7fa4d26b7c97cdf9aca7ea",
+      "bytes": 2380
+    },
+    {
+      "source": "workstreams/extension_geography/GEOGRAPHY_ROBUSTNESS_REPORT.md",
+      "sha256": "dcd8d5111cf2a30c8c449ba58ae5e843e002f854f61ba3cb39d1fc4964d15b52",
+      "bytes": 13791
+    },
+    {
+      "source": "workstreams/extension_geography/nearest_scenario_summary.csv",
+      "sha256": "aada7a8ff2d8454411ed1561e1d917496f28e4dc49d8949c4a7387fadbb0838d",
+      "bytes": 2984
+    },
+    {
+      "source": "workstreams/extension_geography/province_ratio_scenarios.csv",
+      "sha256": "f6e4834df73e3e85198dd66b233dae3b9ee8389119207ec4fda2873d0b03c431",
+      "bytes": 583291
+    }
+  ]
+}

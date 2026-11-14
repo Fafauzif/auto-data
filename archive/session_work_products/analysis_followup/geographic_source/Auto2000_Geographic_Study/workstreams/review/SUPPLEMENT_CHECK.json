@@ -1,0 +1,48 @@
+{
+  "type": "Independent AI audit of recorded supplemental route arithmetic, not field/job validation",
+  "checks": 2635,
+  "passed": 2635,
+  "failed": [],
+  "paired_n_by_market_scenario": [
+    {
+      "market": "Surabaya",
+      "scenario": "all_routed",
+      "n": 81
+    },
+    {
+      "market": "Surabaya",
+      "scenario": "snap_le_250m",
+      "n": 59
+    },
+    {
+      "market": "Medan",
+      "scenario": "all_routed",
+      "n": 81
+    },
+    {
+      "market": "Medan",
+      "scenario": "snap_le_250m",
+      "n": 78
+    },
+    {
+      "market": "Bandung",
+      "scenario": "all_routed",
+      "n": 81
+    },
+    {
+      "market": "Bandung",
+      "scenario": "snap_le_250m",
+      "n": 78
+    },
+    {
+      "market": "Palembang",
+      "scenario": "all_routed",
+      "n": 81
+    },
+    {
+      "market": "Palembang",
+      "scenario": "snap_le_250m",
+      "n": 69
+    }
+  ]
+}

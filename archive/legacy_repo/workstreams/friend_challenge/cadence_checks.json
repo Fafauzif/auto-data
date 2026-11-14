@@ -1,0 +1,31 @@
+[
+ {
+  "evidence_id":"CAD01",
+  "source_url":"https://itstimeforeveryone.toyota.astra.co.id/news-and-events/bikin-hati-tenang-servis-berkala-mobil-hybrid-di-bengkel-resmi-toyota-banyak-untungnya",
+  "title":"Bikin Hati Tenang, Servis Berkala Mobil Hybrid di Bengkel Resmi Toyota Banyak Untungnya",
+  "source_date_as_displayed":"03/11/2026",
+  "retrieved_date":"2026-11-11",
+  "retrieval_ref":"turn970962646view0",
+  "locator":"main text L69-72; FAQ L114-115",
+  "method":"opened official operator webpage",
+  "observation":"Toyota explicitly represents its xEV periodic-service intervals as the same. The FAQ describes a first service within one month and subsequent first-to-seventh services within six-month timing conditions.",
+  "evidence_state":"published operator statement",
+  "limitation":"Generic hybrid/xEV article, not an inspected model/year maintenance manual, actual visit history or equivalent work quantity. Does not establish that HEV and BEV jobs, parts, costs, payer or contribution are identical.",
+  "claim_implication":"Friend nuance about intervals versus work quantity is supported at published-representation level; fewer BEV engine-related jobs cannot alone prove fewer scheduled dealer visits.",
+  "causal_effect_established":false
+ },
+ {
+  "evidence_id":"CAD02",
+  "source_url":"https://itstimeforeveryone.toyota.astra.co.id/news-and-events/bikin-hati-tenang-servis-berkala-mobil-hybrid-di-bengkel-resmi-toyota-banyak-untungnya",
+  "source_date_as_displayed":"03/11/2026",
+  "retrieved_date":"2026-11-11",
+  "retrieval_ref":"turn970962646view0",
+  "locator":"main text L79-80",
+  "method":"opened official operator webpage",
+  "observation":"Toyota describes the service adviser providing a parts/labor estimate and obtaining customer agreement before repair.",
+  "evidence_state":"published operator commitment",
+  "limitation":"No actual invoice, authorization or branch execution observed. This is an existing promised process, not proof that every current quote is transparent or every charge authorized.",
+  "claim_implication":"R1/R2 price-clarity ideas must compare with an already represented estimate/approval process rather than assume none exists.",
+  "causal_effect_established":false
+ }
+]

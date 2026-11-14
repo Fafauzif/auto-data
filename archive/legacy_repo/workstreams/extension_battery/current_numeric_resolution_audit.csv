@@ -1,0 +1,6 @@
+folder,recorded_current_on_integer_ampere_grid,current_median_absolute_A,current_smallest_observed_nonzero_A,recorded_grid_not_calibrated_sensor_error
+Folder16,True,20.0,1.0,True
+Folder1,True,1.0,1.0,True
+Folder2,True,50.0,1.0,True
+Folder7,True,12.0,1.0,True
+Folder8,True,27.0,1.0,True

@@ -1,0 +1,65 @@
+[
+  {
+    "test_id": "L01",
+    "claim_ids": [
+      "FC01",
+      "FC14",
+      "FC40"
+    ],
+    "kind": "identification_counterexample",
+    "statement": "Exposure/awareness and an available CTA do not identify incremental delivery without outcome/counterfactual data.",
+    "world_A": "Awareness rises; the same already-interested customers buy as before.",
+    "world_B": "Awareness rises; previously unreached eligible customers deliver additional purchases.",
+    "result": "Both satisfy early-stage observations; downstream effect is unidentified.",
+    "actual_business_effect": false
+  },
+  {
+    "test_id": "L02",
+    "claim_ids": [
+      "FC03",
+      "FC11"
+    ],
+    "kind": "hypothetical_identity",
+    "vehicles": 100,
+    "visits_per_vehicle": 2,
+    "jobs_per_visit_A": 4,
+    "jobs_per_visit_B": 2,
+    "visits_each": 200,
+    "jobs_A": 800,
+    "jobs_B": 400,
+    "result": "Identical visit cadence can coexist with different work quantities.",
+    "actual_business_effect": false
+  },
+  {
+    "test_id": "L03",
+    "claim_ids": [
+      "FC07",
+      "FC24",
+      "FC33"
+    ],
+    "kind": "hypothetical_GP_identity",
+    "same_job_revenue_IDR": 500000,
+    "same_job_direct_cost_IDR": 300000,
+    "GP_each_channel_IDR": 200000,
+    "incremental_GP_channel_or_payer_switch_only_IDR": 0,
+    "result": "Holding job, price and direct cost constant, changing booking channel or payer alone does not add job GP.",
+    "actual_business_effect": false
+  },
+  {
+    "test_id": "L04",
+    "claim_ids": [
+      "FC26"
+    ],
+    "kind": "friend_illustration_recalculated",
+    "valid_offer_IDR_m": 180,
+    "target_floor_IDR_m": 200,
+    "cap_IDR_m": 10,
+    "capped_topup_IDR_m": 10,
+    "capped_customer_credit_IDR_m": 190,
+    "full_floor_shortfall_IDR_m": 20,
+    "quota": 20,
+    "maximum_capped_topups_IDR_m": 200,
+    "result": "A capped top-up does not provide the full floor in this illustration.",
+    "actual_business_effect": false
+  }
+]

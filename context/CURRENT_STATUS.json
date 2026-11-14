@@ -1,0 +1,22 @@
+{
+  "release_date": "2026-11-14",
+  "state": "complete",
+  "analysis_cutoff": "2026-11-14",
+  "private": true,
+  "sources_preserved": 2656,
+  "social_source_rows": 23351,
+  "social_platform_ids": 22484,
+  "source_count_is_not_independent_evidence": true,
+  "three_prongs_included": true,
+  "digital_core_case_requirements_included": true,
+  "paid_collection_run": false,
+  "github_pushed": false,
+  "next_read": [
+    "reports/EXECUTIVE_FINDINGS.md",
+    "reports/INTEGRATED_REPORT.md",
+    "context/NEXT_RESEARCH_DECISIONS.md"
+  ],
+  "context_type": "reconstructed_decision_handoff_with_available_original_sources",
+  "offline_reproduction_passed": true,
+  "integrity_and_analytical_checks": "qa/RELEASE_QA.json"
+}

@@ -1,0 +1,75 @@
+{
+  "review_date": "2026-11-14",
+  "reviewer": "Independent AI methods critic",
+  "pdf_sha256": "9561b2c32f7307dc0e82e2858d76f74b1df987a93203f68c8c85b78608fa964c",
+  "pdf_pages": 50,
+  "visual_review": {
+    "all_page_contact_sheets": true,
+    "latest_layout_full_page_pngs_inspected": [
+      2,
+      7,
+      10,
+      11,
+      17,
+      33
+    ],
+    "last_text_revision_pages_rechecked": [
+      10,
+      11
+    ],
+    "coverage_note": "All 50 enlarged/reordered-layout pages inspected through regenerated contact sheets; full-page renders inspected for 2/7/10/11/17/33. Final text-only edits on10/11 separately inspected using revised-10.png and revised-11.png; unaffected layout coverage retained.",
+    "blocking_visual_defects": 0,
+    "nonblocking_notes": [
+      "Some dense map labels require normal PDF zoom or standalone high-resolution figures.",
+      "Reference pages retain generous whitespace."
+    ]
+  },
+  "content_review": {
+    "blocking_claim_errors": 0,
+    "key_corrections_verified": [
+      "Payer separated from warranty status",
+      "Generic candidate pool not treated as equivalent jobs",
+      "Source-confidence and category noise illustrated",
+      "Two different 15-unit screens acknowledged",
+      "Other-authorised Toyota providers included in targeted supplement",
+      "Named oil-network comparison changes headline magnitude",
+      "No customer-demand or profit estimate",
+      "No new customer accounts/reviews",
+      "No true shifted-grid experiment claimed"
+    ],
+    "final_text_fixes_verified": [
+      "Page10 explicitly identifies67of425official Shop&Drive listings, separate from82134route comparisons",
+      "Page11 explicitly identifies all-routed81-origin figure versus250-metre-screened table"
+    ]
+  },
+  "independent_arithmetic": {
+    "main_inventory_and_summary_checks": 97,
+    "main_failed": 0,
+    "branch_influence_comparisons": 216,
+    "branch_failed": 0,
+    "supplement_comparisons": 2635,
+    "supplement_failed": 0
+  },
+  "issues_resolved_or_bounded": {
+    "IR01": "Bounded: strict job-qualified set unidentified; correctly reported unknown",
+    "IR02": "Resolved in report pages 34-35: concrete noise and provider-definition sensitivity",
+    "IR03": "Resolved: three other-authorised destinations in targeted supplement; no exhaustive network claim",
+    "IR04": "Bounded symmetrically for Auto2000 and alternatives",
+    "IR05": "Bounded finite-window disclosure plus core comparison",
+    "IR06": "Disclosed official-coordinate exclusions; unvalidated true location remains unknown",
+    "IR07": "Resolved purposive selection/post-discovery refinement disclosed",
+    "IR08": "Resolved operator-specific economics distinguished",
+    "IR09": "Resolved grid denominators explicit",
+    "IR10": "Resolved portable_config.json relative destination paths supplied"
+  },
+  "quality_scores": {
+    "task_fulfilment": 9.0,
+    "numerical_correctness": 9.5,
+    "evidence_interpretation": 9.3,
+    "completeness_and_reproducibility": 9.0,
+    "clarity_and_usability": 9.2,
+    "presentation": 9.2
+  },
+  "acceptance": "Accept as exploratory reproducible public-data geographic study; no unresolved blocking defect in reviewed PDF/data. Field/job truth, current capacity, customer switching and economic lift remain unidentified. Final ZIP integrity separately checked by root.",
+  "previous_reviewed_pdf_sha256": "1dacc6685732f790c7f66f7bb58283f2a7aacfaba48ea7ad0e7cde7883c4bda8"
+}

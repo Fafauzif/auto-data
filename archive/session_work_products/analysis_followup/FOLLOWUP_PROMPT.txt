@@ -1,0 +1,114 @@
+LANJUTKAN STUDI GEOGRAFIS AUTO2000 MENJADI ANALISIS KEPUTUSAN BISNIS
+
+Saya melampirkan Auto2000_Geography_Insight_Handoff.zip. Paket ini berisi sumber studi geografis sebelumnya, kedua PDF, seluruh ekspor social listening yang tersedia, hitung ulang tingkat pasar/cabang, serta catatan mentoring. Kerjakan langsung sampai selesai menggunakan data publik dan alat gratis. Jangan berhenti pada rencana kerja atau meminta konfirmasi untuk pilihan teknis rutin. Jangan menjalankan actor berbayar, menghubungi pihak lain, atau menganggap Anda memiliki akses CRM internal.
+
+TUJUAN
+Tentukan cabang/catchment dan jenis pekerjaan yang layak diprioritaskan Auto2000 untuk memenangkan kembali pekerjaan bengkel berbayar melalui Digiroom. Bedakan strategi untuk lokasi yang sudah kompetitif dalam akses dengan lokasi yang memiliki ketertinggalan akses. Pertahankan dukungan xEV sebagai bagian dari mandat kasus. Paid petrol-Toyota win-back adalah peluang aftersales tambahan, bukan pengganti pembuktian dampak xEV.
+
+Gunakan pertanyaan bisnis:
+"Untuk pekerjaan dan kelompok pemilik yang mana Auto2000 harus memperbaiki penawaran, kepastian penyelesaian, pemilihan cabang, atau akses fisik agar menghasilkan transaksi tambahan di Auto2000?"
+
+STANDAR INSIGHT
+Baca Mentoring Notes — Problem Analysis in BCC.pdf terlebih dahulu. Terapkan prinsipnya, bukan isi kasus apartemennya. Jangan memindahkan diagnosis product-market fit Sentul ke Auto2000 tanpa analisis.
+Setiap insight akhir harus menyebut: segmen/tugas, tempat/cabang, perbandingan atau ketegangan, penjelasan yang didukung bukti, keputusan yang berubah, dan alternatif yang kalah.
+Uji kebalikannya: jika kebalikan klaim tidak masuk akal, klaim itu terlalu umum. "Pelanggan menginginkan servis nyaman" dan "akses berbeda antarwilayah" tidak lolos.
+Jangan menyebut kerangka kerja sebagai temuan. Jangan mengakhiri setiap temuan dengan "perlu diverifikasi", "perlu data tambahan", atau "tidak bisa disimpulkan". Selesaikan sebanyak mungkin lewat penghitungan ulang dan ekstraksi publik yang terarah, lalu buat keputusan yang tegas dalam ruang bukti tersebut.
+Ketegasan harus berasal dari bukti. Pisahkan hasil penghitungan, penafsiran akun pelanggan, dan rekomendasi. Jangan mengarang kepastian kausal, kapasitas, permintaan, atau GP.
+Letakkan batas inferensi pada sumber/tabel dan satu catatan metode yang ringkas. Jangan menjadikan disclaimer sebagai isi utama laporan. Jangan pula menghapus batas yang akan mengubah makna headline.
+
+MULAI DARI FILE YANG SUDAH ADA
+1. Baca baseline/Auto2000_Geographic_Study/README.md, DATA_DICTIONARY.md, metode cabang/provider/routing, sumber layanan, dan laporan 50 halaman.
+2. Gunakan raw OD matrices, origin-level accessibility, branch influence, source registries, dan cached responses. Jangan mengulang pengumpulan yang sudah berhasil.
+3. Cocokkan report dengan sumber aktual. PDF yang ditinjau memiliki SHA256 9561b2c32f7307dc0e82e2858d76f74b1df987a93203f68c8c85b78608fa964c. Sebanyak 311 entri manifest telah diperiksa tanpa ketidaksesuaian.
+4. Baca konteks strategi terbaru bertanggal 14 November 2026 di raw_inputs/Auto2000_Master_AI_Context_Updated (2).md. Bagian historis bukan pengganti strategi terbaru.
+5. Baca reanalysis/market_reanalysis.csv, branch_reanalysis.csv, linked_social_evidence.json, dan source_audit.json. Angka berikut adalah hasil hitung ulang untuk diperiksa dan dikembangkan, bukan kesimpulan yang wajib Anda benarkan.
+
+TEMUAN AWAL YANG SUDAH LEBIH TAJAM
+Semua angka di bawah memakai origin berpasangan yang sama dalam skenario snap <=250 meter, bukan populasi atau pelanggan.
+- Surabaya: n=59; median selisih Auto2000 terhadap kandidat generik 3,622 menit, terhadap OtoXpert+Shop&Drive 0,967 menit; hanya 10 origin memiliki selisih terhadap jaringan oli >5 menit.
+- Medan: n=78; 4,086 menjadi 0,347 menit; 32 origin bahkan tidak lebih lambat menuju Auto2000; hanya 3 origin memiliki selisih >5 menit.
+- Bandung: n=78; 5,200 menjadi 2,636 menit; 21 origin memiliki selisih >5 menit.
+- Palembang: n=69; 3,425 menjadi 2,638 menit; 9 origin memiliki selisih >5 menit.
+Persentase penyusutan selisih adalah perbandingan skenario model, bukan dampak perbaikan layanan.
+
+Pemilihan cabang berdasarkan jumlah origin terdekat dapat menyembunyikan kebutuhan intervensi yang berlawanan:
+- Surabaya A. Yani dan Kertajaya masing-masing terdekat bagi 11 origin. Median selisih terhadap jaringan oli masing-masing -0,958 dan +2,130 menit.
+- Medan Pancing: 24 origin, median selisih +0,347 menit. Gatot Subroto: 20 origin, +2,385 menit.
+- Palembang Tanjung Api-Api: 25 origin, median +3,622 menit, 8 origin >5 menit. Plaju: 19 origin, median +2,635 menit, tidak ada yang >5 menit. Delapan dari sembilan origin Palembang dengan selisih >5 menit dialokasikan ke Tanjung Api-Api.
+Jangan membangun cerita "kota sungai berarti masalahnya penyeberangan" tanpa memeriksa jalur dan lokasi yang benar-benar menghasilkan ketertinggalan.
+
+Penggabungan Auto2000 dengan OtoXpert yang berlabel dioperasikan Auto2000, pada grid tersaring:
+- Mengurangi waktu minimum untuk 8/59 origin Surabaya, 15/78 Medan, 10/78 Bandung, 14/69 Palembang; definisi perbaikan di hitung ulang awal adalah >1 detik, bukan peningkatan yang sudah bermakna bagi pelanggan.
+- Menambah origin yang tercakup <=20 menit hanya 0, 0, 0, dan 2 secara berurutan.
+Hitung sensitivitas 10/15/20/30 menit dan besar penghematan yang lebih substantif sebelum menentukan peran jaringan ekonomis. OtoXpert dapat menambah pilihan penawaran tanpa banyak memperluas cakupan fisik.
+
+PEKERJAAN ANALITIS YANG HARUS DISELESAIKAN
+
+A. Perbaiki pembanding dan koordinat yang paling memengaruhi keputusan
+Pisahkan Auto2000 umum; OtoXpert dioperasikan Auto2000; OtoXpert operator lain; Toyota authorised lain; Shop&Drive; bengkel non-Auto2000 yang mendokumentasikan pekerjaan; serta kandidat generik.
+Jangan menggabungkan semuanya sebagai "independen". Kode legacy kind=independent hanyalah kandidat peta. Shop&Drive terkait Astra, bukan otomatis transaksi Auto2000. OtoXpert operator lain juga bukan otomatis GP Auto2000.
+Pecah menurut pekerjaan: ganti oli+filter, penggantian kampas rem depan, dan jalur xEV terpisah. Gunakan contoh Toyota bensin yang umum dan spesifik model/tahun; jangan membandingkan paket dengan parts, volume oli, atau cakupan jasa yang berbeda sebagai selisih harga terukur.
+Tuntaskan audit koordinat Auto2000 Suci dan Sidoarjo melalui sumber publik alternatif yang dapat dilacak. Jangan menyebut keduanya tutup karena koordinat sumber bermasalah. Simpan versi koordinat lama, sumber koreksi, dan hasil sebelum/sesudah. Periksa pintu masuk serta status operasi endpoint yang paling sering menjadi pemenang origin. Dahulukan endpoint yang bisa mengubah peringkat atau rekomendasi.
+Cari false negative kategori parts store atau bengkel spesialis yang benar-benar mendokumentasikan tugas terkait; sekaligus audit kandidat generik yang mendominasi hasil minimum. Jangan membatasi diri pada kata mobil/car di nama.
+Data baru harus menjawab pertanyaan keputusan tertentu. Jangan menambah ribuan POI hanya untuk memperbesar ukuran proyek.
+
+B. Ganti ranking jumlah titik menjadi pilihan intervensi per cabang
+Hitung ulang seluruh 27 cabang, bukan hanya 12 cabang terbesar menurut origin terdekat.
+Untuk setiap cabang/catchment: tampilkan komposisi alternatif berdasarkan operator dan pekerjaan, distribusi selisih akses, origin dengan/tanpa pilihan pengganti, pilihan cabang Auto2000 kedua, dan manfaat marginal jaringan Auto2000 yang sudah ada.
+Gunakan origin berpasangan yang sama saat membandingkan skenario. Laporkan null/unroutable sebagai tidak diketahui, bukan otomatis tidak terlayani.
+Bangun daftar pendek dengan tujuan yang berbeda:
+1. optimasi penawaran dan kepastian layanan pada catchment yang sudah kompetitif secara akses;
+2. pengurangan beban perjalanan pada kantong yang tertinggal;
+3. perlindungan akses pada cabang yang sulit digantikan;
+4. pemanfaatan jaringan ekonomis yang sudah ada.
+Pilih cabang bernama dan origin/catchment yang jelas. Jelaskan mengapa pilihan alternatif kalah. Berikan daftar "jangan prioritaskan" yang eksplisit berdasarkan tujuan analisis, bukan tuduhan bahwa cabang tidak berpotensi secara komersial.
+Jangan menyamakan overlap spasial dengan kapasitas kosong atau memberikan rekomendasi penutupan cabang berdasarkan leave-one-out.
+
+C. Uji mekanisme akses yang dapat mengubah keputusan
+Pisahkan jarak fisik, detour jaringan jalan, jam layanan yang cocok, jumlah perjalanan, dan koordinasi penyelesaian pekerjaan.
+Bandingkan skenario menunggu di lokasi, antar mobil lalu kembali mengambil, pickup/return, dan layanan di rumah hanya untuk pekerjaan yang sesuai.
+Hitung rute dua arah secara terpisah bila diperlukan; jaringan jalan dapat tidak simetris. Jangan menggandakan satu rute sebagai fakta perjalanan pulang-pergi.
+Untuk klaim sungai/jembatan/tol/satu arah, telusuri contoh jalur yang relevan dan kontrol pembanding; ilustrasi garis peta saja tidak membuktikan penyebab.
+Gunakan skenario antrean, durasi kerja, dan kunjungan ulang sebagai analisis sensitivitas berlabel jika tidak ada observasi. Tampilkan kapan keunggulan lokasi hilang karena satu kunjungan tambahan atau kegagalan konfirmasi, tanpa menyebut parameter buatan sebagai kondisi aktual.
+Hasilnya harus memilih intervensi tertentu. Jangan berakhir hanya pada peta warna.
+
+D. Perbaiki relevansi origin tanpa mengarang basis pelanggan Toyota
+Tambahkan origin pada area permukiman/aktivitas nyata dan uji grid bergeser atau resolusi berbeda pada catchment keputusan, bukan memperbesar seluruh grid secara seragam.
+Gunakan sumber publik BPS, built-up/land-use atau populasi yang dapat diakses untuk menguji apakah hasil didorong air, lahan industri, atau area kosong. Bila menggunakan bobot populasi, sebut sebagai paparan penduduk umum, bukan pemilik Toyota atau jumlah pekerjaan berbayar.
+Pertahankan hasil equal-weight baseline dan tampilkan apakah keputusan berubah di bawah origin, batas wilayah dan definisi provider alternatif.
+Jangan membuat skor peluang komposit dengan bobot arbitrer yang menyembunyikan konflik tujuan. Utamakan perbandingan langsung dan pilihan yang stabil pada beberapa asumsi.
+
+E. Hubungkan mekanisme social listening tanpa memaksakan kesamaan geografi
+Paket berisi 14.291 ID post X unik dari 14.892 baris; 3.976 ulasan Maps unik dari 25 listing, dengan 2.870 ulasan berteks; serta 74 item YouTube dari tiga video, terdiri atas 56 komentar utama dan 18 balasan.
+Komentar YouTube tidak mencakup video Toyota yang ditargetkan, dan 45 dari 74 item berasal dari satu video tentang harga bekas/Neta. Jangan menyebutnya sampel pemilik hybrid atau bukti umum semua BEV. Pertahankan sanggahan dan akun positif.
+Ulasan Maps berasal dari Jabodetabek, sedangkan empat deep dive adalah Surabaya, Medan, Bandung dan Palembang. Jangan memindahkan persentase keluhan antarkota atau menganggap lokasi outlet sebagai rumah penulis.
+X mencakup promosi, motor, berita, balasan tanpa induk, dan pendapat nonpemilik. Filter konteks sebelum memakai sebagai pengalaman pemilik. Tanggal unggah ulasan bukan otomatis tanggal kejadian.
+Gunakan linked_social_evidence.json sebagai kasus ber-ID yang dapat dibaca kembali, bukan sebagai sampel untuk menghitung prevalensi tema. Contoh penting:
+- Otoklix Simprug: akun perpindahan pertama dari bengkel resmi setelah free service berakhir.
+- Nawilis Radio Dalam: pelanggan menyebut tetap datang meski rumah jauh.
+- Auto2000 Yos Sudarso: akun booking jam 08.00 berakhir dengan pelanggan pulang tanpa servis.
+- BYD Kalimalang: akun booking aplikasi tidak terkonfirmasi di bengkel.
+- Otoklix Ciputat: akun positif alur booking, penjelasan estimasi, dan persetujuan perubahan harga/parts.
+- Nawilis Radio Dalam: akun pemilik VinFast VF3 tentang hotline OEM yang meneruskan reservasi dan penanganan portable charger. Ini bukan bukti kompetensi perbaikan baterai tegangan tinggi.
+Bandingkan mekanisme yang berhasil dengan yang gagal. Jangan mendesain fitur yang hanya mengulang booking yang sudah tersedia.
+Tambahkan satu bridge catchment Jabodetabek memakai inventory yang sudah dikumpulkan agar bukti perilaku dan akses dapat dikaji di pasar yang sama. Pilih lokasi karena dapat membedakan hipotesis, bukan karena paling banyak ulasan. Jangan perluas social scraping berbayar.
+
+F. Pertahankan tiga prong dan disiplin bisnis
+1. Pembeli xEV pertama di Auto2000: bagaimana lokasi demo/cabang yang tepat dan penawaran nyata membantu keputusan.
+2. Pekerjaan bengkel berbayar: gunakan payer dan entitlement, bukan warranty age saja. Pisahkan job bensin, HEV/PHEV, BEV, gratis, customer-paid, reimbursement, dan recall.
+3. Pembelian xEV berikutnya: peta akses inspeksi dan penyerahan appraisal/quote sebagai jalur, bukan jaminan nilai jual.
+Untuk xEV, petakan endpoint menurut masalah, model, layanan yang didokumentasikan, dan jalur rujukan. Banyaknya charger bukan ukuran kompetensi diagnosis. Sertifikat/check bukan otomatis perbaikan.
+Gunakan GP Auto2000 sebagai perimeter utama; Toyota dan Astra lebih luas adalah perimeter berbeda. Booking dari WhatsApp pindah ke Digiroom bukan otomatis transaksi tambahan.
+Jika input laba/kapasitas tidak tersedia, berikan titik impas, rentang sensitivitas dan syarat ekonomi terukur dengan variabel eksplisit. Jangan mengarang uplift atau berhenti tanpa membandingkan keputusan.
+
+HASIL AKHIR
+- Mulai dengan keputusan utama dan maksimal 5-8 insight yang spesifik. Jangan memaksa jumlah kalau temuan kuat lebih sedikit.
+- Setiap insight: headline tegas, angka/perbandingan yang membuktikannya, lokasi dan segmen, mekanisme dengan status bukti, keputusan dan pilihan yang kalah, sumber yang bisa dilacak.
+- Berikan shortlist cabang/catchment dan intervensi yang dipilih, plus daftar deprioritas berdasarkan tujuan yang sama.
+- Buat hanya peta/figur yang membuktikan keputusan: operator/job-aware access; kontras cabang berlawanan; kantong waktu tambahan; pilihan/intervensi; robustness keputusan.
+- Berikan PDF yang terbaca dengan temuan utama di depan dan metode di lampiran; ZIP sumber/data/kode lengkap yang mempertahankan baseline serta keluaran baru; CSV tabel keputusan dan insight ledger; perubahan kesimpulan dari studi sebelumnya.
+- Jika menggunakan subagen, arahkan audit independen pada koordinat/sumber, aritmetika, dan pembantahan rekomendasi. Jangan mengklaim review independen jika tidak dilakukan.
+- Uji rekomendasi terhadap penjelasan tandingan. Jika koreksi koordinat/provider membalikkan insight awal, revisi headline dan rekomendasinya.
+- Selesaikan pekerjaan secara mandiri dengan sumber publik gratis. Jangan kembali hanya dengan daftar keterbatasan atau saran penelitian berikutnya.
+
+Ukuran keberhasilan: setelah membaca hasilnya, saya tahu Auto2000 harus melakukan apa, untuk pekerjaan dan pemilik mana, di cabang/catchment mana, serta mengapa alternatif yang tampak masuk akal justru kalah.

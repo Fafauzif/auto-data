@@ -1,0 +1,53 @@
+{
+  "review_type": "Independent AI numerical, claim and visual review; not human/field validation",
+  "pdf": "insight_followup/output/report/Auto2000_Keputusan_Cabang_dan_Layanan.pdf",
+  "pdf_sha256": "179d0bd510e135f4917ffbb8b42ec4cc5ccc9569b38e220fb887462ad7886d55",
+  "accepted": true,
+  "blocking_issues": 0,
+  "pages": 31,
+  "independent_baseline_seed_checks": 20,
+  "corrected_origin_minimum_comparisons": 3888,
+  "new_origin_trip_optimisation_comparisons": 924,
+  "arithmetic_errors": 0,
+  "raw_new_directed_OD_rows": 5604,
+  "raw_new_origins": 66,
+  "corrected_endpoints": 29,
+  "visual_review": {
+    "full_initial_contact_pages": 30,
+    "selected_fullsize_pages": [
+      3,
+      13,
+      19
+    ],
+    "latest_changed_fullsize_pages": [
+      14,
+      15,
+      27,
+      28
+    ],
+    "unchanged_content_coverage_retained": true
+  },
+  "key_dispositions": [
+    "Palembang exact tie disclosed as7unique+1shared; no spurious catchment certainty",
+    "Palembang owned-channel9to0 independently confirmed",
+    "Suci correction and29endpoint minima independently confirmed",
+    "Outbound and roundtrip objectives audited separately",
+    "Citra8/Ciputat geographical bridge-caption ambiguity corrected",
+    "Sunday ownFatmawati vsotheroperator PosPengumben separated",
+    "Sixinsights are decisions, not framework headings",
+    "No claims of actual switching,capacity,pricepremium orGP uplift",
+    "Sidoarjo baseline-zero label revised toTujuanBenarSidoarjo/PilihanSelatan; report and neworigin evidence aligned"
+  ],
+  "scores_0_to_10": {
+    "task_fulfilment": 9.4,
+    "arithmetic_correctness": 9.7,
+    "interpretation": 9.4,
+    "decision_specificity": 9.5,
+    "readability_presentation": 9.1
+  },
+  "residual_nonblocking_notes": [
+    "Titikaktivitas wording describes mappedbuildingrepresentativepoints, not verifiedoccupancy; method explicitly excludes population/customer interpretation"
+  ],
+  "final_archive_integrity": "Parent agent responsibility; this receipt does not claim ZIP extraction audit",
+  "final_version_delta": "OnlySidoarjo interventionlabel changed since330cbb version; extracted textdiff reviewed and page28 rendered/read."
+}

@@ -1,0 +1,8 @@
+{
+  "mode": "search",
+  "twitterContent": "\"Toyota\" \"SmartDrive\" -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+  "queryType": "Latest",
+  "maxItems": 100,
+  "maxItemsPerTarget": 100,
+  "outputVariant": "rich"
+}

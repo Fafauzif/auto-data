@@ -1,0 +1,22 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.google.com/maps?cid=15627559728483218857"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=786013111513100746"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=16422093580575846780"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=14280981742468675681"
+    }
+  ],
+  "maxReviews": 350,
+  "reviewsSort": "newest",
+  "language": "id",
+  "reviewsOrigin": "google",
+  "personalData": false,
+  "reviewsStartDate": "2025-01-01"
+}

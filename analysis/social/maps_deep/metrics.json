@@ -1,0 +1,11 @@
+{
+  "all_rows": 8385,
+  "unique_review_ids": 8119,
+  "unique_places": 37,
+  "diagnostic_unique": 1562,
+  "latest_unique": 2847,
+  "diagnostic_latest_overlap": 266,
+  "curated_case_rows": 34,
+  "curated_unique_review_ids": 34,
+  "counting_warning": "Curated cases are illustrative selections, not a probability sample."
+}

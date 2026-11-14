@@ -1,0 +1,20 @@
+{
+  "source_records": 2656,
+  "unique_source_hashes": 1362,
+  "original_byte_total": 1630524898,
+  "container_count": 10,
+  "parted_originals": [
+    {
+      "logical_path": "archive/legacy_repo/raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat",
+      "size_bytes": 95036227,
+      "sha256": "6a4ef1cd24d48da922981d6a665623259151caf76b60fad6af132e4245d4c558"
+    },
+    {
+      "logical_path": "archive/legacy_repo/raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv",
+      "size_bytes": 100007213,
+      "sha256": "1b7a80d5eaedb2a69d0662d2b7d09d5f3bf9e09ea174ffa4ee80c6fda44295a5"
+    }
+  ],
+  "private_distribution": true,
+  "max_individual_file_bytes": 90000000
+}

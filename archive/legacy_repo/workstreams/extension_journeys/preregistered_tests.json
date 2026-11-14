@@ -1,0 +1,55 @@
+{
+  "registered_at_utc": "2026-11-11T03:43:18.388725+00:00",
+  "method": "Targeted evaluator counterexample tests, logged out, no contact/vehicle identifiers/form submissions. No bulk crawl. Browser session may retain public city preferences from previous evaluator work.",
+  "timing": "No performance benchmark or customer completion-time measurement.",
+  "tests": [
+    {
+      "test_id": "XT01",
+      "topic": "Viewport feasibility",
+      "question": "Does the advertised browser API support device/viewport control?",
+      "counterexample_criterion": "A real mobile viewport can be set and verified; otherwise explicitly not tested."
+    },
+    {
+      "test_id": "XT02",
+      "topic": "BEV finance access",
+      "question": "Is finance preview universally blocked until contact, or does access vary for a BEV product?",
+      "counterexample_criterion": "A selected bZ4X scenario produces pre-contact illustration with explicit assumptions."
+    },
+    {
+      "test_id": "XT03",
+      "topic": "BEV versus hybrid workshop qualification",
+      "question": "Does workshop selection support the BEV model before the identifier boundary?",
+      "counterexample_criterion": "bZ4X and hybrid selections can be compared without plate or personal details; no downstream capability inference."
+    },
+    {
+      "test_id": "XT04",
+      "topic": "Model-specific T-Care guidance",
+      "question": "Are the prior hybrid free-service terms universal across BEV and conventional models?",
+      "counterexample_criterion": "Different supported model/variant rows or programme conditions demonstrate job-specific access and limits."
+    },
+    {
+      "test_id": "XT05",
+      "topic": "BEV battery and warranty information",
+      "question": "Can a customer find model-specific battery/warranty terms before contact?",
+      "counterexample_criterion": "An actual public product journey exposes a bounded warranty/maintenance statement, with source date and scope."
+    },
+    {
+      "test_id": "XT06",
+      "topic": "BEV test-drive versus confirmed appointment",
+      "question": "Does BEV test-drive availability or confirmation differ from the observed hybrid route?",
+      "counterexample_criterion": "Accessible bZ4X route and model/branch/FAQ conditions are recorded; no appointment submitted."
+    },
+    {
+      "test_id": "XT07",
+      "topic": "HHC alternate-language discovery",
+      "question": "Does one more plausible Indonesian search phrase falsify the apparent English-query discovery gap?",
+      "counterexample_criterion": "A programme/eligibility result is discoverable through the site search; a null local result is not sitewide absence."
+    },
+    {
+      "test_id": "XT08",
+      "topic": "Branch job information",
+      "question": "Does a named branch page expose model/job capability beyond the coarse category filter?",
+      "counterexample_criterion": "A named branch explicitly supports a defined EV service job or links to scope details; hours alone are not capacity proof."
+    }
+  ]
+}

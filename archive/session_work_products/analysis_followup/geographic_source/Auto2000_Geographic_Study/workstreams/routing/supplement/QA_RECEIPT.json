@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "check": "Supplement rows expected73destinationsx81origins",
+      "passed": true,
+      "detail": 5913
+    },
+    {
+      "check": "Supplement OD identifiers unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Supplement matrix origin pairs complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Supplement failure list empty",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No negative times or distances",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Combined rows2scenariosx324origins",
+      "passed": true,
+      "detail": 648
+    },
+    {
+      "check": "Authorised combined cannot exceedAuto2000 time",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Advertised OtoXpertplusSDmin calculation",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 8,
+  "failed": 0
+}

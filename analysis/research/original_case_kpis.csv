@@ -1,0 +1,31 @@
+metric,value,unit,casebook_page,boundary
+downloads,500000+,downloads,11,Cumulative denominator; not active or unique customers
+monthly_active_users_midpoint,21000,monthly active users,11,Case range20000–22000; approximate
+mau_download_share,4,percent approximate,11,Not active share of currently installed devices
+sessions_per_active_user,1.6,sessions per month,11,Case marks this value with an asterisk
+consumer_traffic_digital_share,10–20,percent,11,Case traffic scope; not sales conversion
+mau_primary_service_booking,46,percent of MAU activity distribution,11,Different denominator from booking channel mix
+mau_primary_catalog_prices,22,percent of MAU activity distribution,11,Not vehicle-purchase conversion
+mau_primary_promotions_loyalty,14,percent of MAU activity distribution,11,Not incremental contribution
+mau_primary_tracking,10,percent of MAU activity distribution,11,Order and service tracking combined
+mau_primary_testdrive_tradein,8,percent of MAU activity distribution,11,"Two tasks combined, not completed transactions"
+bookings_walkin_phone,46,percent of service bookings,11,Combined channels
+bookings_whatsapp,38,percent of service bookings,11,Assisted digital channel
+bookings_digiroom,16,percent of service bookings,11,No volume or completion denominator supplied
+mau_age_18_24,6,percent of MAU age distribution,11,Not all Toyota owners
+mau_age_25_35,37,percent of MAU age distribution,11,Not all Toyota owners
+mau_age_36_50,41,percent of MAU age distribution,11,Not all Toyota owners
+mau_age_51plus,16,percent of MAU age distribution,11,Not all Toyota owners
+investment_cap_2026_2028,150,IDR billion incremental investment ceiling,6,Not a target spend or verified approved budget
+case_national_wholesale_2025,803687,vehicles,8,"Wholesales, not deliveries to retail customers"
+case_xev_total_2025,175144,vehicles,8,HEV+PHEV+BEV in this case
+case_toyota_wholesale_2025,250431,vehicles,9,"Toyota, not Auto2000"
+case_toyota_xev_estimate,33950,vehicles approximate estimated,9,Do not replace with Toyota+Lexus AR figures
+case_auto2000_toyota_sales_share,70–80,percent approximate,2,Case network description; not a dealer-specific conversion factor for every cohort
+case_xev_share_2025,21.8,percent of national wholesales,8,HEV+PHEV+BEV; differs from BEV-only definitions
+case_bev_units_2025,103931,vehicles,8,BEV share59.3%of case EV total and12.9%of national market
+case_hev_units_2025,65943,vehicles,8,HEV share37.7%of case EV total and8.2%of national market
+case_phev_units_2025,5270,vehicles,8,PHEV share3.0%of case EV total and0.7%of national market
+case_toyota_hybrid_share,51,percent of hybrid sales,3,Not Astra Group national share and not Auto2000 customer share
+case_giias_orders,4250,SPK orders,9,GIIAS2025; not completed delivered retail transactions
+case_giias_order_electrified_share,34,percent of GIIAS SPK orders,9,Not national sales mix or delivered vehicle mix

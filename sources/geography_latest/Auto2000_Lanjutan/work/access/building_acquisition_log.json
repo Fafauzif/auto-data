@@ -1,0 +1,114 @@
+[
+  {
+    "name": "bandung_southwest",
+    "bbox": [
+      107.56,
+      -6.99,
+      107.69,
+      -6.92
+    ],
+    "rows": 376775,
+    "release": "2026-10-21.0",
+    "seconds": 33.67,
+    "sha256": "0fd915638f0df683dd6e751344c5bf772363132b48af8a5e54f92f07c7472099",
+    "status": "ok"
+  },
+  {
+    "name": "sidoarjo",
+    "bbox": [
+      112.69,
+      -7.46,
+      112.76,
+      -7.4
+    ],
+    "rows": 120921,
+    "release": "2026-10-21.0",
+    "seconds": 20.56,
+    "sha256": "7da0a303d828b633fa99e293be83b4dd58178357d937e883d027606b843070d8",
+    "status": "ok"
+  },
+  {
+    "name": "surabaya_west",
+    "bbox": [
+      112.64,
+      -7.38,
+      112.74,
+      -7.29
+    ],
+    "rows": 275351,
+    "release": "2026-10-21.0",
+    "seconds": 0.06,
+    "sha256": "94f01ae104fb7bb696d0c3b3b1ad4c3433cc1c5e3e7e31b44df046c940bf3bbd",
+    "status": "ok"
+  },
+  {
+    "name": "surabaya_south",
+    "bbox": [
+      112.69,
+      -7.36,
+      112.78,
+      -7.28
+    ],
+    "rows": 304649,
+    "release": "2026-10-21.0",
+    "seconds": 0.1,
+    "sha256": "314ee06916fdae6969a3879317a8e89dd127c2c95a42ce5d230b9e685e87d483",
+    "status": "ok"
+  },
+  {
+    "name": "surabaya_east",
+    "bbox": [
+      112.73,
+      -7.3,
+      112.81,
+      -7.23
+    ],
+    "rows": 240639,
+    "release": "2026-10-21.0",
+    "seconds": 0.06,
+    "sha256": "5bfd8ab1ed344e6f0d8d604efb75176232d449f8920a8d38d0dc0d1225e8cf6e",
+    "status": "ok"
+  },
+  {
+    "name": "palembang_north",
+    "bbox": [
+      104.69,
+      -2.98,
+      104.79,
+      -2.88
+    ],
+    "rows": 225825,
+    "release": "2026-10-21.0",
+    "seconds": 0.04,
+    "sha256": "c1b4f4e7782122901ffda0ac39619d1f5383233651030851311e2e7714eac454",
+    "status": "ok"
+  },
+  {
+    "name": "bandung_east",
+    "bbox": [
+      107.64,
+      -6.96,
+      107.75,
+      -6.86
+    ],
+    "rows": 316059,
+    "release": "2026-10-21.0",
+    "seconds": 0.06,
+    "sha256": "089641de74bb1c95e1c46955f5428b08b2752574982b54a024526504ed6e8e01",
+    "status": "ok"
+  },
+  {
+    "name": "jakarta_south",
+    "bbox": [
+      106.75,
+      -6.29,
+      106.84,
+      -6.2
+    ],
+    "rows": 277951,
+    "release": "2026-10-21.0",
+    "seconds": 0.06,
+    "sha256": "9ade7ce44fd473d487e010ad668dce2a3f114cea5dfc018e4ea3e76b7d86fb54",
+    "status": "ok"
+  }
+]

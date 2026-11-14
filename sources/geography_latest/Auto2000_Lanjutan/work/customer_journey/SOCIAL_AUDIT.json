@@ -1,0 +1,31 @@
+{
+  "maps_raw_rows": 3976,
+  "maps_unique_review_ids": 3976,
+  "maps_unique_listings": 25,
+  "maps_text_rows": 2870,
+  "maps_stars_1_to_3": 297,
+  "maps_geography": "Jabodetabek listings, not reviewer residence",
+  "maps_permanently_closed_listings": [
+    "B-Quik Lebak Bulus"
+  ],
+  "x_raw_rows": 14892,
+  "x_unique_ids": 14291,
+  "x_excess_duplicate_rows": 601,
+  "youtube_rows": 74,
+  "youtube_unique_cids": 74,
+  "youtube_types": {
+    "comment": 56,
+    "reply": 18
+  },
+  "youtube_video_counts": {
+    "NwY92P2iHUg": 3,
+    "0hpzmOHCaso": 26,
+    "znyuaICx_8o": 45
+  },
+  "selected_accounts": 33,
+  "selected_maps": 23,
+  "selected_X": 6,
+  "selected_YouTube": 4,
+  "scope": "Purposive mechanism/counterexample reading; lexical screening does not constitute all-record qualitative coding; no theme prevalence or geographic transfer",
+  "privacy": "Derived ledger excludes reviewer names/handles/photos/contact fields and full review text; source IDs/URLs and paraphrases retained"
+}

@@ -1,0 +1,9 @@
+{
+  "mode": "replies",
+  "tweetIds": [
+    "REPLACE_WITH_REAL_ROOT_POST_ID_FROM_EXPORT"
+  ],
+  "maxItems": 2000,
+  "maxItemsPerTarget": 100,
+  "outputVariant": "rich"
+}

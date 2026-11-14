@@ -1,0 +1,52 @@
+{
+  "source_doi": "10.17632/7vdkzpnjgj.2",
+  "source_license": "CC BY-NC3.0",
+  "source_context": "One Audi e-tron, San Francisco Bay Area, November2019\u2013October2020; paper DOI10.1016/j.joule.2023.07.018",
+  "selected_bundles": 5,
+  "selected_bundle_names": [
+    "Folder16",
+    "Folder1",
+    "Folder2",
+    "Folder7",
+    "Folder8"
+  ],
+  "selected_raw_payload_bytes": 283141466,
+  "largest_source_file_bytes": 95036227,
+  "physical_or_BMS_signal_scalar_values_excluding_clocks_epoch": 56507201,
+  "clock_scalar_values": 56599111,
+  "epoch_values": 91910,
+  "single_vehicle_not_people_or_independent_observations": true,
+  "current_voltage_clocks_identical_all_selected": true,
+  "soc_clock_identical_bundle_count": 2,
+  "temperature_clock_identical_bundle_count": 0,
+  "gap30_segments": 106,
+  "eligible_charging_soc_slope_segments": 4,
+  "observed_supported_hours_gap1": 51.973665686389175,
+  "source_always_negative_charge_statement_has_rare_positive_transient_exceptions": true,
+  "charge_positive_sample_counts": {
+    "Folder1": 63,
+    "Folder7": 176
+  },
+  "charge_negative_sample_fraction": {
+    "Folder1": 0.9985086191486175,
+    "Folder7": 0.9990957134143231
+  },
+  "health_reference_capacity_data_public": false,
+  "health_reference_qualification": "README states Figure2 data confidential and not public; paper capacity estimator is proprietary. No capacity/SOH ground-truth field among ten actual variables.",
+  "privacy": {
+    "all_actual_raw_fields_numeric": true,
+    "field_names_exactly_expected_ten": true,
+    "GPS_owner_VIN_contact_fields_detected": false,
+    "absolute_epoch_time_present": true,
+    "direct_identifier_field_screen_not_comprehensive_privacy_certification": true,
+    "public_figures_use_elapsed_time_only": true
+  },
+  "source_sha256_matches_all_selected": true,
+  "initial_purposeful_subset_not_random": true,
+  "raw_already_cardinality_reduced_per_README": true,
+  "counts_not_inflated_by_interpolation": true,
+  "observed_Ah_per_SOCpp_range": [
+    1.5701242035612515,
+    2.1948078904307136
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "claims": 29,
+  "used_source_urls": 17,
+  "catalog_sources": 18,
+  "latest_direct_source_status_counts": {
+    "200": 14,
+    "None": 3,
+    "404": 1
+  },
+  "raw200_empty_challenge_sources": [
+    "I01"
+  ],
+  "web_retrieved_substantive_alternatives": [
+    "I01 product",
+    "I09 VinFast",
+    "I10 RVI overview",
+    "I11 RVI passenger"
+  ],
+  "retry_note": "One longer timeout retry each for I12/I17 completed without error; initial partialresponses retained in log",
+  "illustrative_scenarios": 51,
+  "observed_scenario_records": 0,
+  "limits": [
+    "No signed insurer/distribution/fee contract",
+    "No product-specific RVI quote or local availability confirmation",
+    "No underwriting/claims/consumer demand/GP measured",
+    "Regulatory documentary review is not a legal/sharia opinion",
+    "No productabsenceclaim from unavailable search ordirectory"
+  ],
+  "candidate_options": 8
+}

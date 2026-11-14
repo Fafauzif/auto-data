@@ -1,0 +1,135 @@
+{
+  "repository": "https://github.com/Fafauzif/auto-data",
+  "local_clone": "/workspace/scratch/13acdac15ef5/auto-data",
+  "commit": "34498fe033ae4dcd1a52c8d2e039f870b00d08fe",
+  "repository_research_cutoff": "2026-11-11",
+  "current_strategy_document": "User-supplied Auto2000_Master_AI_Context_Updated (2).md, strategy updated 2026-11-14",
+  "precedence": "Current user request and 14 November strategy guide proposal work; 11 November repository supplies historical evidence and methods. Earlier no-strategy release boundaries do not reverse the later user-approved strategy.",
+  "reviewed_files": [
+    {
+      "path": "DATA_GUIDE.md",
+      "sha256": "1767d00b1fa6296ca89da03a3a170189b9a445eb82ac5bf3de399edfce0014df"
+    },
+    {
+      "path": "reports/RESEARCH_REPORT.md",
+      "sha256": "ca952989fece2c5e87cd4c6c556617470ab09747eb0d87c69e51f40ff19ee619"
+    },
+    {
+      "path": "reports/EXTENSION_SYNTHESIS.md",
+      "sha256": "d90e748901d35c4fb9641bc1e7c1ae4ae127147376d07fc049dcd2d65ea5470c"
+    },
+    {
+      "path": "reports/INSIGHT_BOOK.md",
+      "sha256": "8ee56ddbadab34877005c520a77245d780502a3ab820a2187daaf0a684faf0dd"
+    },
+    {
+      "path": "reports/HYPOTHESIS_ASSESSMENT_NOTES.md",
+      "sha256": "da6b74b1eb53afebe9e951ebcad1f523b262b0ac249918c1c0a2c89c8aca559f"
+    },
+    {
+      "path": "workstreams/extension_reviews/EXTENSION_REVIEW_REPORT.md",
+      "sha256": "1b47f61acc56e6bcce5ee487e4bd8323d3fc7bbdaf302fb09f0c9d22a671fd7c"
+    },
+    {
+      "path": "workstreams/journeys/FRIEND_CONTEXT_CHALLENGE.md",
+      "sha256": "3981659682af5749534f9290ecb5d43f5d965d7c19c587ea93de3a88d50e25f1"
+    },
+    {
+      "path": "workstreams/extension_stakeholders/MECE_STAKEHOLDER_REPORT.md",
+      "sha256": "e9e557b93d7f80e7a286c71270fb7db386c8635d8d47f6c7c5aaf1bdf3b2647d"
+    }
+  ],
+  "crosswalk": [
+    {
+      "pilot_cases": [
+        "C01",
+        "C02"
+      ],
+      "repository_refs": [
+        "reports/INSIGHT_BOOK.md: IB04, IB09",
+        "workstreams/journeys/FRIEND_CONTEXT_CHALLENGE.md: R1"
+      ],
+      "relation": "New illustrative accounts of information/household decisions; existing finance/comparison capability remains baseline."
+    },
+    {
+      "pilot_cases": [
+        "C04",
+        "C05",
+        "C06",
+        "C18",
+        "C19",
+        "C20",
+        "C22"
+      ],
+      "repository_refs": [
+        "reports/INSIGHT_BOOK.md: IB03, IB16",
+        "workstreams/extension_stakeholders/MECE_STAKEHOLDER_REPORT.md: sections 1 and 2"
+      ],
+      "relation": "Supports investigating job, trust and payer distinctions; does not measure switchable paid volume or branch GP."
+    },
+    {
+      "pilot_cases": [
+        "C03",
+        "C07",
+        "C08",
+        "C14"
+      ],
+      "repository_refs": [
+        "reports/INSIGHT_BOOK.md: IB04, IB09",
+        "reports/SOLUTION_MENU.md: SOL-14 and SOL-15"
+      ],
+      "relation": "New replacement illustrations; prior retailer, actual settlement and incremental delivery remain unknown."
+    },
+    {
+      "pilot_cases": [
+        "C09",
+        "C10"
+      ],
+      "repository_refs": [
+        "reports/INSIGHT_BOOK.md: IB06",
+        "workstreams/journeys/FRIEND_CONTEXT_CHALLENGE.md: JX02/JX07"
+      ],
+      "relation": "An existing certificate/retrieval route and BEV trade-in already exist; seller claims are not appraiser acceptance or a premium."
+    },
+    {
+      "pilot_cases": [
+        "C11",
+        "C12"
+      ],
+      "repository_refs": [
+        "workstreams/friend_insurance/claim_matrix.csv",
+        "workstreams/extension_economics/EXTENSION_ECONOMICS_REPORT.md"
+      ],
+      "relation": "SmartDrive is an additional programme-claim lead; no SmartDrive literal found in bounded repository text search. Existing guarantee/risk distinctions still apply."
+    },
+    {
+      "pilot_cases": [
+        "C27"
+      ],
+      "repository_refs": [
+        "workstreams/extension_reviews/EXTENSION_REVIEW_REPORT.md: tests 1 and 3",
+        "reports/HYPOTHESIS_ASSESSMENT_NOTES.md"
+      ],
+      "relation": "No independent Digiroom account in X pilot does not erase 50 existing selected Digiroom app-store records, 25 coded interactions, including 6 specific interactions on/after date boundary."
+    },
+    {
+      "pilot_cases": [
+        "C15",
+        "C16",
+        "C17"
+      ],
+      "repository_refs": [
+        "DATA_GUIDE.md",
+        "reports/INSIGHT_BOOK.md: IB12, IB14"
+      ],
+      "relation": "Reinforces source-role and label-quality caution; requires explicit narrative, fiction and commercial-content checks."
+    }
+  ],
+  "cautions": [
+    "358 app review IDs are not 358 verified customers.",
+    "95 narrative annotation units span 38 source URLs; not independent people.",
+    "434 X posts are not 434 new customers and cannot be added to app reviews as unique people.",
+    "No relevant earlier raw X-post URLs were identified in the bounded overlap scan; this does not establish person-level independence.",
+    "Public repository omits some private source text. Do not imply source-level revalidation of omitted bodies."
+  ]
+}

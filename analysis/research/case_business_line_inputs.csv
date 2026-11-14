@@ -1,0 +1,5 @@
+business_line,revenue_idr_billion,gross_profit_idr_billion,gross_margin_pct,gp_share_pct,scope,source
+Vehicle sales,60000,3600,6.0,53.333333333333336,Supplied FY2025 case assumptions; all powertrains,legacy story_assets/economic_story.json EC01; reported original casebook Exhibit3 p10
+Services,2400,1320,55.00000000000001,19.555555555555557,Supplied FY2025 case assumptions; all powertrains,legacy story_assets/economic_story.json EC01; reported original casebook Exhibit3 p10
+Spare parts,4800,1200,25.0,17.77777777777778,Supplied FY2025 case assumptions; all powertrains,legacy story_assets/economic_story.json EC01; reported original casebook Exhibit3 p10
+Body and paint,1800,630,35.0,9.333333333333334,Supplied FY2025 case assumptions; all powertrains,legacy story_assets/economic_story.json EC01; reported original casebook Exhibit3 p10

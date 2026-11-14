@@ -1,0 +1,12 @@
+{
+  "booking": "booking|book service|book.*servis|jadwal.*servi|jadwat.*seevice|service schedule|appointment|antri|antre",
+  "records": "history|riwayat|historis",
+  "access": "login|log in|register|regist|registrasi|verifikasi|verfikasi|otp|profil|profile|daftar",
+  "vehicle_link": "link|koneksi|connect|kendaraan|data mobil|mycar|vin",
+  "remote": "remote|jarak jauh|t.intouch|t-in|geofenc|lokasi mobil|posisi mobil|kunci|unlock|ac |baterai|battery|charge",
+  "human_handoff": "konfirmasi|comfirasi|confirmation|respon|respond|customer|cs |sales|teknisi|bengkel|dealer",
+  "cost": "harga|biaya|bayar|payment|invoice|kuitansi|part|spare|cicilan|dp|diskon|discount",
+  "reliability": "error|bug|hang|crash|gagal|hilang|lemot|lambat|tidak bisa|gak bisa|ga bisa|nggak bisa|tidak dapat|cannot|can.t|unable|failed|stuck",
+  "benefits": "promo|poin|point|reward|coin|voucher|kupon",
+  "vehicle_product": "mesin|eksterior|aerodinamis|handling|kabin|suspensi|nyaman berkendara|mobil nyaman|harga murah|kualitas|kwalitas"
+}

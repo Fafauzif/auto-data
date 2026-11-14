@@ -1,0 +1,38 @@
+{
+  "markets": [
+    {
+      "market": "Surabaya",
+      "bbox": [
+        112.64,
+        -7.38,
+        112.84,
+        -7.18
+      ],
+      "destination_bbox": [
+        112.56,
+        -7.46,
+        112.92,
+        -7.1
+      ],
+      "grid_n": 9,
+      "destinations_csv": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/surabaya_destinations.csv"
+    },
+    {
+      "market": "Medan",
+      "bbox": [
+        98.59,
+        3.48,
+        98.77,
+        3.69
+      ],
+      "destination_bbox": [
+        98.51,
+        3.4,
+        98.85,
+        3.77
+      ],
+      "grid_n": 9,
+      "destinations_csv": "/workspace/scratch/2af4d69507fe/geo_study/workstreams/routing/inputs/medan_destinations.csv"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "records": 45,
+  "ecosystems": 12,
+  "source_urls": 26,
+  "opened_source_urls": 19,
+  "publicity": "public sources only",
+  "no_actions": "No forms, OTP, messages, purchases or account access",
+  "counts_are": "Structured observations, not independent customers or transactions",
+  "core_ecosystems": 11,
+  "provisional_ecosystems": [
+    "MG"
+  ],
+  "raw_source_fetches": 22,
+  "raw_source_http_200": 22,
+  "raw_shell_or_empty": 2,
+  "source_url_catalog_entries": 27,
+  "direct_method": "robots reviewed per host; selected domain queues stopped on robots403/503; successful raw source bodies private cache",
+  "option_cards": 25,
+  "derived_normalized_programme_rows": 12
+}

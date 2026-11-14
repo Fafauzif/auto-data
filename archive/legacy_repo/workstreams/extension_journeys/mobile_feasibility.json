@@ -1,0 +1,61 @@
+{
+  "checked_at_utc": "2026-11-11T04:20:11.323060+00:00",
+  "cli_installed": {
+    "playwright": "1.62.0",
+    "chromium": "156.0.8078.79"
+  },
+  "intended_device_preset": {
+    "name": "Pixel 7",
+    "viewport": {
+      "width": 412,
+      "height": 839
+    },
+    "screen": {
+      "width": 412,
+      "height": 915
+    },
+    "device_pixel_ratio": 2.625,
+    "mobile": true,
+    "touch": true,
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.34 Mobile Safari/537.36"
+  },
+  "intended_settings_applied_to_page": false,
+  "profile": "New process with sandbox enabled and new temporary profile; no copied cookies. Launch failed before any site navigation.",
+  "failure_stage": "Chromium process_singleton_posix socket() failure: Operation not permitted",
+  "native_browser_ui": {
+    "window_available": true,
+    "devtools_available": false,
+    "observed_notice": "DevTools not allowed on this page. Your organization has blocked the use of DevTools on this page.",
+    "bypass_attempted": false
+  },
+  "cloud_api_device_controls": "No advertised browser capabilities",
+  "native_app": {
+    "adb_executable": null,
+    "emulator_executable": null,
+    "setup_identified": false,
+    "installs": 0
+  },
+  "planned_task_routes": [
+    {
+      "task_id": "XM01",
+      "task": "BEV product navigation and finance preview",
+      "url": "https://auto2000.co.id/mobil-baru-toyota/p/bz4x",
+      "status": "not_executed_launch_blocked"
+    },
+    {
+      "task_id": "XM02",
+      "task": "Workshop model qualification and identifier boundary",
+      "url": "https://auto2000.co.id/layanan-bengkel",
+      "status": "not_executed_launch_blocked"
+    },
+    {
+      "task_id": "XM03",
+      "task": "Branch-to-test-drive context handoff",
+      "url": "https://auto2000.co.id/testdrive/new-car/hiace?branchCode=T155",
+      "status": "not_executed_launch_blocked"
+    }
+  ],
+  "mobile_journeys_executed": 0,
+  "native_app_journeys_executed": 0,
+  "lighthouse_or_performance_scores": null
+}

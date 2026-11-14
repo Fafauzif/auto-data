@@ -1,0 +1,15 @@
+{
+  "unique_records": 210,
+  "unique_evidence_ids": 210,
+  "app_platform_locale_cohorts": 12,
+  "rating_domain_valid": true,
+  "all_have_source_url_and_date": true,
+  "raw_review_text_in_public_csv": false,
+  "human_validation": false,
+  "independently_verified_customer_outcomes": false,
+  "second_ai_targeted_check_n": 30,
+  "eligible_self_reported_app_job_n": 132,
+  "duplicate_review_ids": 0,
+  "locale_recheck_customer_records_added": 0,
+  "check_scope": "schema and release sanitization; no current app test or outcome verification"
+}

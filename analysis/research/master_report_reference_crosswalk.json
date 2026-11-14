@@ -1,0 +1,283 @@
+[
+  {
+    "report_reference_id": "R1",
+    "supporting_locators": "`capabilities:FC14`, `FC31`, `FC33`, `FC34`; `market:M015`; `competition:COMP-005`,`COMP-006`. Working handoff controls: `workstreams/extension_journeys/observations.json`, observations XT08; `workstreams/journeys/friendcontext_JX_observations.json`, JX02/JX05/JX07.",
+    "original_urls": [
+      "https://aftersales.toyota.astra.co.id/hybrid-health-check",
+      "https://auto2000.co.id/testdrive/new-car/bz4x?branchCode=T151",
+      "https://auto2000.co.id/testdrive/new-car/hiace?branchCode=T155",
+      "https://auto2000.co.id/services-toyota/tukar-tambah",
+      "https://r2.astra.co.id/annual-reports/documents/Astra-Annual-Report-2025.pdf"
+    ],
+    "meaning_and_scope": "Existing booking/trade-in/health capability; bounded successful public routes, not all-branch fulfilled transactions.",
+    "union_records": [
+      {
+        "integrated_id": "capabilities:FC14",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 13,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC31",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 30,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC33",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 32,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC34",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 33,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "market:M015",
+        "source_path_in_legacy_repository": "workstreams/market/evidence.json",
+        "source_array_index_zero_based": 14,
+        "source_file_sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+      },
+      {
+        "integrated_id": "competition:COMP-005",
+        "source_path_in_legacy_repository": "workstreams/competition/evidence_matrix.json",
+        "source_array_index_zero_based": 4,
+        "source_file_sha256": "c0618bf9d30c062620cef60f6cb00612cdc88fc03a9bb49cc530a09bc562aab6"
+      },
+      {
+        "integrated_id": "competition:COMP-006",
+        "source_path_in_legacy_repository": "workstreams/competition/evidence_matrix.json",
+        "source_array_index_zero_based": 5,
+        "source_file_sha256": "c0618bf9d30c062620cef60f6cb00612cdc88fc03a9bb49cc530a09bc562aab6"
+      }
+    ],
+    "requires_supplemental_file_outside_union": false
+  },
+  {
+    "report_reference_id": "R2",
+    "supporting_locators": "`analysis/research/legacy_register_inventory.csv`, `legacy_app_review_metadata.jsonl`, `legacy_narrative_metadata.jsonl`; `workstreams/datasets/igar_analysis_summary.json`; `workstreams/extension_battery/BATTERY_TELEMETRY_REPORT.md`.",
+    "original_urls": [
+      "https://doi.org/10.17632/7zryc6k76z.2",
+      "https://doi.org/10.17632/7vdkzpnjgj.2"
+    ],
+    "meaning_and_scope": "Scope/counts and auxiliary-data boundaries. This label is not one empirical study.",
+    "union_records": [],
+    "requires_supplemental_file_outside_union": true
+  },
+  {
+    "report_reference_id": "R3",
+    "supporting_locators": "`workstreams/datasets/gaikindo_2025_hybrid_selected_models.csv` and `market_analysis_summary.json`: `Toyota_hybrid2025_source=30110`, `Toyota_Zenix_share_of_Toyota_hybrid_computed=0.7948854201262039`, `Toyota_selected_three_models_share_of_Toyota_hybrid=0.970275655928263`. Scope distinction: `capabilities:FC23`–`FC27`.",
+    "original_urls": [
+      "https://www.gaikindo.or.id/innova-zenix-pimpin-penjualan-mobil-hybrid-nasional-tahun-2025/"
+    ],
+    "meaning_and_scope": "External brand-flow context, not the case's±33,950Toyota xEV estimate, Auto2000 sales or installed owners. No fabricated union ID should be assigned to the derived concentration.",
+    "union_records": [
+      {
+        "integrated_id": "capabilities:FC23",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 22,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC24",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 23,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC25",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 24,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC26",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 25,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      },
+      {
+        "integrated_id": "capabilities:FC27",
+        "source_path_in_legacy_repository": "workstreams/friend_capabilities/claim_matrix.json",
+        "source_array_index_zero_based": 26,
+        "source_file_sha256": "e5189ab646d382179b3457072e5a7c616f183f4e8eb2bd59b352a6a2dd14b1a4"
+      }
+    ],
+    "requires_supplemental_file_outside_union": true
+  },
+  {
+    "report_reference_id": "R4",
+    "supporting_locators": "`market:M016`,`M017`; `stakeholders:EXT-E16`; `workstreams/extension_economics/program_distinctions.csv`, `legacy_scheduled_calendar.csv`, `ordinal_entitlement_windows.csv`, `EXTENSION_ECONOMICS_REPORT.md` calendar discussion. Source IDs EE-S01,EE-S04,EE-S11.",
+    "original_urls": [
+      "https://aftersales.toyota.astra.co.id/t-care",
+      "https://pressroom.toyota.astra.co.id/toyota-perkuat-layanan-purnajual-lewat-t-care-xtra",
+      "https://toyota-website.s3.ap-southeast-1.amazonaws.com/public/pdf/Informasi-Program-Gratis-Biaya-Servis-Berkala.pdf"
+    ],
+    "meaning_and_scope": "Programme terms are published facts; month42/July2029 is a conditional legacy-derived calendar illustration, not a verified current BEV/HEV schedule or paid-demand forecast.",
+    "union_records": [
+      {
+        "integrated_id": "market:M016",
+        "source_path_in_legacy_repository": "workstreams/market/evidence.json",
+        "source_array_index_zero_based": 15,
+        "source_file_sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+      },
+      {
+        "integrated_id": "market:M017",
+        "source_path_in_legacy_repository": "workstreams/market/evidence.json",
+        "source_array_index_zero_based": 16,
+        "source_file_sha256": "e3d274a9d6adad5a24020ab3b7aa55fef90d85e859bfc183039a2bd8dae6eeb6"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E16",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 15,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      }
+    ],
+    "requires_supplemental_file_outside_union": true
+  },
+  {
+    "report_reference_id": "R5",
+    "supporting_locators": "`workstreams/extension_battery/BATTERY_TELEMETRY_REPORT.md`, sections 'What this means for the battery concept' and source README; `mechanism_study:EXT-H-S03`,`EXT-H-S04`,`EXT-H-S06`; `friend_context:FC20`,`FC21`; `legacy_solution:SOL-14`.",
+    "original_urls": [
+      "https://doi.org/10.17632/7vdkzpnjgj.2",
+      "https://doi.org/10.1016/j.joule.2023.07.018",
+      "https://doi.org/10.6028/NIST.DCI.008",
+      "https://doi.org/10.6028/NIST.TN.2328"
+    ],
+    "meaning_and_scope": "Missing independent capacity reference and the distinction between usefulness, acceptance and transaction premium. The public dataset is not Toyota health validation.",
+    "union_records": [
+      {
+        "integrated_id": "mechanism_study:EXT-H-S03",
+        "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+        "source_array_index_zero_based": 2,
+        "source_file_sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+      },
+      {
+        "integrated_id": "mechanism_study:EXT-H-S04",
+        "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+        "source_array_index_zero_based": 3,
+        "source_file_sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+      },
+      {
+        "integrated_id": "mechanism_study:EXT-H-S06",
+        "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+        "source_array_index_zero_based": 5,
+        "source_file_sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+      },
+      {
+        "integrated_id": "friend_context:FC20",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 19,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "friend_context:FC21",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 20,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "legacy_solution:SOL-14",
+        "source_path_in_legacy_repository": "reports/SOLUTION_MENU.json",
+        "source_array_index_zero_based": 13,
+        "source_file_sha256": "12eb7fbea9f243c379f6f5c6479de7d1b514ec28153700e9987c81921f501abb"
+      }
+    ],
+    "requires_supplemental_file_outside_union": true
+  },
+  {
+    "report_reference_id": "R6",
+    "supporting_locators": "`mechanism_study:EXT-H-S01`,`EXT-H-S02`; `workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json`; handoff control XT08 as R1.",
+    "original_urls": [
+      "https://doi.org/10.1016/j.trd.2025.104921",
+      "https://doi.org/10.3929/ethz-b-000663125"
+    ],
+    "meaning_and_scope": "Different endpoints: stated preference versus actual showroom choices. Do not transfer an effect size to Auto2000 or call the working paper peer-reviewed.",
+    "union_records": [
+      {
+        "integrated_id": "mechanism_study:EXT-H-S01",
+        "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+        "source_array_index_zero_based": 0,
+        "source_file_sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+      },
+      {
+        "integrated_id": "mechanism_study:EXT-H-S02",
+        "source_path_in_legacy_repository": "workstreams/extension_hypotheses/EXTERNAL_MECHANISM_EVIDENCE.json",
+        "source_array_index_zero_based": 1,
+        "source_file_sha256": "3084de723c6d6055449a3a79dc71aa775891151ba41684a14c2adc57b5c5eea7"
+      }
+    ],
+    "requires_supplemental_file_outside_union": false
+  },
+  {
+    "report_reference_id": "R7",
+    "supporting_locators": "`friend_context:FC11`,`FC33`,`FC34`,`FC40`; `stakeholders:EXT-E04`,`EXT-E05`,`EXT-E12`,`EXT-E13`,`EXT-E20`; `workstreams/market/economic_calculations.json` MC02,MC03,MC05; `workstreams/extension_hypotheses/REPORT.md` accounting ledger.",
+    "original_urls": [
+      "https://pressroom.toyota.astra.co.id/persiapan-mudik-lebaran-dengan-biaya-lebih-terjangkau-berkualitas-dan-bergaransi-manfaatkan-layanan",
+      "https://pressroom.toyota.astra.co.id/t-opt-hadir-di-inapa-2026-spare-parts-alternatif-dengan-kualitas-terpercaya-dan-harga-lebih",
+      "https://ssc.toyota.astra.co.id/"
+    ],
+    "meaning_and_scope": "Channel substitution, operator perimeter, customer/third-party payer and non-discretionary recall work. Accounting identities remain separate from empirical uplift.",
+    "union_records": [
+      {
+        "integrated_id": "friend_context:FC11",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 10,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "friend_context:FC33",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 32,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "friend_context:FC34",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 33,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "friend_context:FC40",
+        "source_path_in_legacy_repository": "workstreams/friend_challenge/claims.json",
+        "source_array_index_zero_based": 39,
+        "source_file_sha256": "3b2a3676584a887096dbc9f10a19f85bfda8af55722bd3f4b79d7cd881f817bc"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E04",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 3,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E05",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 4,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E12",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 11,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E13",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 12,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      },
+      {
+        "integrated_id": "stakeholders:EXT-E20",
+        "source_path_in_legacy_repository": "workstreams/extension_stakeholders/evidence_register.json",
+        "source_array_index_zero_based": 19,
+        "source_file_sha256": "1fa7487345887aa2936cec3505d9009f605a368349b18fc4bc3cfdacb6a2b3ef"
+      }
+    ],
+    "requires_supplemental_file_outside_union": true
+  }
+]

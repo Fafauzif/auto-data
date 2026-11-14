@@ -1,0 +1,10 @@
+state,condition,required_fields,forbidden_shortcut,evidence_ids
+Permintaan,"Pemilik memilih kendaraan, pekerjaan dan titik kegiatan","Job, model/tahun, payer, entitlement, pilihan waktu, kanal asal",Permintaan bukan slot diterima,SOC01;SOC03
+Penerimaan cabang,Cabang menerima lingkup pekerjaan dan penerima kasus,"Cabang, PIC, job sesuai, alternatif rujukan jika tidak sesuai",Jangan menyuruh berangkat hanya karena form tersimpan,SOC02;SOC03;SOC07
+Estimasi disetujui,Pemilik menyetujui lingkup dan rentang biaya,"Parts/grade/volume, jasa, pajak, eksklusi, validitas, batas perubahan",Quote accepted berbeda dari work authorised,SOC05;SOC14;SOC15
+Siap datang,"Slot mulai, rentang selesai dan semua parts pendukung siap","Slot bengkel sesuai job, stok/part penunjang, jam workshop, kebutuhan menunggu/meninggalkan","Bila belum siap, ubah jadwal sebelum perjalanan",SOC10;SOC11;SOC19
+Mulai kerja,Kendaraan diterima dan pekerjaan benar-benar dimulai,"Waktu datang, waktu diterima, waktu mulai; PIC eskalasi bila janji meleset",Check-in bukan pekerjaan dimulai,SOC02;SOC13
+Perubahan disetujui,Tambahan lingkup atau biaya diterima pemilik,"Diagnosis tambahan, item/biaya baru, alasan, perubahan selesai, persetujuan waktu",Jangan mengandalkan persetujuan global untuk semua penggantian,SOC05;SOC09;SOC12;SOC14
+Selesai dan serah terima,Hasil diperiksa serta kendaraan/perangkat diterima kembali,"Job selesai, quality check sesuai tugas, invoice, perubahan, batas garansi pekerjaan",Pekerjaan dibayar tidak otomatis keluhan terselesaikan,SOC07;SOC17;SOC18;SOC20
+Penutupan kasus,Hasil penggunaan dan keluhan tindak lanjut jelas,"Case owner, hasil follow-up, status unresolved/resolved, rujukan selanjutnya",Ulasan sukarela; jangan memaksakan rating positif,SOC07;SOC12;SOC20
+Dampak bisnis,Transaksi tambahan dihitung di perimeter operator yang tepat,"Work order/delivery dedup, kanal, prior provider, payer, operator, realised margin",Perpindahan WhatsApp ke Digiroom bukan transaksi tambahan,Strategi14November2026

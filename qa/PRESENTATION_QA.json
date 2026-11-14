@@ -1,0 +1,261 @@
+{
+  "report_pages": 15,
+  "report_tables": 4,
+  "report_figures": 2,
+  "all_15_pages_visually_reviewed": true,
+  "all_8_worksheet_openings_visually_reviewed": true,
+  "native_workbook_checks": {
+    "engine": "LibreOfficeDev 26.8 bundled primary runtime",
+    "checks": {
+      "operating_profit": "2130",
+      "after_sales_GP": "3150",
+      "missing_operating_input": "Missing inputs",
+      "missing_displacement": "Missing inputs",
+      "missing_investment": "Missing inputs",
+      "surabaya_after": "6",
+      "palembang_after": "0"
+    },
+    "formula_error_cells": [],
+    "passed": true
+  },
+  "economics_scenarios": [
+    {
+      "name": "All numeric zeros are valid",
+      "actual": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "expected": "all zero",
+      "passed": true
+    },
+    {
+      "name": "Incremental contribution case",
+      "actual": [
+        [
+          20
+        ],
+        [
+          20000000
+        ],
+        [
+          1000000
+        ],
+        [
+          0
+        ],
+        [
+          3000000
+        ],
+        [
+          17000000
+        ],
+        [
+          7000000
+        ]
+      ],
+      "expected": [
+        20,
+        20000000,
+        1000000,
+        0,
+        3000000,
+        17000000,
+        7000000
+      ],
+      "passed": true
+    },
+    {
+      "name": "Capacity displacement is deducted once",
+      "actual": [
+        [
+          12000000
+        ],
+        [
+          2000000
+        ]
+      ],
+      "expected": [
+        12000000,
+        2000000
+      ],
+      "passed": true
+    },
+    {
+      "name": "Zero incrementality preserves programme and displacement cost",
+      "actual": [
+        [
+          -8000000
+        ],
+        [
+          -18000000
+        ]
+      ],
+      "expected": [
+        -8000000,
+        -18000000
+      ],
+      "passed": true
+    },
+    {
+      "name": "Missing incrementality does not become zero",
+      "actual": [
+        [
+          "Missing inputs"
+        ],
+        [
+          "Missing inputs"
+        ]
+      ],
+      "expected": [
+        "Missing inputs",
+        "Missing inputs"
+      ],
+      "passed": true
+    }
+  ],
+  "page_bounds": [
+    {
+      "page": 1,
+      "chars": 3556,
+      "min_x": 54.1,
+      "max_x": 559.886,
+      "bottom": 756.0
+    },
+    {
+      "page": 2,
+      "chars": 3105,
+      "min_x": 54.1,
+      "max_x": 558.166,
+      "bottom": 756.0
+    },
+    {
+      "page": 3,
+      "chars": 1815,
+      "min_x": 54.1,
+      "max_x": 559.786,
+      "bottom": 756.0
+    },
+    {
+      "page": 4,
+      "chars": 2194,
+      "min_x": 54.1,
+      "max_x": 558.166,
+      "bottom": 756.0
+    },
+    {
+      "page": 5,
+      "chars": 3642,
+      "min_x": 54.1,
+      "max_x": 558.636,
+      "bottom": 756.0
+    },
+    {
+      "page": 6,
+      "chars": 3757,
+      "min_x": 54.1,
+      "max_x": 558.166,
+      "bottom": 756.0
+    },
+    {
+      "page": 7,
+      "chars": 3629,
+      "min_x": 54.1,
+      "max_x": 560.386,
+      "bottom": 756.0
+    },
+    {
+      "page": 8,
+      "chars": 3516,
+      "min_x": 54.1,
+      "max_x": 558.836,
+      "bottom": 756.0
+    },
+    {
+      "page": 9,
+      "chars": 3196,
+      "min_x": 54.1,
+      "max_x": 559.736,
+      "bottom": 756.0
+    },
+    {
+      "page": 10,
+      "chars": 3452,
+      "min_x": 54.1,
+      "max_x": 559.886,
+      "bottom": 756.0
+    },
+    {
+      "page": 11,
+      "chars": 3459,
+      "min_x": 54.1,
+      "max_x": 560.036,
+      "bottom": 756.0
+    },
+    {
+      "page": 12,
+      "chars": 2590,
+      "min_x": 54.1,
+      "max_x": 558.121,
+      "bottom": 756.0
+    },
+    {
+      "page": 13,
+      "chars": 3643,
+      "min_x": 54.1,
+      "max_x": 558.336,
+      "bottom": 756.0
+    },
+    {
+      "page": 14,
+      "chars": 3147,
+      "min_x": 54.1,
+      "max_x": 558.336,
+      "bottom": 756.0
+    },
+    {
+      "page": 15,
+      "chars": 1501,
+      "min_x": 54.1,
+      "max_x": 558.121,
+      "bottom": 756.0
+    }
+  ],
+  "outputs": {
+    "Auto2000_Integrated_Research_Report.docx": {
+      "bytes": 189847,
+      "sha256": "2e8b697ccbb885b14bed38eafa2687d1a2d796b3811debda3e8e54f30e7a0c16"
+    },
+    "Auto2000_Integrated_Research_Report.pdf": {
+      "bytes": 397365,
+      "sha256": "6ace39b7aa8d631aabb9a4af7678b2e212f551a79a00b4e0931b7f0041050b3b"
+    },
+    "Auto2000_Integrated_Decision_Workbook.xlsx": {
+      "bytes": 29227,
+      "sha256": "45cd85738c76396c6fa63d578b5e79b4d40dd12170ae6a780101ab6496e4f9f1"
+    }
+  },
+  "master_markdown_sha256": "881664e38c32f054430119ff7dbd498fd231c4a00ff7fa6101f9577626dd40a8"
+}

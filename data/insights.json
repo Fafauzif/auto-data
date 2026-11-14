@@ -1,0 +1,174 @@
+[
+  {
+    "insight_id": "I01",
+    "headline": "Existing eligible channels remove19 of39 modeled oil-access tails",
+    "prongs": "P2",
+    "evidence_type": "Model calculation",
+    "evidence_basis": "284 strict paired origins; corrected coordinates; job-fit/operator scenario",
+    "inference_boundary": "Bandung14/20residualorigins;Soekarno-Hatta8/20",
+    "recommended_decision": "Build eligible owned-channel routing and target residual-access tests",
+    "lower_priority_alternative": "Uniform four-market pickup or capacity expansion",
+    "evidence_refs": [
+      "G1",
+      "G2"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I02",
+    "headline": "Oil substitution and general-workshop preservation imply different branch choices",
+    "prongs": "P2/shared",
+    "evidence_type": "Model calculation and decision interpretation",
+    "evidence_basis": "Pancing0residualtails/8originslose15min;TAA0/7;SH8/0",
+    "inference_boundary": "Job-specific substitution is distinct from general-workshop network geometry",
+    "recommended_decision": "Protect general-workshop availability while routing eligible routine work",
+    "lower_priority_alternative": "Treating zero oil tails as general-workshop redundancy",
+    "evidence_refs": [
+      "G2"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I03",
+    "headline": "Soekarno-Hatta combines residual access with reported return-visit mechanisms",
+    "prongs": "P2",
+    "evidence_type": "Cross-source interpretation",
+    "evidence_basis": "Eight residual model origins plus selected M08/M09 accounts",
+    "inference_boundary": "Selected accounts do not estimate failure prevalence",
+    "recommended_decision": "Prioritize prepared scope, parts and diagnostic continuity",
+    "lower_priority_alternative": "Pickup without resolving repeated work",
+    "evidence_refs": [
+      "G2",
+      "M08",
+      "M09"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I04",
+    "headline": "Intended paid service can be lost at acknowledgement",
+    "prongs": "P2/shared",
+    "evidence_type": "Self-reported mechanism and recommendation",
+    "evidence_basis": "M01explicitpaidVelozarrival;M03walk-inqueue;M02historicalunnamedapp",
+    "inference_boundary": "Not a network failure rate or proof of current Digiroom defect",
+    "recommended_decision": "Shared case and arrival acknowledgement across all channels",
+    "lower_priority_alternative": "Acquisition or app-install campaigns before reception control",
+    "evidence_refs": [
+      "M01",
+      "M02",
+      "M03",
+      "M04"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I05",
+    "headline": "Repair retention can compete with vehicle replacement",
+    "prongs": "P2/P3",
+    "evidence_type": "Self-report and commercial interpretation",
+    "evidence_basis": "SX01olderToyota restoration;M07scopecomparison",
+    "inference_boundary": "BundledRp25m is not verified Auto2000 invoice; repair equivalence unknown",
+    "recommended_decision": "Offer retain/repair/replace alternatives and count outcomes once",
+    "lower_priority_alternative": "Counting immediate repair and immediate replacement as additive for one owner",
+    "evidence_refs": [
+      "SX01",
+      "M07"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I06",
+    "headline": "Toyota HEV continuity and BEV acquisition require different task paths",
+    "prongs": "P1/P2/P3",
+    "evidence_type": "Case fact and evidence-scope interpretation",
+    "evidence_basis": "Case mostly hybrid; external modelmix; YouTubeBYD/Neta sample",
+    "inference_boundary": "External hybrid denominator differs from caseToyotaEVestimate",
+    "recommended_decision": "Lead with HEV ownership tasks and retain distinct BEV demonstration/charging path",
+    "lower_priority_alternative": "Using selected BEV resale discourse as Toyota-owner demand prevalence",
+    "evidence_refs": [
+      "C1",
+      "R3",
+      "S3"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I07",
+    "headline": "Entitlement timing limits near-horizon paid routine-service claims",
+    "prongs": "P2",
+    "evidence_type": "Programme terms and conditional calendar model",
+    "evidence_basis": "Sevencoveredtime-basedevents;month42example;paidXTRAconditions",
+    "inference_boundary": "Mileage and uncovered work differ; not a BEV schedule forecast",
+    "recommended_decision": "Use actual cohort/job/payer eligibility in2026–2028economics",
+    "lower_priority_alternative": "Assuming every2026saleproducesimmediatepaidperiodicmaintenance",
+    "evidence_refs": [
+      "R4"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I08",
+    "headline": "Accepted evidence must lead to an executable net-upgrade offer",
+    "prongs": "P3",
+    "evidence_type": "Capability baseline and recommendation",
+    "evidence_basis": "ExistingHHC/tradein;TRIVAreviewmentionsM19/M20;finance/settlement dependencies",
+    "inference_boundary": "Not a validated battery premium or universal residual guarantee",
+    "recommended_decision": "Connect accepted documents, appraisal, finance settlement and replacement net cash",
+    "lower_priority_alternative": "Another detached certificate or speculative universal price floor",
+    "evidence_refs": [
+      "R1",
+      "R5",
+      "M19",
+      "M20",
+      "M21",
+      "M22"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I09",
+    "headline": "A confirmed household-relevant demonstration addresses an acquisition obstruction",
+    "prongs": "P1",
+    "evidence_type": "Selectedaccountsandcapabilitybaseline",
+    "evidence_basis": "SX02unitavailabilityaccount;M15/M16hybridpurchase;SY02installationcash",
+    "inference_boundary": "No national demonstrator shortage or measured sales uplift established",
+    "recommended_decision": "Confirm model/resource/adviser and preserve household context into quotation",
+    "lower_priority_alternative": "Generic education as substitute for attendable matched demonstration",
+    "evidence_refs": [
+      "SX02",
+      "SX05",
+      "SY02",
+      "M15",
+      "M16",
+      "R1",
+      "R6"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I10",
+    "headline": "All-channel incremental recognized contribution is the relevant profit bridge",
+    "prongs": "All",
+    "evidence_type": "Accounting identity and case-specific recommendation",
+    "evidence_basis": "Case84%bookingsoutsideapp;operatorandpayerperimeter",
+    "inference_boundary": "Channel migration and ecosystem capture are distinct from incrementalAuto2000GP",
+    "recommended_decision": "Evaluate completed outcomes, costs, displacement and useful repeated digital use",
+    "lower_priority_alternative": "Adding appbookings, referrals and hypothetical future purchases as newGP",
+    "evidence_refs": [
+      "C1",
+      "R7",
+      "SX08"
+    ],
+    "as_of": "2026-11-14",
+    "status": "active_recommendation_with_explicit_evidence_scope"
+  }
+]

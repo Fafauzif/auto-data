@@ -1,0 +1,132 @@
+[
+  {
+    "claim_id": "GEO-N01",
+    "headline": "Owned-channel routing removes 19 of 39 modeled high oil-gap origins",
+    "evidence": "Across 284 paired model origins, corrected general-workshop oil gaps above five minutes fall from 39 to 20 when Auto2000-operated OtoXpert is permitted. This is endpoint-scenario arithmetic, not recovered jobs.",
+    "decision": "Bandung contains 14 of 20 residual model origins and Soekarno-Hatta eight of 20. Prioritize residual job-travel tests there rather than a four-city pickup subsidy.",
+    "sources": [
+      "analysis/geography/tables/raw_recomputed_origins.csv",
+      "analysis/geography/tables/raw_recomputed_markets.csv"
+    ],
+    "evidence_status": "Computed counterfactual geometry",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N02",
+    "headline": "Protect branches for general-workshop access even when oil gaps disappear",
+    "evidence": "Pancing has zero residual oil-tail origins and eight origins uniquely losing 15-minute general-workshop access if removed. TAA has zero and seven; Soekarno-Hatta has eight and zero.",
+    "decision": "Use separate service-preservation and residual-travel allocation rules. Do not infer capacity or closure economics.",
+    "sources": [
+      "analysis/geography/tables/raw_branch_checks.csv",
+      "analysis/geography/tables/branch_portfolio.csv"
+    ],
+    "evidence_status": "Computed leave-one-out geometry",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N03",
+    "headline": "Correct Suci before funding Cibiru access intervention",
+    "evidence": "Twenty of 78 Bandung origins change nearest branch. Median oil gap falls 2.635833 to 1.735833 minutes and tail count 21 to 17. Cibiru changes from 22 to 14 assigned origins and four to one tail origin.",
+    "decision": "A versioned facility registry and corrected routing precede access capex.",
+    "sources": [
+      "analysis/geography/tables/raw_recomputed_origins.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/branch_analysis/coordinate_before_after_origins.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/coordinates/coordinate_corrections.csv"
+    ],
+    "evidence_status": "Computed correction scenario",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N04",
+    "headline": "Sidoarjo zero baseline winners is a boundary result",
+    "evidence": "Sidoarjo has zero winners on the old Surabaya grid, whereas all six targeted southern building origins choose corrected Sidoarjo. Median roundtrip oil gap is approximately 0.021 minutes.",
+    "decision": "Retain southern routing and correct the coordinate. Do not extrapolate population demand.",
+    "sources": [
+      "sources/geography/latest/Auto2000_Lanjutan/work/access/origin_robustness_summary.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/coordinates/coordinate_corrections.csv"
+    ],
+    "evidence_status": "Targeted spatial sensitivity",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N05",
+    "headline": "Pancing reception control must include walk-ins",
+    "evidence": "Pancing case M03, published March 2026, reports a 09.00–13.30 wait and a plate absent from the queue. Historical M14 reports estimates and approval despite perceived higher prices.",
+    "decision": "Acknowledge all arrivals and accepted job states. App-booking-only control misses the walk-in mechanism.",
+    "sources": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "evidence_status": "Self-reported contrasting cases plus geometry",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N06",
+    "headline": "Soekarno-Hatta needs resolved scope rather than hospitality alone",
+    "evidence": "Soekarno-Hatta M08, a July 2024 diagnostic account, praises hospitality but reports five unresolved visits. M09, published October 2025 in latest and diagnostic runs, reports forgotten complaints and a next-day return.",
+    "decision": "Combine the residual-access pilot with complaint-carrying intake, parts readiness and first-visit resolution.",
+    "sources": [
+      "analysis/social/maps_deep/curated_maps_evidence.json",
+      "analysis/geography/tables/raw_branch_checks.csv"
+    ],
+    "evidence_status": "Self-reported mechanisms plus computed geometry",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N07",
+    "headline": "Sunday oil routing follows workshop hours and operator",
+    "evidence": "Cilandak publishes Sunday showroom opening but workshop closure. Auto2000-operated OtoXpert Fatmawati publishes Sunday 08.00–18.00 hours. The selected bridge-origin roundtrip difference is 0.93 minutes.",
+    "decision": "Offer an eligible Fatmawati job and then confirm acceptance. Unknown hours do not mean closed, and public hours do not establish an available slot.",
+    "sources": [
+      "sources/geography/latest/Auto2000_Lanjutan/work/access/sunday_job_routing.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/xev/xev_sources.csv"
+    ],
+    "evidence_status": "Preserved public hours plus modeled route",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N08",
+    "headline": "Equal assigned origins do not imply equal intervention",
+    "evidence": "A. Yani and Kertajaya each have 11 assigned grid origins. Median second-general-branch penalties are approximately 3.756667 and 0.121667 minutes, respectively.",
+    "decision": "Protect accepted service at A. Yani and offer Rungkut for eligible Kertajaya oil jobs. Do not infer spare capacity from geographic overlap.",
+    "sources": [
+      "analysis/geography/tables/raw_branch_checks.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/access/origin_robustness_summary.csv"
+    ],
+    "evidence_status": "Computed comparison with origin sensitivity",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N09",
+    "headline": "Current promotion evidence does not establish a price premium",
+    "evidence": "November four-litre oil and filter terms, brake-pad payday windows and transmission bundles have different scopes or validity dates. The T-OPT parts price dates to July 2024.",
+    "decision": "Require an exact-job quote for price comparison. Use existing economical parts and channels without inventing a measured price premium.",
+    "sources": [
+      "sources/geography/latest/Auto2000_Lanjutan/work/coordinates/COORDINATE_JOB_FINDINGS.md",
+      "sources/geography/latest/Auto2000_Lanjutan/work/coordinates/coordinate_job_sources.csv"
+    ],
+    "evidence_status": "Documented public scope and date boundaries",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  },
+  {
+    "claim_id": "GEO-N10",
+    "headline": "Job/operator/time gates precede a nearest-pin decision",
+    "evidence": "Published operator labels distinguish non-Auto2000 OtoXpert Dukuh Kupang, Thamrin, Tritura and Antapani. Shop&Drive gross profit is not automatically Auto2000 gross profit.",
+    "decision": "Record receiving operator, job scope, facility time, payer and actual net contribution per completed job.",
+    "sources": [
+      "sources/geography/latest/Auto2000_Lanjutan/extracted/baseline/Auto2000_Geographic_Study/workstreams/context/otoxpert_official_inventory.csv",
+      "sources/geography/latest/Auto2000_Lanjutan/work/xev/ECONOMICS.md"
+    ],
+    "evidence_status": "Preserved public operator labels and accounting boundary",
+    "unit": "Model origins, preserved public sources or individually identified self-reports; never pooled customers",
+    "cutoff": "2026-11-14"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Folder16_Raw.mat",
+    "current_first": -0.0,
+    "current_last": -0.0,
+    "soc_first": 65.15,
+    "soc_last": 58.550000000000004,
+    "current_unweighted_mean": 28.49897384181312,
+    "negative_current_sample_fraction": 0.17284572627454567,
+    "positive_current_sample_fraction": 0.7792141604497418,
+    "observed_seconds_gap1": 61884.817807999905,
+    "signed_Ah_gap1": 489.9035905440584,
+    "positive_Ah_gap1": 612.2236892913962,
+    "negative_magnitude_Ah_gap1": 122.32009874733784
+  },
+  {
+    "file": "Folder1_Raw.mat",
+    "current_first": -0.0,
+    "current_last": -1.0,
+    "soc_first": 86.0,
+    "soc_last": 91.85000000000001,
+    "current_unweighted_mean": -0.9984669486571232,
+    "negative_current_sample_fraction": 0.9985086191486175,
+    "positive_current_sample_fraction": 1.9023485247438172e-05,
+    "observed_seconds_gap1": 33116.200463,
+    "signed_Ah_gap1": -9.184843387222221,
+    "positive_Ah_gap1": 0.0003832036111142164,
+    "negative_magnitude_Ah_gap1": 9.185226590833334
+  },
+  {
+    "file": "Folder2_Raw.mat",
+    "current_first": -0.0,
+    "current_last": -0.0,
+    "soc_first": 94.95,
+    "soc_last": 33.300000000000004,
+    "current_unweighted_mean": 50.183918764363405,
+    "negative_current_sample_fraction": 0.17152864195884598,
+    "positive_current_sample_fraction": 0.7589483828824776,
+    "observed_seconds_gap1": 21448.082693000095,
+    "signed_Ah_gap1": 298.97477954207676,
+    "positive_Ah_gap1": 340.29910054860534,
+    "negative_magnitude_Ah_gap1": 41.324321006528564
+  },
+  {
+    "file": "Folder7_Raw.mat",
+    "current_first": -0.0,
+    "current_last": -10.0,
+    "soc_first": 33.6,
+    "soc_last": 93.05000000000001,
+    "current_unweighted_mean": -11.826646517812197,
+    "negative_current_sample_fraction": 0.9990957134143231,
+    "positive_current_sample_fraction": 2.8681643373424078e-05,
+    "observed_seconds_gap1": 61361.84882499976,
+    "signed_Ah_gap1": -201.58482708234897,
+    "positive_Ah_gap1": 0.00091355763873758,
+    "negative_magnitude_Ah_gap1": 201.5857406399877
+  },
+  {
+    "file": "Folder8_Raw.mat",
+    "current_first": -0.0,
+    "current_last": -0.0,
+    "soc_first": 49.050000000000004,
+    "soc_last": 75.2,
+    "current_unweighted_mean": 43.07168434870559,
+    "negative_current_sample_fraction": 0.20032279584238954,
+    "positive_current_sample_fraction": 0.7166724052594202,
+    "observed_seconds_gap1": 9294.246682001278,
+    "signed_Ah_gap1": 111.19145060662956,
+    "positive_Ah_gap1": 144.04127819274163,
+    "negative_magnitude_Ah_gap1": 32.84982758611208
+  }
+]

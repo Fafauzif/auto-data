@@ -1,0 +1,16 @@
+{
+  "market": "Pekanbaru",
+  "bbox": [
+    101.3,
+    0.35,
+    101.6,
+    0.65
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:41.515804+00:00",
+  "status": "success",
+  "source_all_place_rows": 23828,
+  "automotive_candidate_rows": 1958,
+  "sha256": "bfe18b909c1f4f484306b059dd633bd33aa779fe795aad1858570c520f363445",
+  "seconds": 17.82
+}

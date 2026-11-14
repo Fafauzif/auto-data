@@ -1,0 +1,23 @@
+{
+  "inventory_rows": 45202,
+  "unique_id": 45202,
+  "markets": 15,
+  "missing_coordinates": 0,
+  "out_of_global_bounds": 0,
+  "candidate_total": 3359,
+  "exact_same_market_id_duplicates": 0,
+  "record_level_licenses": {
+    "CDLA-Permissive-2.0": 44614,
+    "Apache-2.0;CDLA-Permissive-2.0": 437,
+    "CC0-1.0;CDLA-Permissive-2.0": 151
+  },
+  "primary_source_dataset_combinations": {
+    "Overture;meta": 44553,
+    "Foursquare;Overture": 437,
+    "AllThePlaces;Overture": 151,
+    "Microsoft;Overture": 60,
+    "Overture;Uberall": 1
+  },
+  "all_candidates_specific_job_unverified": true,
+  "known_limitation": "Heuristic automotive candidates; category confidence is not task capability or verified independence. Unequal screening windows cannot be ranked by raw counts."
+}

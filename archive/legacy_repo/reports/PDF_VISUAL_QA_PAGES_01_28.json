@@ -1,0 +1,275 @@
+{
+  "reviewed_at_utc": "2026-11-11T04:26:44.186735+00:00",
+  "reviewer_type": "AI visual review; not a human review",
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "reviewed_pdf_sha256": "d804c31f79b278a4d5fe9992d840ef46a9741df4e33569071f2119f251125c18",
+  "current_pdf_sha256_at_receipt": "d804c31f79b278a4d5fe9992d840ef46a9741df4e33569071f2119f251125c18",
+  "current_pdf_matches_reviewed_hash": true,
+  "rendering": "Parent-supplied96dpi PNGs in /tmp/auto2000_pdf_final",
+  "assigned_pages": [
+    1,
+    28
+  ],
+  "contact_sheets_reviewed": [
+    "contact-01.png",
+    "contact-02.png",
+    "contact-03.png",
+    "contact-04.png",
+    "contact-05.png",
+    "contact-06.png",
+    "contact-07.png"
+  ],
+  "full_pages_reviewed": [
+    3,
+    7,
+    9,
+    10,
+    12,
+    17,
+    18,
+    19,
+    21,
+    26,
+    27
+  ],
+  "overall_status": "requires glyph correction before layout signoff",
+  "blocking_issue_count": 1,
+  "issues": [
+    {
+      "id": "VIS-01",
+      "pages": [
+        27
+      ],
+      "severity": "blocking_render_defect",
+      "type": "missing_glyph",
+      "observation": "The rank-transition glyph renders as an empty missing-character box in both Rank before/after lines: 1 [box] 10 and9 [box]19. Confirmed in full page027.",
+      "suggested_fix": "Replace the transition with plain text to or ASCII ->, or use an embedded font supporting the intended glyph.",
+      "status": "reported_to_root; no PDF edited"
+    },
+    {
+      "id": "VIS-02",
+      "pages": [
+        12,
+        13
+      ],
+      "severity": "minor",
+      "type": "single_word_widow",
+      "observation": "The final paragraph of page12 leaves only market. at the start of page13. Content is readable and complete, but the break is typographically weak.",
+      "suggested_fix": "Keep at least two final paragraph lines together or slightly tighten the preceding layout.",
+      "status": "reported_to_root"
+    },
+    {
+      "id": "VIS-03",
+      "pages": [
+        9,
+        12,
+        17,
+        18
+      ],
+      "severity": "minor",
+      "type": "numeric_spacing",
+      "observation": "Some source/narrative text joins words and numbers: with59 in the page9 chart note, 16Jun2026 in the page12 chart note; The9million/roughly9million/listings2016-2022/Sep-Oct2022;1,669responses on page17; Its9million/returned403/returned429/the9million on page18. These are source-copy polish issues, not clipping.",
+      "suggested_fix": "Add spaces around descriptive numeric prose while preserving exact URLs and identifiers.",
+      "status": "main examples reported_to_root"
+    }
+  ],
+  "coverage": [
+    {
+      "page": 1,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Cover title/subtitle and confidence/limits line are readable; deliberate whitespace."
+    },
+    {
+      "page": 2,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Contents labels and aligned page numbers are readable, no overlap."
+    },
+    {
+      "page": 3,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Dense contribution table checked full page; all cells fit and final paragraph stays clear of footer."
+    },
+    {
+      "page": 4,
+      "contact_sheet": "contact-01.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Four numbered findings fit; each heading retains its supporting text."
+    },
+    {
+      "page": 5,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Findings5-8 readable; section8 continues normally to page6, no orphan heading."
+    },
+    {
+      "page": 6,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Continuation and headings9-10/uncertainty text readable; no clipping."
+    },
+    {
+      "page": 7,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Core findings table checked full page; header, final row and footer are clear."
+    },
+    {
+      "page": 8,
+      "contact_sheet": "contact-02.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Dense scope/limits prose and evidence IDs readable; headings have supporting paragraphs."
+    },
+    {
+      "page": 9,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Finance chart and both axes, category labels, values, citation and caption checked full page. Minor footnote spacing only."
+    },
+    {
+      "page": 10,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Horizontal survey chart checked full page; labels, percentage values, denominator source note and caveats are readable."
+    },
+    {
+      "page": 11,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Review/geographic prose readable; section transitions retained."
+    },
+    {
+      "page": 12,
+      "contact_sheet": "contact-03.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Log-scale coordinate chart checked full page; units, labels, outlier and source note clear. Final paragraph creates page13 single-word widow."
+    },
+    {
+      "page": 13,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Friend-context heading and paragraphs readable; lone market. continuation is minor typography issue."
+    },
+    {
+      "page": 14,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Insurance/retained-risk and hypothesis headings readable, no overlap."
+    },
+    {
+      "page": 15,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Open-choice/source guide URLs wrap within margins; no cut-off references."
+    },
+    {
+      "page": 16,
+      "contact_sheet": "contact-04.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "MECE title, factor definitions and first external study retain hierarchy; no orphan heading."
+    },
+    {
+      "page": 17,
+      "contact_sheet": "contact-05.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Dense study summaries checked full page; no clipping or footer collision. Numeric spacing needs copy polish."
+    },
+    {
+      "page": 18,
+      "contact_sheet": "contact-05.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Mechanism caveats and acquisition limits checked full page; source uncertainty is explicit. Numeric spacing needs copy polish."
+    },
+    {
+      "page": 19,
+      "contact_sheet": "contact-05.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Review cohort table checked full page; headers and total row fit; test1 heading and evidence paragraphs intact."
+    },
+    {
+      "page": 20,
+      "contact_sheet": "contact-05.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Four cohort metric blocks are readable; no split labels or collision."
+    },
+    {
+      "page": 21,
+      "contact_sheet": "contact-06.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Both date/language tables checked full page; all header labels and cells fit. Last paragraph continues normally to22."
+    },
+    {
+      "page": 22,
+      "contact_sheet": "contact-06.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Vehicle-context and protocol headings have supporting paragraphs; final paragraph continues normally to23."
+    },
+    {
+      "page": 23,
+      "contact_sheet": "contact-06.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Continuation/protocol text complete; deliberate lower-page whitespace before next section."
+    },
+    {
+      "page": 24,
+      "contact_sheet": "contact-06.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Two-line geography title and scenario metric blocks readable; no orphaned headings."
+    },
+    {
+      "page": 25,
+      "contact_sheet": "contact-07.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Continuation scenario metrics, uncertainty bounds and prose are clear."
+    },
+    {
+      "page": 26,
+      "contact_sheet": "contact-07.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Site/box/unit table checked full page; every label/count fits, footer clear."
+    },
+    {
+      "page": 27,
+      "contact_sheet": "contact-07.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": true,
+      "note": "Full-page check confirms missing transition glyph in both rank lines; remaining headings and prose fit."
+    },
+    {
+      "page": 28,
+      "contact_sheet": "contact-07.png",
+      "contact_reviewed": true,
+      "full_page_reviewed": false,
+      "note": "Implication/reproduction and DOI/URL source notes fit and remain readable."
+    }
+  ],
+  "limitations": "This is layout/rendering QA, not re-verification of every substantive source claim. Root separately inspects cover/contents and programmatic text bounding boxes; other agents inspect29-80. No PDF edit performed."
+}

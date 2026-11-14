@@ -1,0 +1,4 @@
+threshold_m,global_connected_components,components_with_multiple_station_rows,station_rows_in_multi_station_components,max_component_site_rows,near_pair_edges,cross_province_components,interpretation
+20,2433,21,42,2,21,6,"Proximity components, not verified duplicate facilities; transitive chains allowed"
+50,2418,35,71,3,36,7,"Proximity components, not verified duplicate facilities; transitive chains allowed"
+100,2376,74,152,3,80,14,"Proximity components, not verified duplicate facilities; transitive chains allowed"

@@ -1,0 +1,497 @@
+{
+  "review_type": "Independent AI arithmetic and inventory review; no human/field validation",
+  "checks": [
+    {
+      "check": "provider rows",
+      "pass": true,
+      "detail": "45202"
+    },
+    {
+      "check": "unique source-market IDs",
+      "pass": true,
+      "detail": "Source identifiers are per market; not people"
+    },
+    {
+      "check": "candidate count",
+      "pass": true,
+      "detail": "3359"
+    },
+    {
+      "check": "all candidates job unverified",
+      "pass": true,
+      "detail": "Capability descriptions retain uncertainty"
+    },
+    {
+      "check": "candidate source-confidence filter",
+      "pass": true,
+      "detail": "Source confidence is not study validation probability"
+    },
+    {
+      "check": "candidate duplicate exclusions",
+      "pass": true,
+      "detail": "Probable duplicates preserved outside candidate pool"
+    },
+    {
+      "check": "coordinate ranges",
+      "pass": true,
+      "detail": "Global range check only"
+    },
+    {
+      "check": "branch reconciled count",
+      "pass": true,
+      "detail": "131"
+    },
+    {
+      "check": "branch routing exclusions",
+      "pass": true,
+      "detail": "96"
+    },
+    {
+      "check": "branch geocode eligibility",
+      "pass": true,
+      "detail": "Official map candidates, no field verification"
+    },
+    {
+      "check": "dest IDs Surabaya",
+      "pass": true,
+      "detail": "342"
+    },
+    {
+      "check": "dest in bounds Surabaya",
+      "pass": true,
+      "detail": "[112.56, -7.46, 112.92, -7.1]"
+    },
+    {
+      "check": "dest IDs Medan",
+      "pass": true,
+      "detail": "215"
+    },
+    {
+      "check": "dest in bounds Medan",
+      "pass": true,
+      "detail": "[98.51, 3.4, 98.85, 3.77]"
+    },
+    {
+      "check": "dest IDs Bandung",
+      "pass": true,
+      "detail": "303"
+    },
+    {
+      "check": "dest in bounds Bandung",
+      "pass": true,
+      "detail": "[107.43, -7.07, 107.82, -6.74]"
+    },
+    {
+      "check": "dest IDs Palembang",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "dest in bounds Palembang",
+      "pass": true,
+      "detail": "[104.58, -3.15, 104.92999999999999, -2.8]"
+    },
+    {
+      "check": "OD row total",
+      "pass": true,
+      "detail": "76221 vs expected 76221"
+    },
+    {
+      "check": "OD unique keys",
+      "pass": true,
+      "detail": "One directed row per finite pair"
+    },
+    {
+      "check": "origin count",
+      "pass": true,
+      "detail": "324"
+    },
+    {
+      "check": "origin scenario row count",
+      "pass": true,
+      "detail": "648"
+    },
+    {
+      "check": "nonnegative duration and distance",
+      "pass": true,
+      "detail": "Missing routes kept separate"
+    },
+    {
+      "check": "nearest arithmetic",
+      "pass": true,
+      "detail": "Independently computed all-pair minima for each origin/scenario"
+    },
+    {
+      "check": "median paired Surabaya all_routed",
+      "pass": true,
+      "detail": "(81, 3.466666666666666)"
+    },
+    {
+      "check": "median auto2000 Surabaya all_routed",
+      "pass": true,
+      "detail": "(81, 7.778333333333333)"
+    },
+    {
+      "check": "threshold auto2000 10 Surabaya all_routed",
+      "pass": true,
+      "detail": "56"
+    },
+    {
+      "check": "threshold auto2000 20 Surabaya all_routed",
+      "pass": true,
+      "detail": "79"
+    },
+    {
+      "check": "threshold auto2000 30 Surabaya all_routed",
+      "pass": true,
+      "detail": "80"
+    },
+    {
+      "check": "median independent Surabaya all_routed",
+      "pass": true,
+      "detail": "(81, 4.243333333333333)"
+    },
+    {
+      "check": "threshold independent 10 Surabaya all_routed",
+      "pass": true,
+      "detail": "71"
+    },
+    {
+      "check": "threshold independent 20 Surabaya all_routed",
+      "pass": true,
+      "detail": "79"
+    },
+    {
+      "check": "threshold independent 30 Surabaya all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "median paired Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "(59, 3.621666666666667)"
+    },
+    {
+      "check": "median auto2000 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "(59, 6.741666666666666)"
+    },
+    {
+      "check": "threshold auto2000 10 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "47"
+    },
+    {
+      "check": "threshold auto2000 20 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "59"
+    },
+    {
+      "check": "threshold auto2000 30 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "59"
+    },
+    {
+      "check": "median independent Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "(59, 3.1199999999999997)"
+    },
+    {
+      "check": "threshold independent 10 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "57"
+    },
+    {
+      "check": "threshold independent 20 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "59"
+    },
+    {
+      "check": "threshold independent 30 Surabaya snap_le_250m",
+      "pass": true,
+      "detail": "59"
+    },
+    {
+      "check": "median paired Medan all_routed",
+      "pass": true,
+      "detail": "(81, 3.9283333333333332)"
+    },
+    {
+      "check": "median auto2000 Medan all_routed",
+      "pass": true,
+      "detail": "(81, 8.213333333333333)"
+    },
+    {
+      "check": "threshold auto2000 10 Medan all_routed",
+      "pass": true,
+      "detail": "52"
+    },
+    {
+      "check": "threshold auto2000 20 Medan all_routed",
+      "pass": true,
+      "detail": "80"
+    },
+    {
+      "check": "threshold auto2000 30 Medan all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "median independent Medan all_routed",
+      "pass": true,
+      "detail": "(81, 3.79)"
+    },
+    {
+      "check": "threshold independent 10 Medan all_routed",
+      "pass": true,
+      "detail": "70"
+    },
+    {
+      "check": "threshold independent 20 Medan all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "threshold independent 30 Medan all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "median paired Medan snap_le_250m",
+      "pass": true,
+      "detail": "(78, 4.085833333333333)"
+    },
+    {
+      "check": "median auto2000 Medan snap_le_250m",
+      "pass": true,
+      "detail": "(78, 8.179166666666667)"
+    },
+    {
+      "check": "threshold auto2000 10 Medan snap_le_250m",
+      "pass": true,
+      "detail": "51"
+    },
+    {
+      "check": "threshold auto2000 20 Medan snap_le_250m",
+      "pass": true,
+      "detail": "77"
+    },
+    {
+      "check": "threshold auto2000 30 Medan snap_le_250m",
+      "pass": true,
+      "detail": "78"
+    },
+    {
+      "check": "median independent Medan snap_le_250m",
+      "pass": true,
+      "detail": "(78, 3.3625)"
+    },
+    {
+      "check": "threshold independent 10 Medan snap_le_250m",
+      "pass": true,
+      "detail": "69"
+    },
+    {
+      "check": "threshold independent 20 Medan snap_le_250m",
+      "pass": true,
+      "detail": "78"
+    },
+    {
+      "check": "threshold independent 30 Medan snap_le_250m",
+      "pass": true,
+      "detail": "78"
+    },
+    {
+      "check": "median paired Bandung all_routed",
+      "pass": true,
+      "detail": "(81, 5.176666666666667)"
+    },
+    {
+      "check": "median auto2000 Bandung all_routed",
+      "pass": true,
+      "detail": "(81, 8.975)"
+    },
+    {
+      "check": "threshold auto2000 10 Bandung all_routed",
+      "pass": true,
+      "detail": "48"
+    },
+    {
+      "check": "threshold auto2000 20 Bandung all_routed",
+      "pass": true,
+      "detail": "76"
+    },
+    {
+      "check": "threshold auto2000 30 Bandung all_routed",
+      "pass": true,
+      "detail": "80"
+    },
+    {
+      "check": "median independent Bandung all_routed",
+      "pass": true,
+      "detail": "(81, 3.2983333333333333)"
+    },
+    {
+      "check": "threshold independent 10 Bandung all_routed",
+      "pass": true,
+      "detail": "71"
+    },
+    {
+      "check": "threshold independent 20 Bandung all_routed",
+      "pass": true,
+      "detail": "80"
+    },
+    {
+      "check": "threshold independent 30 Bandung all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "median paired Bandung snap_le_250m",
+      "pass": true,
+      "detail": "(78, 5.199999999999999)"
+    },
+    {
+      "check": "median auto2000 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "(78, 8.881666666666666)"
+    },
+    {
+      "check": "threshold auto2000 10 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "48"
+    },
+    {
+      "check": "threshold auto2000 20 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "73"
+    },
+    {
+      "check": "threshold auto2000 30 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "77"
+    },
+    {
+      "check": "median independent Bandung snap_le_250m",
+      "pass": true,
+      "detail": "(78, 3.2299999999999995)"
+    },
+    {
+      "check": "threshold independent 10 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "70"
+    },
+    {
+      "check": "threshold independent 20 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "77"
+    },
+    {
+      "check": "threshold independent 30 Bandung snap_le_250m",
+      "pass": true,
+      "detail": "78"
+    },
+    {
+      "check": "median paired Palembang all_routed",
+      "pass": true,
+      "detail": "(81, 3.316666666666667)"
+    },
+    {
+      "check": "median auto2000 Palembang all_routed",
+      "pass": true,
+      "detail": "(81, 10.315)"
+    },
+    {
+      "check": "threshold auto2000 10 Palembang all_routed",
+      "pass": true,
+      "detail": "39"
+    },
+    {
+      "check": "threshold auto2000 20 Palembang all_routed",
+      "pass": true,
+      "detail": "69"
+    },
+    {
+      "check": "threshold auto2000 30 Palembang all_routed",
+      "pass": true,
+      "detail": "80"
+    },
+    {
+      "check": "median independent Palembang all_routed",
+      "pass": true,
+      "detail": "(81, 5.586666666666667)"
+    },
+    {
+      "check": "threshold independent 10 Palembang all_routed",
+      "pass": true,
+      "detail": "59"
+    },
+    {
+      "check": "threshold independent 20 Palembang all_routed",
+      "pass": true,
+      "detail": "79"
+    },
+    {
+      "check": "threshold independent 30 Palembang all_routed",
+      "pass": true,
+      "detail": "81"
+    },
+    {
+      "check": "median paired Palembang snap_le_250m",
+      "pass": true,
+      "detail": "(69, 3.424999999999999)"
+    },
+    {
+      "check": "median auto2000 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "(69, 9.228333333333333)"
+    },
+    {
+      "check": "threshold auto2000 10 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "38"
+    },
+    {
+      "check": "threshold auto2000 20 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "63"
+    },
+    {
+      "check": "threshold auto2000 30 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "68"
+    },
+    {
+      "check": "median independent Palembang snap_le_250m",
+      "pass": true,
+      "detail": "(69, 4.635000000000001)"
+    },
+    {
+      "check": "threshold independent 10 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "57"
+    },
+    {
+      "check": "threshold independent 20 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "68"
+    },
+    {
+      "check": "threshold independent 30 Palembang snap_le_250m",
+      "pass": true,
+      "detail": "69"
+    },
+    {
+      "check": "documented capability not identified",
+      "pass": true,
+      "detail": "Unknown qualified set, not absence of capable garages"
+    }
+  ],
+  "passed": 97,
+  "failed": 0,
+  "candidate_audit_sample": {
+    "n": 60,
+    "seed": 1911,
+    "role": "Name/category anomaly inspection, not measured precision or representative field validation"
+  }
+}

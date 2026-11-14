@@ -1,0 +1,146 @@
+[
+  {
+    "source_id": "I01",
+    "title": "Zurich EV product",
+    "url": "https://www.zurich.co.id/produk-asuransi/untuk-kendaraan/zurich-syariah-ev-autocillin",
+    "retrieval_ref": "turn958708782view0",
+    "type": "official product page",
+    "scope": "live retrieved; undated"
+  },
+  {
+    "source_id": "I02",
+    "title": "Zurich EV RIPLAY",
+    "url": "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf",
+    "retrieval_ref": "turn184414567view0",
+    "type": "official product summary PDF",
+    "scope": "printed2026-08-07; not full policy"
+  },
+  {
+    "source_id": "I03",
+    "title": "Astra Syariah",
+    "url": "https://www.asuransiastra.com/syariah/",
+    "retrieval_ref": "turn874786437search1",
+    "type": "official indexed page",
+    "scope": "directwebopen403; search text available"
+  },
+  {
+    "source_id": "I04",
+    "title": "Garda Oto",
+    "url": "https://www.asuransiastra.com/garda-oto/",
+    "retrieval_ref": "turn755250131view2",
+    "type": "official product page",
+    "scope": "opened thenlaterweb403"
+  },
+  {
+    "source_id": "I05",
+    "title": "Astra myGarda EV",
+    "url": "https://www.asuransiastra.com/official-press-release/pengalaman-berasuransi-semakin-mudah-berkat-mygarda-sambut-usia-tujuh-dekade-asuransi-astra-luncurkan-inovasi-terbaru/",
+    "retrieval_ref": "turn755250131view3",
+    "type": "official release",
+    "scope": "2026-09-16"
+  },
+  {
+    "source_id": "I06",
+    "title": "Jasindo Syariah motor",
+    "url": "https://www.jasindosyariah.co.id/product/ritel/asuransi-kendaraan-bermotor",
+    "retrieval_ref": "turn958708782view2",
+    "type": "official product page",
+    "scope": "undated"
+  },
+  {
+    "source_id": "I07",
+    "title": "Jasindo claim process",
+    "url": "https://www.jasindosyariah.co.id/pages/asuransi-kendaraan-bermotor",
+    "retrieval_ref": "turn228076214search1",
+    "type": "official indexed process",
+    "scope": "undated"
+  },
+  {
+    "source_id": "I08",
+    "title": "Hyundai RVG",
+    "url": "https://www.hyundai.com/id/id/myhyundaicare/jual-kembali/resale-value-guarantee",
+    "retrieval_ref": "turn184414567view2",
+    "type": "official programme terms",
+    "scope": "undated currentpage"
+  },
+  {
+    "source_id": "I09",
+    "title": "VinFast GIIAS2026",
+    "url": "https://vinfastauto.id/en/promo-giias-2026",
+    "retrieval_ref": "turn958708782view4",
+    "type": "official campaign",
+    "scope": "GIIAS2026; detailedtenor not shown"
+  },
+  {
+    "source_id": "I10",
+    "title": "RVI Group overview",
+    "url": "https://www.rvigroup.com/residual-value-insurance/",
+    "retrieval_ref": "turn958708782view5",
+    "type": "official insurer product",
+    "scope": "undated; generic international"
+  },
+  {
+    "source_id": "I11",
+    "title": "RVI passenger",
+    "url": "https://www.rvigroup.com/passenger-vehicle/",
+    "retrieval_ref": "turn958708782view6",
+    "type": "official insurer product",
+    "scope": "undated; bespoke B2B"
+  },
+  {
+    "source_id": "I12",
+    "title": "POJK8/2024",
+    "url": "https://ojk.go.id/id/regulasi/Documents/Pages/POJK-8-Tahun-2024-Produk-Asuransi-dan-Saluran-Pemasaran-Produk-Asuransi/POJK%208%20Tahun%202024%20Produk%20Asuransi%20dan%20Saluran%20Pemasaran%20Produk%20Asuransi.pdf",
+    "retrieval_ref": "turn511683724view1",
+    "type": "primary regulation PDF",
+    "scope": "2024 publication; currentfulllegalposition notcertified"
+  },
+  {
+    "source_id": "I13",
+    "title": "SEOJK14/2024",
+    "url": "https://ojk.go.id/id/regulasi/Pages/SEOJK-14-SEOJK05-2024-Persetujuan-dan-Pelaporan-Produk-Asuransi.aspx",
+    "retrieval_ref": "turn228076214search4",
+    "type": "official regulation landing",
+    "scope": "2024-10-29"
+  },
+  {
+    "source_id": "I14",
+    "title": "DSN fatwa directory",
+    "url": "https://dsnmui.or.id/kategori/fatwa/page/12/",
+    "retrieval_ref": "turn511683724view0",
+    "type": "official DSN directory",
+    "scope": "lists52and53/2006"
+  },
+  {
+    "source_id": "I15",
+    "title": "Fatwa52/2006",
+    "url": "https://aasi.or.id/storage/regulation-files/v2IwRXT58TZo9Y4cJQ0DndBpEXviMyVcQTOjysn2.pdf",
+    "retrieval_ref": "turn237141222view1",
+    "type": "original DSN document hostedbyAASI",
+    "scope": "2006"
+  },
+  {
+    "source_id": "I16",
+    "title": "IFRS17 historical consolidatedtext",
+    "url": "https://www.ifrs.org/content/dam/ifrs/project/amendments-to-ifrs-17/ifrs-17-incorporating-the-june-2020-amendments.pdf",
+    "retrieval_ref": "turn237141222view0",
+    "type": "standardsetter PDF",
+    "scope": "2020 consolidation; not currentIndonesialegalopinion"
+  },
+  {
+    "source_id": "I17",
+    "title": "POJK27/2025",
+    "url": "https://ojk.go.id/id/regulasi/Pages/POJK-27-Tahun-2025-Pengelolaan-Aset-dan-Liabilitas-Perusahaan-Asuransi-dan-Perusahaan-Reasuransi-dengan-Prinsip-Syariah.aspx",
+    "retrieval_ref": "turn511683724search5",
+    "type": "official regulatory landing",
+    "scope": "2025-11-24 metadata"
+  },
+  {
+    "source_id": "I18",
+    "title": "AAUI oldlink",
+    "url": "https://aaui.or.id/wp-content/uploads/2022/03/11-PSAKBI-rev-dispute-2021.pdf",
+    "retrieval_ref": "turn755250131view1",
+    "type": "unavailableprimaryPDF",
+    "scope": "web404; no substance adopted"
+  }
+]

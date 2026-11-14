@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Source and release hashes refer to exact bytes, including on Windows.
+# Disabling newline normalization does not disable Git's normal text diffs.
+* -text
+*.bin -text
+*.mat -text
+*.gz -text
+*.pdf -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.xlsx -text
+*.docx -text
+*.sqlite -text
+*.zip -text

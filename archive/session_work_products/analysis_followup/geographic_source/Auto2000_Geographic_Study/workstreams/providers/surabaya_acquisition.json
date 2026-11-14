@@ -1,0 +1,16 @@
+{
+  "market": "Surabaya",
+  "bbox": [
+    112.56,
+    -7.46,
+    112.92,
+    -7.1
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:04.862832+00:00",
+  "status": "success",
+  "source_all_place_rows": 87606,
+  "automotive_candidate_rows": 4156,
+  "sha256": "07122115be981def1f65240fc129c3e548877e77bd76ae019b4e9113148ee0d8",
+  "seconds": 25.44
+}

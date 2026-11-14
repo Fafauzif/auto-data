@@ -1,0 +1,29 @@
+{
+  "checked_date": "2026-11-14",
+  "sources": [
+    {
+      "label": "Actor README",
+      "url": "https://apify.com/xquik/x-tweet-scraper"
+    },
+    {
+      "label": "Input schema",
+      "url": "https://apify.com/xquik/x-tweet-scraper/input-schema"
+    },
+    {
+      "label": "Pricing",
+      "url": "https://apify.com/xquik/x-tweet-scraper/pricing"
+    },
+    {
+      "label": "Historic rate discrepancy issue",
+      "url": "https://apify.com/xquik/x-tweet-scraper/issues/unexpected-credit-co-dHNgWx4numHDqVBTJ"
+    },
+    {
+      "label": "Apify run charging",
+      "url": "https://docs.apify.com/actors/running/actors-in-store"
+    },
+    {
+      "label": "Peer reviewed sampling caution, Scientific Reports (2024)",
+      "url": "https://www.nature.com/articles/s41598-024-51555-0"
+    }
+  ]
+}

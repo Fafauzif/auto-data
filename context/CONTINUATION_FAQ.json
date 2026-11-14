@@ -1,0 +1,183 @@
+[
+  {
+    "question": "What is the current mandate?",
+    "answer": "Integrated private research, recommendations and complete continuation context across all available evidence families. Historical diagnosis-only instructions are superseded.",
+    "paths": [
+      "PROJECT_CONTEXT.md",
+      "context/SESSION_DECISIONS.json"
+    ]
+  },
+  {
+    "question": "Which three prongs must be answered?",
+    "answer": "New-to-Auto2000 xEV acquisition, eligible customer-paid aftersales recovery, repeat xEV replacement/trade-in.",
+    "paths": [
+      "PROJECT_CONTEXT.md"
+    ]
+  },
+  {
+    "question": "What does the original case require?",
+    "answer": "Digital innovation as the core driver, meaningful regular Digiroom use, xEV sales and aftersales GP, privacy, realistic assumptions and a roadmap within IDR 150 billion for 2026–2028.",
+    "paths": [
+      "analysis/research/original_case_kpis.csv",
+      "sources/case/Semifinal_Casebook_IBSC_2026.pdf"
+    ]
+  },
+  {
+    "question": "Does the case EV definition include hybrids?",
+    "answer": "Yes. HEV, PHEV and BEV are included.",
+    "paths": [
+      "analysis/research/original_casebook.txt"
+    ]
+  },
+  {
+    "question": "How much X evidence exists?",
+    "answer": "14,892 rows and 14,291 unique post IDs across ten exports. This includes irrelevant and promotional material.",
+    "paths": [
+      "analysis/social/corpus_metrics.json",
+      "analysis/social/source_runs.csv"
+    ]
+  },
+  {
+    "question": "What thread context is missing?",
+    "answer": "There are 6,186 X replies, of which 5,704 lack their immediate parent in the supplied corpus.",
+    "paths": [
+      "analysis/social/corpus_metrics.json"
+    ]
+  },
+  {
+    "question": "What YouTube evidence actually returned?",
+    "answer": "74 comments/replies on three videos: 26 from the M6 owner-experience video, three from Setir Kanan M6 and 45 from the Neta resale video. No Toyota video returned.",
+    "paths": [
+      "analysis/social/youtube_video_summary.csv"
+    ]
+  },
+  {
+    "question": "How should Maps sampling be interpreted?",
+    "answer": "8,385 rows become 8,119 IDs across 37 places. Lowest-ranking and newest selected cohorts overlap by 266 IDs and retain their collection memberships.",
+    "paths": [
+      "analysis/social/corpus_metrics.json",
+      "analysis/social/maps_branch_cohort_summary.csv"
+    ]
+  },
+  {
+    "question": "Are these counts customers?",
+    "answer": "No. PlatformIDs, reviews, authors, modelorigins and telemetry values have different units and do not authenticate transactions.",
+    "paths": [
+      "DATA_GUIDE.md"
+    ]
+  },
+  {
+    "question": "Which geography version is current?",
+    "answer": "The corrected14Novemberlatest source package and independent audit; older Suci/Sidoarjo coordinates/headlines are historical.",
+    "paths": [
+      "analysis/geography/GEOGRAPHY_INTEGRATION_REPORT.md",
+      "context/SUPERSESSION.md"
+    ]
+  },
+  {
+    "question": "What is the main new geographic prioritization?",
+    "answer": "Owned eligible routing reduces oil tails from 39 to 20. Bandung has 14 of the 20 remaining origins and Soekarno-Hatta has eight. These are model origins, not demand weights.",
+    "paths": [
+      "analysis/geography/tables/market_portfolio.csv",
+      "analysis/geography/tables/branch_portfolio.csv"
+    ]
+  },
+  {
+    "question": "Why preserve Pancing or TAA service despite oil alternatives?",
+    "answer": "Pancing has zero residual oil tails and eight origins losing 15-minute general-branch access in the removal scenario; Tanjung Api-Api has zero and seven. General-workshop geometry differs from oil-job substitution.",
+    "paths": [
+      "analysis/geography/tables/branch_portfolio.csv"
+    ]
+  },
+  {
+    "question": "What happens to Sidoarjo zero baseline assignment?",
+    "answer": "Keep its separate coordinate correction and southern extension: six of six targeted added origins choose Sidoarjo. Zero baseline assignment does not establish zero demand.",
+    "paths": [
+      "analysis/geography/GEOGRAPHY_INTEGRATION_REPORT.md"
+    ]
+  },
+  {
+    "question": "Are app booking, HHC and trade-in new features?",
+    "answer": "Existing capability evidence is preserved. Differentiation must address usable acceptance, fulfillment and executable offers.",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json"
+    ]
+  },
+  {
+    "question": "Can all new2026sales be routine paid aftersales inside2028?",
+    "answer": "No. Entitlement, mileage, model/cohort and uncovered work determine payment. The month-42 illustration is conditional, not a BEV maintenance forecast.",
+    "paths": [
+      "analysis/research/COMMERCIAL_MODEL_SPEC.md",
+      "reports/INTEGRATED_REPORT.md"
+    ]
+  },
+  {
+    "question": "What does the case46.7%aftersalesGP mean?",
+    "answer": "It is the aggregate all-powertrain GP share, paired with 13.0% of revenue. It is not an xEV margin.",
+    "paths": [
+      "analysis/research/case_business_line_inputs.csv"
+    ]
+  },
+  {
+    "question": "What is the primary digital proposition?",
+    "answer": "A customer-visible ownership case linking vehicle, job, entitlement, suitable destination, accepted scope and completed outcome across channels, with xEV demo and net-upgrade paths.",
+    "paths": [
+      "reports/INTEGRATED_REPORT.md"
+    ]
+  },
+  {
+    "question": "How is channel migration handled?",
+    "answer": "A programme-linked transaction is not necessarily incremental. Model counterfactual completed work, recognized GP, costs and displacement. Set the displacement deduction to zero if already included in the counterfactual.",
+    "paths": [
+      "analysis/research/COMMERCIAL_MODEL_SPEC.md",
+      "reports/INTEGRATED_REPORT.md"
+    ]
+  },
+  {
+    "question": "Where are all original sources and scraping inputs?",
+    "answer": "The source inventory resolves logical paths and byte-identical aliases across original repo, session uploads/workproducts and geography archive members.",
+    "paths": [
+      "manifests/source_inventory.jsonl",
+      "sources/ARCHIVE_GUIDE.md"
+    ]
+  },
+  {
+    "question": "Can large files be restored exactly?",
+    "answer": "Yes. Original byte parts carry length/hash metadata. source_archive.py reconstructs them under ignored .restored/. Do not commit oversized restored originals.",
+    "paths": [
+      "scripts/source_archive.py",
+      "MIGRATION.md"
+    ]
+  },
+  {
+    "question": "Does Replace All remove obsolete files?",
+    "answer": "No. Use the migration dry-run/apply workflow to move unmodified obsolete files to a sibling backup while protecting modified files, unknown files and .git.",
+    "paths": [
+      "MIGRATION.md",
+      "scripts/migrate_legacy.py"
+    ]
+  },
+  {
+    "question": "What is the source-container vault for?",
+    "answer": "Optional exact original ZIP bytes. The primary repo already retains source-member content.",
+    "paths": [
+      "sources/ARCHIVE_GUIDE.md"
+    ]
+  },
+  {
+    "question": "Was anything spent or published?",
+    "answer": "No paid actor, lead, booking, message or GitHub push was performed during the integrated analysis.",
+    "paths": [
+      "context/SESSION_DECISIONS.json",
+      "context/ACQUISITION_HISTORY.md"
+    ]
+  },
+  {
+    "question": "Can the chat now be closed?",
+    "answer": "The repo preserves current mandate, decisions, source context, status, findings and next research decisions. It is a reconstructed handoff with available originals, rather than an unavailable complete verbatim chat export.",
+    "paths": [
+      "PROJECT_CONTEXT.md",
+      "context/SESSION_TIMELINE.csv"
+    ]
+  }
+]

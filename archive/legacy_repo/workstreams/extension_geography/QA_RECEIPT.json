@@ -1,0 +1,169 @@
+{
+  "checks": [
+    {
+      "check": "Source station count",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Box count matches station n_chargerboxes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Charger and connector grain reconciliation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Original represented source entries",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No remaining exact coordinate duplicates",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Near component counts nonincreasing",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Near components bounded by site count",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All pooled boundaries conserve national stocks",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "2025 direct join omitted stock exactly70800",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "2025 pooled old Papua91 denominator41685",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "2025 pooled old Papua94 denominator111637",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Ratios independently match numerator divided by denominator",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nonnegative nearest distances",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "No anchor paired with itself",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All nearest candidates exclude Auto2000-name source anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All access status remains unverified",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nested pool distances monotone official_five_branch_candidates",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nested pool distances monotone official_five_exclude_flagged_candidates",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nested pool distances monotone source_coordinates",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nested pool distances monotone source_exclude_flagged_candidates",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Nested pool distances monotone source_omit_known_conflicted_anchor",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Input unchanged raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_stations.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Input unchanged raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_chargers.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Input unchanged raw_licensed_data/SPKLU_CC_BY_NC_3_0/spklu_data_dictionary.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Input unchanged workstreams/datasets/bps_vehicle_stock_long.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Input unchanged workstreams/datasets/five_branch_coordinate_crosscheck.csv",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Province site and box counts conserve source counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Expected25scenarios",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Expected695anchor_scenario_rows",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Prospective specification and independent challenge present",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "Reproduction code compiles",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "All JSON and CSV parse",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "checks_total": 32,
+  "passed": 32,
+  "failed": 0,
+  "visual_qa": "Agent inspected all3figures; revised figure1 legend to remove overlap. No human fieldvalidation claimed.",
+  "limitations": "Descriptive arithmetic QA does not establish source accuracy or accessible/operational chargers."
+}

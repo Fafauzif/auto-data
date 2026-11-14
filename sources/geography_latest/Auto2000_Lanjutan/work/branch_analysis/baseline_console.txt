@@ -1,0 +1,32 @@
+{
+  "branch_rows": 54,
+  "unique_branches": 27,
+  "market_origin_rows": 648,
+  "matched_handoff_branches": 24,
+  "max_handoff_oil_gap_difference_minutes": 3.339550858072471e-13,
+  "handoff_count_equal": true,
+  "strict_joint_n": [
+    59,
+    78,
+    78,
+    69
+  ],
+  "corrected_coordinate_scenario": false,
+  "method": "Full raw OD minima by channel and operator, same paired origin set; no cached summary trusted as calculation input",
+  "handoff_comparison_expectation": "Baseline should reproduce handoff assignments and medians",
+  "qa_pass": true
+}
+   market     scenario  paired_n  median_generic_gap_min  median_oil_gap_min  origins_auto2000_not_slower  oil_gap_gt5_n  max_oil_gap_min
+ Surabaya   all_routed        81                3.466667            0.966667                           29             14        10.361667
+    Medan   all_routed        81                3.928333            0.346667                           35              3         5.756667
+  Bandung   all_routed        81                5.176667            2.168333                            8             21         9.780000
+Palembang   all_routed        81                3.316667            2.638333                            5             11         6.585000
+ Surabaya snap_le_250m        59                3.621667            0.966667                           23             10         7.541667
+    Medan snap_le_250m        78                4.085833            0.346667                           32              3         5.756667
+  Bandung snap_le_250m        78                5.200000            2.635833                            8             21         9.780000
+Palembang snap_le_250m        69                3.425000            2.638333                            5              9         6.585000
+   market     scenario  paired_n  own_ox_benefit_gt1sec_n  own_ox_benefit_gt1min_n  own_ox_benefit_gt3min_n  own_ox_benefit_gt5min_n  median_saving_all_min  median_saving_positive_min  max_saving_min  oil_gap_gt5_before_n  oil_gap_gt5_after_owned_routing_n  median_owned_gap_min  old_le_10min  new_le_10min  added_le_10min  old_le_15min  new_le_15min  added_le_15min  old_le_20min  new_le_20min  added_le_20min  old_le_30min  new_le_30min  added_le_30min
+ Surabaya snap_le_250m        59                        8                        7                        5                        0                    0.0                      3.7700        4.978333                    10                                  6              0.506667            47            49               2            59            59               0            59            59               0            59            59               0
+    Medan snap_le_250m        78                       15                       15                       10                        0                    0.0                      3.4400        3.685000                     3                                  0              0.048333            51            54               3            73            73               0            77            77               0            78            78               0
+  Bandung snap_le_250m        78                       10                        4                        3                        2                    0.0                      0.6900        5.973333                    21                                 18              2.168333            48            51               3            65            65               0            73            73               0            77            77               0
+Palembang snap_le_250m        69                       14                       12                       10                        7                    0.0                      5.3525        6.585000                     9                                  0              1.556667            38            42               4            55            57               2            63            65               2            68            68               0

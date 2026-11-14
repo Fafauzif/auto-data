@@ -1,0 +1,1372 @@
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+KEPUTUSAN UTAMA
+
+Menangkan pekerjaan berbayar
+dengan tujuan bengkel yang tepat dan
+janji yang selesai
+Prioritaskan routing pekerjaan ke kanal Auto2000 yang sudah ada, koreksi destinasi Suci,
+dan lindungi satu kunjungan yang tuntas. Jangan mulai dari ekspansi atau subsidi pickup
+merata.
+Di Palembang, memasukkan OtoXpert beroperator Auto2000 menghapus seluruh sembilan origin
+dengan selisih akses oli di atas lima menit. Di Bandung, koreksi Suci mengubah cabang terdekat
+pada 20 origin. Di Medan, selisih ke jaringan oli hanya 0,35 menit. Tiga hasil ini menuntut intervensi
+yang berbeda.
+Sasaran pekerjaan awal: oli dan filter Toyota Avanza 2019 G 1.3 yang dibayar pelanggan di luar
+entitlement gratis atau prepaid. Kampas rem depan memakai jalur bengkel dengan parts dan
+persetujuan pekerjaan tersendiri. Dukungan xEV tetap dijalankan sebagai jalur kasus, demo, dan
+appraisal.
+Tindakan sekarang
+
+Tempat utama
+
+Oli Tepat Kanal
+
+OtoXpert Palembang; Rungkut; Ring Road Medan
+
+Tujuan Benar Suci
+
+Suci dan catchment Cibiru yang berubah
+
+Slot Sampai Serah-Terima
+
+A. Yani, Pancing; bridge Cilandak
+
+Sekali Datang
+
+Kantong Soekarno-Hatta yang tersisa
+
+Keputusan. Seluruh angka geografis merujuk origin model. Rekomendasi adalah pilihan tindakan
+dalam ruang bukti publik, bukan klaim uplift atau laba yang telah terjadi.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+1
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+RINGKASAN EKSEKUTIF
+
+Enam insight mengubah pilihan
+cabang dan intervensi
+Persoalan yang dapat dijawab studi ini bukan seberapa ramai peta bengkel, melainkan kapan
+Auto2000 harus mengubah penawaran, tujuan kanal, jumlah perjalanan, atau handoff agar pekerjaan
+berbayar lebih layak dipilih.
+Seluruh 27 cabang awal dihitung ulang dari OD mentah. Suci dan Sidoarjo kemudian ditambahkan
+sebagai skenario koreksi sehingga tabel keputusan mencakup 29 endpoint. Operator, lingkup
+pekerjaan, alternatif setempat, dan cabang Auto2000 kedua dipisahkan.
+Insight
+
+Keputusan yang berubah
+
+1. Palembang: sembilan tail oli menjadi nol melalui kanal milik
+sendiri
+
+Routing OtoXpert dahulu; pickup atau gedung baru
+bukan pilihan pertama
+
+2. Medan: 4,09 menjadi 0,35 menit saat pembanding relevan
+
+Perbaiki penawaran dan konfirmasi Pancing; gunakan
+Ring Road untuk opsi ekonomis
+
+3. A. Yani dan Kertajaya sama-sama 11 origin, tetapi
+mandatnya berlawanan
+
+Lindungi slot A. Yani; tawarkan Rungkut dari Kertajaya
+
+4. Suci mengambil 20 origin dan menurunkan gap Bandung
+
+Koreksi routing sebelum menganggap Cibiru prioritas
+akses
+
+5. Keunggulan lokasi dapat habis oleh kunjungan tambahan
+
+Booking harus berakhir pada persetujuan kerja dan
+kepastian serah-terima
+
+6. xEV harus menuju pemilik kasus, bukan charger terdekat
+
+Demo terkonfirmasi, HHC ke garansi, appraisal ke
+penawaran nyata
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+2
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 1 / OPERATOR MENGUBAH KEPUTUSAN
+
+Palembang: sembilan origin tertinggal
+oli dapat dilayani lebih dekat lewat
+kanal sendiri
+Dengan hanya bengkel umum Auto2000, sembilan dari 69 origin berpasangan memiliki gap oli di
+atas lima menit. Tujuh berada unik pada catchment Tanjung Api-Api dan satu dibagi dengan Veteran
+karena waktu terdekatnya persis sama. Plaju tidak memiliki origin pada kategori itu.
+Setelah OtoXpert Palembang berlabel operator Auto2000 diperbolehkan, jumlah tersebut menjadi
+nol. Tujuh origin mencapai paritas dengan jaringan oli pembanding; dua lainnya tinggal sekitar 1,005
+menit. Perubahan ini adalah hasil pemilihan endpoint model, bukan dampak komersial yang sudah
+diukur.
+
+Origin yang sama, aturan snap <=250 m. Jaringan pembanding oli: OtoXpert+Shop&Drive; jaringan sendiri:
+Auto2000+OtoXpert berlabel Auto2000. Sumber: OD mentah dan tabel operator [G 1-G 3].
+
+Keputusan. Jalankan Oli Tepat Kanal Palembang untuk pekerjaan yang sesuai sebelum pickup baru
+atau perluasan bengkel. Manfaatnya datang dari memakai endpoint yang sudah tersedia.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+3
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 1 / PILIHAN DAN ALTERNATIF YANG KALAH
+
+Untuk oli di utara, kalahnya pickup
+bukan karena perjalanan tidak penting
+Perjalanan tetap penting: titik ketertinggalan terkonsentrasi di utara, tetapi kanal ekonomis yang
+sudah ada dapat menjawabnya. Membaca Palembang sebagai kota sungai lalu mendahulukan Plaju
+akan memilih tempat yang salah untuk tujuan mengurangi tail oli.
+Tanjung Api-Api tetap dibutuhkan untuk pekerjaan dengan scope bengkel utama. Rekomendasi ini
+tidak memindahkan seluruh pekerjaan atau menyamakan GP dua kanal. Digiroom harus
+menampilkan pilihan pekerjaan, operator penerima, lingkup parts, harga yang disetujui, serta
+cabang yang menerima slot.
+
+TAA memiliki 7 origin unik+1 shared pada tail>5 menit;Veteran 1 unik;Plaju 0. Ambang 5 menit adalah kategori analitis, bukan
+toleransi pelanggan. Peta bukan bukti bahwa jembatan menyebabkan gap. [G 1-G 3]
+
+Dipilih
+
+Tidak diprioritaskan
+
+Alasan
+
+Oli ke OtoXpert Palembang
+
+Pickup oli merata
+
+Tail model terselesaikan melalui endpoint
+tersedia
+
+Bengkel utama untuk scope yang
+sesuai
+
+Alih semua pekerjaan ke kanal
+ekonomis
+
+Fitment, scope dan GP berbeda
+
+Kantong utara untuk routing
+
+Plaju sebagai proyek akses
+pertama
+
+Tidak ada tail>5 menit pada catchment Plaju
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+4
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 2 / TUGAS MENGUBAH PEMBANDING
+
+Medan: selisih 4,09 menit menyusut
+menjadi 0,35; perluasan bukan
+jawaban awal
+Pada 78 origin berpasangan yang sama, median gap Auto2000 berubah dari 4,086 menit terhadap
+kandidat generik menjadi 0,347 menit terhadap jaringan oli terdokumentasi. Sebanyak 32 origin
+bahkan tidak lebih lambat menuju Auto2000. Ini membatalkan alasan perluasan yang hanya
+bertumpu pada kepadatan kandidat peta.
+Pancing terdekat bagi 24 origin, dengan gap median 0,347 menit dan tanpa tail>5 menit. Delapan
+origin kehilangan akses Auto2000<=15 menit jika Pancing dikeluarkan dari model. Prioritasnya
+adalah menjaga slot dan penyelesaian, bukan mengalihkan beban secara otomatis ke cabang lain.
+
+Pembanding diganti pada origin berpasangan yang sama; panel Bandung juga menunjukkan koreksi Suci. Penyusutan adalah
+perbandingan skenario, bukan hasil intervensi. [G 1-G 3]
+
+Keputusan. Pilih Slot Sampai Serah-Terima Pancing. Untuk opsi ekonomis di catchment Gatot
+Subroto, tampilkan OtoXpert Ring Road Medan sebelum membuat tier atau rute pickup baru.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+5
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 2 / CABANG DAN PEKERJAAN
+
+Medan memerlukan dua tawaran,
+bukan satu subsidi perjalanan
+Gatot Subroto terdekat bagi 20 origin dan memiliki gap median 2,386 menit, tetapi tidak ada tail>5
+menit. Memperbolehkan OtoXpert Ring Road beroperator Auto2000 membuat median gap jaringan
+sendiri pada catchment ini mencapai nol. Satu angka kota tidak boleh menggantikan pilihan kanal
+per pekerjaan.
+Untuk oli dan filter yang dibayar sendiri, tawarkan bengkel utama atau kanal ekonomis dengan scope
+parts yang terlihat. Untuk kampas rem depan, tetapkan kit satu as depan, fitting, inspeksi, pajak dan
+perubahan scope; jangan memakai harga oli sebagai pembanding pekerjaan rem.
+Cabang/catchment
+
+Intervensi bernama
+
+Alternatif yang kalah
+
+Pancing
+
+Slot Sampai Serah-Terima: parts, PIC dan slot
+diterima sebelum berangkat
+
+Ekspansi untuk menyelesaikan gap
+kota 0,35 menit
+
+Gatot Subroto/Ring Road
+
+Oli Tepat Kanal Ring Road: dua opsi pekerjaan
+yang operaturnya jelas
+
+Tier ekonomis baru atau pickup
+massal
+
+Pancing untuk rem
+
+Parts Disetujui: fitment VIN/model, kit dan jasa
+disetujui sebelum slot
+
+Bundel diskon umum tanpa parts
+siap
+
+Keputusan. Ketegasan pilihannya berasal dari akses dan kanal yang sudah ada. Harga, kapasitas
+dan switching tidak direka menjadi hasil.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+6
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 3 / SURABAYA
+
+A. Yani dan Kertajaya sama-sama 11
+origin; kesamaan ukuran
+menyembunyikan mandat berlawanan
+Pada grid baseline, di A. Yani median gap ke jaringan oli adalah -0,960 menit; di Kertajaya +2,133
+menit. Keduanya terdekat bagi 11 origin. Ranking jumlah origin saja akan memperlakukan dua posisi
+kompetitif ini sebagai kebutuhan yang sama.
+Cabang Auto2000 kedua menambah median 3,757 menit pada origin A. Yani, tetapi hanya 0,122
+menit pada origin Kertajaya. Karena itu, lindungi slot A. Yani; jangan menganggap overlap di
+Kertajaya berarti kapasitas kosong atau dasar menutup cabang.
+
+Catchment baseline ketat, identitas cabang dan OD koreksi dipertahankan. Penalti cabang kedua adalah perbandingan lokasi,
+bukan beban kerja atau kapasitas. [G 1-G 3]
+
+Keputusan. A. Yani mendapat Slot Pasti Harga Disetujui. Kertajaya mendapat pilihan Oli Rungkut,
+bukan subsidi perjalanan seragam.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+7
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 3 / TINDAKAN PER PEKERJAAN
+
+Di Kertajaya, Rungkut menghapus tiga
+tail oli tanpa kanal baru
+Kertajaya memiliki tiga origin dengan gap oli>5 menit. Memasukkan OtoXpert Rungkut beroperator
+Auto2000 menghapus ketiganya dari kategori tersebut; median gap catchment tersisa sekitar 1,080
+menit. Penawaran harus mengubah tujuan pekerjaan yang sesuai sebelum pemilik berangkat.
+A. Yani tetap menjadi pilihan utama bagi pekerjaan yang lokasinya sudah kompetitif. Keunggulan
+kecil itu harus dilindungi dengan persetujuan scope dan janji siap ambil. Menambah tombol booking
+tidak menjamin pekerjaan diterima dan selesai.
+Pemilik dan pekerjaan
+
+Tindakan
+
+Pilihan yang kalah
+
+Avanza 2019 G 1.3; oli+filter
+dibayar sendiri di catchment
+Kertajaya
+
+Tampilkan Kertajaya/Rungkut, parts dan
+operator; pilih slot diterima
+
+Tier baru dan pickup luas sebelum
+kanal sendiri dipakai
+
+Pemilik sejenis di A. Yani
+
+Lindungi penerimaan dan persetujuan harga
+sebelum berangkat
+
+Memindahkan ke cabang kedua
+atas dasar overlap
+
+Kampas rem depan
+
+Workshop bay dengan
+kit+fitment+persetujuan; cakupan opsi
+jaringan dilabeli
+
+Menjanjikan penggantian kampas
+rem di rumah hanya dari cakupan
+THS umum
+
+Keputusan. THS diprioritaskan untuk oli/filter pada lokasi yang dapat dilayani; inspeksi rem tidak
+disamakan dengan penggantian kampas rem depan. [JB01-JB04]
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+8
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 4 / KOREKSI MENGUBAH KEPUTUSAN
+
+Suci yang dikoreksi mengambil 20
+origin; prioritas akses Cibiru harus
+turun
+Suci sebelumnya dikeluarkan karena tautan arah resmi mengulang titik Setiabudi. Sumber peta
+publik alternatif cocok dengan alamat resmi PHH Mustofa 6 dan titik Overture dalam sekitar 9 meter.
+Sidoarjo juga dipulihkan dari koordinat resmi rusak yang didukung titik nama/alamat sama dalam
+sekitar 23 meter.
+Rute baru membuat Suci terdekat bagi 20 dari 78 origin Bandung. Median gap kota turun
+2,636→1,736 menit; tail>5 menit turun 21→17. Cibiru turun 22→14 origin dan tail 4→1. Menganggap
+Cibiru target pickup utama dari peta lama berarti mendanai sebagian masalah pencatatan lokasi.
+
+Versi lama, sumber koreksi, road-snap dan OD baru disimpan. Suci merupakan kandidat koordinat fasilitas publik yang
+dirutekan, bukan gate yang diklaim telah dikunjungi. [K 1-K 2; G 4]
+
+Keputusan. Jalankan Tujuan Benar Suci: perbaiki koordinat dan pilihan cabang sebelum menjual
+intervensi akses baru di timur Bandung.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+9
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 4 / PRIORITAS YANG TETAP BERTAHAN
+
+Soekarno-Hatta menyisakan delapan
+tail bahkan setelah kanal sendiri
+ditambahkan
+Soekarno-Hatta tetap terdekat bagi 21 origin. Gap median ke jaringan oli 4,248 menit dan sembilan
+dari 17 tail Bandung berada di catchment ini. Sesudah OtoXpert beroperator Auto2000 ikut dihitung,
+delapan tail masih tersisa; median gap jaringan sendiri 3,435 menit.
+Berbeda dari Palembang, routing kanal sendiri belum menyelesaikan seluruh kantong ini. Pilih Sekali
+Datang Soekarno-Hatta: oli/filter melalui THS pada lokasi yang sesuai atau slot tunggu onsite dengan
+parts siap; pekerjaan rem tetap di bay. Pickup berbayar menjadi opsi residual yang harus
+mengalahkan selisih kontribusi per pekerjaan.
+Pilihan
+
+Urutan keputusan
+
+Mengapa alternatif kalah
+
+Koreksi Suci
+
+Dikerjakan lebih dahulu pada sistem
+pemilihan cabang
+
+Biaya gedung/pickup tidak
+membetulkan destinasi yang salah
+
+Sekali Datang Soekarno-Hatta
+
+THS oli sesuai scope; atau tunggu satu
+kunjungan dengan parts siap
+
+Reroute semua ke Suci/OtoXpert masih
+meninggalkan 8 tail
+
+Pickup residual
+
+Dibeli per pekerjaan jika batas kontribusi
+mengizinkan
+
+Subsidi seluruh kota membayar juga
+pekerjaan yang tidak membutuhkan
+
+Keputusan. Sidoarjo tidak menang pada grid Surabaya lama yang batasnya lebih utara. Itu bukan
+kesimpulan tentang seluruh pasar selatan; sensitivitas origin perluasan ditampilkan terpisah. [G 4; A
+1]
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+10
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+BUKTI PENDUKUNG INSIGHT 1 / MANFAAT MARGINAL
+
+OtoXpert hampir tidak menambah
+cakupan 20 menit, tetapi manfaat
+perjalanan Palembang nyata
+Tambahan origin dalam cakupan<=20 menit hanya 0 di Surabaya,0 Medan,0 Bandung dan 2
+Palembang. Namun ukuran cakupan tersebut menyembunyikan penghematan pada origin yang
+sudah tercakup.
+Pada baseline yang sama, penghematan>3 menit terjadi pada 5,10,3 dan 10 origin; penghematan>5
+menit pada 0,0,2 dan 7 origin. Median penghematan seluruh origin tetap nol di tiap kota. Jadi kanal
+ini terutama menambah pilihan penawaran, dengan manfaat akses lokal yang kuat di Palembang.
+
+Ambang 10/15/20/30 menit dan penghematan>1/>3/>5 menit dihitung pada origin berpasangan yang sama. Nilai positif
+bukan ukuran preferensi atau uplift. Tabel koreksi juga disediakan. [G 1-G 3]
+
+Keputusan. Gunakan kanal ekonomis yang sudah tersedia menurut operator dan pekerjaan. Jangan
+menyamakan kecilnya perluasan cakupan dengan nolnya manfaat perjalanan.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+11
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+BUKTI PENDUKUNG INSIGHT 1 / OPERATOR DAN KONTRIBUSI
+
+Logo Toyota dan hubungan Astra
+bukan perimeter laba Auto2000
+OtoXpert Dukuh Kupang berlabel Liek Motor, Thamrin Medan Deltamas, Tritura Medan Perintis, dan
+Antapani Wijaya. Kanal tersebut merupakan alternatif relevan, tetapi bukan otomatis transaksi
+Auto2000. Shop&Drive juga tidak dimasukkan sebagai GP Auto2000 hanya karena hubungan grup
+Astra.
+Perimeter akses sendiri memakai OtoXpert Rungkut, Ring Road Medan, Peta, Bojongsoang dan
+Palembang yang berlabel Auto2000. Pilihan kanal harus menampilkan operator penerima dan
+kontribusi aktual pada akhir pekerjaan, bukan hanya lead yang dipindahkan antar-aplikasi.
+
+Komposisi alternatif lokal dihitung dari endpoint terdekat menurut kanal/operator. Label operator berasal dari direktori, bukan
+kontrak pembagian GP. [G 2; JB01-JB04]
+
+Keputusan. Untuk transaksi yang sama, pickup ke bengkel utama hanya mengalahkan kanal sendiri
+jika kontribusi bersihnya lebih tinggi setelah biaya perjalanan dan subsidi pada pekerjaan baseline
+dihitung.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+12
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 5 / BOOKING SAMPAI PEKERJAAN SELESAI
+
+Cilandak: satu kunjungan gagal dapat
+menghapus keunggulan lokasi yang
+sudah ada
+Bridge Cilandak-Radio Dalam-Simprug dipilih karena memuat akun positif dan negatif pada pasar
+yang sama. Satu akun Cilandak tetap memakai dealer setelah servis gratis habis, lalu menyatakan
+memilih bengkel lain setelah janji selesai penggantian shockbreaker meleset. Akun lain pada cabang
+sama melaporkan booking, konsultasi sebelum kerja dan follow-up yang baik.
+Pada satu origin pada jejak bangunan di bridge, rute ke Cilandak 4,857 menit dan balik 3,088 menit:
+total 7,945. Ke jaringan oli terdekat 8,875 menit. Keunggulan Auto2000 hanya 0,930 menit. Dalam
+skenario satu kunjungan tambahan Auto2000, totalnya 15,890 menit, sehingga menjadi 7,015 menit
+lebih lama daripada satu kunjungan alternatif.
+
+Rute pergi dan balik diperoleh terpisah. Dua kunjungan merupakan skenario, bukan perjalanan aktual penulis ulasan. Origin
+bangunan bukan rumah penulis. Akun Cilandak: SOC12-SOC14; rute: built_bridge_2_1. [S 1; A 1]
+
+Keputusan. Pilih Janji Servis Siap Dikerjakan: job, estimasi diterima, parts pendukung, slot mulai,
+rentang selesai dan PIC harus diterima cabang sebelum instruksi berangkat.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+13
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 5 / MEKANISME POSITIF DAN NEGATIF
+
+Rating positif pun dapat memuat dua
+kunjungan; jangan ukur keberhasilan
+pada booking
+Akun Nawilis Radio Dalam berbintang empat menyatakan puas setelah kembali pada hari berikutnya
+karena kunjungan pertama tidak tertangani. Akun positif lain tetap datang meski rumah jauh.
+Keduanya menolak jalan pintas bahwa rating tinggi berarti perjalanan sedikit atau jarak selalu
+menentukan pilihan.
+Akun Otoklix Ciputat menggambarkan booking, penjelasan estimasi dan persetujuan perubahan
+parts/harga yang baik. Akun B-Quik Citra 8 justru mengeluhkan perubahan invoice setelah harga
+awal dan waktu kerja melampaui estimasi. Perbaikan yang dipilih adalah kepastian scope serta
+serah-terima, bukan klaim bahwa bengkel independen selalu murah atau seluruh booking Auto2000
+gagal.
+State yang harus terlihat
+
+Syarat untuk melanjutkan
+
+Diminta → diterima cabang
+
+Job dan penanggung jawab cocok
+
+Estimasi → disetujui
+
+Scope, parts, pajak dan perubahan terpisah
+
+Slot → siap dikerjakan
+
+Parts pendukung dan waktu mulai/selesai diterima
+
+Selesai → diserahterimakan
+
+Pekerjaan dan biaya aktual tercatat
+
+Keluhan → ditutup
+
+PIC dan hasil penyelesaian tercatat
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+14
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 5 / PASAR YANG SAMA
+
+Bridge Jabodetabek menyatukan akses
+dan akun dengan hasil berlawanan
+Cilandak, Radio Dalam dan Simprug menyediakan pembanding proses di pasar yang sama. Titik
+aktivitas dipilih pada jejak bangunan, bukan dari alamat rumah penulis. Peta memuat subset bridge;
+akun Citra 8 dan Ciputat pada pembahasan sebelumnya dipakai sebagai pembanding mekanisme
+Jabodetabek, tidak semuanya berada dalam window.
+
+Dua belas origin bangunan pada bridge. Endpoint kasus dan jaringan oli dibedakan; lokasi ulasan adalah outlet, bukan rumah
+penulis. Flag B-Quik Lebak Bulus tutup tidak dijadikan alternatif aktif. [S 1; A 1]
+
+Keputusan. Gunakan bridge ini untuk memilih proses yang berhasil: estimasi disetujui, penerimaan
+cabang, parts dan slot, serta kepastian serah-terima. Tidak ada persentase keluhan yang
+dipindahkan ke empat kota.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+15
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 5 / JAM FASILITAS MENGIKUTI PEKERJAAN
+
+Minggu: arahkan oli ke Fatmawati,
+bukan ke showroom Cilandak yang
+buka
+Cilandak memublikasikan showroom Minggu 09.00–17.00, tetapi bengkel libur. Direktori OtoXpert
+Fatmawati beroperator Auto2000 memublikasikan Senin–Minggu 08.00–18.00. Pada origin bridge
+yang ditelusuri, selisih perjalanan pulang-perginya hanya 0,93 menit.
+Untuk oli/filter yang sesuai, tampilkan Fatmawati sebagai pilihan beroperator Auto2000 pada hari
+Minggu, lalu terima slot dan scope lebih dahulu. Tabel minimum perjalanan pergi dapat memilih Pos
+Pengumben yang beroperator Astrido; pilihan itu tetap terlihat sebagai alternatif, bukan GP
+Auto2000. Provider dengan jam tidak diketahui tidak dianggap tutup.
+Tugas dan waktu
+
+Keputusan routing
+
+Hal yang tidak dijanjikan
+
+Oli/filter hari kerja
+
+Bandingkan Cilandak dan kanal ekonomis;
+quote+slot diterima
+
+Tidak mengklaim satu cabang selalu
+lebih cepat
+
+Oli/filter hari Minggu
+
+Fatmawati pada jam bengkel terdokumentasi,
+lalu konfirmasi penerimaan
+
+Jam publik bukan slot atau stok yang
+sudah tersedia
+
+Kampas rem depan
+
+Bay dengan kit, fitment dan persetujuan; jadwal
+sesuai bengkel
+
+Tidak otomatis THS atau slot
+showroom
+
+Kasus xEV
+
+Penerima masalah dan jalur layanan yang tepat
+
+Jam showroom tidak membuktikan
+kompetensi diagnosis
+
+Keputusan. Janji Servis Siap Dikerjakan mengikat jam fasilitas, pekerjaan, scope dan PIC. Ini
+perubahan handoff pada entry yang sudah ada, bukan tombol booking baru. [XE10; G 2; A 1]
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+16
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+INSIGHT 6 / TIGA PRONG TETAP TERHUBUNG
+
+xEV: arahkan masalah ke pemilik
+kasus, bukan kendaraan ke charger
+terdekat
+Toyota telah memublikasikan HHC, sertifikat dan jalur dealer untuk memvalidasi hasil Not Good serta
+memberi informasi cakupan garansi. Pancing juga sudah memiliki tautan permintaan test drive Zenix
+yang membawa model dan branchCodeT570. Menambah direktori charger atau tombol booking
+generik mengulang titik masuk, tetapi tidak menjamin tujuan pekerjaan dan penerima kasus.
+Akun pemilik VF3 di Nawilis Radio Dalam menggambarkan hotline OEM yang menyiapkan reservasi
+serta penanganan portable charger. Kasus yang selesai ini mendukung nilai rujukan berbasis
+masalah. Ia tidak membuktikan bahwa bengkel ban dapat memperbaiki baterai traksi Toyota.
+Prong / intervensi
+
+Endpoint bernama dan tindakan
+
+Pilihan yang kalah
+
+Pertama / Demo Siap
+Berangkat
+
+Pancing ZenixT570 atau konsultasi Kertajaya; adviser
+konfirmasi varian, unit, lokasi, slot dan quote
+
+3 D/showroom baru sebelum unit
+dan quote jelas
+
+Pemilik / Satu Kasus xEV
+
+Pancing atau Soekarno-Hatta untuk jalur HHC
+terdokumentasi; sertifikat lalu validasi garansi
+dengan PIC sama
+
+Charger terdekat sebagai proxy
+diagnosis
+
+Berikutnya / Upgrade Sekali
+Janji
+
+Adviser Sudirman/OLXmobbi: inspeksi, inspected
+offer, ekuitas bersih dan quote xEV
+
+Resale-floor atau top-up tanpa
+kewajiban didanai
+
+Keputusan. HHC yang tercakup tidak dihitung sebagai pekerjaan berbayar tambahan. Payer,
+entitlement, garansi/reimbursement, recall dan customer-paid dicatat terpisah. [XE01-XE14; SOC07]
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+17
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+SHORTLIST TINDAKAN
+
+Pilih tujuh endpoint dengan mandat
+berbeda, bukan tujuh pemenang skor
+Urutan berikut mengutamakan perbaikan routing dan janji pada jaringan yang sudah ada. Ini bukan
+ranking permintaan atau kapasitas. Pemilihan kanal terjadi sebelum pelanggan berangkat dan tetap
+memakai otorisasi lingkup pekerjaan.
+Endpoint/catchment
+
+Intervensi bernama
+
+Tujuan dan pekerjaan
+
+Tanjung Api-Api → OtoXpert
+Palembang
+
+Oli Tepat Kanal Palembang
+
+Oli/filter berbayar; hapus tail melalui
+endpoint sendiri
+
+Kertajaya → OtoXpert Rungkut
+
+Pilihan Oli Rungkut
+
+Oli/filter dengan scope terlihat; hindari pickup
+umum
+
+Gatot Subroto → OtoXpert Ring
+Road
+
+Oli Tepat Kanal Ring Road
+
+Opsi ekonomis operator sendiri sebelum tier
+baru
+
+A. Yani
+
+Slot Pasti Harga Disetujui
+
+Lindungi job yang aksesnya kompetitif dan
+cabang kedua lebih jauh
+
+Pancing
+
+Slot Sampai Serah-Terima
+
+Konfirmasi diterima, parts dan penyelesaian;
+pertahankan akses 15 menit
+
+Suci
+
+Tujuan Benar Suci
+
+Koreksi lokasi dan pemilihan cabang
+
+Soekarno-Hatta
+
+Sekali Datang Soekarno-Hatta
+
+THS oli sesuai scope atau tunggu onsite; rem
+di bay
+
+Keputusan. Cilandak menjadi bridge proses dengan bukti pelanggan pasar yang sama, bukan lokasi
+yang dipilih karena paling banyak keluhan. Seluruh 29 endpoint memiliki tabel keputusan tersendiri.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+18
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+TIDAK DIPRIORITASKAN
+
+Alternatif berikut kalah untuk tujuan
+yang sedang diputuskan
+Deprioritas di bawah berlaku pada intervensi dan tujuan analisis. Ia bukan tuduhan bahwa cabang
+tidak berpotensi secara komersial atau boleh ditutup.
+Pilihan yang tidak didahulukan
+
+Pengganti yang dipilih
+
+Alasan berbukti
+
+Pickup oli massal Tanjung Api-Api
+
+Routing OtoXpert Palembang
+
+9 tailkota→0 ketika kanal sendiri masuk
+
+Plaju sebagai proyek akses pertama
+karena narasi sungai
+
+Kantong utara/kanal sendiri
+
+0 tail>5 menit di Plaju; sebab jembatan
+tidak ditetapkan dari ilustrasi
+
+Pickup/ekspansi Cibiru sebelum koreksi
+
+Tujuan Benar Suci
+
+20 origin beralih; tail Cibiru 4→1
+
+Tier bengkel ekonomis baru
+
+OtoXpert beroperator Auto2000
++parts sesuai scope
+
+Kanal tersedia; manfaat operator dan
+kontribusi perlu dibedakan
+
+Subsidi perjalanan Medan secara
+merata
+
+Pancing dan Ring Road sesuai job
+
+Gap jaringan oli 0,35 menit; opsi sendiri
+tersedia
+
+Ranking cabang dari besar catchment
+saja
+
+Mandat akses, cabang kedua dan
+pekerjaan
+
+A.Yani/Kertajaya sama 11 origin tetapi
+posisi berbeda
+
+Booking/charger directory sebagai inti
+inovasi
+
+Janji servis dan pemilik kasus xEV
+
+Entrybooking/HHC sudah ada; kasus
+berhasil/gagal membedakan handoff
+
+Resale-floor di awal
+
+Inspected offer +netupgradecost
+
+Tidak ada data pendanaan kewajiban
+jaminan
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+19
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+UJI KETAHANAN KEPUTUSAN
+
+Origin alternatif mempertahankan
+pilihan kanal, bukan semua besaran
+menit
+Sensitivitas menambahkan origin grid bergeser setengah sel dan titik representatif bangunan publik
+pada kantong keputusan. Bangunan tidak dilabeli rumah atau pemilik Toyota. Origin baru merupakan
+uji terarah, bukan sampel populasi.
+Tanda keunggulan A. Yani tidak konstan: pada enam origin bergeser gap pergi median+0,246 menit,
+sedangkan gap pulang-pergi-0,135 menit. Maka mandatnya adalah menjaga penawaran dan
+penyelesaian di lokasi kompetitif, bukan beriklan selalu paling dekat. Soekarno-Hatta tetap tertinggal
+pada origin bergeser maupun bangunan; itu memperkuat prioritas satu kunjungan.
+Pada enam origin bangunan perluasan selatan, seluruh cabang terdekat menjadi Sidoarjo yang
+dikoreksi. Median gap pulang-perginya sekitar 0,021 menit. Nol winner pada grid lama merupakan
+efek batas studi; Sidoarjo tidak layak dinilai tidak penting dari batas itu.
+
+Origin yang berbeda dilaporkan dengan n dan arah perjalanan sendiri. Perbandingan bukan penambahan pelanggan atau
+pemindahan bobot populasi. Data mentah dua arah tersedia. [A 1; G 4]
+
+Keputusan. Pertahankan pilihan yang tidak membutuhkan asumsi unggul universal: routing kanal
+tersedia, tujuan Suci yang benar, dan kepastian satu kunjungan.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+20
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+BUKTI PENDUKUNG / BATAS WILAYAH
+
+Sidoarjo: nol origin lama adalah efek
+batas, bukan alasan menyingkirkan
+cabang
+Koordinat resmi Sidoarjo yang rusak dapat didekode dan dicocokkan dengan nama serta alamat
+Jenggolo 60 pada Overture. Endpoint kemudian dirutekan dua arah. Pada grid lama yang berhenti di
+utara cabang, ia tidak menjadi pemenang; pada enam titik bangunan perluasan selatan, semuanya
+memilih Sidoarjo.
+Median selisih pulang-pergi terhadap jaringan oli pada enam titik ini hanya 0,021 menit. Ini
+mendukung mempertahankan Sidoarjo dalam pemilihan cabang selatan, bukan menghitungnya
+sebagai pasar baru atau menganggap seluruh penduduk selatan pemilik Toyota.
+
+Enam origin tambahan pada footprint sumber publik. Skenario ekstensi tidak dicampur ke denominator 59 origin Surabaya
+awal. [K 2; A 1]
+
+Keputusan. Perbaiki koordinat dan cakupan pemilihan cabang; jangan memutuskan ekspansi atau
+deprioritas selatan dari batas grid lama.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+21
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+KEPUTUSAN PERJALANAN
+
+Bandingkan pickup, tunggu onsite dan
+THS melalui pekerjaan yang sama
+Tunggu onsite memerlukan satu rangkaian pergi+balik. Antar lalu ambil memerlukan dua rangkaian
+jika pemilik melakukan dua perjalanan dengan profil mobil yang sama. Pickup/return atau THS dapat
+mengurangi perjalanan yang dikemudikan pelanggan, tetapi tidak menghapus perjalanan petugas
+atau biaya operasi.
+Seluruh rute pergi dan balik diperoleh terpisah. Jumlah kunjungan, antrean dan waktu kerja adalah
+parameter skenario saat tidak diamati. Jangan menggandakan satu rute pergi lalu menyebutnya
+fakta pulang-pergi.
+Opsi
+
+Dipilih untuk
+
+Beban yang harus dibandingkan
+
+Tunggu onsite satu kunjungan
+
+Job cepat dengan parts dan slot siap
+
+Rute dua arah +waktu onsite
+
+Antar lalu ambil
+
+Scope lebih panjang yang disetujui
+
+Dua rangkaian model; moda aktual
+bisa berbeda
+
+Pickup/return
+
+Kantong residual dengan kontribusi
+cukup
+
+Perjalanan pelanggan berkurang;
+biaya driver/logistik tetap
+
+THS
+
+Oli/filter di alamat/lokasi layak
+
+Petugas bergerak; tidak otomatis
+penggantian kampas rem atau
+diagnosis HV
+
+Keputusan. Soekarno-Hatta memakai Sekali Datang sebelum subsidi pickup luas. Palembang dan
+Rungkut memakai pilihan kanal sendiri sebelum membeli perjalanan tambahan. [A 1; JB01-JB04]
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+22
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+EKONOMI KEPUTUSAN
+
+Pickup harus mengalahkan kontribusi
+kanal sendiri, bukan sekadar
+menambah booking
+Untuk pekerjaan tambahan yang sama, membawanya ke bengkel utama hanya lebih baik daripada
+kanal sendiri jika gA−cPickup>gOX. Selisih gA−gOX adalah batas biaya pickup per pekerjaan
+sebelum perbedaan take-up dan kapasitas ikut dihitung. Tidak ada nilai margin Auto2000 yang diisi
+secara rekaan.
+Untuk satu intervensi, gunakan Δkontribusi=B(g−c)−Ec−Dg 0−F. B adalah pekerjaan yang
+benar-benar tambahan; g kontribusi pekerjaan tambahan; c biaya variabel intervensi; E pekerjaan
+baseline yang ikut memperoleh subsidi; D pekerjaan baseline yang tergeser; g 0 kontribusi baseline;
+F biaya tetap.
+Titik impas B=(F+Ec+Dg 0)/(g−c), hanya saat g>c. Jika g<=c, menambah volume tidak menutup
+biaya tetap. Persetujuan scope, penerimaan slot dan status siap ambil dipilih lebih dahulu karena
+secara langsung menangani mekanisme akun pelanggan tanpa mewajibkan subsidi perjalanan tiap
+job.
+Perubahan
+
+Aturan pencatatan
+
+WhatsApp pindah ke Digiroom
+
+Bukan otomatis pekerjaan tambahan
+
+Auto2000 utama pindah ke OtoXpert sendiri
+
+Hitung perubahan kontribusi, bukan dua job baru
+
+S&D atau operator Toyota lain
+
+Bukan otomatis GP Auto2000
+
+Gratis/garansi/recall xEV
+
+Payer dan reimbursement terpisah
+
+Test drive/appraisal/request
+
+Tahap proses, bukan delivery/GP
+
+Keputusan. CSV sensitivitas ternormalisasi dan kode aljabar disediakan. Kapasitas, biaya dan
+peluang take-up tidak dipalsukan menjadi proyeksi.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+23
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+CATATAN REVISI
+
+Kesimpulan lama yang berubah
+Laporan awal memisahkan peta lokasi dan daftar batas inferensi dengan baik, tetapi belum cukup
+memilih tindakan. Paket tindak lanjut ini mengubah unit keputusan dari kota dan jumlah marker
+menjadi pekerjaan, operator, cabang, jumlah perjalanan dan penyerahan hasil.
+Kesimpulan/titik awal
+
+Hasil penghitungan baru
+
+Keputusan sekarang
+
+Medan tampak tertinggal 4,09
+menit
+
+Pembanding oli membuatgap 0,35 menit
+
+Slot Pancing dan kanal Ring Road
+
+Palembang utara perlu perbaikan
+akses
+
+Owned OtoXpert menghapus 9 tailoli
+
+Routing kanal dahulu, bukan pickup
+baru
+
+OtoXpert terutama menambah
+penawaran
+
+Cakupan 20 menit kecil tetapi 7
+originPalembang hemat>5 menit
+
+Nilai kanal pada kantong, bukan
+cakupan saja
+
+Suci/Sidoarjo dikeluarkan
+
+Koordinat dapat dikoreksi; Suci
+mengambil 20 origin
+
+Koreksi tujuan; turunkan prioritas akses
+Cibiru
+
+A.Yani/Kertajaya sama 11 origin
+
+Gap dan substitusi internal berbeda;
+tanda bergantung origin
+
+Mandat berbeda tanpa klaim unggul
+universal
+
+Booking digital sebagai langkah
+utama
+
+Entrybooking ada; akun positif/negatif
+membedakan handoff
+
+Janji diterima sampai serah-terima
+
+Charger sebagai proxy xEV
+
+Task/referral dan validasi garansi adalah
+jalur berbeda
+
+Satu Kasus xEV
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+24
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / METODE RINGKAS
+
+Jejak bukti dan batas yang mengubah
+makna angka
+Input Filebin 45430997 byte berhasil dibaca sebagai ZIP dan lolos CRC. Seluruh 311 entri manifest
+baseline cocok SHA 256; PDF awal cocok
+hash9561b2c32f7307dc0e82e2858d76f74b1df987a93203f68c8c85b78608fa964c. Baseline
+dipertahankan utuh.
+Geografi awal memakai 324 origin grid dan 82.134 pasangan model. Koreksi menambahkan dua
+endpoint dengan rute baru; perhitungan seluruh 27 cabang awal dan 29 endpoint koreksi memakai
+origin berpasangan yang sama pada tiap skenario. Satu tie TAA/Veteran dipertahankan sebagai 7
+unik+1 shared untuk tailTAA, bukan kepemilikan origin yang pasti.
+Perbandingan utama memakai jaringan oli/rem yang mendokumentasikan pekerjaan pada level
+jaringan, bukan seluruh kandidat generik. Fitmentmodel,grade/volume,parts danpajak adalah
+scopequote, bukan selisih harga yang diklaim telah diukur. Harga paket transmisi tidak dipakai
+sebagai harga oli/filter.
+OSRM adalah model rute profil publik, bukan lalu lintas aktual atau jaminan jalur tercepat global.
+Bangunan publik dan grid bukan pelanggan. Pekerjaan, kapasitas, switching dan GP tidak diamati
+dari titik peta. Temuan, akun pelanggan dan rekomendasi ditandai terpisah di ledger.
+Keputusan. Ketegasan laporan berada pada pemilihan tindakan yang paling sesuai dengan bukti,
+bukan kepastian sebab-akibat atau volume pasar yang direka.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+25
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / SOCIAL LISTENING
+
+Akun pelanggan dipakai sebagai
+mekanisme dan sanggahan, bukan
+persentase lintas kota
+Audit sumber memuat 14.892 baris X dengan 14.291 IDunik;3.976 IDulasanMaps dari 25 listing
+dengan 2.870 teks;74 itemYouTube dari 3 video. Satuvideo Neta menyumbang 45 item, dan tidak
+ada komentar dari videoToyota yang ditargetkan. Unit tersebut tidak dijumlah menjadi jumlah
+pemilik kendaraan.
+Pembacaan mendalam menghasilkan 33 kasus ber-ID:23 Maps,6 X dan 4 YouTube, dengan
+parafrasa, file/baris, hash, konteks, valensi serta counterinterpretation. Seluruh 74 itemYouTube
+dibaca; tidak diklaim ada coding manual seluruh 14.291 postX.
+Maps berasal dari Jabodetabek. Perbandingan positif/negatif Cilandak dan bridge lokal
+menghubungkan mekanisme dengan akses pada pasar yang sama. Proporsi keluhan tidak
+dipindahkan keSurabaya,Medan,BandungatauPalembang. Lokasi outlet bukan rumah penulis;
+tanggalunggah bukan otomatis tanggalkejadian.
+Akun yang mengubah desain
+
+Sumber dan peran
+
+SOC12/SOC13/SOC14 Cilandak
+
+Persetujuan sebelum kerja berhasil; janji selesai dan penerimaan
+estimasi dapat gagal
+
+SOC01 Otoklix Simprug
+
+Perpindahan pada akhir entitlement; bukan semua perpindahan
+
+SOC10 Nawilis Radio Dalam
+
+Puas tetapi datang dua kali
+
+SOC15 B-Quik Citra 8
+
+Harga awal/invoice/waktu sebagai sanggahan murah selalu menang
+
+SOC07 VF3 Nawilis
+
+Hotline+reservasi+portablecharger; bukan kompetensi baterai traksi
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+26
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / CABANG 1-10
+
+Tabel keputusan seluruh 29 endpoint
+n adalah origin grid terdekat pada skenario ketat, bukan pelanggan. Cabang dengan n 0 tetap ada
+dalam matriks jaringan dan dapat menjadi substitusi. CSV lengkap memuat operator, scope
+pekerjaan, cabang kedua, manfaat marginal dan alternatif yang tidak diprioritaskan.
+Cabang / n terdekat
+
+Gap oli / tail>5
+
+Tindakan yang dipilih
+
+Surabaya / Auto2000 Basuki Rachmat / n=3
+
+2,83 / 0
+
+Paket Oli Terjadwal Basuki Rachmat
+
+Surabaya / Auto2000 HR Muhammad / n=7
+
+2,23 / 3
+
+Sekali Datang HR Muhammad
+
+Surabaya / Auto2000 Jemur Sari / n=4
+
+0,72 / 0
+
+Paket Oli Terjadwal Jemur Sari
+
+Surabaya / Auto2000 Kenjeran / n=4
+
+-0,58 / 0
+
+Paket Oli Terjadwal Kenjeran
+
+Surabaya / Auto2000 Kertajaya / n=11
+
+2,13 / 3
+
+Pilihan Oli Rungkut dari Kertajaya
+
+Surabaya / Auto2000 Pecindilan / n=11
+
+0,74 / 0
+
+Paket Oli Terjadwal Pecindilan
+
+Surabaya / Auto2000 Surabaya A. Yani - Dealer dan
+Bengkel Resmi Toyota / n=11
+
+-0,96 / 1
+
+Oli Pasti Selesai A. Yani
+
+Surabaya / Auto2000 Waru / n=3
+
+5,62 / 2
+
+Sekali Datang Waru
+
+Surabaya / Auto2000 Wiyung / n=4
+
+0,00 / 0
+
+Paket Oli Terjadwal Wiyung
+
+Surabaya / Auto2000 Manyar / n=1
+
+5,17 / 1
+
+Sekali Datang Manyar
+
+Keputusan. TAA memiliki satu tie denganVeteran. Cabang yang mendapat lebih sedikit origin tidak
+otomatis berkapasitas kosong atau tidak layak secara komersial.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+27
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / CABANG 11-20
+
+Tabel keputusan seluruh 29 endpoint
+n adalah origin grid terdekat pada skenario ketat, bukan pelanggan. Cabang dengan n 0 tetap ada
+dalam matriks jaringan dan dapat menjadi substitusi. CSV lengkap memuat operator, scope
+pekerjaan, cabang kedua, manfaat marginal dan alternatif yang tidak diprioritaskan.
+Cabang / n terdekat
+
+Gap oli / tail>5
+
+Tindakan yang dipilih
+
+Surabaya / Auto2000 Sidoarjo / n=0
+
+-/0
+
+Tujuan Benar Sidoarjo / Pilihan Selatan
+
+Medan / Auto2000 Gatot Subroto / n=20
+
+2,39 / 0
+
+Oli Tepat Kanal Ring Road
+
+Medan / Auto2000 Medan Amplas / n=22
+
+0,90 / 3
+
+Paket Oli Terjadwal Medan Amplas
+
+Medan / Auto2000 Medan Binjai / n=0
+
+-/0
+
+Rute Cadangan Medan Binjai
+
+Medan / Auto2000 Medan Marelan / n=7
+
+-1,95 / 0
+
+Jaga Slot Marelan
+
+Medan / Auto2000 Pancing / n=24
+
+0,35 / 0
+
+Slot Sampai Serah-Terima Pancing
+
+Medan / Auto2000 Sisingamangaraja / n=5
+
+0,20 / 0
+
+Paket Oli Terjadwal Sisingamangaraja
+
+Medan / Auto2000 Tanjung Morawa / n=0
+
+-/0
+
+Rute Cadangan Tanjung Morawa
+
+Bandung / Auto2000 Asia Afrika / n=6
+
+3,21 / 2
+
+Paket Oli Terjadwal Asia Afrika
+
+Bandung / Auto2000 Cibiru / n=14
+
+1,38 / 1
+
+Cabang Tepat Cibiru–Suci
+
+Keputusan. TAA memiliki satu tie denganVeteran. Cabang yang mendapat lebih sedikit origin tidak
+otomatis berkapasitas kosong atau tidak layak secara komersial.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+28
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / CABANG 21-29
+
+Tabel keputusan seluruh 29 endpoint
+n adalah origin grid terdekat pada skenario ketat, bukan pelanggan. Cabang dengan n 0 tetap ada
+dalam matriks jaringan dan dapat menjadi substitusi. CSV lengkap memuat operator, scope
+pekerjaan, cabang kedua, manfaat marginal dan alternatif yang tidak diprioritaskan.
+Cabang / n terdekat
+
+Gap oli / tail>5
+
+Tindakan yang dipilih
+
+Bandung / Auto2000 Pasteur / n=3
+
+2,56 / 1
+
+Sekali Datang Pasteur
+
+Bandung / Auto2000 Rancaekek / n=0
+
+-/0
+
+Rute Cadangan Rancaekek
+
+Bandung / Auto2000 Setiabudi / n=9
+
+1,70 / 1
+
+Sekali Datang Setiabudi
+
+Bandung / Auto2000 Soekarno - Hatta / n=21
+
+4,25 / 9
+
+Sekali Datang Soekarno-Hatta
+
+Bandung / Auto2000 Soreang / n=5
+
+0,56 / 0
+
+Jaga Slot Soreang
+
+Bandung / Auto2000 Suci / n=20
+
+1,08 / 3
+
+Tujuan Benar Suci
+
+Palembang / Auto2000 Plaju / n=19
+
+2,64 / 0
+
+Konfirmasi Satu Kunjungan Plaju
+
+Palembang / Auto2000 Tanjung Api - Api / n=25
+
+3,62 / 8
+
+Oli Tepat Kanal Palembang
+
+Palembang / Auto2000 Veteran / n=25
+
+2,95 / 1
+
+Triage Oli Veteran–OtoXpert Palembang
+
+Keputusan. TAA memiliki satu tie denganVeteran. Cabang yang mendapat lebih sedikit origin tidak
+otomatis berkapasitas kosong atau tidak layak secara komersial.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+29
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / REFERENSI
+
+Sumber inti dan lokasi bukti
+G 1-G 4. Data geografis. baseline/Auto2000_Geographic_Study/workstreams/routing/
+berisiODawal,operator dan responscache. work/branch_analysis/ berisi hitungulang, corrected/,29
+endpoint dan keputusan. work/coordinates/ menyimpan sumber koordinat dan 324 ODtambahan.
+work/access/ memuat rute dua arah dan origin baru.
+K 1. Auto2000 Suci. https://auto2000.co.id/dealer-toyota/bandung/auto2000bandungsuci ; sumber
+alternatif https://legaleraindonesia.com/tempat/toyota-auto2000-bandung-suci ; titikpeta dan alamat
+dicocokkan denganOverture.
+K 2. Auto2000 Sidoarjo.
+https://auto2000.co.id/dealer-toyota/surabaya/auto2000kabupatensidoarjo ; decoderkoordinat dan
+rekamOverture tersimpan di coordinate_corrections.csv.
+JB01-JB04. Scope pekerjaan. DirektoriOtoXpert https://otoxpert.co.id/workshop ; Shop&Drive
+https://www.shopanddrive.com/outlet dan promoNovember; THS
+https://auto2000.co.id/berita-dan-tips/bengkel-mobil-panggilan . Seluruhtanggal/syaratpenawaran
+ada di coordinate_job_sources.csv.
+S 1. Akun pelanggan. social_evidence_ledger.csv/.json memuat ID, sumberfile/baris, hash,
+parafrasa, valensi, konteks dan counterinterpretation. raw_inputs/ mempertahankan ekspor yang
+diberikan pengguna. Tidak ada actorberbayar atau kontakpelanggan dijalankan.
+Keputusan. Sumber publik diakses 14 November 2026. Catatanmentoring diterapkan sebagai
+prinsip penulisan keputusan; diagnosis kasusapartemen tidak dipindahkan keAuto2000.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+30
+
+AUTO2000 / KEPUTUSAN CABANG DAN LAYANAN / 14 NOV 2026
+LAMPIRAN / REFERENSI DAN REPRODUKSI
+
+Sumber xEV, perjalanan dan paket
+reproduksi
+XE01-XE14. JalurxEV. xev_sources.csv dan xev_endpoint_paths.csv menyimpan delapan jalur
+bernama. HHC: https://aftersales.toyota.astra.co.id/hybrid-health-check ; requestZenixPancing:
+https://auto2000.co.id/testdrive/new-car/innovahybrid?branchCode=T570 . Halaman dan tahap
+permintaan tidak disamakan dengan unit/slot terkonfirmasi.
+A 1. Rute dan bangunan. OpenStreetMapcontributors dan OSRM
+https://project-osrm.org/docs/v5.24.0/api/ ; OvertureMaps release 2026-10-21.0 besertaatribusi
+sumberbangunan. Dua arah disimpan terpisah; originselection,querybounds,sourcehash dan
+hasilskenerio dipertahankan.
+Ekonomi. ECONOMICS.md dan economics.py membuktikan identitas titikimpas;
+normalised_economic_sensitivity.csv bukan margin atau upliftAuto2000.
+Reproduksi. ZIP mempertahankan baseline, data mentah unggahan, hitungulang,
+sumbertambahan, tabel keputusan/insight ledger, kode, responsrute, figur dan auditindependen.
+Hasil sudah dikalkulasi; instruksi reproduksi bukan pengganti keputusan laporan.
+Keputusan. Perimeterkontribusi adalahAuto2000. Toyota danAstra lebihluas merupakan
+perimeterberbeda. SumberCCBY-NC pada materiSPKLU baseline tetap diberi atribusi dan kualifikasi
+lisensinya.
+
+Sumber publik | Akses model, bukan pelanggan | Akun pelanggan dibedakan dari observasi
+
+31
+
+

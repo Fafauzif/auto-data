@@ -1,0 +1,16 @@
+{
+  "market": "Medan",
+  "bbox": [
+    98.51,
+    3.4,
+    98.85,
+    3.77
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:04.863199+00:00",
+  "status": "success",
+  "source_all_place_rows": 48377,
+  "automotive_candidate_rows": 2709,
+  "sha256": "902b0190b40076eb97b2dceb1e04ade199bc550f500dbb86a27de1f6e8620cd9",
+  "seconds": 26.34
+}

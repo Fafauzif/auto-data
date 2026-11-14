@@ -1,0 +1,5 @@
+observation_id,source_url,model,variant,service_number,labor_estimate_idr,parts_estimate_idr,estimate_date_basis,tax_included,binding_quote,personalized_entitlement
+JX03,https://aftersales.toyota.astra.co.id/t-care,All New Yaris Cross Hybrid EV,All New Yaris Cross 1.5 S HEV CVT TSS,8,824000,552000,March2024,True,False,False
+JX03,https://aftersales.toyota.astra.co.id/t-care,All New Yaris Cross Hybrid EV,All New Yaris Cross 1.5 S HEV CVT TSS,9,1154000,1347000,March2024,True,False,False
+JX03,https://aftersales.toyota.astra.co.id/t-care,All New Yaris Cross Hybrid EV,All New Yaris Cross 1.5 S HEV CVT TSS,10,824000,552000,March2024,True,False,False
+JX03,https://aftersales.toyota.astra.co.id/t-care,All New Yaris Cross Hybrid EV,All New Yaris Cross 1.5 S HEV CVT TSS,11,890000,2357000,March2024,True,False,False

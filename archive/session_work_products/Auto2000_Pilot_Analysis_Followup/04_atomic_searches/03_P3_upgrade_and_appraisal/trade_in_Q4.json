@@ -1,0 +1,8 @@
+{
+  "mode": "search",
+  "twitterContent": "\"mobil\" \"tukar tambah\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-10-01 until:2026-11-14",
+  "queryType": "Latest",
+  "maxItems": 200,
+  "maxItemsPerTarget": 200,
+  "outputVariant": "rich"
+}

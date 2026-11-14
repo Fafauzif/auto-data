@@ -1,0 +1,12 @@
+{
+  "config": "geo_study/workstreams/routing/inputs/config.json",
+  "config_sha256": "e111292312ab00bffdc04fecbdcbfc45c09dd894ca6bb7f04a190c045ee1ec46",
+  "origins": 324,
+  "od_pairs": 76221,
+  "summary_rows": 648,
+  "requests_logged": 72,
+  "failures": 0,
+  "date_utc": "2026-11-14T11:09:41Z",
+  "routing": "OSRM public driving profile; duration values, not route weight; modelled baseline not live traffic",
+  "scope": "Finite listed destinations only; mapped independent garages not verified comparable-job providers; regular grid not population/customer sample"
+}

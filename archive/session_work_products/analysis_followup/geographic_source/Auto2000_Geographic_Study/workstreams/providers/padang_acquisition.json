@@ -1,0 +1,16 @@
+{
+  "market": "Padang",
+  "bbox": [
+    100.25,
+    -1.05,
+    100.5,
+    -0.75
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:49.646763+00:00",
+  "status": "success",
+  "source_all_place_rows": 13283,
+  "automotive_candidate_rows": 701,
+  "sha256": "840252879b0bc1042e0a1ea71d992b1f56a81792bd0f5c61c24ee2b897740983",
+  "seconds": 18.46
+}

@@ -1,0 +1,16 @@
+{
+  "market": "Banjarmasin",
+  "bbox": [
+    114.48,
+    -3.46,
+    114.75,
+    -3.2
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:57:16.416796+00:00",
+  "status": "success",
+  "source_all_place_rows": 9979,
+  "automotive_candidate_rows": 625,
+  "sha256": "5df90b1cec306ecae419edc7ed7a9a269ed778194ef30f31394cae2e7b7f89a3",
+  "seconds": 25.09
+}

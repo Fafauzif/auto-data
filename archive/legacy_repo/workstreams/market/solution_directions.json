@@ -1,0 +1,233 @@
+[
+  {
+    "option_id": "MO01",
+    "direction": "Make service work and price understandable",
+    "customer_job": "Understand what is needed and what the final bill represents",
+    "concept": "Compare options that expose scope, provisional price, changes and completed work more clearly.",
+    "support_evidence_ids": [
+      "M008",
+      "M009",
+      "M040"
+    ],
+    "strongest_rival": "Most Auto2000 customers may already receive sufficient clarity.",
+    "concrete_use_example": "An owner distinguishes the original estimate from work authorized later.",
+    "existing_capability_check": "This is not a claim that quotes, records or photo documentation are absent.",
+    "tradeoffs": "More detail may increase cognitive load; estimates can legitimately change.",
+    "critical_dependencies": "Reliable job status, scoped prices and branch records.",
+    "failure_condition": "The issue is rare, obsolete, or caused by necessary work changes rather than unclear explanation.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO02",
+    "direction": "Clarify protection eligibility across lifecycle stages",
+    "customer_job": "Know which service or warranty benefit applies now",
+    "concept": "Explore clearer interpretation of existing T-CARE, XTRA and health-check terms.",
+    "support_evidence_ids": [
+      "M014",
+      "M015",
+      "M016",
+      "M017"
+    ],
+    "strongest_rival": "Owners may already understand and use benefits correctly.",
+    "concrete_use_example": "A third-year owner checks whether the next service is covered or paid and what protection follows.",
+    "existing_capability_check": "Toyota already publishes these programs; this is not a new warranty proposal.",
+    "tradeoffs": "Simplification can hide exclusions or create entitlement disputes.",
+    "critical_dependencies": "Current OEM rules, vehicle age/mileage and entitlement accuracy.",
+    "failure_condition": "No material misunderstanding or reachable eligible group is found.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO03",
+    "direction": "Connect home-charging intention to practical readiness",
+    "customer_job": "Know whether a BEV fits the household",
+    "concept": "Explore use-specific guidance connecting residential conditions to existing PLN/partner routes.",
+    "support_evidence_ids": [
+      "M004",
+      "M019",
+      "M035"
+    ],
+    "strongest_rival": "Public/shared charging may already fit the customer’s life.",
+    "concrete_use_example": "An apartment resident separates preferred home charging from actual installation access.",
+    "existing_capability_check": "PLN offers official routes; CarMax demonstrates a partner-support mechanism abroad.",
+    "tradeoffs": "Guidance can become stale and cannot replace a qualified installation assessment.",
+    "critical_dependencies": "Local utility/building conditions, compatible model and accurate partner information.",
+    "failure_condition": "The binding constraint is vehicle price or building permission, beyond information.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO04",
+    "direction": "Differentiate ownership information by powertrain and work due",
+    "customer_job": "Understand what care a specific vehicle needs",
+    "concept": "Explore separate HEV, PHEV and BEV ownership explanations rather than generic EV routines.",
+    "support_evidence_ids": [
+      "M011",
+      "M012",
+      "M013"
+    ],
+    "strongest_rival": "Current model-specific materials may already be adequate.",
+    "concrete_use_example": "A hybrid owner sees why its engine-service needs differ from a BEV.",
+    "existing_capability_check": "Manufacturer schedules remain the authority.",
+    "tradeoffs": "Too many categories can complicate navigation; model variation persists.",
+    "critical_dependencies": "Verified local model schedules and clearly defined jobs.",
+    "failure_condition": "Current experience already supplies the right answer or owners rely effectively on advisers.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO05",
+    "direction": "Preserve relationship context across ownership tasks",
+    "customer_job": "Use trusted service knowledge when buying, maintaining or replacing",
+    "concept": "Compare ways to make relevant history and protection context intelligible across customer tasks.",
+    "support_evidence_ids": [
+      "M010",
+      "M021",
+      "M037"
+    ],
+    "strongest_rival": "Customers may intentionally prefer separate dealer relationships.",
+    "concrete_use_example": "An owner reviews which prior service evidence matters to a replacement decision.",
+    "existing_capability_check": "Toyota UK describes portable warranty records; local equivalent must be checked.",
+    "tradeoffs": "Portability adds data-quality and privacy obligations; relationship concentration may not benefit every owner.",
+    "critical_dependencies": "Relevant permissions, accurate records and clearly defined roles.",
+    "failure_condition": "No meaningful continuity gap or lawful/usable data source exists.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO06",
+    "direction": "Explain how a trade-in estimate becomes an inspected offer",
+    "customer_job": "Plan replacement without mistaking an estimate for a guarantee",
+    "concept": "Explore clearer explanation of appraisal uncertainty, condition evidence and remaining obligations.",
+    "support_evidence_ids": [
+      "M003",
+      "M021",
+      "M046"
+    ],
+    "strongest_rival": "The customer may reject a fair price even when the process is understood.",
+    "concrete_use_example": "A seller sees why condition evidence changes an initial online range.",
+    "existing_capability_check": "OLXmobbi already differentiates estimate from final condition-based value.",
+    "tradeoffs": "Honest ranges may feel less decisive; a guarantee transfers real residual risk.",
+    "critical_dependencies": "Current appraisal terms and partner evidence; no invented resale floor.",
+    "failure_condition": "The constraint is a lower market valuation rather than information clarity.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO07",
+    "direction": "Compare purchase and subscription on total obligations",
+    "customer_job": "Choose a mobility arrangement that fits cash flow and use",
+    "concept": "Explore comparisons including cash, ownership, included items and remaining liabilities.",
+    "support_evidence_ids": [
+      "M003",
+      "M044",
+      "M045"
+    ],
+    "strongest_rival": "A customer may prefer ownership or find neither arrangement affordable.",
+    "concrete_use_example": "A driver compares predictable payments with mileage limits and end-of-term ownership differences.",
+    "existing_capability_check": "KINTO already exists; no proposal to recreate it or assume fleet eligibility.",
+    "tradeoffs": "Lower visible upfront cost may accompany a higher total cost or restrictions.",
+    "critical_dependencies": "Actual comparable offers, mileage/use and partner terms.",
+    "failure_condition": "No suitable vehicle/contract is available or the customer needs unsupported commercial use.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO08",
+    "direction": "Distinguish credit exploration from final approval",
+    "customer_job": "Know what financing information is indicative and what is committed",
+    "concept": "Explore continuity between simulations, eligibility indications and a verified partner offer.",
+    "support_evidence_ids": [
+      "M032",
+      "M047"
+    ],
+    "strongest_rival": "Income, underwriting or affordability may dominate interface friction.",
+    "concrete_use_example": "A buyer understands that a simulated installment is not a final approved loan.",
+    "existing_capability_check": "SEVA already advertises simulation and approval-related functions.",
+    "tradeoffs": "More qualification can protect accuracy while adding effort.",
+    "critical_dependencies": "Partner terms, quote assumptions, consent and clear decision responsibility.",
+    "failure_condition": "Actual underwriting rejects the buyer or existing handoffs already work.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO09",
+    "direction": "Support the customer’s preferred assisted route",
+    "customer_job": "Resolve exceptions without repeating the whole task",
+    "concept": "Compare connected self-service and adviser routes rather than assuming all-online completion.",
+    "support_evidence_ids": [
+      "M031",
+      "M032",
+      "M041"
+    ],
+    "strongest_rival": "Some segments genuinely prefer complete self-service.",
+    "concrete_use_example": "A shopper carries their model comparison into an adviser conversation.",
+    "existing_capability_check": "Digiroom and OEM/partner capabilities must be mapped before claiming a gap.",
+    "tradeoffs": "Human assistance consumes capacity and may add dependency; self-service can be faster for simple tasks.",
+    "critical_dependencies": "Clear context ownership and a functioning assistance route.",
+    "failure_condition": "The real issue is stock, price or response capacity rather than lost context.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO10",
+    "direction": "Explain battery evidence together with protection and limitations",
+    "customer_job": "Judge a used or aging electrified vehicle",
+    "concept": "Compare how condition information, uncertainty and warranty responsibility are communicated together.",
+    "support_evidence_ids": [
+      "M015",
+      "M021",
+      "M033",
+      "M034",
+      "M038"
+    ],
+    "strongest_rival": "Battery condition may be acceptable while price or product fit remains unattractive.",
+    "concrete_use_example": "A prospective used buyer reads a condition report without treating it as a resale guarantee.",
+    "existing_capability_check": "Toyota health checks and foreign marketplace reports already exist.",
+    "tradeoffs": "A simple score can hide uncertainty; a detailed report can overwhelm.",
+    "critical_dependencies": "Valid model-specific diagnostics, report scope and protection terms.",
+    "failure_condition": "No reliable evidence is available or information does not alter the customer’s binding concern.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO11",
+    "direction": "Frame vehicle choice around practical use trade-offs",
+    "customer_job": "Choose a vehicle appropriate to actual journeys and budget",
+    "concept": "Explore comparisons of acquisition cost, charging time, operating conditions and model fit.",
+    "support_evidence_ids": [
+      "M003",
+      "M004",
+      "M024"
+    ],
+    "strongest_rival": "Customers may already know their preferred model or prioritize status/brand.",
+    "concrete_use_example": "A buyer considering a BEV compares home access and frequent intercity use with a hybrid alternative.",
+    "existing_capability_check": "Comparison tools may already list specifications; incremental decision value must be tested.",
+    "tradeoffs": "More personalized inputs add effort and can imply precision unsupported by real use data.",
+    "critical_dependencies": "Comparable variant/location/period offers and transparent assumptions.",
+    "failure_condition": "No suitable Toyota option exists or the price difference dominates.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  },
+  {
+    "option_id": "MO12",
+    "direction": "Recognize successful quiet periods in ownership",
+    "customer_job": "Get help when a meaningful need arises",
+    "concept": "Explore an ownership proposition organized around actual jobs rather than compulsory frequent opening.",
+    "support_evidence_ids": [
+      "M011",
+      "M012",
+      "M016",
+      "M017"
+    ],
+    "strongest_rival": "Frequent useful contact may independently build trust or retention.",
+    "concrete_use_example": "An owner returns for an eligible service or replacement question after months without app use.",
+    "existing_capability_check": "Existing benefits and channels may already support these occasions.",
+    "tradeoffs": "Lower interaction frequency reduces marketing inventory but can respect customer effort.",
+    "critical_dependencies": "Job cadence, service entitlement and actual completion data for business evaluation.",
+    "failure_condition": "Evidence shows valuable recurring use has an incremental effect or customers miss needed care.",
+    "status": "conditional direction for user comparison; not selected",
+    "evidence_limit": "Published facts support the mechanism, not an observed Auto2000 outcome or causal uplift."
+  }
+]

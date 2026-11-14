@@ -1,0 +1,262 @@
+{
+  "method": "Curated editorial rewrite from full menu and extension audit; automatic checks verify identity, family counts and length, not causal truth.",
+  "original_menu_sha256": "12eb7fbea9f243c379f6f5c6479de7d1b514ec28153700e9987c81921f501abb",
+  "solution_cards_json_sha256": "448c151312b227be11979b193f35f2313fbaf2c656e1ea6d26a8786daed0d4f4",
+  "solution_cards_md_sha256": "483d20009bbefb4c082efee052866c528b7efc2cbdd3a55e95fb23fb72abacf0",
+  "card_count": 27,
+  "all_27_ids_exact_order": true,
+  "titles_and_families_exact": true,
+  "family_counts_expected_4_5_4_4_4_4_2": true,
+  "all_under_60_display_words": true,
+  "card_word_counts": [
+    {
+      "solution_id": "SOL-01",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 16,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 44
+    },
+    {
+      "solution_id": "SOL-02",
+      "field_word_counts": {
+        "existing_baseline": 18,
+        "possible_addition": 16,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-03",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 17,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 46
+    },
+    {
+      "solution_id": "SOL-04",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 15,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 43
+    },
+    {
+      "solution_id": "SOL-05",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 17,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-06",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 17,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 47
+    },
+    {
+      "solution_id": "SOL-07",
+      "field_word_counts": {
+        "existing_baseline": 14,
+        "possible_addition": 16,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 44
+    },
+    {
+      "solution_id": "SOL-08",
+      "field_word_counts": {
+        "existing_baseline": 17,
+        "possible_addition": 17,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 47
+    },
+    {
+      "solution_id": "SOL-09",
+      "field_word_counts": {
+        "existing_baseline": 18,
+        "possible_addition": 16,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 47
+    },
+    {
+      "solution_id": "SOL-10",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 18,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 49
+    },
+    {
+      "solution_id": "SOL-11",
+      "field_word_counts": {
+        "existing_baseline": 18,
+        "possible_addition": 17,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 49
+    },
+    {
+      "solution_id": "SOL-12",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 18,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-13",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 15,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 44
+    },
+    {
+      "solution_id": "SOL-14",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 17,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-15",
+      "field_word_counts": {
+        "existing_baseline": 17,
+        "possible_addition": 17,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-16",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 17,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 47
+    },
+    {
+      "solution_id": "SOL-17",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 15,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 45
+    },
+    {
+      "solution_id": "SOL-18",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 17,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 46
+    },
+    {
+      "solution_id": "SOL-19",
+      "field_word_counts": {
+        "existing_baseline": 17,
+        "possible_addition": 15,
+        "what_could_kill_it": 16
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-20",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 17,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 46
+    },
+    {
+      "solution_id": "SOL-21",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 16,
+        "what_could_kill_it": 16
+      },
+      "display_words_excluding_title": 48
+    },
+    {
+      "solution_id": "SOL-22",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 15,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 45
+    },
+    {
+      "solution_id": "SOL-23",
+      "field_word_counts": {
+        "existing_baseline": 17,
+        "possible_addition": 16,
+        "what_could_kill_it": 13
+      },
+      "display_words_excluding_title": 46
+    },
+    {
+      "solution_id": "SOL-24",
+      "field_word_counts": {
+        "existing_baseline": 17,
+        "possible_addition": 16,
+        "what_could_kill_it": 16
+      },
+      "display_words_excluding_title": 49
+    },
+    {
+      "solution_id": "SOL-25",
+      "field_word_counts": {
+        "existing_baseline": 15,
+        "possible_addition": 16,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 46
+    },
+    {
+      "solution_id": "SOL-26",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 16,
+        "what_could_kill_it": 15
+      },
+      "display_words_excluding_title": 47
+    },
+    {
+      "solution_id": "SOL-27",
+      "field_word_counts": {
+        "existing_baseline": 16,
+        "possible_addition": 16,
+        "what_could_kill_it": 14
+      },
+      "display_words_excluding_title": 46
+    }
+  ],
+  "max_display_words": 49,
+  "min_display_words": 43,
+  "recall_candidate_separate": true,
+  "unrelated_visual_reference_content_imported": false,
+  "original_menu_modified": false,
+  "human_review_claimed": false
+}

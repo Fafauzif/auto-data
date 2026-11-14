@@ -1,0 +1,9 @@
+market,scenario,paired_n,own_ox_benefit_gt1sec_n,own_ox_benefit_gt1min_n,own_ox_benefit_gt3min_n,own_ox_benefit_gt5min_n,median_saving_all_min,median_saving_positive_min,max_saving_min,oil_gap_gt5_before_n,oil_gap_gt5_after_owned_routing_n,median_owned_gap_min,old_le_10min,new_le_10min,added_le_10min,old_le_15min,new_le_15min,added_le_15min,old_le_20min,new_le_20min,added_le_20min,old_le_30min,new_le_30min,added_le_30min
+Surabaya,all_routed,81,12,11,8,2,0.0,4.095000000000001,5.703333333333334,14,7,0.506666666667,56,58,2,73,76,3,79,79,0,80,80,0
+Medan,all_routed,81,15,15,10,0,0.0,3.44,3.6850000000000005,3,0,0.0,52,55,3,75,75,0,80,80,0,81,81,0
+Bandung,all_routed,81,10,4,3,2,0.0,0.6900000000000003,5.973333333333334,21,18,2.168333333333,48,51,3,65,65,0,76,76,0,80,80,0
+Palembang,all_routed,81,16,14,12,9,0.0,6.225833333333333,6.585000000000003,11,0,1.501666666667,39,43,4,60,63,3,69,73,4,80,80,0
+Surabaya,snap_le_250m,59,8,7,5,0,0.0,3.77,4.978333333333333,10,6,0.506666666667,47,49,2,59,59,0,59,59,0,59,59,0
+Medan,snap_le_250m,78,15,15,10,0,0.0,3.44,3.6850000000000005,3,0,0.0483333333335,51,54,3,73,73,0,77,77,0,78,78,0
+Bandung,snap_le_250m,78,10,4,3,2,0.0,0.6900000000000003,5.973333333333334,21,18,2.168333333333,48,51,3,65,65,0,73,73,0,77,77,0
+Palembang,snap_le_250m,69,14,12,10,7,0.0,5.3525,6.585000000000003,9,0,1.556666666667,38,42,4,55,57,2,63,65,2,68,68,0

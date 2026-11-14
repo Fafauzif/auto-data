@@ -1,0 +1,376 @@
+bps_province_code,province_name,admin_level,regency_city_clean,bps_regency_code,match_status,n_stations
+11,Aceh,Kabupaten,Kabupaten Aceh Barat,1107,FILLED,2
+11,Aceh,Kabupaten,Kabupaten Aceh Barat Daya,1112,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Besar,1108,FILLED,2
+11,Aceh,Kabupaten,Kabupaten Aceh Jaya,1116,FILLED,3
+11,Aceh,Kabupaten,Kabupaten Aceh Selatan,1103,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Tamiang,1114,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Tengah,1106,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Tenggara,1104,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Timur,1105,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Aceh Utara,1111,FILLED,2
+11,Aceh,Kabupaten,Kabupaten Bireuen,1110,FILLED,2
+11,Aceh,Kabupaten,Kabupaten Nagan Raya,1115,FILLED,2
+11,Aceh,Kabupaten,Kabupaten Pidie,1109,FILLED,1
+11,Aceh,Kabupaten,Kabupaten Simeulue,1101,FILLED,1
+11,Aceh,Kota,Kota Banda Aceh,1171,FILLED,4
+11,Aceh,Kota,Kota Langsa,1173,FILLED,1
+11,Aceh,Kota,Kota Lhokseumawe,1174,FILLED,2
+11,Aceh,Kota,Kota Sabang,1172,FILLED,1
+11,Aceh,Kota,Kota Subulussalam,1175,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Asahan,1208,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Batu Bara,1219,FILLED,3
+12,Sumatera Utara,Kabupaten,Kabupaten Dairi,1210,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Deli Serdang,1212,FILLED,8
+12,Sumatera Utara,Kabupaten,Kabupaten Humbang Hasundutan,1215,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Karo,1211,FILLED,4
+12,Sumatera Utara,Kabupaten,Kabupaten Labuhanbatu,1207,FILLED,2
+12,Sumatera Utara,Kabupaten,Kabupaten Labuhanbatu Utara,1223,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Langkat,1213,FILLED,8
+12,Sumatera Utara,Kabupaten,Kabupaten Mandailing Natal,1202,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Samosir,1217,FILLED,1
+12,Sumatera Utara,Kabupaten,Kabupaten Serdang Bedagai,1218,FILLED,2
+12,Sumatera Utara,Kabupaten,Kabupaten Simalungun,1209,FILLED,6
+12,Sumatera Utara,Kabupaten,Kabupaten Tapanuli Utara,1205,FILLED,2
+12,Sumatera Utara,Kabupaten,Kabupaten Toba Samosir,1206,FILLED,1
+12,Sumatera Utara,Kota,Kota Binjai,1276,FILLED,4
+12,Sumatera Utara,Kota,Kota Gunungsitoli,1278,FILLED,1
+12,Sumatera Utara,Kota,Kota Medan,1275,FILLED,36
+12,Sumatera Utara,Kota,Kota Padangsidimpuan,1277,FILLED,1
+12,Sumatera Utara,Kota,Kota Pematangsiantar,1273,FILLED,4
+12,Sumatera Utara,Kota,Kota Sibolga,1271,FILLED,1
+12,Sumatera Utara,Kota,Kota Tanjung Balai,1272,FILLED,1
+13,Sumatera Barat,Kabupaten,Kabupaten Agam,1307,FILLED,4
+13,Sumatera Barat,Kabupaten,Kabupaten Dharmasraya,1311,FILLED,4
+13,Sumatera Barat,Kabupaten,Kabupaten Lima Puluh Kota,1308,FILLED,4
+13,Sumatera Barat,Kabupaten,Kabupaten Padang Pariaman,1306,FILLED,4
+13,Sumatera Barat,Kabupaten,Kabupaten Pasaman,1309,FILLED,8
+13,Sumatera Barat,Kabupaten,Kabupaten Pesisir Selatan,1302,FILLED,3
+13,Sumatera Barat,Kabupaten,Kabupaten Sijunjung,1304,FILLED,2
+13,Sumatera Barat,Kabupaten,Kabupaten Solok,1303,FILLED,3
+13,Sumatera Barat,Kabupaten,Kabupaten Solok Selatan,1310,FILLED,3
+13,Sumatera Barat,Kabupaten,Kabupaten Tanah Datar,1305,FILLED,2
+13,Sumatera Barat,Kota,Kota Bukittinggi,1375,FILLED,1
+13,Sumatera Barat,Kota,Kota Padang,1371,FILLED,12
+13,Sumatera Barat,Kota,Kota Padang Panjang,1374,FILLED,1
+13,Sumatera Barat,Kota,Kota Pariaman,1377,FILLED,1
+13,Sumatera Barat,Kota,Kota Payakumbuh,1376,FILLED,6
+13,Sumatera Barat,Kota,Kota Sawahlunto,1373,FILLED,2
+13,Sumatera Barat,Kota,Kota Solok,1372,FILLED,4
+14,Riau,Kabupaten,Kabupaten Bengkalis,1408,FILLED,4
+14,Riau,Kabupaten,Kabupaten Indragiri Hilir,1403,FILLED,1
+14,Riau,Kabupaten,Kabupaten Indragiri Hulu,1402,FILLED,6
+14,Riau,Kabupaten,Kabupaten Kampar,1406,FILLED,5
+14,Riau,Kabupaten,Kabupaten Kepulauan Meranti,1410,FILLED,1
+14,Riau,Kabupaten,Kabupaten Kuantan Singingi,1401,FILLED,1
+14,Riau,Kabupaten,Kabupaten Pelalawan,1404,FILLED,1
+14,Riau,Kabupaten,Kabupaten Siak,1405,FILLED,3
+14,Riau,Kota,Kota Dumai,1473,FILLED,3
+14,Riau,Kota,Kota Pekanbaru,1471,FILLED,15
+15,Jambi,Kabupaten,Kabupaten Batanghari,1504,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Bungo,1509,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Merangin,1502,FILLED,2
+15,Jambi,Kabupaten,Kabupaten Muaro Jambi,1505,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Sarolangun,1503,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Tanjung Jabung Barat,1507,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Tanjung Jabung Timur,1506,FILLED,1
+15,Jambi,Kabupaten,Kabupaten Tebo,1508,FILLED,2
+15,Jambi,Kota,Kota Baru,1571,"CORRECTED_kecamatan->Kota Jambi (addr: Kec. Kota Baru, Kota Jambi)",1
+15,Jambi,Kota,Kota Jambi,1571,FILLED,11
+15,Jambi,Kota,Kota Sungai Penuh,1572,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Banyuasin,1607,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Lahat,1604,FILLED,2
+16,Sumatera Selatan,Kabupaten,Kabupaten Muara Enim,1603,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Musi Banyuasin,1606,FILLED,2
+16,Sumatera Selatan,Kabupaten,Kabupaten Musi Rawas,1605,FILLED,2
+16,Sumatera Selatan,Kabupaten,Kabupaten Ogan Ilir,1610,FILLED,2
+16,Sumatera Selatan,Kabupaten,Kabupaten Ogan Komering Ilir,1602,FILLED,6
+16,Sumatera Selatan,Kabupaten,Kabupaten Ogan Komering Ulu,1601,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Ogan Komering Ulu Selatan,1608,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Ogan Komering Ulu Timur,1609,FILLED,1
+16,Sumatera Selatan,Kabupaten,Kabupaten Penukal Abab Lematang Ilir,1612,FILLED,1
+16,Sumatera Selatan,Kota,Kota Lubuk Linggau,1674,FILLED,4
+16,Sumatera Selatan,Kota,Kota Pagar Alam,1673,FILLED,1
+16,Sumatera Selatan,Kota,Kota Palembang,1671,FILLED,18
+16,Sumatera Selatan,Kota,Kota Prabumulih,1672,FILLED,1
+17,Bengkulu,Kabupaten,Kabupaten Kaur,1704,FILLED,1
+17,Bengkulu,Kabupaten,Kabupaten Rejang Lebong,1702,FILLED,1
+17,Bengkulu,Kabupaten,Kabupaten Seluma,1705,FILLED,1
+17,Bengkulu,Kota,Kota Bengkulu,1771,FILLED,10
+18,Lampung,Kabupaten,Kabupaten Lampung Selatan,1803,FILLED,8
+18,Lampung,Kabupaten,Kabupaten Lampung Tengah,1805,FILLED,3
+18,Lampung,Kabupaten,Kabupaten Lampung Timur,1804,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Lampung Utara,1806,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Mesuji,1811,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Pesawaran,1809,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Pesisir Barat,1813,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Tanggamus,1802,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Tulang Bawang,1808,FILLED,2
+18,Lampung,Kabupaten,Kabupaten Tulang Bawang Barat,1812,FILLED,1
+18,Lampung,Kabupaten,Kabupaten Way Kanan,1807,FILLED,1
+18,Lampung,Kota,Kota Bandar Lampung,1871,FILLED,12
+18,Lampung,Kota,Kota Metro,1872,FILLED,2
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Bangka,1901,FILLED,4
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Bangka Barat,1903,FILLED,3
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Bangka Selatan,1905,FILLED,2
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Bangka Tengah,1904,FILLED,5
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Belitung,1902,FILLED,8
+19,Kepulauan Bangka Belitung,Kabupaten,Kabupaten Belitung Timur,1906,FILLED,2
+19,Kepulauan Bangka Belitung,Kota,Kota Pangkal Pinang,1971,FILLED,4
+21,Kepulauan Riau,Kota,Kota Batam,2171,FILLED,4
+21,Kepulauan Riau,Kota,Kota Tanjung Pinang,2172,FILLED,6
+31,DKI Jakarta,Kota,Kota Administrasi Jakarta Barat,3174,FILLED,80
+31,DKI Jakarta,Kota,Kota Administrasi Jakarta Pusat,3173,FILLED,109
+31,DKI Jakarta,Kota,Kota Administrasi Jakarta Selatan,3171,FILLED,167
+31,DKI Jakarta,Kota,Kota Administrasi Jakarta Timur,3172,FILLED,75
+31,DKI Jakarta,Kota,Kota Administrasi Jakarta Utara,3175,FILLED,66
+32,Jawa Barat,Kabupaten,Kabupaten Bandung,3204,FILLED,21
+32,Jawa Barat,Kabupaten,Kabupaten Bandung Barat,3217,FILLED,10
+32,Jawa Barat,Kabupaten,Kabupaten Bekasi,3216,FILLED,37
+32,Jawa Barat,Kabupaten,Kabupaten Bogor,3201,FILLED,49
+32,Jawa Barat,Kabupaten,Kabupaten Cianjur,3203,FILLED,30
+32,Jawa Barat,Kabupaten,Kabupaten Cirebon,3209,FILLED,8
+32,Jawa Barat,Kabupaten,Kabupaten Garut,3205,FILLED,13
+32,Jawa Barat,Kabupaten,Kabupaten Indramayu,3212,FILLED,7
+32,Jawa Barat,Kabupaten,Kabupaten Karawang,3215,FILLED,22
+32,Jawa Barat,Kabupaten,Kabupaten Kuningan,3208,FILLED,8
+32,Jawa Barat,Kabupaten,Kabupaten Majalengka,3210,FILLED,6
+32,Jawa Barat,Kabupaten,Kabupaten Pangandaran,3218,FILLED,3
+32,Jawa Barat,Kabupaten,Kabupaten Purwakarta,3214,FILLED,11
+32,Jawa Barat,Kabupaten,Kabupaten Subang,3213,FILLED,7
+32,Jawa Barat,Kabupaten,Kabupaten Sukabumi,3202,FILLED,7
+32,Jawa Barat,Kabupaten,Kabupaten Sumedang,3211,FILLED,9
+32,Jawa Barat,Kabupaten,Kabupaten Tasikmalaya,3206,FILLED,7
+32,Jawa Barat,Kota,Kota Bandung,3273,FILLED,58
+32,Jawa Barat,Kota,Kota Banjar,3279,FILLED,1
+32,Jawa Barat,Kota,Kota Bekasi,3275,FILLED,54
+32,Jawa Barat,Kota,Kota Bogor,3271,FILLED,17
+32,Jawa Barat,Kota,Kota Cimahi,3277,FILLED,7
+32,Jawa Barat,Kota,Kota Cirebon,3274,FILLED,6
+32,Jawa Barat,Kota,Kota Depok,3276,FILLED,31
+32,Jawa Barat,Kota,Kota Sukabumi,3272,FILLED,5
+32,Jawa Barat,Kota,Kota Tasikmalaya,3278,FILLED,3
+33,Jawa Tengah,Kabupaten,Kabupaten Banjarnegara,3304,FILLED,3
+33,Jawa Tengah,Kabupaten,Kabupaten Banyumas,3302,FILLED,8
+33,Jawa Tengah,Kabupaten,Kabupaten Batang,3325,FILLED,6
+33,Jawa Tengah,Kabupaten,Kabupaten Blora,3316,FILLED,2
+33,Jawa Tengah,Kabupaten,Kabupaten Boyolali,3309,FILLED,4
+33,Jawa Tengah,Kabupaten,Kabupaten Brebes,3329,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Cilacap,3301,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Demak,3321,FILLED,4
+33,Jawa Tengah,Kabupaten,Kabupaten Grobogan,3315,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Jepara,3320,FILLED,3
+33,Jawa Tengah,Kabupaten,Kabupaten Karanganyar,3313,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Kebumen,3305,FILLED,6
+33,Jawa Tengah,Kabupaten,Kabupaten Kendal,3324,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Klaten,3310,FILLED,8
+33,Jawa Tengah,Kabupaten,Kabupaten Kudus,3319,FILLED,4
+33,Jawa Tengah,Kabupaten,Kabupaten Magelang,3308,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Pati,3318,FILLED,2
+33,Jawa Tengah,Kabupaten,Kabupaten Pekalongan,3326,FILLED,2
+33,Jawa Tengah,Kabupaten,Kabupaten Pemalang,3327,FILLED,4
+33,Jawa Tengah,Kabupaten,Kabupaten Purbalingga,3303,FILLED,3
+33,Jawa Tengah,Kabupaten,Kabupaten Purworejo,3306,FILLED,3
+33,Jawa Tengah,Kabupaten,Kabupaten Rembang,3317,FILLED,1
+33,Jawa Tengah,Kabupaten,Kabupaten Semarang,3322,FILLED,8
+33,Jawa Tengah,Kabupaten,Kabupaten Sragen,3314,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Sukoharjo,3311,FILLED,10
+33,Jawa Tengah,Kabupaten,Kabupaten Tegal,3328,FILLED,8
+33,Jawa Tengah,Kabupaten,Kabupaten Temanggung,3323,FILLED,5
+33,Jawa Tengah,Kabupaten,Kabupaten Wonogiri,3312,FILLED,2
+33,Jawa Tengah,Kabupaten,Kabupaten Wonosobo,3307,FILLED,3
+33,Jawa Tengah,Kota,Kota Magelang,3371,FILLED,7
+33,Jawa Tengah,Kota,Kota Pekalongan,3375,FILLED,3
+33,Jawa Tengah,Kota,Kota Salatiga,3373,FILLED,4
+33,Jawa Tengah,Kota,Kota Semarang,3374,FILLED,31
+33,Jawa Tengah,Kota,Kota Surakarta,3372,FILLED,10
+33,Jawa Tengah,Kota,Kota Tegal,3376,FILLED,8
+34,DI Yogyakarta,Kabupaten,Kabupaten Bantul,3402,FILLED,4
+34,DI Yogyakarta,Kabupaten,Kabupaten Gunungkidul,3403,FILLED,2
+34,DI Yogyakarta,Kabupaten,Kabupaten Kulon Progo,3401,FILLED,2
+34,DI Yogyakarta,Kabupaten,Kabupaten Sleman,3404,FILLED,11
+34,DI Yogyakarta,Kota,Kota Yogyakarta,3471,FILLED,9
+35,Jawa Timur,Kabupaten,Kabupaten Bangkalan,3526,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Banyuwangi,3510,FILLED,9
+35,Jawa Timur,Kabupaten,Kabupaten Bojonegoro,3522,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Bondowoso,3511,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Gresik,3525,FILLED,12
+35,Jawa Timur,Kabupaten,Kabupaten Jember,3509,FILLED,6
+35,Jawa Timur,Kabupaten,Kabupaten Jombang,3517,FILLED,6
+35,Jawa Timur,Kabupaten,Kabupaten Kediri,3506,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Lamongan,3524,FILLED,7
+35,Jawa Timur,Kabupaten,Kabupaten Lumajang,3508,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Madiun,3519,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Magetan,3520,FILLED,4
+35,Jawa Timur,Kabupaten,Kabupaten Malang,3507,FILLED,14
+35,Jawa Timur,Kabupaten,Kabupaten Mojokerto,3516,FILLED,4
+35,Jawa Timur,Kabupaten,Kabupaten Nganjuk,3518,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Ngawi,3521,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Pacitan,3501,FILLED,1
+35,Jawa Timur,Kabupaten,Kabupaten Pamekasan,3528,FILLED,1
+35,Jawa Timur,Kabupaten,Kabupaten Ponorogo,3502,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Probolinggo,3513,FILLED,2
+35,Jawa Timur,Kabupaten,Kabupaten Sidoarjo,3515,FILLED,11
+35,Jawa Timur,Kabupaten,Kabupaten Situbondo,3512,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Sumenep,3529,FILLED,1
+35,Jawa Timur,Kabupaten,Kabupaten Trenggalek,3503,FILLED,1
+35,Jawa Timur,Kabupaten,Kabupaten Tuban,3523,FILLED,3
+35,Jawa Timur,Kabupaten,Kabupaten Tulungagung,3504,FILLED,3
+35,Jawa Timur,Kota,Kota Batu,3579,FILLED,4
+35,Jawa Timur,Kota,Kota Blitar,3572,FILLED,1
+35,Jawa Timur,Kota,Kota Kediri,3571,FILLED,4
+35,Jawa Timur,Kota,Kota Madiun,3577,FILLED,6
+35,Jawa Timur,Kota,Kota Malang,3573,FILLED,18
+35,Jawa Timur,Kota,Kota Mojokerto,3576,FILLED,1
+35,Jawa Timur,Kota,Kota Pasuruan,3575,FILLED,9
+35,Jawa Timur,Kota,Kota Probolinggo,3574,FILLED,2
+35,Jawa Timur,Kota,Kota Surabaya,3578,FILLED,43
+36,Banten,Kabupaten,Kabupaten Lebak,3602,FILLED,4
+36,Banten,Kabupaten,Kabupaten Pandeglang,3601,FILLED,7
+36,Banten,Kabupaten,Kabupaten Serang,3604,FILLED,5
+36,Banten,Kabupaten,Kabupaten Tangerang,3603,FILLED,65
+36,Banten,Kota,Kota Cilegon,3672,FILLED,12
+36,Banten,Kota,Kota Serang,3673,FILLED,13
+36,Banten,Kota,Kota Tangerang,3671,FILLED,60
+36,Banten,Kota,Kota Tangerang Selatan,3674,FILLED,60
+51,Bali,Kabupaten,Kabupaten Badung,5103,FILLED,34
+51,Bali,Kabupaten,Kabupaten Bangli,5106,FILLED,3
+51,Bali,Kabupaten,Kabupaten Buleleng,5108,FILLED,10
+51,Bali,Kabupaten,Kabupaten Gianyar,5104,FILLED,7
+51,Bali,Kabupaten,Kabupaten Jembrana,5101,FILLED,5
+51,Bali,Kabupaten,Kabupaten Karangasem,5107,FILLED,6
+51,Bali,Kabupaten,Kabupaten Klungkung,5105,FILLED,4
+51,Bali,Kabupaten,Kabupaten Tabanan,5102,FILLED,9
+51,Bali,Kota,Kota Denpasar,5171,FILLED,27
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Bima,5206,FILLED,4
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Dompu,5205,FILLED,2
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Lombok Tengah,5202,FILLED,5
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Lombok Timur,5203,FILLED,4
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Lombok Utara,5208,FILLED,1
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Sumbawa,5204,FILLED,3
+52,Nusa Tenggara Barat,Kabupaten,Kabupaten Sumbawa Barat,5207,FILLED,1
+52,Nusa Tenggara Barat,Kota,Kota Mataram,5271,FILLED,16
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Belu,5306,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Ende,5311,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Flores Timur,5309,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Kupang,5303,FILLED,3
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Manggarai,5313,FILLED,2
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Manggarai Barat,5315,FILLED,4
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Ngada,5312,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Sikka,5310,FILLED,2
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Sumba Barat,5301,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Sumba Barat Daya,5317,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Sumba Timur,5302,FILLED,2
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Timor Tengah Selatan,5304,FILLED,1
+53,Nusa Tenggara Timur,Kabupaten,Kabupaten Timor Tengah Utara,5305,FILLED,2
+53,Nusa Tenggara Timur,Kota,Kota Kupang,5371,FILLED,7
+61,Kalimantan Barat,Kabupaten,Kabupaten Bengkayang,6102,FILLED,3
+61,Kalimantan Barat,Kabupaten,Kabupaten Ketapang,6106,FILLED,8
+61,Kalimantan Barat,Kabupaten,Kabupaten Kubu Raya,6112,FILLED,6
+61,Kalimantan Barat,Kabupaten,Kabupaten Melawi,6110,FILLED,1
+61,Kalimantan Barat,Kabupaten,Kabupaten Mempawah,6104,FILLED,4
+61,Kalimantan Barat,Kabupaten,Kabupaten Sambas,6101,FILLED,3
+61,Kalimantan Barat,Kabupaten,Kabupaten Sanggau,6105,FILLED,6
+61,Kalimantan Barat,Kabupaten,Kabupaten Sekadau,6109,FILLED,1
+61,Kalimantan Barat,Kabupaten,Kabupaten Sintang,6107,FILLED,1
+61,Kalimantan Barat,Kota,Kota Pontianak,6171,FILLED,12
+61,Kalimantan Barat,Kota,Kota Singkawang,6172,FILLED,4
+62,Kalimantan Tengah,Kabupaten,Kabupaten Barito Selatan,6204,FILLED,2
+62,Kalimantan Tengah,Kabupaten,Kabupaten Barito Timur,6212,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Barito Utara,6205,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Gunung Mas,6211,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Kapuas,6203,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Kotawaringin Barat,6201,FILLED,2
+62,Kalimantan Tengah,Kabupaten,Kabupaten Kotawaringin Timur,6202,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Lamandau,6207,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Murung Raya,6213,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Pulang Pisau,6210,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Seruyan,6208,FILLED,1
+62,Kalimantan Tengah,Kabupaten,Kabupaten Sukamara,6206,FILLED,1
+62,Kalimantan Tengah,Kota,Kota Palangka Raya,6271,FILLED,4
+63,Kalimantan Selatan,Kabupaten,Kabupaten Balangan,6311,FILLED,1
+63,Kalimantan Selatan,Kabupaten,Kabupaten Banjar,6303,FILLED,3
+63,Kalimantan Selatan,Kabupaten,Kabupaten Hulu Sungai Selatan,6306,FILLED,2
+63,Kalimantan Selatan,Kabupaten,Kabupaten Hulu Sungai Tengah,6307,FILLED,1
+63,Kalimantan Selatan,Kabupaten,Kabupaten Hulu Sungai Utara,6308,FILLED,1
+63,Kalimantan Selatan,Kabupaten,Kabupaten Kotabaru,6302,FILLED,1
+63,Kalimantan Selatan,Kabupaten,Kabupaten Tabalong,6309,FILLED,2
+63,Kalimantan Selatan,Kabupaten,Kabupaten Tanah Bumbu,6310,FILLED,2
+63,Kalimantan Selatan,Kabupaten,Kabupaten Tanah Laut,6301,FILLED,2
+63,Kalimantan Selatan,Kabupaten,Kabupaten Tapin,6305,FILLED,2
+63,Kalimantan Selatan,Kota,Kota Banjarbaru,6372,FILLED,6
+63,Kalimantan Selatan,Kota,Kota Banjarmasin,6371,FILLED,6
+64,Kalimantan Timur,Kabupaten,Kabupaten Berau,6405,FILLED,2
+64,Kalimantan Timur,Kabupaten,Kabupaten Kutai Barat,6402,FILLED,1
+64,Kalimantan Timur,Kabupaten,Kabupaten Kutai Kartanegara,6403,FILLED,6
+64,Kalimantan Timur,Kabupaten,Kabupaten Kutai Timur,6404,FILLED,5
+64,Kalimantan Timur,Kabupaten,Kabupaten Paser,6401,FILLED,3
+64,Kalimantan Timur,Kabupaten,Kabupaten Penajam Paser Utara,6409,FILLED,10
+64,Kalimantan Timur,Kota,Kota Balikpapan,6471,FILLED,11
+64,Kalimantan Timur,Kota,Kota Bontang,6474,FILLED,7
+64,Kalimantan Timur,Kota,Kota Samarinda,6472,FILLED,10
+65,Kalimantan Utara,Kabupaten,Kabupaten Bulungan,6502,FILLED,2
+65,Kalimantan Utara,Kabupaten,Kabupaten Malinau,6501,FILLED,1
+65,Kalimantan Utara,Kabupaten,Kabupaten Nunukan,6504,FILLED,1
+65,Kalimantan Utara,Kota,Kota Tarakan,6571,FILLED,1
+71,Sulawesi Utara,Kabupaten,Kabupaten Bitung,7172,FILLED,1
+71,Sulawesi Utara,Kabupaten,Kabupaten Bolaang Mongondow,7101,FILLED,3
+71,Sulawesi Utara,Kabupaten,Kabupaten Bolaang Mongondow Utara,7107,FILLED,1
+71,Sulawesi Utara,Kabupaten,Kabupaten Kotamobagu,7174,FILLED,3
+71,Sulawesi Utara,Kabupaten,Kabupaten Manado,7171,FILLED,10
+71,Sulawesi Utara,Kabupaten,Kabupaten Minahasa,7102,FILLED,1
+71,Sulawesi Utara,Kabupaten,Kabupaten Minahasa Selatan,7105,FILLED,2
+71,Sulawesi Utara,Kabupaten,Kabupaten Minahasa Tenggara,7109,FILLED,0
+71,Sulawesi Utara,Kabupaten,Kabupaten Minahasa Utara,7106,FILLED,2
+71,Sulawesi Utara,Kabupaten,Kabupaten Tomohon,7173,FILLED,1
+72,Sulawesi Tengah,Kabupaten,Kabupaten Banggai,7202,FILLED,1
+72,Sulawesi Tengah,Kabupaten,Kabupaten Donggala,7205,FILLED,1
+72,Sulawesi Tengah,Kabupaten,Kabupaten Palu,7271,FILLED,8
+72,Sulawesi Tengah,Kabupaten,Kabupaten Parigi Moutong,7208,FILLED,4
+72,Sulawesi Tengah,Kabupaten,Kabupaten Poso,7204,FILLED,2
+72,Sulawesi Tengah,Kabupaten,Kabupaten Toli Toli,7206,FILLED,2
+73,Sulawesi Selatan,Kabupaten,Kabupaten Barru,7310,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Bone,7311,FILLED,3
+73,Sulawesi Selatan,Kabupaten,Kabupaten Bulukumba,7302,FILLED,4
+73,Sulawesi Selatan,Kabupaten,Kabupaten Enrekang,7316,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Gowa,7306,FILLED,2
+73,Sulawesi Selatan,Kabupaten,Kabupaten Jeneponto,7304,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Luwu Timur,7325,FILLED,3
+73,Sulawesi Selatan,Kabupaten,Kabupaten Luwu Utara,7322,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Maros,7308,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Palopo,7373,FILLED,3
+73,Sulawesi Selatan,Kabupaten,Kabupaten Pangkajene Kepulauan,7309,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Pare Pare,7372,FILLED,4
+73,Sulawesi Selatan,Kabupaten,Kabupaten Pinrang,7315,FILLED,2
+73,Sulawesi Selatan,Kabupaten,Kabupaten Soppeng,7312,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Toraja Utara,7326,FILLED,1
+73,Sulawesi Selatan,Kabupaten,Kabupaten Wajo,7313,FILLED,1
+73,Sulawesi Selatan,Kota,Kota Makassar,7371,FILLED,24
+74,Sulawesi Tenggara,Kabupaten,Kabupaten Bau Bau,7472,FILLED,2
+74,Sulawesi Tenggara,Kabupaten,Kabupaten Kendari,7471,FILLED,3
+74,Sulawesi Tenggara,Kabupaten,Kabupaten Kolaka,7404,FILLED,3
+74,Sulawesi Tenggara,Kabupaten,Kabupaten Konawe,7403,FILLED,1
+74,Sulawesi Tenggara,Kabupaten,Kabupaten Muna,7402,FILLED,1
+74,Sulawesi Tenggara,Kota,Kota Kendari,7471,AUTO_VERIFY,1
+75,Gorontalo,Kabupaten,Kabupaten Boalemo,7501,FILLED,1
+75,Gorontalo,Kota,Kota Gorontalo,7571,FILLED,7
+76,Sulawesi Barat,Kabupaten,Kabupaten Majene,7601,FILLED,1
+76,Sulawesi Barat,Kabupaten,Kabupaten Mamuju,7604,FILLED,5
+76,Sulawesi Barat,Kabupaten,Kabupaten Pasangkayu,7605,FILLED,1
+76,Sulawesi Barat,Kabupaten,Kabupaten Polewali Mandar,7602,FILLED,1
+81,Maluku,Kabupaten,Kabupaten Kepulauan Tanimbar,8101,FILLED,1
+81,Maluku,Kabupaten,Kabupaten Maluku Tengah,8103,FILLED,2
+81,Maluku,Kabupaten,Kabupaten Maluku Tenggara,8102,FILLED,1
+81,Maluku,Kabupaten,Kabupaten Seram Bagian Barat,8106,FILLED,2
+81,Maluku,Kota,Kota Ambon,8171,FILLED,8
+82,Maluku Utara,Kabupaten,Kabupaten Halmahera Utara,8205,FILLED,2
+82,Maluku Utara,Kota,Kota Ternate,8271,FILLED,3
+82,Maluku Utara,Kota,Kota Tidore Kepulauan,8272,FILLED,3
+91,Papua Barat,Kabupaten,Kabupaten Manokwari,9105,FILLED,4
+91,Papua Barat,Kota,Kota Sorong,9171,FILLED,4
+94,Papua,Kabupaten,Kabupaten Biak Numfor,9409,FILLED,2
+94,Papua,Kabupaten,Kabupaten Jayawijaya,9402,FILLED,1
+94,Papua,Kabupaten,Kabupaten Merauke,9401,FILLED,2
+94,Papua,Kabupaten,Kabupaten Mimika,9412,FILLED,2
+94,Papua,Kabupaten,Kabupaten Nabire,9404,FILLED,3
+94,Papua,Kota,Kota Jayapura,9471,FILLED,5

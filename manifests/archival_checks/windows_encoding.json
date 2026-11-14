@@ -1,0 +1,11 @@
+{
+  "active_and_vault_scripts_checked": 5,
+  "text_io_explicit_utf8": true,
+  "unicode_cli_tests": {
+    "source_archive.py verify": "passed with Unicode path and initial ASCII stdout",
+    "source_archive.py restore": "passed with Unicode path and initial ASCII stdout",
+    "verify_release.py": "passed with Unicode path and initial ASCII stdout",
+    "migrate_legacy.py": "passed with Unicode path and initial ASCII stdout"
+  },
+  "note": "Unicode-path and ASCII-stdout simulation on Linux, not a native Windows execution"
+}

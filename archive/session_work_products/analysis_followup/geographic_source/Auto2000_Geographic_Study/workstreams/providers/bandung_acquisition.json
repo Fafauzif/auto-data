@@ -1,0 +1,16 @@
+{
+  "market": "Bandung",
+  "bbox": [
+    107.43,
+    -7.07,
+    107.82,
+    -6.74
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:30.329612+00:00",
+  "status": "success",
+  "source_all_place_rows": 96031,
+  "automotive_candidate_rows": 4487,
+  "sha256": "c934fda99647fc5a20e3496b9730d17455d9ae53c770bd0f171f791c5a4e4759",
+  "seconds": 17.36
+}

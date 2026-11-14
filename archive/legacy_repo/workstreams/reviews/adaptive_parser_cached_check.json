@@ -1,0 +1,56 @@
+{
+  "code_syntax_valid": true,
+  "cached_captures": 9,
+  "total_embedded_review_records": 180,
+  "all_captures_have_20": true,
+  "new_network_requests": 0,
+  "changed_collection_results": false,
+  "human_validation": false,
+  "captures": [
+    {
+      "capture_name": "my_wuling_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "mtoyota_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "mtoyota_play_en_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "byd_auto_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "myhyundai_indonesia_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "byd_auto_play_en_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "mitsubishi_motors_id_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "digiroom_play_en_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    },
+    {
+      "capture_name": "digiroom_play_dataset.json",
+      "embedded_reviews_shape_validated": 20,
+      "duplicate_ids_in_capture": 0
+    }
+  ]
+}

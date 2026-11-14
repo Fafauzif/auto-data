@@ -1,0 +1,115 @@
+{
+  "maps": {
+    "source_rows": 8385,
+    "unique_ids": 8119,
+    "duplicate_excess_rows": 266,
+    "body_variant_conflicts": 0,
+    "retrieval_flag_counts": {
+      "workshop": 1541,
+      "booking_wait_handoff": 409,
+      "retailer": 345,
+      "first_person": 536,
+      "toyota": 267,
+      "news_or_commentary_marker": 12,
+      "selling_or_marketing_marker": 53,
+      "resale_upgrade": 48,
+      "electrification": 80,
+      "motorcycle_marker": 16,
+      "home_charging": 4
+    },
+    "places": 37,
+    "with_text": 5504,
+    "diagnostic_and_non_diagnostic_overlap_ids": 266,
+    "date_min": "2011-09-03T10:48:44.870Z",
+    "date_max": "2026-11-14T09:07:38.155Z"
+  },
+  "x": {
+    "source_rows": 14892,
+    "unique_ids": 14291,
+    "duplicate_excess_rows": 601,
+    "body_variant_conflicts": 0,
+    "retrieval_flag_counts": {
+      "toyota": 1530,
+      "workshop": 4172,
+      "first_person": 3669,
+      "electrification": 1326,
+      "resale_upgrade": 1759,
+      "motorcycle_marker": 1310,
+      "booking_wait_handoff": 1524,
+      "news_or_commentary_marker": 203,
+      "selling_or_marketing_marker": 595,
+      "home_charging": 111,
+      "retailer": 170
+    },
+    "unique_author_keys": 8162,
+    "replies": 6186,
+    "replies_missing_parent": 5704,
+    "roots_missing": 5704,
+    "quotes": 1658,
+    "native_reposts": 0,
+    "named_brand_account_posts": 251,
+    "date_min": "2025-01-01T02:21:12+00:00",
+    "date_max": "2026-11-13T23:59:30+00:00",
+    "language_metadata_counts": {
+      "in": 14162,
+      "tr": 111,
+      "und": 4,
+      "cs": 8,
+      "en": 3,
+      "zxx": 2,
+      "fr": 1
+    },
+    "digiroom_matching_unique_posts": 37,
+    "digiroom_case_insensitive_substring_occurrences": 45,
+    "digiroom_matching_author_accounts": {
+      "AUTO2000ID_": 37
+    },
+    "digiroom_check_definition": "Unique post bodies containing case-insensitive substring digiroom; literal occurrence count is separate, includes repeated strings in a single post."
+  },
+  "youtube": {
+    "source_rows": 74,
+    "unique_ids": 74,
+    "duplicate_excess_rows": 0,
+    "body_variant_conflicts": 0,
+    "retrieval_flag_counts": {
+      "first_person": 7,
+      "motorcycle_marker": 2,
+      "electrification": 30,
+      "toyota": 1,
+      "workshop": 5,
+      "home_charging": 2,
+      "booking_wait_handoff": 1,
+      "resale_upgrade": 2,
+      "selling_or_marketing_marker": 1
+    },
+    "videos": [
+      {
+        "video_id": "0hpzmOHCaso",
+        "title": "Sebelum Beli BYD M6, Begini Pengalaman Pemiliknya",
+        "rows": 26,
+        "top_level": 17,
+        "replies": 9,
+        "channel_owner_rows": 0,
+        "video_url": "https://www.youtube.com/watch?v=0hpzmOHCaso"
+      },
+      {
+        "video_id": "NwY92P2iHUg",
+        "title": "BYD M6: MPV Listrik Paling Worth It! | Setir Kanan",
+        "rows": 3,
+        "top_level": 2,
+        "replies": 1,
+        "channel_owner_rows": 2,
+        "video_url": "https://www.youtube.com/watch?v=NwY92P2iHUg"
+      },
+      {
+        "video_id": "znyuaICx_8o",
+        "title": "Harga Mobil Listrik Bekas Anjlok, Neta Turun Lebih dari 50 Persen",
+        "rows": 45,
+        "top_level": 37,
+        "replies": 8,
+        "channel_owner_rows": 0,
+        "video_url": "https://www.youtube.com/watch?v=znyuaICx_8o"
+      }
+    ]
+  }
+}

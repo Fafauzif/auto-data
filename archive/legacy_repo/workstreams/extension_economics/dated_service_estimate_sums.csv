@@ -1,0 +1,4 @@
+model,variant,events,labor_estimate_total_idr,parts_estimate_total_idr,combined_estimate_total_idr,highest_event_estimate_idr,lowest_event_estimate_idr,data_status,source_refs
+Agya,Agya 1.2 A/T,"8,9,10,11",1917000,4276000,6193000,2528000,980000,"Derived sum of dated retail estimates; unmatched models, not a powertrain effect",XT04
+All New BZ4X Battery EV,All New BZ4X Panoramic View,"8,9,10,11",4349000,4752000,9101000,3713000,847000,"Derived sum of dated retail estimates; unmatched models, not a powertrain effect",XT04
+All New Yaris Cross Hybrid EV,All New Yaris Cross 1.5 S HEV CVT TSS,"8,9,10,11",3692000,4808000,8500000,3247000,1376000,"Derived sum of dated retail estimates; unmatched models, not a powertrain effect",JX03

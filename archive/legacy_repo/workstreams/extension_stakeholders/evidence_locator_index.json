@@ -1,0 +1,446 @@
+{
+  "EXT-E01": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E01",
+    "source_ids": [
+      "ES01"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/g-fleet"
+    ]
+  },
+  "EXT-E02": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E02",
+    "source_ids": [
+      "ES01"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/g-fleet"
+    ]
+  },
+  "EXT-E03": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E03",
+    "source_ids": [
+      "ES14"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/product/all-new-hilux-rangga"
+    ]
+  },
+  "EXT-E04": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E04",
+    "source_ids": [
+      "ES02"
+    ],
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/persiapan-mudik-lebaran-dengan-biaya-lebih-terjangkau-berkualitas-dan-bergaransi-manfaatkan-layanan"
+    ]
+  },
+  "EXT-E05": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E05",
+    "source_ids": [
+      "ES03"
+    ],
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/t-opt-hadir-di-inapa-2026-spare-parts-alternatif-dengan-kualitas-terpercaya-dan-harga-lebih"
+    ]
+  },
+  "EXT-E07": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E07",
+    "source_ids": [
+      "ES06"
+    ],
+    "source_urls": [
+      "https://www.byd.com/id/aftersales/warranty"
+    ]
+  },
+  "EXT-E08": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E08",
+    "source_ids": [
+      "ES07"
+    ],
+    "source_urls": [
+      "https://media.byd.com/byd-extends-warranty-of-blade-battery-to-eight-years-or-250000km/?lang=eng"
+    ]
+  },
+  "EXT-E09": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E09",
+    "source_ids": [
+      "ES08"
+    ],
+    "source_urls": [
+      "https://microsite.mitsubishi-motors.co.id/owner-manual/media/file/originals/post/2021/12/09/owners-manual-outlander-phev-20-model-year-compressed.pdf"
+    ]
+  },
+  "EXT-E10": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E10",
+    "source_ids": [
+      "ES08"
+    ],
+    "source_urls": [
+      "https://microsite.mitsubishi-motors.co.id/owner-manual/media/file/originals/post/2021/12/09/owners-manual-outlander-phev-20-model-year-compressed.pdf"
+    ]
+  },
+  "EXT-E11": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E11",
+    "source_ids": [
+      "ES09"
+    ],
+    "source_urls": [
+      "https://www.hyundai.com/id/en/build-a-car/hyundai-promise"
+    ]
+  },
+  "EXT-E12": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E12",
+    "source_ids": [
+      "ES10"
+    ],
+    "source_urls": [
+      "https://ssc.toyota.astra.co.id/"
+    ]
+  },
+  "EXT-E13": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E13",
+    "source_ids": [
+      "ES11"
+    ],
+    "source_urls": [
+      "https://ssc.toyota.astra.co.id/faq"
+    ]
+  },
+  "EXT-E14": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E14",
+    "source_ids": [
+      "ES12"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-belajar-aturan-dasar-warranty-toyota-di-indonesia-apa-saja-jenis-kerusakan-yang-tidak-bisa-diklaim"
+    ]
+  },
+  "EXT-E15": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E15",
+    "source_ids": [
+      "ES12"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-belajar-aturan-dasar-warranty-toyota-di-indonesia-apa-saja-jenis-kerusakan-yang-tidak-bisa-diklaim"
+    ]
+  },
+  "EXT-E16": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E16",
+    "source_ids": [
+      "ES13"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-toyota-perkuat-layanan-purnajual-lewat-t-care-xtra-berikan-perlindungan-kendaraan-hingga-6-tahun"
+    ]
+  },
+  "EXT-E17": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E17",
+    "source_ids": [
+      "ES13"
+    ],
+    "source_urls": [
+      "https://www.toyota.astra.co.id/corporate-information/news-promo/read/giias-2026-toyota-perkuat-layanan-purnajual-lewat-t-care-xtra-berikan-perlindungan-kendaraan-hingga-6-tahun"
+    ]
+  },
+  "EXT-E18": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E18",
+    "source_ids": [
+      "ES15"
+    ],
+    "source_urls": [
+      "https://www.mitsubishi-motors.co.id/our-cars/l100-ev"
+    ]
+  },
+  "EXT-E19": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E19",
+    "source_ids": [
+      "ES16"
+    ],
+    "source_urls": [
+      "https://www.mitsubishi-motors.co.id/siaran-pers/mmksi-hadirkan-masa-depan-kendaraan-komersial-di-giicomvec-2024"
+    ]
+  },
+  "EXT-E20": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E20",
+    "source_ids": [
+      "ES17"
+    ],
+    "source_urls": [
+      "https://pressroom.toyota.astra.co.id/berikan-peace-mind-pelanggan-toyota-land-cruiser-300-dan-lexus-lx-tahun-produksi-tertentu"
+    ]
+  },
+  "EXT-E21": {
+    "path": "workstreams/extension_stakeholders/evidence_register.json",
+    "id_field": "evidence_id",
+    "id": "EXT-E21",
+    "source_ids": [
+      "ES18"
+    ],
+    "source_urls": [
+      "https://www.asuransiastra.com/featured/rahasia-klaim-cepat-garda-oto/"
+    ]
+  },
+  "capabilities:FC04": {
+    "path": "workstreams/friend_capabilities/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "FC04",
+    "source_url": null,
+    "locator": "125"
+  },
+  "capabilities:FC05": {
+    "path": "workstreams/friend_capabilities/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "FC05",
+    "source_url": null,
+    "locator": "125"
+  },
+  "capabilities:FC07": {
+    "path": "workstreams/friend_capabilities/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "FC07",
+    "source_url": null,
+    "locator": "126"
+  },
+  "competition:COMP-002": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-002",
+    "source_url": "https://www.toyota.astra.co.id/mToyota",
+    "locator": null
+  },
+  "competition:COMP-009": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-009",
+    "source_url": "https://www.seva.id/syarat-dan-ketentuan",
+    "locator": null
+  },
+  "competition:COMP-010": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-010",
+    "source_url": "https://www.seva.id/syarat-dan-ketentuan",
+    "locator": null
+  },
+  "competition:COMP-012": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-012",
+    "source_url": "https://www.astra.co.id/en/business/automotive/olxmobbi",
+    "locator": null
+  },
+  "competition:COMP-030": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-030",
+    "source_url": "https://www.hyundai.com/id/id/myhyundaicare/kepemilikan/layanan-darurat",
+    "locator": null
+  },
+  "competition:COMP-031": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-031",
+    "source_url": "https://www.hyundai.com/id/id/myhyundaicare/kepemilikan/layanan-darurat",
+    "locator": null
+  },
+  "competition:COMP-040": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-040",
+    "source_url": "https://www.honda-indonesia.com/aftersales/customer-care/emergency",
+    "locator": null
+  },
+  "insurance:INS-002": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-002",
+    "source_url": "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf",
+    "locator": "PDFp1; physicalpage1"
+  },
+  "insurance:INS-007": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-007",
+    "source_url": "https://www.zurich.co.id/-/media-assets/project/zurich-headless/indonesia/docs/produk/autocillin-syariah/riplay-umum_zurich-syariah-ev-autocillin.pdf",
+    "locator": "PDFp4 exclusions"
+  },
+  "insurance:INS-013": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-013",
+    "source_url": "https://www.asuransiastra.com/garda-oto/",
+    "locator": "myGarda andclaimprocedure"
+  },
+  "insurance:INS-017": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-017",
+    "source_url": "https://www.hyundai.com/id/id/myhyundaicare/jual-kembali/resale-value-guarantee",
+    "locator": "terms1\u20133"
+  },
+  "insurance:INS-018": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-018",
+    "source_url": "https://www.hyundai.com/id/id/myhyundaicare/jual-kembali/resale-value-guarantee",
+    "locator": "terms7\u201310"
+  },
+  "insurance:INS-020": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-020",
+    "source_url": "https://www.rvigroup.com/residual-value-insurance/",
+    "locator": "productoverview"
+  },
+  "insurance:INS-021": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-021",
+    "source_url": "https://www.rvigroup.com/passenger-vehicle/",
+    "locator": "passengervehicleproduct"
+  },
+  "insurance:INS-023": {
+    "path": "workstreams/friend_insurance/claim_matrix.json",
+    "id_field": "claim_id",
+    "id": "INS-023",
+    "source_url": "https://ojk.go.id/id/regulasi/Documents/Pages/POJK-8-Tahun-2024-Produk-Asuransi-dan-Saluran-Pemasaran-Produk-Asuransi/POJK%208%20Tahun%202024%20Produk%20Asuransi%20dan%20Saluran%20Pemasaran%20Produk%20Asuransi.pdf",
+    "locator": "Art48\u201350,53,55;PDFpp25\u201327"
+  },
+  "journey:JX02": {
+    "path": "workstreams/journeys/friendcontext_JX_observations.json",
+    "id_field": "observation_id",
+    "id": "JX02",
+    "source_url": "https://aftersales.toyota.astra.co.id/hybrid-health-check/generate-certificate",
+    "locator": "M2/R3 certificate retrieval"
+  },
+  "journey:JX05": {
+    "path": "workstreams/journeys/friendcontext_JX_observations.json",
+    "id_field": "observation_id",
+    "id": "JX05",
+    "source_url": "https://auto2000.co.id/layanan-bengkel",
+    "locator": "R2 granular capability and handoff"
+  },
+  "journey:UX03": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX03",
+    "source_url": "https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid",
+    "locator": "Finance baseline and repeat"
+  },
+  "journey:UX11": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX11",
+    "source_url": "https://www.toyota.astra.co.id/service-booking",
+    "locator": "Toyota OEM service booking comparator"
+  },
+  "market:M009": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M009",
+    "source_url": "https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/industries/consumer/2026/sea-cb-2026-sea-automotive-consumer-study.pdf",
+    "locator": "SEA report, printed/PDF page 34, Q21"
+  },
+  "market:M018": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M018",
+    "source_url": "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id",
+    "locator": "CaraMenggunakanSPKLU/TripPlanner"
+  },
+  "market:M019": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M019",
+    "source_url": "https://www.pln.co.id/bisnis-kami-id/produk-dan-layanan-kami-id/informasi-kendaraan-listrik-id",
+    "locator": "HomeCharging"
+  },
+  "market:M024": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M024",
+    "source_url": "https://doi.org/10.22146/jcef.22067",
+    "locator": "JCEF results 4.2.2, PDF page 8"
+  },
+  "market:M044": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M044",
+    "source_url": "https://taf.co.id/kinto/faq",
+    "locator": "FAQbenefits/ownership"
+  },
+  "market:M045": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M045",
+    "source_url": "https://taf.co.id/kinto/faq",
+    "locator": "FAQcommercialuse/mileage/ownrisk"
+  },
+  "market:M046": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M046",
+    "source_url": "https://www.olx.co.id/olxmobbi/pertanyaan-umum",
+    "locator": "FAQinspection/finalprice"
+  },
+  "narrative:V004": {
+    "path": "workstreams/narratives/validation_units.jsonl",
+    "id_field": "record_id",
+    "id": "V004",
+    "source_url": "https://www.reddit.com/r/indocartalk/comments/1spbuap/first_car_budget_350jt_chinese_ev_vs_japanese/",
+    "locator": "OP L23-44; replies L88-90,L282-284"
+  },
+  "narrative:V007": {
+    "path": "workstreams/narratives/validation_units.jsonl",
+    "id_field": "record_id",
+    "id": "V007",
+    "source_url": "https://www.reddit.com/r/indocartalk/comments/1rd6fr9/saran_beli_ev/",
+    "locator": "OP L21-29; replies L72-78"
+  },
+  "narrative:V009": {
+    "path": "workstreams/narratives/validation_units.jsonl",
+    "id_field": "record_id",
+    "id": "V009",
+    "source_url": "https://www.reddit.com/r/indocartalk/comments/1vk9qan/daihatsu_rocky_hybrid_first_impressions_and/",
+    "locator": "OP L21-46"
+  }
+}

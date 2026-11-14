@@ -1,0 +1,337 @@
+{
+  "competition:COMP-001": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-001"
+  },
+  "competition:COMP-002": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-002"
+  },
+  "competition:COMP-003": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-003"
+  },
+  "competition:COMP-004": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-004"
+  },
+  "competition:COMP-005": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-005"
+  },
+  "competition:COMP-007": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-007"
+  },
+  "competition:COMP-010": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-010"
+  },
+  "competition:COMP-013": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-013"
+  },
+  "competition:COMP-018": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-018"
+  },
+  "competition:COMP-030": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-030"
+  },
+  "competition:COMP-031": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-031"
+  },
+  "competition:COMP-038": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-038"
+  },
+  "competition:COMP-045": {
+    "path": "workstreams/competition/evidence_matrix.json",
+    "id_field": "record_id",
+    "id": "COMP-045"
+  },
+  "journeys:UX01": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX01"
+  },
+  "journeys:UX02": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX02"
+  },
+  "journeys:UX03": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX03"
+  },
+  "journeys:UX04": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX04"
+  },
+  "journeys:UX05": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX05"
+  },
+  "journeys:UX06": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX06"
+  },
+  "journeys:UX07": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX07"
+  },
+  "journeys:UX08": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX08"
+  },
+  "journeys:UX11": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX11"
+  },
+  "journeys:UX12": {
+    "path": "workstreams/journeys/journey_observations.json",
+    "id_field": "observation_id",
+    "id": "UX12"
+  },
+  "market:M002": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M002"
+  },
+  "market:M003": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M003"
+  },
+  "market:M011": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M011"
+  },
+  "market:M012": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M012"
+  },
+  "market:M013": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M013"
+  },
+  "market:M016": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M016"
+  },
+  "market:M017": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M017"
+  },
+  "market:M018": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M018"
+  },
+  "market:M021": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M021"
+  },
+  "market:M024": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M024"
+  },
+  "market:M033": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M033"
+  },
+  "market:M034": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M034"
+  },
+  "market:M041": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M041"
+  },
+  "market:M045": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M045"
+  },
+  "market:M046": {
+    "path": "workstreams/market/evidence.json",
+    "id_field": "evidence_id",
+    "id": "M046"
+  },
+  "market:MC01": {
+    "path": "workstreams/market/economic_calculations.json",
+    "id_field": "calculation_id",
+    "id": "MC01"
+  },
+  "market:MC02": {
+    "path": "workstreams/market/economic_calculations.json",
+    "id_field": "calculation_id",
+    "id": "MC02"
+  },
+  "market:MC03": {
+    "path": "workstreams/market/economic_calculations.json",
+    "id_field": "calculation_id",
+    "id": "MC03"
+  },
+  "market:MC05": {
+    "path": "workstreams/market/economic_calculations.json",
+    "id_field": "calculation_id",
+    "id": "MC05"
+  },
+  "narratives:N007": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N007"
+  },
+  "narratives:N016": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N016"
+  },
+  "narratives:N018": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N018"
+  },
+  "narratives:N035": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N035"
+  },
+  "narratives:N066": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N066"
+  },
+  "narratives:N067": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N067"
+  },
+  "narratives:N071": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N071"
+  },
+  "narratives:N075": {
+    "path": "workstreams/narratives/narrative_units.csv",
+    "id_field": "record_id",
+    "id": "N075"
+  },
+  "reviews:REV-0002": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0002"
+  },
+  "reviews:REV-0003": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0003"
+  },
+  "reviews:REV-0005": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0005"
+  },
+  "reviews:REV-0014": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0014"
+  },
+  "reviews:REV-0022": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0022"
+  },
+  "reviews:REV-0030": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0030"
+  },
+  "reviews:REV-0035": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0035"
+  },
+  "reviews:REV-0042": {
+    "path": "workstreams/reviews/reviews_derived.csv",
+    "id_field": "evidence_id",
+    "id": "REV-0042"
+  },
+  "validation:V001": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V001"
+  },
+  "validation:V004": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V004"
+  },
+  "validation:V007": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V007"
+  },
+  "validation:V011": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V011"
+  },
+  "validation:V012": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V012"
+  },
+  "validation:V013": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V013"
+  },
+  "validation:V014": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V014"
+  },
+  "validation:V015": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V015"
+  },
+  "validation:V016": {
+    "path": "workstreams/narratives/validation_units.csv",
+    "id_field": "record_id",
+    "id": "V016"
+  }
+}

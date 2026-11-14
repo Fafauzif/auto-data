@@ -1,0 +1,194 @@
+{
+  "generated_at_utc": "2026-11-11T03:33:39.533229+00:00",
+  "check_rows": 157,
+  "status_counts": {
+    "PASS": 140,
+    "FAIL": 0,
+    "QUALIFIED": 17,
+    "PENDING": 0
+  },
+  "input_manifest": [
+    {
+      "path": "auto2000_run/data/site_evidence.sqlite",
+      "sha256": "4885c8205e3fa7ebe3cdfbabf527b6c1f2c901a39583a4e9c67aa3d7ccbcc77c",
+      "bytes": 5095424
+    },
+    {
+      "path": "auto2000_run/figures/branch_coordinate_checks.png",
+      "sha256": "aa351fc69a040269c299e81705a766e0888806119411d0be3ebff87014d4207d",
+      "bytes": 113283
+    },
+    {
+      "path": "auto2000_run/figures/finance_cash_tradeoff.png",
+      "sha256": "5500e3462a1ecf671eaaaffaccacbf9328d8be78edf44b07ad8b93131391d8a1",
+      "bytes": 123467
+    },
+    {
+      "path": "auto2000_run/figures/service_choice_factors.png",
+      "sha256": "cda53e9848674b96de5d07e5cc98e0fc3d7f789a57f19a5c8f24b41ad232a2b4",
+      "bytes": 142599
+    },
+    {
+      "path": "auto2000_run/shared/make_figures.py",
+      "sha256": "7b57c459f73dfd8965cfe47c8879e5869390cfcd76819785cfe5539c0c600d07",
+      "bytes": 4031
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/auto2000_geo_sensitivity.csv",
+      "sha256": "7a41ce81486588b4f54836b720f4abc7ae57687ff2e1f7c9d45f6f95a5f733be",
+      "bytes": 7345
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/five_branch_coordinate_crosscheck.csv",
+      "sha256": "9491882b33b12e5e058631b544a2c40b0f5711525b7fa4d26b7c97cdf9aca7ea",
+      "bytes": 2380
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/gaikindo_2025_category_derived.csv",
+      "sha256": "ebf8338ae40ac974dcbb6b14669103c3f981bd77616e9c8be263f2e1803b3590",
+      "bytes": 2300
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/gaikindo_2025_hybrid_selected_models.csv",
+      "sha256": "9b9c72e7643c215d1d43b938ad0da6ecae9498f35d9225bcb6f66b30ad30f591",
+      "bytes": 2109
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/gaikindo_2026_monthly_category_derived.csv",
+      "sha256": "5672e966c7b0e8506796b8085d8165c77d9155f777e5100045d71e4eef239121",
+      "bytes": 17130
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/gaikindo_2026_monthly_totals_derived.csv",
+      "sha256": "d9a71630ba9b6b537b259323e45d17adaa00395948cc1f71890ced14fd0c185f",
+      "bytes": 142
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/geo_sensitivity_summary.json",
+      "sha256": "e1a1cd5b7a8677efb9cf81e075596265af023aae8c84f660f13db1b65ef3a6b9",
+      "bytes": 585
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/igar_analysis_summary.json",
+      "sha256": "51e5cd288b5743f5812342c6a323c65325be454fc99b995c300e05c11681c0ce",
+      "bytes": 1249
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/igar_conditional_analysis.json",
+      "sha256": "635de448af8f3bc844e377df42b282f67df4aaa7b7570a27b0338bb5b528f526",
+      "bytes": 1151
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/igar_label_agreement_crosstab.csv",
+      "sha256": "8e9af43df37dfac9c9f5c4463424101ba892d9195a63acad9296b3c1d3c3efd8",
+      "bytes": 126
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/market_analysis_summary.json",
+      "sha256": "e2d0cc72e1b0b94bdf4e0a6e75b4f32e1dcaf50197641b30dd3b07cd94c84206",
+      "bytes": 921
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/province_charging_vs_registered_cars.csv",
+      "sha256": "c5051260e5463019b6505e51156f1e215ab758d9adac1ba99abce005344b69db",
+      "bytes": 10132
+    },
+    {
+      "path": "auto2000_run/workstreams/datasets/spklu_analysis_summary.json",
+      "sha256": "1d1bbf8ca5a2f337cfd76c2f2532cd80d7c0f19299def1e5e3d406ed3a95457b",
+      "bytes": 919
+    },
+    {
+      "path": "auto2000_run/workstreams/friend_capabilities/economic_diagnostics.json",
+      "sha256": "b50dfe317077275cc015d2795d0d37147aa15b0b27494095bda332ba93d43a40",
+      "bytes": 1722
+    },
+    {
+      "path": "auto2000_run/workstreams/friend_challenge/logic_tests.json",
+      "sha256": "8bc8fe664a7159880c499e7445639cf25bf65c965da3d5844fb2fca0db2ff073",
+      "bytes": 1962
+    },
+    {
+      "path": "auto2000_run/workstreams/friend_insurance/illustrative_risk_scenarios.csv",
+      "sha256": "b7b2733cd7aa00ca0bdedcc2082e6f76be5d6ee368d2a73073e4e330ded16982",
+      "bytes": 15446
+    },
+    {
+      "path": "auto2000_run/workstreams/journeys/finance_scenarios.csv",
+      "sha256": "409bb5abd99f3249cc96ed35db3e3c510b1a128d59d6233728ebbc6a7c8728d7",
+      "bytes": 2267
+    },
+    {
+      "path": "auto2000_run/workstreams/market/deloitte_service_indonesia.csv",
+      "sha256": "d8d895f71ece7e7862214bd7c0cc8d1a6635f63f94543d1100ab8aca29cf64c5",
+      "bytes": 11732
+    },
+    {
+      "path": "auto2000_run/workstreams/market/economic_calculations.json",
+      "sha256": "460ba329dee2bc6e15df4c584808911041c4868418d2c5350dfeea4cd87765c4",
+      "bytes": 3428
+    },
+    {
+      "path": "auto2000_run/workstreams/narratives/combined_metrics.json",
+      "sha256": "478987ce341fbffd5e6a59c2bacc76054482dd4c3d98f248e39499efbbcdf1e7",
+      "bytes": 859
+    },
+    {
+      "path": "auto2000_run/workstreams/reviews/manual_audit.csv",
+      "sha256": "428dd7f5b4ab2e5c7f7716fef7ab37aaac8b9bfb38cf751c6574932265262c5d",
+      "bytes": 40623
+    },
+    {
+      "path": "auto2000_run/workstreams/reviews/reviews_derived.csv",
+      "sha256": "c1c47a349c0d683e873ff79bf3a54de00d82f90f31d438cde570022efa494cb9",
+      "bytes": 97025
+    },
+    {
+      "path": "auto2000_run/workstreams/reviews/validation.json",
+      "sha256": "68ee653c7f9a94b45a386cf38877d36a9271b0d9ff59abb99d91f1cc5e4b22dd",
+      "bytes": 540
+    },
+    {
+      "path": "auto2000_run/workstreams/site/page_observations.csv",
+      "sha256": "cf7b1f2375273a29ac3680d7af7b7b37a69770a7e0296d798af6bd18804ac8dd",
+      "bytes": 235061
+    },
+    {
+      "path": "auto2000_run/workstreams/site/summary.json",
+      "sha256": "36d0ae7d98a82212c9f85a29cd571ee4870a70243698ceaa995e39f37eeed15e",
+      "bytes": 1291
+    },
+    {
+      "path": "auto2000_run/workstreams/site/v3_qa_published_comparison.csv",
+      "sha256": "16b4c45511961fef30d6f45b59f99746d5cb87997f9c8d8369fc37d6b96df67f",
+      "bytes": 5319
+    },
+    {
+      "path": "auto2000_run/workstreams/site/v3_qa_reference.csv",
+      "sha256": "f29c938739eea44eb5e28d82bea71dc5cff56e73547853c756ea0ea4b1d56184",
+      "bytes": 8941
+    },
+    {
+      "path": "auto2000_run/workstreams/site/v3_qa_reference_summary.json",
+      "sha256": "4e4d291f95ceae44cf07cb0d2f61235aae5e7c57fe71ede426aeef5c76723195",
+      "bytes": 700
+    },
+    {
+      "path": "upload/Semifinal Casebook IBSC 2026.pdf",
+      "sha256": "237a96926c9da3ca8ffc5b4a311dbf41a9e12f6177a65b42e35d1e9a06df72dd",
+      "bytes": 31140159
+    }
+  ],
+  "does_not_count_independent_observations": true,
+  "modifies_source_data": false,
+  "astra_alternative_ordering": {
+    "scale": -4978.816831643872,
+    "mix": -1046.183168356127
+  },
+  "finance60": {
+    "upfront_reduction": 45314339,
+    "monthly_increase": 1132241,
+    "upfront_pct_price_upfrontinsurance": 32.572095288178375,
+    "upfront_pct_price_financedinsurance": 23.04026125368111
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "claim_groups": 40,
+  "referenced_evidence_records": 182,
+  "missing_refs": [],
+  "checks_do_not_validate_claim_truth": true,
+  "JX02_structured_locator_pending": false
+}

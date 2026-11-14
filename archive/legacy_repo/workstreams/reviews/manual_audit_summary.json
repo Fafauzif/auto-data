@@ -1,0 +1,66 @@
+[
+  {
+    "app": "byd_auto",
+    "n": 50,
+    "ai_experience_status_counts": {
+      "product_review": 5,
+      "self_reported_app_job": 23,
+      "branch_experience": 8,
+      "unknown": 14
+    },
+    "app_job_reviews_with_high_rating": 7
+  },
+  {
+    "app": "digiroom",
+    "n": 50,
+    "ai_experience_status_counts": {
+      "prospective_no_job": 3,
+      "self_reported_app_job": 25,
+      "branch_experience": 2,
+      "unknown": 20
+    },
+    "app_job_reviews_with_high_rating": 14
+  },
+  {
+    "app": "mitsubishi_motors_id",
+    "n": 20,
+    "ai_experience_status_counts": {
+      "self_reported_app_job": 12,
+      "branch_experience": 5,
+      "unknown": 2,
+      "product_review": 1
+    },
+    "app_job_reviews_with_high_rating": 3
+  },
+  {
+    "app": "mtoyota",
+    "n": 50,
+    "ai_experience_status_counts": {
+      "self_reported_app_job": 38,
+      "product_review": 3,
+      "prospective_no_job": 2,
+      "unknown": 7
+    },
+    "app_job_reviews_with_high_rating": 12
+  },
+  {
+    "app": "my_wuling",
+    "n": 20,
+    "ai_experience_status_counts": {
+      "self_reported_app_job": 18,
+      "product_review": 1,
+      "unknown": 1
+    },
+    "app_job_reviews_with_high_rating": 8
+  },
+  {
+    "app": "myhyundai_indonesia",
+    "n": 20,
+    "ai_experience_status_counts": {
+      "self_reported_app_job": 16,
+      "branch_experience": 2,
+      "unknown": 2
+    },
+    "app_job_reviews_with_high_rating": 8
+  }
+]

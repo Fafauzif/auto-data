@@ -1,0 +1,26 @@
+{
+  "station_rows": 2454,
+  "unique_station_ids": 2454,
+  "charger_box_rows": 3767,
+  "orphan_charger_station_ids": 0,
+  "source_total_chargers": 7593,
+  "source_total_connectors": 4665,
+  "station_col_count": 44,
+  "missing_coordinates": 0,
+  "source_provider_counts": {
+    "PLN / SPKLU network": 1607,
+    "Independent CPO": 470,
+    "Automaker / dealership": 351,
+    "Other / unknown": 26
+  },
+  "matched_bps_provinces": 34,
+  "site_to_stock_ratio_limit": "2026 charging sites / 2025 all passenger registered cars, not per-BEV capacity",
+  "auto2000_name_matched_rows": 28,
+  "auto2000_median_non_auto_nearest_haversine_km": 0.3228190793294573,
+  "auto2000_with_other_charger_site_within5km": 27,
+  "distance_comparisons_computed": 6019662,
+  "distance_comparisons_are_derived_not_observations": true,
+  "source_road_distance_missing": 0,
+  "source_road_distance_max_km": 564.06,
+  "source_coordinates_flags": 17
+}

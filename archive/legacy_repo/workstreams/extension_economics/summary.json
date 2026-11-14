@@ -1,0 +1,42 @@
+{
+  "generated_utc": "2026-11-11T04:17:58.851851+00:00",
+  "prespecified_questions": 7,
+  "focused_source_checks": 11,
+  "source_ownership_clusters": 1,
+  "program_comparison_rows": 5,
+  "dated_service_estimate_rows": 26,
+  "models_with_four_paid_estimate_rows": 3,
+  "constructed_unit_state_rows": 80,
+  "constructed_aggregate_states": 4,
+  "commercial_mechanisms": 14,
+  "checks": 19,
+  "failed_checks": 0,
+  "forecast_or_causal_uplift_estimates": 0,
+  "input_manifest": [
+    {
+      "path": "auto2000_run/workstreams/extension_economics/PRE_SPEC.md",
+      "bytes": 5248,
+      "sha256": "c4128356e97165e2c9c54df72c0a05e164b8a11aff90595d6acc701b24c35b5d"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_economics/source_checks.json",
+      "bytes": 9461,
+      "sha256": "1f7e1397059e8cefc50424fd3103f3470e900b522b067299dd25a7282676228b"
+    },
+    {
+      "path": "auto2000_run/workstreams/extension_journeys/service_estimates_extension.csv",
+      "bytes": 5891,
+      "sha256": "2cd65a64a11364c7b8978cce5fbe5b9e8e2036f0469993c647986f9f1fb451df"
+    },
+    {
+      "path": "auto2000_run/workstreams/friend_capabilities/numeric_observations.json",
+      "bytes": 5943,
+      "sha256": "8f36a7dda3676d1ad9980b6449f997d62ec1447705176689d8ca160d092dcf7f"
+    },
+    {
+      "path": "auto2000_run/workstreams/journeys/tcare_observed_costs.csv",
+      "bytes": 819,
+      "sha256": "2f8140d58d6a407bda5a264491cf01505f55ee94fe6219e14705e56658ca1280"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "market": "Malang",
+  "bbox": [
+    112.5,
+    -8.08,
+    112.75,
+    -7.85
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:58:08.114911+00:00",
+  "status": "success",
+  "source_all_place_rows": 34485,
+  "automotive_candidate_rows": 1271,
+  "sha256": "3878bad92fe6276dd79a0aa52bba52da44e689f54bdb2715b569e1bfbbc6b5ac",
+  "seconds": 18.74
+}

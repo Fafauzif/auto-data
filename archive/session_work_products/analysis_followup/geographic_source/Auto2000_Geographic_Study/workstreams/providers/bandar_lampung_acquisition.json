@@ -1,0 +1,16 @@
+{
+  "market": "Bandar Lampung",
+  "bbox": [
+    105.12,
+    -5.55,
+    105.4,
+    -5.28
+  ],
+  "release": "2026-10-21.0",
+  "retrieved_utc": "2026-11-14T10:56:56.836793+00:00",
+  "status": "success",
+  "source_all_place_rows": 15650,
+  "automotive_candidate_rows": 1089,
+  "sha256": "d5d4b65e85086f2205ac16f6a8897099e7b0e04cfa224ce8b2d4a32565a227dc",
+  "seconds": 19.18
+}

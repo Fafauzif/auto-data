@@ -1,0 +1,61 @@
+market,id,name,primary_category,confidence,explicit_car_name,ambiguous_motor_name,capability_status
+Jabodetabek,9a5783e1-8ece-45ce-a0ea-6ca0944fc421,Castrol - Bike Point,oil_change_station,0.9924999999999999,False,False,Unverified for Toyota model and specific job
+Jabodetabek,d6c7cd03-4798-4d9f-b143-f496983491b1,Panca per spring,automotive_service,0.8874983787536621,False,False,Unverified for Toyota model and specific job
+Jabodetabek,5bacb83b-502c-4b40-8050-b1666f473ab6,"Pt Ito Seisakusho Armada,Bekasi",automotive_repair,0.729123592376709,False,False,Unverified for Toyota model and specific job
+Surabaya,3ed17390-b65a-45a4-80ad-f57be265dd64,Mbs Sidoarjo,automotive_repair,0.7737566828727722,False,False,Unverified for Toyota model and specific job
+Jabodetabek,9bce0b0b-8445-497d-a3fa-7dad085f30c5,TJM AUTO CARE TANGSEL,automotive_service,0.8835862345993519,False,False,Unverified for Toyota model and specific job
+Jabodetabek,4ab69679-4492-4c2c-b2dd-6ec359e9a745,Asco Motor,automotive_repair,0.7396905422210693,False,True,Unverified for Toyota model and specific job
+Bandung,2555c2a4-7685-4656-966c-66917b8a1cfe,Bengkel Panaitan Power Steering,automotive_repair,0.9719576835632324,False,False,Unverified for Toyota model and specific job
+Jabodetabek,6a0f7a06-333a-4dbe-9601-2586de4bccd0,Bengkel Mobil Surya Motor,automotive_service,0.7398313879966736,True,True,Unverified for Toyota model and specific job
+Jabodetabek,d7322aba-439d-4bbf-881a-43ecdfb5e5ac,Klinik Land Rover,automotive_repair,0.8403997421264648,False,False,Unverified for Toyota model and specific job
+Bandar Lampung,31c3809d-d6ad-444f-8109-dded222b66cf,UB Motor,automotive_repair,0.8048208355903625,False,True,Unverified for Toyota model and specific job
+Medan,ee0f3b60-329f-44b7-994f-64fbfa675604,Bengkel las MTB -sudar knalpot,automotive_repair,0.8548632264137268,False,False,Unverified for Toyota model and specific job
+Jabodetabek,66fb12ce-d0c9-42dc-8e4f-b6e2b889e354,Dandanmobil Car Servis & Variasi Mobil,automotive_repair,0.77,True,False,Unverified for Toyota model and specific job
+Medan,1ccfd9ef-6bd5-4146-885b-1993e081337a,Bengkel Mandiri,automotive_repair,0.8137281537055969,False,False,Unverified for Toyota model and specific job
+Bandung,dededc9f-78ff-49c8-a224-43fb76431164,Bonti Car Specialist,automotive_repair,0.9403805136680603,True,False,Unverified for Toyota model and specific job
+Jabodetabek,5690692b-3185-4d46-8a0e-2c6b15570abd,Al Fatih motor,automotive_service,0.9194194078445435,False,True,Unverified for Toyota model and specific job
+Jabodetabek,cae75895-e169-4259-8890-e75f76a77eac,Irfan Busa Helm,automotive_service,0.9517639875411987,False,False,Unverified for Toyota model and specific job
+Cirebon,b655ccd3-2cf6-45d0-8d94-370be9a8401e,Bengkel Mobil Injeksi Common Rail Pak Narto,automotive_repair,0.9139742255210876,True,False,Unverified for Toyota model and specific job
+Palembang,dca8d190-8ed3-4387-aed8-8cdeac94a036,Ammi Bengkel,automotive_repair,0.732084333896637,False,False,Unverified for Toyota model and specific job
+Jabodetabek,fbda389a-feda-4f1a-ab41-fae9b14c5665,Garasi Nicz,automotive_repair,0.7107542157173157,False,False,Unverified for Toyota model and specific job
+Pekanbaru,40c8ef92-8745-4cf0-a1a6-d58e68c20dc1,MZR Auto Service,automotive_repair,0.7024208307266235,False,False,Unverified for Toyota model and specific job
+Medan,989a2ee6-b2f4-4442-9210-08023c17d88f,Lp3ti Medan,automotive_repair,0.7547253966331482,False,False,Unverified for Toyota model and specific job
+Bandung,f1134f88-840f-4366-95b9-7a8d0807b0ce,Bengkel Olangan,automotive_repair,0.7553291320800781,False,False,Unverified for Toyota model and specific job
+Jabodetabek,4a412264-5ff8-4643-aa65-f78eb22c3e9f,Mobil Car Care,automotive_repair,0.77,True,False,Unverified for Toyota model and specific job
+Bandar Lampung,4c3f575b-8232-4e05-879c-7653938f1d49,Eldee One Stop Service,automotive_repair,0.9167071968317032,False,False,Unverified for Toyota model and specific job
+Bandung,936872b1-7249-40d4-a364-5a2483977af4,Bengkel RS Auto Cimahi,automotive_repair,0.9283649325370789,False,False,Unverified for Toyota model and specific job
+Medan,0ea0a1e4-cad5-418a-afc1-d7d3764c5f0c,Mobil Car Care,automotive_repair,0.77,True,False,Unverified for Toyota model and specific job
+Surabaya,89fbd182-8827-434d-9fab-516a39b6a50c,Toko Sakura Krian,automotive_repair,0.7821345329284668,False,False,Unverified for Toyota model and specific job
+Surabaya,b2ba3d41-1db5-4cdf-99ae-f804a4f8b4b9,Bengkel Spesialis Kaki Kaki Dan Power Steering Mobil Surabaya,automotive_repair,0.9636609554290771,True,False,Unverified for Toyota model and specific job
+Jabodetabek,0760729a-417a-4792-a2a4-f74b1d854aa7,kudus motor,automotive_repair,0.8675743937492371,False,True,Unverified for Toyota model and specific job
+Malang,f8cefb34-4e04-484f-aa57-a16dba08edf2,Karoseri Hartono Putra,automotive_repair,0.8049237132072449,False,False,Unverified for Toyota model and specific job
+Pekanbaru,3e83e0d9-9b57-4026-baf2-821efc9d7f9f,Sehat Diesel,automotive_repair,0.7724109292030334,False,False,Unverified for Toyota model and specific job
+Jabodetabek,0df5c5ad-3b3d-4c68-80d1-2dd5894c9b4c,Taman Harapan Baru thb Cluster Nirwana,automotive_repair,0.7882823348045349,False,False,Unverified for Toyota model and specific job
+Jabodetabek,42456dfe-c1ce-475a-b515-aa9c93e180e7,diq124_mxshop,automotive_repair,0.7104487419128418,False,False,Unverified for Toyota model and specific job
+Jabodetabek,d0adcb41-2053-4b0c-bd45-10806bf8deba,Fuchs Indonesia PT. Arrow Asia Indonesia,automotive_repair,0.872732400894165,False,False,Unverified for Toyota model and specific job
+Jabodetabek,f2461636-7155-4413-8fa4-16c2195546aa,Lumens Ceramic Paint Protection System,automotive_service,0.834536075592041,False,False,Unverified for Toyota model and specific job
+Jabodetabek,2328c693-a34d-4c91-a2de-aafbccbbb075,Dokter Mobil Bekasi,automotive_repair,0.9344609975814819,True,False,Unverified for Toyota model and specific job
+Surabaya,59c5f6f6-9924-445c-bbce-5fd97b380939,Bengkel sahabat motor keboan sikep,automotive_service,0.879929780960083,False,True,Unverified for Toyota model and specific job
+Jabodetabek,4d1e51ec-48eb-4d8c-8910-9d6ceff3a6e6,5A Auto Service,automotive_repair,0.9642916917800903,False,False,Unverified for Toyota model and specific job
+Jabodetabek,d2b00c08-7541-4643-8a45-2553856b9366,3M Center Setu,automotive_repair,0.7158723473548889,False,False,Unverified for Toyota model and specific job
+Jabodetabek,1c3e791b-22d3-4ef5-8780-885ed299dcc1,Bengkel Mobil Wisun Motor,automotive_repair,0.9119598269462585,True,True,Unverified for Toyota model and specific job
+Jabodetabek,543bdf91-4664-4141-af68-c93058ce8cf0,Pasar Patra,automotive_service,0.7305310964584351,False,False,Unverified for Toyota model and specific job
+Surabaya,24a7b652-ac3b-4ba7-a08c-f940de298c86,Mobil Car Care,automotive_repair,0.77,True,False,Unverified for Toyota model and specific job
+Medan,38611e93-ba18-4501-906b-ac66f4489926,Mobil Car Care - Bama Store Medan,automotive_repair,0.77,True,False,Unverified for Toyota model and specific job
+Bandar Lampung,f0e7fa23-024c-4cd8-97e6-28d0106b8bc6,Bengkel Mobil Ganesha Auto Service ( Gas Car ),automotive_repair,0.7228543162345886,True,False,Unverified for Toyota model and specific job
+Bandung,7dae0c5b-8971-4470-b7b1-42f982109602,Bengkel Bubut Danit,automotive_repair,0.7518043518066406,False,False,Unverified for Toyota model and specific job
+Medan,f282b06a-2a12-4bbc-9a74-e3f3953d1f37,Rondang Auto Service,automotive_repair,0.8922240734100342,False,False,Unverified for Toyota model and specific job
+Jabodetabek,8478255f-ee10-4d30-85ce-c55d889ded65,Bengkel takutic,automotive_repair,0.7463769912719727,False,False,Unverified for Toyota model and specific job
+Jabodetabek,bd0092c1-c5fb-49cf-a3a0-e0f58101e428,Goryp Paintwork,automotive_repair,0.9603726267814636,False,False,Unverified for Toyota model and specific job
+Jabodetabek,41f0cdc2-e80b-4002-a62a-785a257c416d,R2 Rama Motor,automotive_repair,0.7857024669647217,False,True,Unverified for Toyota model and specific job
+Surabaya,a6653a5f-e8e8-4a98-8a76-14d1fbd8a093,Dwi Putra Motor,automotive_repair,0.7285533547401428,False,True,Unverified for Toyota model and specific job
+Jabodetabek,5cce70d9-25cd-454d-84b4-9c3095cc7809,Pelita Motor,automotive_service,0.85,False,True,Unverified for Toyota model and specific job
+Jabodetabek,cb637efe-d8dc-4a5d-8389-31f169c56db5,OlavPaint,automotive_repair,0.8295897841453552,False,False,Unverified for Toyota model and specific job
+Surabaya,88b4e3f6-e27f-4092-a876-2bc641b20dd4,Auto Revo PDR,automotive_repair,0.77,False,False,Unverified for Toyota model and specific job
+Jabodetabek,b9fbb6e8-8c3c-46cc-9fab-2ef93a81f53d,officialhondabekasi,automotive_service,0.8357645273208618,False,False,Unverified for Toyota model and specific job
+Jabodetabek,31ce7182-0fe1-44bc-a4f8-636755f754e8,Buanasakti Aneka Motor,automotive_repair,0.9854277968406677,False,True,Unverified for Toyota model and specific job
+Jabodetabek,f90971f0-5454-42f8-98b8-e1ff69a43887,Bengkel Malam Bogor Nightowl Emergency Service,automotive_repair,0.7924250364303589,False,False,Unverified for Toyota model and specific job
+Cirebon,18af9032-34ad-4b94-a0d3-138e2c79444c,Bengkel Mobil Ilham,automotive_service,0.7306643128395081,True,False,Unverified for Toyota model and specific job
+Palembang,8f05f0a2-b34a-41c4-b38f-e3225f2b2f34,XAVOR,automotive_repair,0.7862984538078308,False,False,Unverified for Toyota model and specific job
+Jabodetabek,f5649c17-5153-4fad-b319-5b18b765a4d4,Subur 68,automotive_repair,0.7405689358711243,False,False,Unverified for Toyota model and specific job
+Pekanbaru,bf490a1c-a0a7-49f3-abe4-6920abcfe74a,Mekanik mobil on google,automotive_repair,0.8421868681907654,True,False,Unverified for Toyota model and specific job

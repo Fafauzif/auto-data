@@ -1,0 +1,9 @@
+evidence_id,job,scope,documented_claim,published_price,published_duration,source_ids,limitations
+SV01,Oil and oil-filter replacement,OtoXpert network,"Advertised package includes engine oil, oil gasket and oil filter",from IDR299000,approximately30min advertised,CX06,"No model-specific oil volume/grade, outlet stock, final quote or available slot established"
+SV02,Brake work,OtoXpert network,Toyota advertises brake services at OtoXpert,,,CX07,"Brake-pad-only specification, axle, fitment, price, stock and outlet capability unconfirmed"
+SV03,Oil filter parts,T-OPT catalogue,Oil filter product category and fitment search exist,,,CX08,Catalogue existence not actual outlet stock or accepted fitment
+SV04,Brake pad parts,T-OPT catalogue,Brake pad product category exists,,,CX08,"Model/variant and axle-specific fitment, stock and installed price not established"
+SV05,Paid scheduled service,T-CARE XTRA,Services8–11 customer-paid; programme may extend warranty to total6years/160000km,,,CX09,Warranty status and payer are different variables; eligibility depends on vehicle/history/odometer
+SV06,Hybrid Health Check,Toyota authorised network,Eligible HEV/BEV programme battery check during scheduled service; certificate provided,programme-eligible check advertised free,,CX10;CX11,No branch-by-job certification or live diagnostic capacity verified; programme text age wording needs eligibility confirmation
+SV07,General xEV readiness,Auto2000 network,Company states hybrid-technician readiness and support for Toyota electrified products sold in Indonesia,,,CX12,Corporate claim not branch-specific high-voltage job accreditation
+SV08,Economical service routing,OtoXpert operator-specific,Directory identifies Auto2000 and other Toyota-dealer operators,,,CX02;CX03;CX04;CX05,Toyota network retention does not automatically equal Auto2000 contribution

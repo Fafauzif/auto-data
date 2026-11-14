@@ -1,0 +1,5 @@
+market,endpoints_n,assigned_origins_n,oil_tail_before_owned_network_n,oil_tail_after_owned_network_n,unique_15min_service_origins_n,paired_origins_n,removed_tail_n,share_of_pooled_residual_model_origins
+Surabaya,11,59,10,6,2,59,4,0.3
+Medan,7,78,3,0,14,78,3,0.0
+Bandung,8,78,17,14,6,78,3,0.7
+Palembang,3,69,9,0,10,69,9,0.0

@@ -1,0 +1,685 @@
+{
+  "artifact_path": "/workspace/scratch/70444ed5f561/auto2000_run/output/pdf/Auto2000_Research_Findings.pdf",
+  "sha256": "d804c31f79b278a4d5fe9992d840ef46a9741df4e33569071f2119f251125c18",
+  "expected_sha256": "d804c31f79b278a4d5fe9992d840ef46a9741df4e33569071f2119f251125c18",
+  "exact_hash_matches": true,
+  "pdf_page_count": 80,
+  "assigned_pages": [
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "method": "AI visual inspection of all six four-page contacts at supplied96dpi; eight dense/suspect pages opened individually; PDF text/coordinate and pixel checks supplement visual review. No human review claimed.",
+  "overall": "PASS_WITH_MINOR_PAGINATION_NOTES",
+  "blocking_findings": [],
+  "minor_findings": [
+    {
+      "id": "P57-80-M01",
+      "pages": [
+        71,
+        72
+      ],
+      "finding": "The final Evidence line of SOL21 appears alone at the top of page72, before the next family heading.",
+      "severity": "minor",
+      "impact": "Readable and complete, but separated from its preceding card.",
+      "suggestion": "Optional pagination polish: keep the final dependency/evidence pair with preceding card text."
+    },
+    {
+      "id": "P57-80-M02",
+      "pages": [
+        78,
+        79
+      ],
+      "finding": "The last line of the website/journey-limits paragraph continues alone at the top of page79 before the next heading.",
+      "severity": "minor",
+      "impact": "No lost words or ambiguity; less polished pagination.",
+      "suggestion": "Optional widow/orphan control for the paragraph."
+    },
+    {
+      "id": "P57-80-M03",
+      "pages": [
+        65,
+        66,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "finding": "Several long option cards continue across a page boundary without an explicit continued label.",
+      "severity": "minor",
+      "impact": "Headings and body are readable and all eight expected fields are present; no truncation observed.",
+      "suggestion": "Optional keep-together/continuation styling if a new layout pass is undertaken."
+    }
+  ],
+  "resolved_false_alarms": [
+    {
+      "finding": "Initial viewer impression of missing running headers/top margins on continuation pages.",
+      "resolution": "Not a PDF defect. Fresh render, source text coordinates and image row pixels show identical running-header presence and expected body start; parent notified of correction."
+    }
+  ],
+  "coverage": [
+    {
+      "page": 57,
+      "contact_sheet": 15,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB03-IB04",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 58,
+      "contact_sheet": 15,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB05-IB06",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 59,
+      "contact_sheet": 15,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB07-IB08",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 60,
+      "contact_sheet": 15,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB09-IB10",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 61,
+      "contact_sheet": 16,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB11-IB12",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 62,
+      "contact_sheet": 16,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB13-IB14",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 63,
+      "contact_sheet": 16,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "IB15-IB16",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 64,
+      "contact_sheet": 16,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "Menu introduction; SOL01-SOL02",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 65,
+      "contact_sheet": 17,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL03-SOL05",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 66,
+      "contact_sheet": 17,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "SOL05 continuation; SOL06-SOL08",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 67,
+      "contact_sheet": 17,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL08 continuation; SOL09-SOL10",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 68,
+      "contact_sheet": 17,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL11-SOL13",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 69,
+      "contact_sheet": 18,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL14-SOL16",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 70,
+      "contact_sheet": 18,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL16 continuation; SOL17-SOL18",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 71,
+      "contact_sheet": 18,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL19-SOL21",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 72,
+      "contact_sheet": 18,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "SOL21 evidence; SOL22-SOL24",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 73,
+      "contact_sheet": 19,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "SOL24 continuation; SOL25-SOL26",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 74,
+      "contact_sheet": 19,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "SOL27",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 75,
+      "contact_sheet": 19,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "Directory map and dataset grain",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 76,
+      "contact_sheet": 19,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "Dataset grain and attribution continuation",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 77,
+      "contact_sheet": 20,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "Charging/vehicle table",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 78,
+      "contact_sheet": 20,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "Customer evidence table and website/journey limits",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 79,
+      "contact_sheet": 20,
+      "contact_inspected": true,
+      "full_page_inspected": true,
+      "content": "Traceability, reproduction and archive/privacy",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    },
+    {
+      "page": 80,
+      "contact_sheet": 20,
+      "contact_inspected": true,
+      "full_page_inspected": false,
+      "content": "Attribution, QA boundary and continuation context",
+      "blocking_clipping_overlap_or_truncation_observed": false,
+      "header_text_present": true
+    }
+  ],
+  "option_completeness": [
+    {
+      "solution_id": "SOL-01",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-02",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-03",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-04",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-05",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-06",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-07",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-08",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-09",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-10",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-11",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-12",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-13",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-14",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-15",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-16",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-17",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-18",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-19",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-20",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-21",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-22",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-23",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-24",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-25",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-26",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    },
+    {
+      "solution_id": "SOL-27",
+      "required_readable_fields_present": {
+        "Customer decision.": true,
+        "Existing baseline.": true,
+        "Possible addition.": true,
+        "Rival and failure condition.": true,
+        "Decision-owner tradeoff.": true,
+        "Commercial test.": true,
+        "Dependency.": true,
+        "Evidence.": true
+      },
+      "all_fields_present": true
+    }
+  ],
+  "all_27_option_ids_in_order": true,
+  "all_27_expected_fields_present": true,
+  "human_validation": false,
+  "pdf_modified": false
+}

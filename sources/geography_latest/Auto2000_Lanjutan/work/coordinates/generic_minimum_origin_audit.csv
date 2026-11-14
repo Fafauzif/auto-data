@@ -1,0 +1,285 @@
+market,origin_id,generic_winner_id,name,category,source_confidence,public_audit_type,source_url,source_locator,remove_in_confirmed_noncar_sensitivity
+Surabaya,g00_00,cce115f0-192a-4bf7-aa06-7bd91ca599e7,Mardiono Home Service,automotive_repair,0.7249343991279602,not task-verified in this audit,,,False
+Surabaya,g01_00,867dddab-2c65-4219-84f3-eb9b4d21fc4a,Calista abadi motor,automotive_service,0.9429255723953247,not task-verified in this audit,,,False
+Surabaya,g02_00,867dddab-2c65-4219-84f3-eb9b4d21fc4a,Calista abadi motor,automotive_service,0.9429255723953247,not task-verified in this audit,,,False
+Surabaya,g03_00,ebd72c63-0290-465d-8e10-26a7ae17c28a,Bengkel Aneka Motor Service,automotive_repair,0.8407720327377319,not task-verified in this audit,,,False
+Surabaya,g04_00,71c5219e-ac92-46c2-85d4-3f2ce0d4933f,Bengkel Mobil Car Perfect,automotive_repair,0.9193120002746582,not task-verified in this audit,,,False
+Surabaya,g05_00,2597e8d8-eb68-4160-95fa-b6400ee6653b,OJ Shock,automotive_repair,0.8288877010345459,not task-verified in this audit,,,False
+Surabaya,g06_00,d9057d3d-5bb7-4920-a446-9911a42760c2,FiTspeed #Jetvario,automotive_service,0.9003495573997498,not task-verified in this audit,,,False
+Surabaya,g07_00,63d9cdea-b1bd-4ec1-962e-64e3fb6532a5,Pondok Candra Ban,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g00_01,6543727f-2f97-4a47-9402-02b2e4a2a14d,Win Auto Body Repair,automotive_repair,0.800240695476532,not task-verified in this audit,,,False
+Surabaya,g02_01,ff4cc572-c2c1-4f62-8ccf-fc02761c4b0f,Win Auto Body Repair,automotive_repair,0.800240695476532,not task-verified in this audit,,,False
+Surabaya,g03_01,bc3af762-1f2d-4058-9150-588ad5a47633,Cv bejo Mandiri motor,automotive_repair,0.7569575309753418,not task-verified in this audit,,,False
+Surabaya,g04_01,feb0429f-9cb6-415a-a73f-8c4a29d077fe,Warrock engineering,automotive_repair,0.9755955934524536,not task-verified in this audit,,,False
+Surabaya,g05_01,ed388911-1a27-4667-8ab1-02bd103d7336,Bengkel Mobil Sumber Cahaya,automotive_repair,0.9212538003921509,not task-verified in this audit,,,False
+Surabaya,g06_01,63d9cdea-b1bd-4ec1-962e-64e3fb6532a5,Pondok Candra Ban,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g07_01,63d9cdea-b1bd-4ec1-962e-64e3fb6532a5,Pondok Candra Ban,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g00_02,890fc45e-a8c1-4968-a2ce-03642ca20505,Bengkel Fortune Auto Care,automotive_repair,0.9618548154830933,not task-verified in this audit,,,False
+Surabaya,g01_02,933ccae3-fbe1-4ca9-b6e0-45981743eccc,Prambanan Auto Service,automotive_service,0.9285237789154053,not task-verified in this audit,,,False
+Surabaya,g02_02,8e195cee-2c3a-4876-8204-2ed0aa613b73,"Bengkel Mobil Mardiono Surabaya,Spesalis Mesin,Understeel,Ac Mobil,Matic,Ganti Oli,Service Berkala,Towing Terdekat.",automotive_repair,0.9290015697479248,not task-verified in this audit,,,False
+Surabaya,g03_02,2f2ffd58-bde6-4b81-9d6c-5da7fcb8d9ef,Denox Carbon Painting,automotive_service,0.8910552263259888,not task-verified in this audit,,,False
+Surabaya,g04_02,66118137-44aa-40ae-b1a6-56b3b2ae617f,hino.ranger.surabaya,automotive_service,0.8283979892730713,not task-verified in this audit,,,False
+Surabaya,g05_02,0f571718-f511-488f-8cec-934c311f7818,B&S Profesional Car Maintenance,automotive_repair,0.9425725340843201,not task-verified in this audit,,,False
+Surabaya,g06_02,439bcab9-d3b4-484b-870c-53a33769b255,Bengkel mobil spesialis understeel Roni Jaya,automotive_repair,0.7522410154342651,not task-verified in this audit,,,False
+Surabaya,g07_02,f1d5a129-1798-4108-8c09-4b95d12efdc6,Lontong Balap by Banana Speed,automotive_repair,0.7996214628219604,not task-verified in this audit,,,False
+Surabaya,g00_03,388615b7-3aea-43bc-8b2d-776a96e8ec45,Cheap N Clean Autocare Centre,automotive_repair,0.9662957787513733,not task-verified in this audit,,,False
+Surabaya,g01_03,933ccae3-fbe1-4ca9-b6e0-45981743eccc,Prambanan Auto Service,automotive_service,0.9285237789154053,not task-verified in this audit,,,False
+Surabaya,g02_03,17b85f80-1276-49ac-829d-481c08c731f0,Mobil Car Care - New Grand,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g03_03,a541a80a-acdc-4160-9c15-3e3fbd398e2d,Kaca Mobil Kacamura,automotive_repair,0.8699412941932678,not task-verified in this audit,,,False
+Surabaya,g04_03,710594c8-725a-45bf-9927-07cdb020b245,SINAR ABADI Variasi & Audio System,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g05_03,f3611feb-db26-4431-9c30-79e2c95194a2,Garasi Velg Surabaya Toko Velg Mobil Surabaya,automotive_repair,0.9684721827507019,not task-verified in this audit,,,False
+Surabaya,g06_03,ec792378-3510-4afb-a94c-e0992b670b3b,Bengkel GGS,automotive_repair,0.9105931520462036,not task-verified in this audit,,,False
+Surabaya,g07_03,6582ed71-f700-4200-a047-d1c16df54969,Bengkel Mobil Panggilan,automotive_repair,0.7105835676193237,not task-verified in this audit,,,False
+Surabaya,g00_04,388615b7-3aea-43bc-8b2d-776a96e8ec45,Cheap N Clean Autocare Centre,automotive_repair,0.9662957787513733,not task-verified in this audit,,,False
+Surabaya,g01_04,1dca61b3-425c-4af6-a0fa-a19bf3421ad7,DSS-DENSO NEO Autokool,automotive_repair,0.9646458029747009,not task-verified in this audit,,,False
+Surabaya,g02_04,b0aecd65-3040-4525-82f3-5e814fa8ab4f,Astra Peugeot Jawa Timur,automotive_service,0.7143373489379883,not task-verified in this audit,,,False
+Surabaya,g03_04,247a8787-0465-449c-95ce-fe1fb8b40ed5,Ivan jaya motor,automotive_repair,0.9697656631469727,not task-verified in this audit,,,False
+Surabaya,g04_04,3dcc8792-f00a-4ef0-b5c8-29f9bcd6d4d8,PT. Surya Timur Sakti Jatim,automotive_repair,0.7425782680511475,not task-verified in this audit,,,False
+Surabaya,g05_04,df0b762e-3989-417b-a23d-bf804edd82e5,"Kharisma Sentosa, PT",automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g06_04,44a5fd69-cf49-47a1-ba9d-bdce17a00a84,EV ALVA Surabaya ,automotive_repair,0.8280777335166931,electric motorcycle centre,https://www.alvaauto.com/blog/pakai-motor-listrik-alva-cervo-di-surabaya-gak-takut-kemalingan/,OfficialALVA article matches KertajayaIndah59 address; motorcycle centre notToyota oilservice,True
+Surabaya,g07_04,44a5fd69-cf49-47a1-ba9d-bdce17a00a84,EV ALVA Surabaya ,automotive_repair,0.8280777335166931,electric motorcycle centre,https://www.alvaauto.com/blog/pakai-motor-listrik-alva-cervo-di-surabaya-gak-takut-kemalingan/,OfficialALVA article matches KertajayaIndah59 address; motorcycle centre notToyota oilservice,True
+Surabaya,g00_05,bcc27cd2-8a03-4b49-9e59-6afefd449181,Semanggi Speed shop,automotive_repair,0.9007541537284851,not task-verified in this audit,,,False
+Surabaya,g01_05,bb91d5c8-bfb8-40d7-a7a1-ee6b22c9a0b8,Planet Ban,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g02_05,33474e24-cc88-493c-ab19-cf20b73b589c,HELI Forklift,automotive_repair,0.7458122372627258,not task-verified in this audit,,,False
+Surabaya,g03_05,fc631aed-541a-4beb-99f6-3779f1ec9262,Tidar 200 Motor,automotive_service,0.952380359172821,not task-verified in this audit,,,False
+Surabaya,g04_05,f0306ec4-7bdd-4e45-a4c6-747f12eb03d5,Scuto Surabaya Walikota,automotive_repair,0.8901962041854858,not task-verified in this audit,,,False
+Surabaya,g05_05,4a398147-df9e-4627-8ed2-7b552f7d094e,Dewa Detailing,automotive_service,0.7558221817016602,not task-verified in this audit,,,False
+Surabaya,g06_05,7d0d39f1-a9c2-46fa-ad3c-a8be6314791f,Yoong Motor Surabaya Utara,automotive_repair,0.7559881806373596,not task-verified in this audit,,,False
+Surabaya,g07_05,44a5fd69-cf49-47a1-ba9d-bdce17a00a84,EV ALVA Surabaya ,automotive_repair,0.8280777335166931,electric motorcycle centre,https://www.alvaauto.com/blog/pakai-motor-listrik-alva-cervo-di-surabaya-gak-takut-kemalingan/,OfficialALVA article matches KertajayaIndah59 address; motorcycle centre notToyota oilservice,True
+Surabaya,g01_06,f87424e8-e399-41a4-988e-8b5eb15239ac,Bengkel dynamo margojoyo,automotive_service,0.7338716387748718,not task-verified in this audit,,,False
+Surabaya,g02_06,d3a0bdd3-9b21-4277-9bc1-642a4046f007,Hidayat Motor,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g03_06,755d3809-c693-4382-bb77-5ad8bb211bad,PT. Hartono Raya Motor,automotive_repair,0.8,not task-verified in this audit,,,False
+Surabaya,g04_06,87dcba64-72d9-4128-9435-27d185fe5524,Akimurah.com - Toko Aki,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g05_06,daca7b7b-bb1b-4fe0-8dd6-4e87b579cd6f,Iqbal X-Factor,automotive_repair,0.7171834111213684,not task-verified in this audit,,,False
+Surabaya,g06_06,c51ff356-cdc9-489f-8eaf-7300faa2773d,99 Surabaya,automotive_service,0.8653669953346252,not task-verified in this audit,,,False
+Surabaya,g00_07,d26fd985-1b32-4344-9ddb-f018dae947ae,Bengkel YZR Concept,automotive_repair,0.7283464670181274,not task-verified in this audit,,,False
+Surabaya,g03_07,4e30b4fe-072d-4be5-91fe-c94a1be8995e,Prabowo BC Automotif,automotive_service,0.704805314540863,not task-verified in this audit,,,False
+Surabaya,g04_07,b4072e5d-7211-4dca-b588-de9f4a7c3c13,UOM Bengkel Hass,automotive_repair,0.9200603365898132,not task-verified in this audit,,,False
+Surabaya,g05_07,62f03872-39a5-4196-8a32-57fad7090cb4,Maju Jaya Enginering,automotive_repair,0.9506288170814514,not task-verified in this audit,,,False
+Surabaya,g06_07,8ccff615-4440-4618-994e-4e24d1fc992c,Mobil Car Care,automotive_repair,0.77,not task-verified in this audit,,,False
+Surabaya,g00_08,d26fd985-1b32-4344-9ddb-f018dae947ae,Bengkel YZR Concept,automotive_repair,0.7283464670181274,not task-verified in this audit,,,False
+Medan,g00_00,14dbaa63-a3b1-4e32-ad1d-ee7b25d99f28,Manalu Motor,automotive_repair,0.7067902684211731,not task-verified in this audit,,,False
+Medan,g01_00,14dbaa63-a3b1-4e32-ad1d-ee7b25d99f28,Manalu Motor,automotive_repair,0.7067902684211731,not task-verified in this audit,,,False
+Medan,g02_00,7b68bf5e-5b22-434c-8aa3-319a159b255f,Bengkel mobil Air Molek,automotive_service,0.8182491064071655,not task-verified in this audit,,,False
+Medan,g03_00,f02cd6c7-dc01-41b3-ba5b-862498755ffa,Arya Auto Service,automotive_repair,0.8620923757553101,not task-verified in this audit,,,False
+Medan,g04_00,dcea694b-7050-4c4e-888e-7978ac8218a9,Devar Box Shop,automotive_service,0.9123433232307434,not task-verified in this audit,,,False
+Medan,g05_00,38a6705e-4887-4bfe-8d13-545e3f3d1917,TJS Motor,automotive_repair,0.7414627075195312,not task-verified in this audit,,,False
+Medan,g06_00,450d1b87-fba6-445f-b1ae-0ee5f58730b9,Medan Oriental Stars,automotive_repair,0.8954879641532898,not task-verified in this audit,,,False
+Medan,g07_00,9eb19d6c-7200-4891-85b9-ea0f3df89393,UD Regar Ban Tamora Simpang Tol,automotive_repair,0.9450520277023315,not task-verified in this audit,,,False
+Medan,g08_00,9eb19d6c-7200-4891-85b9-ea0f3df89393,UD Regar Ban Tamora Simpang Tol,automotive_repair,0.9450520277023315,not task-verified in this audit,,,False
+Medan,g00_01,a70ef3f3-e115-4a7b-b4a8-96f8e027d845,Fbvm Medan,automotive_repair,0.8596401810646057,not task-verified in this audit,,,False
+Medan,g01_01,a70ef3f3-e115-4a7b-b4a8-96f8e027d845,Fbvm Medan,automotive_repair,0.8596401810646057,not task-verified in this audit,,,False
+Medan,g02_01,a70ef3f3-e115-4a7b-b4a8-96f8e027d845,Fbvm Medan,automotive_repair,0.8596401810646057,not task-verified in this audit,,,False
+Medan,g03_01,d91b46c5-9fe3-49cc-8eef-5459ed2c9c03,Prima Auto Care,automotive_repair,0.7843070030212402,not task-verified in this audit,,,False
+Medan,g04_01,b176d4ac-2c42-40dd-a8ba-cb79333e54df,Chrome Nickel Eva Ros,automotive_service,0.9458776712417603,not task-verified in this audit,,,False
+Medan,g05_01,38a6705e-4887-4bfe-8d13-545e3f3d1917,TJS Motor,automotive_repair,0.7414627075195312,not task-verified in this audit,,,False
+Medan,g06_01,450d1b87-fba6-445f-b1ae-0ee5f58730b9,Medan Oriental Stars,automotive_repair,0.8954879641532898,not task-verified in this audit,,,False
+Medan,g07_01,9eb19d6c-7200-4891-85b9-ea0f3df89393,UD Regar Ban Tamora Simpang Tol,automotive_repair,0.9450520277023315,not task-verified in this audit,,,False
+Medan,g08_01,9eb19d6c-7200-4891-85b9-ea0f3df89393,UD Regar Ban Tamora Simpang Tol,automotive_repair,0.9450520277023315,not task-verified in this audit,,,False
+Medan,g00_02,ef64a58f-a25e-4e46-a08a-08f66a0ba424,GS Autoworks,automotive_repair,0.8530322313308716,not task-verified in this audit,,,False
+Medan,g01_02,ec657601-ee62-4bcd-83ee-b6871f480640,Payung Auto Solution,automotive_repair,0.8167684674263,not task-verified in this audit,,,False
+Medan,g02_02,d52c3a78-f071-418e-af56-597e105f8b89,M2 Manroe Motor,automotive_repair,0.9552435874938965,not task-verified in this audit,,,False
+Medan,g03_02,8a40e7f5-3690-42cc-9f42-f40870bcbd57,Velg Mobil Threepiece,automotive_repair,0.8131395578384399,not task-verified in this audit,,,False
+Medan,g04_02,e6ff74dd-514a-476d-bf21-2d623590eebb,Rongsokan Jepang Custom,automotive_repair,0.7277424335479736,not task-verified in this audit,,,False
+Medan,g05_02,38a6705e-4887-4bfe-8d13-545e3f3d1917,TJS Motor,automotive_repair,0.7414627075195312,not task-verified in this audit,,,False
+Medan,g06_02,450d1b87-fba6-445f-b1ae-0ee5f58730b9,Medan Oriental Stars,automotive_repair,0.8954879641532898,not task-verified in this audit,,,False
+Medan,g07_02,c34fe4f8-d205-4ff5-8622-8df917b7522e,Bengkel Karoseri JAYA MAS,automotive_repair,0.7138150334358215,not task-verified in this audit,,,False
+Medan,g08_02,9eb19d6c-7200-4891-85b9-ea0f3df89393,UD Regar Ban Tamora Simpang Tol,automotive_repair,0.9450520277023315,not task-verified in this audit,,,False
+Medan,g00_03,5c3268cb-496c-4774-bb8b-390e6ee7bf03,Bengkel Fajar Servis - Workshop Car,automotive_repair,0.8757389783859253,not task-verified in this audit,,,False
+Medan,g01_03,6aa9e005-39ec-4691-8c02-beecb11115d4,Toko Velg HSR dan Ban Accelera,automotive_service,0.721530556678772,not task-verified in this audit,,,False
+Medan,g02_03,1ccfd9ef-6bd5-4146-885b-1993e081337a,Bengkel Mandiri,automotive_repair,0.8137281537055969,not task-verified in this audit,,,False
+Medan,g03_03,3cb127b1-9e81-4482-a4bd-8e6a51132450,Iskandar Muda Otomotif,automotive_repair,0.9548013806343079,not task-verified in this audit,,,False
+Medan,g04_03,7477d466-6dc1-4aab-b57b-26adb764503b,Mobil Car Care - Snabb,automotive_repair,0.77,not task-verified in this audit,,,False
+Medan,g05_03,43dfc118-f1c5-4449-a9e7-431070d1271f,Servis Dan Perbaikan Genset Medan,automotive_repair,0.8080376386642456,not task-verified in this audit,,,False
+Medan,g06_03,f25552d5-1e95-4d7a-91ae-2474b50bf067,girsang auto service,automotive_repair,0.9508777260780334,not task-verified in this audit,,,False
+Medan,g07_03,f25552d5-1e95-4d7a-91ae-2474b50bf067,girsang auto service,automotive_repair,0.9508777260780334,not task-verified in this audit,,,False
+Medan,g08_03,fafa4f95-ac4c-4075-b0be-048146ed510b,Arihta Motor Clinic,automotive_service,0.7727953195571899,not task-verified in this audit,,,False
+Medan,g00_04,b527df12-075b-4760-8bcc-7170c9796b70,Mobil Car Care - Rezeki Baru,automotive_repair,0.77,not task-verified in this audit,,,False
+Medan,g01_04,4a03b7c6-6849-497e-be32-a5c721d4ea63,Anugerah Lestari Mobil,automotive_repair,0.9027263522148132,not task-verified in this audit,,,False
+Medan,g02_04,d4d7c84f-860a-4f52-b83b-3f9053fe9aeb,Mobil Car Care - Pangeran Auto Care,oil_change_station,0.9439477598667145,not task-verified in this audit,,,False
+Medan,g03_04,9d6f859c-478c-4d44-ad91-d78c490eb0f8,Master Audio Concept,automotive_repair,0.7461605668067932,not task-verified in this audit,,,False
+Medan,g04_04,42a0135e-8db3-4e60-8c25-5b8af02f8dff,Canon Service Center Jl Raden Saleh,automotive_repair,0.7374625205993652,not task-verified in this audit,,,False
+Medan,g05_04,7f5167b0-6e17-466f-8ed8-58dce1a95730,Technics Auto Shop,automotive_repair,0.77,not task-verified in this audit,,,False
+Medan,g06_04,943097e6-e60e-463b-bbf3-94ddc4b890cf,Derek Medan Serasima mobil,automotive_service,0.8649202585220337,not task-verified in this audit,,,False
+Medan,g07_04,7d26e8fc-9623-4dfd-8ff3-3065bdc2a153,Medan Diesel Commonrail,automotive_repair,0.9120016694068909,not task-verified in this audit,,,False
+Medan,g08_04,fafa4f95-ac4c-4075-b0be-048146ed510b,Arihta Motor Clinic,automotive_service,0.7727953195571899,not task-verified in this audit,,,False
+Medan,g00_05,b527df12-075b-4760-8bcc-7170c9796b70,Mobil Car Care - Rezeki Baru,automotive_repair,0.77,not task-verified in this audit,,,False
+Medan,g01_05,74bf22bf-0f52-40e7-947f-0d363826e907,DBJ Knalpot,automotive_repair,0.9644942879676819,not task-verified in this audit,,,False
+Medan,g02_05,989a2ee6-b2f4-4442-9210-08023c17d88f,Lp3ti Medan,automotive_repair,0.7547253966331482,not task-verified in this audit,,,False
+Medan,g03_05,8a6fd673-cbd1-48a8-896b-3ef358cbcc3f,HFM Autotec medan,automotive_repair,0.891647219657898,not task-verified in this audit,,,False
+Medan,g04_05,9ec3434f-8311-4c97-9565-d00cd5d53062,Spec Racing,automotive_service,0.8708692064881325,not task-verified in this audit,,,False
+Medan,g05_05,d509a1df-d1eb-422a-930c-044dc829a5b0,Aseng Ketok,automotive_service,0.7693194150924683,not task-verified in this audit,,,False
+Medan,g06_05,80757a67-0b43-48c8-b765-e42bb14857f9,yudi8_8,automotive_repair,0.7200028300285339,not task-verified in this audit,,,False
+Medan,g07_05,fafa4f95-ac4c-4075-b0be-048146ed510b,Arihta Motor Clinic,automotive_service,0.7727953195571899,not task-verified in this audit,,,False
+Medan,g08_05,fafa4f95-ac4c-4075-b0be-048146ed510b,Arihta Motor Clinic,automotive_service,0.7727953195571899,not task-verified in this audit,,,False
+Medan,g00_06,abc609c6-0eea-4d53-afb4-243de480d39b,Bintang jaya motor,automotive_repair,0.7935812473297119,not task-verified in this audit,,,False
+Medan,g02_06,5400eae1-a562-4c57-8c01-31dfe3e8ba2c,Global Garage Service,automotive_repair,0.9059805274009705,not task-verified in this audit,,,False
+Medan,g03_06,5400eae1-a562-4c57-8c01-31dfe3e8ba2c,Global Garage Service,automotive_repair,0.9059805274009705,not task-verified in this audit,,,False
+Medan,g04_06,ad5655ef-e6b0-4c0b-b534-c715aa010fe6,Total Auto Clinic,automotive_repair,0.766237199306488,not task-verified in this audit,,,False
+Medan,g05_06,d88e71aa-c1d7-4348-bcef-22ba65839614,Mobil Car Care - Cemara Ban,automotive_repair,0.77,not task-verified in this audit,,,False
+Medan,g06_06,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g07_06,b6ea0c92-473d-499d-a51f-fd362342ee4e,Dewindo Ban,automotive_repair,0.7441077828407288,not task-verified in this audit,,,False
+Medan,g08_06,fafa4f95-ac4c-4075-b0be-048146ed510b,Arihta Motor Clinic,automotive_service,0.7727953195571899,not task-verified in this audit,,,False
+Medan,g00_07,abc609c6-0eea-4d53-afb4-243de480d39b,Bintang jaya motor,automotive_repair,0.7935812473297119,not task-verified in this audit,,,False
+Medan,g02_07,f7989eed-1a23-4d7c-8fd7-5ec959d235f0,Bengkel Alfascorpiimarelan,automotive_service,0.8929836750030518,not task-verified in this audit,,,False
+Medan,g03_07,5400eae1-a562-4c57-8c01-31dfe3e8ba2c,Global Garage Service,automotive_repair,0.9059805274009705,not task-verified in this audit,,,False
+Medan,g04_07,edbc1f7e-c470-4b36-b721-8bb771c3d01e,yamahabrayanmotor,automotive_service,0.8723498582839966,not task-verified in this audit,,,False
+Medan,g06_07,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g07_07,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g08_07,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g00_08,abc609c6-0eea-4d53-afb4-243de480d39b,Bintang jaya motor,automotive_repair,0.7935812473297119,not task-verified in this audit,,,False
+Medan,g01_08,a9754a76-7f06-4467-9584-51bc907072a0,Bengkel Alfascorpiimarelan,automotive_service,0.8929836750030518,not task-verified in this audit,,,False
+Medan,g02_08,f7989eed-1a23-4d7c-8fd7-5ec959d235f0,Bengkel Alfascorpiimarelan,automotive_service,0.8929836750030518,not task-verified in this audit,,,False
+Medan,g03_08,a9754a76-7f06-4467-9584-51bc907072a0,Bengkel Alfascorpiimarelan,automotive_service,0.8929836750030518,not task-verified in this audit,,,False
+Medan,g04_08,0f2e3558-e1e2-41e3-af03-99cee1998e59,Aprillia motor service,automotive_repair,0.8257579803466797,not task-verified in this audit,,,False
+Medan,g05_08,0f2e3558-e1e2-41e3-af03-99cee1998e59,Aprillia motor service,automotive_repair,0.8257579803466797,not task-verified in this audit,,,False
+Medan,g06_08,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g07_08,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Medan,g08_08,9577e587-631f-48cb-b617-80bce572c4f7,Workshop DMC,automotive_repair,0.9303569197654724,not task-verified in this audit,,,False
+Bandung,g00_00,f3f98cdf-1d0f-4ea4-ae81-8ec164b3099d,Oprecht Garage injection,automotive_service,0.8454011678695679,not task-verified in this audit,,,False
+Bandung,g01_00,2bf7913c-bb56-4eab-8ec3-75dfec2efa46,Mobil™ Car Care,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g02_00,4166ce83-bbad-4627-aae5-c12a1eef5c0d,Cv Mulya Jaya,automotive_repair,0.7200678586959839,not task-verified in this audit,,,False
+Bandung,g03_00,95e33fc5-f65e-4b64-8bec-d27ff61ce2ae,PT.New lie ling karoseri,automotive_service,0.7285910248756409,not task-verified in this audit,,,False
+Bandung,g04_00,78ca33d8-60de-4c66-8c89-2357263a172a,First Autowrap Bandung,automotive_repair,0.8690697550773621,not task-verified in this audit,,,False
+Bandung,g05_00,68bb914f-db28-4fb7-96ee-c187662351cf,Tuyienk Speed,automotive_repair,0.7726367712020874,not task-verified in this audit,,,False
+Bandung,g06_00,c91b9ee4-8493-4a11-9f43-3a6495a5e9ae,Mtr321 wheels & tyres,automotive_service,0.7123375535011292,not task-verified in this audit,,,False
+Bandung,g07_00,c3f88f95-92c2-4225-88c4-a497dc222d5e,gudang2stroke,automotive_service,0.7250075340270996,not task-verified in this audit,,,False
+Bandung,g00_01,7629ef9e-de54-43b5-89f4-3cc187c7cfc6,"Pataruman, Cipatik, Bandung Barat.",automotive_service,0.7837441563606262,not task-verified in this audit,,,False
+Bandung,g01_01,28221ae4-2bd8-4553-b0bd-1ae86e97d38c,Vps_auto,automotive_service,0.7245969176292419,not task-verified in this audit,,,False
+Bandung,g02_01,a0164d19-f9f3-4cbb-a7a8-80d516e56d71,gudang2stroke,automotive_service,0.7094306349754333,not task-verified in this audit,,,False
+Bandung,g03_01,e9cc3312-1f65-4792-8646-c73eaaa78ca0,Bengkel Dokter Mobil Bandung,automotive_repair,0.9839551597833633,not task-verified in this audit,,,False
+Bandung,g04_01,6ef0c233-9fb5-44f9-829a-4c12361a5ad3,Personal Motor,automotive_repair,0.7283577919006348,not task-verified in this audit,,,False
+Bandung,g05_01,61b27b58-9ff7-44fc-9149-f3c3f662a75b,A-Tech Autoservice,automotive_repair,0.9191902279853821,not task-verified in this audit,,,False
+Bandung,g06_01,500d3eaa-5234-4481-82f8-73c874c2e146,Mobil Car Care - Pitstop Garage Bandung,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g07_01,922cb27d-7150-480b-a106-dfaf9ccf0b5b,Privat Pelatihan Mekanik Otomotif Ganessama Bandung.,automotive_repair,0.8968167901039124,not task-verified in this audit,,,False
+Bandung,g00_02,7629ef9e-de54-43b5-89f4-3cc187c7cfc6,"Pataruman, Cipatik, Bandung Barat.",automotive_service,0.7837441563606262,not task-verified in this audit,,,False
+Bandung,g01_02,2cc2fad1-c63a-4d56-86be-dc1520ee4bab,Syndromatic Skywave Part & Accesoris,automotive_service,0.7058119773864746,not task-verified in this audit,,,False
+Bandung,g02_02,55f96251-316f-4839-9ee4-83e52486674d,Borobudur Indah Transport,automotive_service,0.802669882774353,not task-verified in this audit,,,False
+Bandung,g03_02,e9cc3312-1f65-4792-8646-c73eaaa78ca0,Bengkel Dokter Mobil Bandung,automotive_repair,0.9839551597833633,not task-verified in this audit,,,False
+Bandung,g04_02,082064a8-6025-4f74-b80b-57909bde4a32,Viperoracing,automotive_repair,0.7692611813545227,not task-verified in this audit,,,False
+Bandung,g05_02,d5a10562-cb31-4e96-ae10-aa2a5d618208,Roda Kencana Ban Kiaracondong,automotive_repair,0.7023651003837585,not task-verified in this audit,,,False
+Bandung,g06_02,9450a645-d471-4926-987f-8366b3a6e643,Aryan Mobile Service & Bodi Repair,automotive_repair,0.8452579379081726,not task-verified in this audit,,,False
+Bandung,g07_02,b2fa8fb0-9cbb-46a1-bde8-ffb72ed86ffe,Arcaty Motor,automotive_repair,0.9238716959953308,not task-verified in this audit,,,False
+Bandung,g08_02,0e260b39-d86d-4550-a31d-967b7b229c32,Mobil Car Care,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g00_03,9579cb47-9550-4e3a-8697-63d595b4ab8e,Indah Jelita Motor,automotive_repair,0.7804287075996399,not task-verified in this audit,,,False
+Bandung,g01_03,1bd741e8-5d61-43f2-ad38-960f314fd7b4,Arbo Jaya Jok Motor,automotive_service,0.7020217776298523,not task-verified in this audit,,,False
+Bandung,g02_03,dededc9f-78ff-49c8-a224-43fb76431164,Bonti Car Specialist,automotive_repair,0.9403805136680603,not task-verified in this audit,,,False
+Bandung,g03_03,290ea974-3736-4f67-be30-6015cfaa0691,Bage Body Repair & Cat Mobil Bandung,automotive_service,0.8859166920185089,not task-verified in this audit,,,False
+Bandung,g04_03,50065c1a-23f0-4a0d-81f6-8e12f3953359,KABUKI AutoShop Bandung,automotive_repair,0.7931717038154602,not task-verified in this audit,,,False
+Bandung,g05_03,a18ed73d-8826-4b02-8c6b-2c713f0ccd84,RMP MX Suspension,automotive_service,0.8381917476654053,not task-verified in this audit,,,False
+Bandung,g06_03,8db9740f-8403-4716-b609-0c0f5386db88,Bengkel Dinamo Dua Saudara,automotive_repair,0.8198096752166748,not task-verified in this audit,,,False
+Bandung,g07_03,def7fc2b-f73c-4f19-a3e6-0cef9229ca69,Surya putra motor cibiru,automotive_service,0.9087933301925659,not task-verified in this audit,,,False
+Bandung,g08_03,def7fc2b-f73c-4f19-a3e6-0cef9229ca69,Surya putra motor cibiru,automotive_service,0.9087933301925659,not task-verified in this audit,,,False
+Bandung,g00_04,ccf8d60f-83ea-4695-8c52-bb66b12de39e,Sobat Motor Cimahi,automotive_repair,0.8988409042358398,not task-verified in this audit,,,False
+Bandung,g01_04,797209c5-863c-499a-8dd9-26f3f4e16d27,Bengkel Jaya Mandiri Motor 2,automotive_repair,0.7231593728065491,not task-verified in this audit,,,False
+Bandung,g02_04,4cdf6af9-5366-4946-8cd3-6581ebb3c13a,Cilember Engineering,automotive_repair,0.784007728099823,not task-verified in this audit,,,False
+Bandung,g03_04,62602a27-0c3a-4c1f-93a2-3775af7ce973,Jl.arjuna SHARP SERVICE CENTER,automotive_repair,0.7149631977081299,not task-verified in this audit,,,False
+Bandung,g04_04,61d9d382-a719-473f-8517-ec618b86db6b,SS Performance Shop,automotive_repair,0.9887690514326095,not task-verified in this audit,,,False
+Bandung,g05_04,7a4ebe85-348d-45ee-90bc-2073ba842c97,Rei.Kendo.Sc,automotive_repair,0.7099995613098145,not task-verified in this audit,,,False
+Bandung,g06_04,d3733d22-878a-4174-b1e9-5287da51b9c6,Scuto Bandung Uber,automotive_repair,0.875693678855896,not task-verified in this audit,,,False
+Bandung,g07_04,99e5225c-19c6-4c21-8421-a04a3acb6e25,CK Bandana,automotive_repair,0.7505578994750977,not task-verified in this audit,,,False
+Bandung,g08_04,def7fc2b-f73c-4f19-a3e6-0cef9229ca69,Surya putra motor cibiru,automotive_service,0.9087933301925659,not task-verified in this audit,,,False
+Bandung,g00_05,4801f31c-5fa8-4a0e-9cce-257232e29e16,Bscooter Tunning,automotive_service,0.7827677130699158,not task-verified in this audit,,,False
+Bandung,g01_05,8e832541-37f3-4c2b-af85-a44b12407eee,Samsung Service Center Cimahi,automotive_repair,0.7486593723297119,not task-verified in this audit,,,False
+Bandung,g02_05,ddf7a7a1-a8ba-49e6-b0ef-147d912e9e0d,Butik Otomotif Mania Bandung,automotive_repair,0.7153539657592773,not task-verified in this audit,,,False
+Bandung,g03_05,46bd6790-9ad2-4010-b422-09a202a3a535,Bengkel Mobil AJM Auto Service -- Tau Beres Aja,automotive_repair,0.710277259349823,not task-verified in this audit,,,False
+Bandung,g04_05,24334071-5b78-4d88-b79a-fdf3ca1e4816,Astra Garda Oto,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g05_05,b11d6fca-5f5d-4d80-8167-ae5b9ed55ecd,Bastian Car Wash,automotive_repair,0.8391957879066467,not task-verified in this audit,,,False
+Bandung,g06_05,788caed0-1aaa-4060-bfa3-2b8afae19578,"Bengkel Dinamo mobil D2'kilat' Cicaheum, Bandung",automotive_repair,0.9652895927429199,not task-verified in this audit,,,False
+Bandung,g07_05,1e8eea30-0b8a-4e7b-97cd-bf54a8e09a47,Hayuka Sembilan Delapan,automotive_repair,0.7375160455703735,not task-verified in this audit,,,False
+Bandung,g08_05,99e5225c-19c6-4c21-8421-a04a3acb6e25,CK Bandana,automotive_repair,0.7505578994750977,not task-verified in this audit,,,False
+Bandung,g00_06,70071b56-df1b-4ab4-85c4-06ae88934bfe,Toko velg mobil chemistry cimahi,automotive_repair,0.9024637341499329,not task-verified in this audit,,,False
+Bandung,g01_06,17187174-91d0-4cd3-aea8-ab84583afbfd,Ms Automobile,automotive_repair,0.9889591825008393,not task-verified in this audit,,,False
+Bandung,g02_06,1db2ab3d-500e-4839-a597-ee6f5326b345,Aspot Jaya Motor,automotive_repair,0.9702579975128174,not task-verified in this audit,,,False
+Bandung,g03_06,52a2d929-1f80-4fd7-83dc-3fb83e7be564,Irgi Motor Bandung,automotive_repair,0.8184830546379089,not task-verified in this audit,,,False
+Bandung,g04_06,d2e498bf-0c88-4f9b-9a1f-719f3dc567f5,tukangmercy.id,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g05_06,d2e498bf-0c88-4f9b-9a1f-719f3dc567f5,tukangmercy.id,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g06_06,788caed0-1aaa-4060-bfa3-2b8afae19578,"Bengkel Dinamo mobil D2'kilat' Cicaheum, Bandung",automotive_repair,0.9652895927429199,not task-verified in this audit,,,False
+Bandung,g07_06,37d1041c-20d9-4285-a2fa-e8331ba7ef47,Sinister Machine Kustomworx,automotive_service,0.9099273085594177,not task-verified in this audit,,,False
+Bandung,g08_06,99e5225c-19c6-4c21-8421-a04a3acb6e25,CK Bandana,automotive_repair,0.7505578994750977,not task-verified in this audit,,,False
+Bandung,g00_07,bef6ce18-2360-4d0c-9d30-38ffcfa0954e,TAN SPEED,automotive_repair,0.8545883893966675,not task-verified in this audit,,,False
+Bandung,g01_07,57286dbf-c038-4e60-8540-0591cb72d320,PT Fin Komodo Teknologi,automotive_service,0.8981543582677841,not task-verified in this audit,,,False
+Bandung,g02_07,aa126a2c-deee-4e22-baf7-65bf5fac8ecd,Dvid Modifikasi,automotive_repair,0.8729434013366699,not task-verified in this audit,,,False
+Bandung,g03_07,52a2d929-1f80-4fd7-83dc-3fb83e7be564,Irgi Motor Bandung,automotive_repair,0.8184830546379089,not task-verified in this audit,,,False
+Bandung,g04_07,02b799f4-fcdc-45b5-ab6d-0d40bb36b5d1,DSx car audio lembang,automotive_service,0.7416070699691772,not task-verified in this audit,,,False
+Bandung,g05_07,d2e498bf-0c88-4f9b-9a1f-719f3dc567f5,tukangmercy.id,automotive_repair,0.77,not task-verified in this audit,,,False
+Bandung,g06_07,788caed0-1aaa-4060-bfa3-2b8afae19578,"Bengkel Dinamo mobil D2'kilat' Cicaheum, Bandung",automotive_repair,0.9652895927429199,not task-verified in this audit,,,False
+Bandung,g07_07,37d1041c-20d9-4285-a2fa-e8331ba7ef47,Sinister Machine Kustomworx,automotive_service,0.9099273085594177,not task-verified in this audit,,,False
+Bandung,g00_08,70071b56-df1b-4ab4-85c4-06ae88934bfe,Toko velg mobil chemistry cimahi,automotive_repair,0.9024637341499329,not task-verified in this audit,,,False
+Bandung,g01_08,57286dbf-c038-4e60-8540-0591cb72d320,PT Fin Komodo Teknologi,automotive_service,0.8981543582677841,not task-verified in this audit,,,False
+Bandung,g02_08,aa126a2c-deee-4e22-baf7-65bf5fac8ecd,Dvid Modifikasi,automotive_repair,0.8729434013366699,not task-verified in this audit,,,False
+Bandung,g03_08,52a2d929-1f80-4fd7-83dc-3fb83e7be564,Irgi Motor Bandung,automotive_repair,0.8184830546379089,not task-verified in this audit,,,False
+Bandung,g04_08,81f33bfb-abbe-4cc4-ae2b-762a7031a87c,kmpaintinggarage,automotive_repair,0.8591892123222351,not task-verified in this audit,,,False
+Bandung,g05_08,02b799f4-fcdc-45b5-ab6d-0d40bb36b5d1,DSx car audio lembang,automotive_service,0.7416070699691772,not task-verified in this audit,,,False
+Bandung,g06_08,02b799f4-fcdc-45b5-ab6d-0d40bb36b5d1,DSx car audio lembang,automotive_service,0.7416070699691772,not task-verified in this audit,,,False
+Bandung,g07_08,02b799f4-fcdc-45b5-ab6d-0d40bb36b5d1,DSx car audio lembang,automotive_service,0.7416070699691772,not task-verified in this audit,,,False
+Bandung,g08_08,02b799f4-fcdc-45b5-ab6d-0d40bb36b5d1,DSx car audio lembang,automotive_service,0.7416070699691772,not task-verified in this audit,,,False
+Palembang,g02_00,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g04_00,028b7203-ab24-48cf-a2ea-3be6aab87a06,Dipo Lokomotif Kertapati,automotive_repair,0.7182498574256897,railway locomotive depot,https://railcertification.kai.id/tuk.php,KAI UnitPelaksanaTeknis DepoLokomotifBesarAKertapati JlDipoLorongAmal; search retrieval; directpage502,True
+Palembang,g05_00,028b7203-ab24-48cf-a2ea-3be6aab87a06,Dipo Lokomotif Kertapati,automotive_repair,0.7182498574256897,railway locomotive depot,https://railcertification.kai.id/tuk.php,KAI UnitPelaksanaTeknis DepoLokomotifBesarAKertapati JlDipoLorongAmal; search retrieval; directpage502,True
+Palembang,g06_00,5c0e43d8-4853-4f51-ab49-4fe5180260a7,Jasa poles mobil,automotive_service,0.7618755102157593,not task-verified in this audit,,,False
+Palembang,g07_00,5c0e43d8-4853-4f51-ab49-4fe5180260a7,Jasa poles mobil,automotive_service,0.7618755102157593,not task-verified in this audit,,,False
+Palembang,g00_01,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g01_01,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g02_01,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g03_01,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g04_01,028b7203-ab24-48cf-a2ea-3be6aab87a06,Dipo Lokomotif Kertapati,automotive_repair,0.7182498574256897,railway locomotive depot,https://railcertification.kai.id/tuk.php,KAI UnitPelaksanaTeknis DepoLokomotifBesarAKertapati JlDipoLorongAmal; search retrieval; directpage502,True
+Palembang,g05_01,028b7203-ab24-48cf-a2ea-3be6aab87a06,Dipo Lokomotif Kertapati,automotive_repair,0.7182498574256897,railway locomotive depot,https://railcertification.kai.id/tuk.php,KAI UnitPelaksanaTeknis DepoLokomotifBesarAKertapati JlDipoLorongAmal; search retrieval; directpage502,True
+Palembang,g06_01,5c0e43d8-4853-4f51-ab49-4fe5180260a7,Jasa poles mobil,automotive_service,0.7618755102157593,not task-verified in this audit,,,False
+Palembang,g08_01,cfcc5873-9833-44ad-8e2f-fefbf4dafac1,Pratama body repair,automotive_repair,0.7260797619819641,not task-verified in this audit,,,False
+Palembang,g00_02,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g01_02,a2dfa61a-0696-4694-82f6-93c458aef2cf,Bengkel cat mobil Wahono,automotive_repair,0.8242407441139221,not task-verified in this audit,,,False
+Palembang,g03_02,db36b7f2-c193-419a-bac6-df647dbbb48b,Panca Samudera. PT,automotive_repair,0.7474676966667175,not task-verified in this audit,,,False
+Palembang,g04_02,028b7203-ab24-48cf-a2ea-3be6aab87a06,Dipo Lokomotif Kertapati,automotive_repair,0.7182498574256897,railway locomotive depot,https://railcertification.kai.id/tuk.php,KAI UnitPelaksanaTeknis DepoLokomotifBesarAKertapati JlDipoLorongAmal; search retrieval; directpage502,True
+Palembang,g05_02,a9cc8de6-e76e-4697-baa7-b34815aaa84d,"BERLIAN MAJU MOTOR, PT.",automotive_repair,0.942668616771698,not task-verified in this audit,,,False
+Palembang,g01_03,3af7a913-14cc-47bc-8fb2-7f183f7d6138,Hammer D' Cross Bengkel Mobil,automotive_repair,0.8747546672821045,not task-verified in this audit,,,False
+Palembang,g02_03,99f1c3f1-f58a-408f-8be0-3ea88a753848,Udien Tierod,automotive_repair,0.775551974773407,not task-verified in this audit,,,False
+Palembang,g03_03,642e933f-f459-46a4-931b-765e067495e0,Mohaks Garage,automotive_repair,0.7784174680709839,not task-verified in this audit,,,False
+Palembang,g04_03,45e57502-6c62-4285-9f35-0359615ba957,Mandiri Motor,automotive_repair,0.719850480556488,not task-verified in this audit,,,False
+Palembang,g05_03,dca8d190-8ed3-4387-aed8-8cdeac94a036,Ammi Bengkel,automotive_repair,0.732084333896637,not task-verified in this audit,,,False
+Palembang,g06_03,43a2ba90-267f-4d42-af82-d8173d939e3c,Baba Jaya Ban,automotive_repair,0.7235075831413269,not task-verified in this audit,,,False
+Palembang,g07_03,43a2ba90-267f-4d42-af82-d8173d939e3c,Baba Jaya Ban,automotive_repair,0.7235075831413269,not task-verified in this audit,,,False
+Palembang,g08_03,cfcc5873-9833-44ad-8e2f-fefbf4dafac1,Pratama body repair,automotive_repair,0.7260797619819641,not task-verified in this audit,,,False
+Palembang,g00_04,fc1eafa2-74b3-4227-a3d5-67488a100e78,Bengkel Deny s motor,automotive_service,0.7277673482894897,not task-verified in this audit,,,False
+Palembang,g01_04,3af7a913-14cc-47bc-8fb2-7f183f7d6138,Hammer D' Cross Bengkel Mobil,automotive_repair,0.8747546672821045,not task-verified in this audit,,,False
+Palembang,g02_04,3af7a913-14cc-47bc-8fb2-7f183f7d6138,Hammer D' Cross Bengkel Mobil,automotive_repair,0.8747546672821045,not task-verified in this audit,,,False
+Palembang,g03_04,43b1f1c5-a5c9-4160-a7cc-79a1407c8958,SAHIL AutoService,automotive_repair,0.801436185836792,not task-verified in this audit,,,False
+Palembang,g04_04,d1452bc5-333c-4925-93d3-31ffbc3e8de4,PT. THAMRIN BROTHERS A. RIVAI,automotive_repair,0.77,not task-verified in this audit,,,False
+Palembang,g05_04,4a817fff-6ae5-4450-b751-b7b6674dcb00,PT Berlian Maju Motor,automotive_service,0.9679487705230713,not task-verified in this audit,,,False
+Palembang,g06_04,8097608f-b6c9-476b-9553-3b4da39c0f47,Gorillaz Palembang Celentang,automotive_repair,0.8080220222473145,not task-verified in this audit,,,False
+Palembang,g07_04,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g08_04,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g00_05,72507c19-a03e-4c9c-be79-aaf43084924d,BIMS AUTO Service,automotive_service,0.8663514256477356,not task-verified in this audit,,,False
+Palembang,g01_05,72507c19-a03e-4c9c-be79-aaf43084924d,BIMS AUTO Service,automotive_service,0.8663514256477356,not task-verified in this audit,,,False
+Palembang,g02_05,68ec66bd-2cd8-4e1b-b7c3-96fbe381f1b7,Variasi Mobil V-Tech,automotive_repair,0.744218111038208,not task-verified in this audit,,,False
+Palembang,g03_05,aab1fa9f-490d-4651-8747-37e5c80c47f2,Martin variasi palembang,automotive_repair,0.9045730829238892,not task-verified in this audit,,,False
+Palembang,g04_05,b6a25460-9e28-4700-90bc-133b75900ca7,Auto plaza palembang,automotive_repair,0.7156617641448975,not task-verified in this audit,,,False
+Palembang,g05_05,b6a25460-9e28-4700-90bc-133b75900ca7,Auto plaza palembang,automotive_repair,0.7156617641448975,not task-verified in this audit,,,False
+Palembang,g06_05,0c1ae03e-d353-42a3-93e7-0f0a75c30495,Bengkel Sigma Palembang,automotive_repair,0.9636494517326355,not task-verified in this audit,,,False
+Palembang,g07_05,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g08_05,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g00_06,8f05f0a2-b34a-41c4-b38f-e3225f2b2f34,XAVOR,automotive_repair,0.7862984538078308,not task-verified in this audit,,,False
+Palembang,g01_06,8f05f0a2-b34a-41c4-b38f-e3225f2b2f34,XAVOR,automotive_repair,0.7862984538078308,not task-verified in this audit,,,False
+Palembang,g02_06,68ec66bd-2cd8-4e1b-b7c3-96fbe381f1b7,Variasi Mobil V-Tech,automotive_repair,0.744218111038208,not task-verified in this audit,,,False
+Palembang,g03_06,ba027a3b-52ee-4c8f-afeb-5943938eaf5a,Alex Variasi Mobil,automotive_repair,0.8986487984657288,not task-verified in this audit,,,False
+Palembang,g04_06,6324449b-f952-4621-878c-bc72a39710ef,Bengkel Mobil Lukman,automotive_repair,0.7871785759925842,not task-verified in this audit,,,False
+Palembang,g05_06,e94b84f9-89d1-4fde-bf84-3f18dc06cb01,Bengkel Mobil Dan Spare Parts Mbs Auto Motor,automotive_repair,0.8155980110168457,not task-verified in this audit,,,False
+Palembang,g06_06,8a73f5cc-e44b-450c-903d-18f1d5318dff,AC Mobil Perumnas Sako,automotive_service,0.7846451997756958,not task-verified in this audit,,,False
+Palembang,g07_06,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g08_06,79721181-b04a-4ee7-98f5-6aed57ce44f9,Grand Mutiara Regency,automotive_service,0.8017829060554504,housing estate,https://sikumbang.tapera.go.id/lokasi-perumahan/PLG1010042021T005,Housingestate name/area and TaqwaMataMerah address; published government registry,True
+Palembang,g00_07,8f05f0a2-b34a-41c4-b38f-e3225f2b2f34,XAVOR,automotive_repair,0.7862984538078308,not task-verified in this audit,,,False
+Palembang,g01_07,eb99c367-3ba4-4ce8-bf73-eb9dfe04a7ab,Bengkel Mobil & Cat Body Distrik 146,automotive_repair,0.8238729238510132,not task-verified in this audit,,,False
+Palembang,g02_07,72507c19-a03e-4c9c-be79-aaf43084924d,BIMS AUTO Service,automotive_service,0.8663514256477356,not task-verified in this audit,,,False
+Palembang,g03_07,ee028385-a844-4443-b080-941089e9b7e6,Tehnik Mandiri,automotive_repair,0.7910744547843933,not task-verified in this audit,,,False
+Palembang,g04_07,283c65b5-68e9-4323-aa5c-17ff07472251,Bengkel S.A.C Palembang,automotive_repair,0.9501714706420898,not task-verified in this audit,,,False
+Palembang,g05_07,a7abb361-c750-4974-9833-ed6038a788a2,Bengkel Spesialis Cat/Repaint Mobil Motor Palembang,automotive_repair,0.8112465143203735,not task-verified in this audit,,,False
+Palembang,g06_07,8c7154bd-7f7c-4932-9c0b-bac4c339f343,Toko Jaya Bersaudara Ban Plbg,automotive_service,0.803310751914978,not task-verified in this audit,,,False
+Palembang,g07_07,8c7154bd-7f7c-4932-9c0b-bac4c339f343,Toko Jaya Bersaudara Ban Plbg,automotive_service,0.803310751914978,not task-verified in this audit,,,False
+Palembang,g08_07,8c7154bd-7f7c-4932-9c0b-bac4c339f343,Toko Jaya Bersaudara Ban Plbg,automotive_service,0.803310751914978,not task-verified in this audit,,,False
+Palembang,g00_08,8f05f0a2-b34a-41c4-b38f-e3225f2b2f34,XAVOR,automotive_repair,0.7862984538078308,not task-verified in this audit,,,False
+Palembang,g01_08,306a864f-309b-419e-a7c7-261f9332743e,Renuco Technic,automotive_repair,0.7564389109611511,not task-verified in this audit,,,False
+Palembang,g02_08,b2cdcc74-dd7c-489e-853f-e174dde439e3,Bengkel Mobil Cilacap Motor,automotive_repair,0.744899570941925,not task-verified in this audit,,,False
+Palembang,g03_08,ee028385-a844-4443-b080-941089e9b7e6,Tehnik Mandiri,automotive_repair,0.7910744547843933,not task-verified in this audit,,,False
+Palembang,g04_08,5a5afe4c-a680-4101-9602-ab3b50dc1c8d,Bengkel mobil anton,automotive_repair,0.9392368793487549,not task-verified in this audit,,,False
+Palembang,g05_08,5a5afe4c-a680-4101-9602-ab3b50dc1c8d,Bengkel mobil anton,automotive_repair,0.9392368793487549,not task-verified in this audit,,,False
+Palembang,g08_08,8c7154bd-7f7c-4932-9c0b-bac4c339f343,Toko Jaya Bersaudara Ban Plbg,automotive_service,0.803310751914978,not task-verified in this audit,,,False

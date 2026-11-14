@@ -1,0 +1,436 @@
+International Business Solution
+            Competition 2026
+  SEmifinal round casebook
+Auto2000 | Toyota’s Largest Dealer Network
+Auto2000 is the official Toyota Sales Operation of PT Astra International Tbk and the largest Toyota dealer in
+Indonesia, handling roughly 70–80% of Toyota’s sales in the country through a 4S business model.
+
+
+
+           sales                        service                    spare parts                     body & paint
+
+                                Periodic Maintenance and
+ New and used vehicles, test        general repairs at        Genuine Toyota parts and         Body repair and painting
+    drives, trade-in with      workshop, Home Service at        official accessories.         after accidents or damage.
+  OLXmobbi, and Kinto car      customer's location and also
+        subscription.            After Sales Service and
+                                 Warranty Claim process
+
+
+
+
+   Main markets: Java, Sumatra,          Customers: individuals (B2C) and          Digital channel: Digiroom,
+   Kalimantan, and Bali                  corporate or fleet buyers (B2B)           relaunched on 6 December 2025
+
+
+
+
+Auto2000 Case | Digiroom
+Auto2000 Case | Digiroom
+                                                                           IBSC 2026 Business Case Competition Casebook | 4
+                                                                          IBSC 2026 Business Case Competition Casebook        2
+Auto2000 | The Conditions
+
+    Market Overview: EVs (hybrid, plug-in hybrid and battery electric)
+    reached 21.8% of Indonesia’s new car sales in 2025, up from 11.9% in
+    2024 and less than 1% in 2020.
+                                                                                     21.8%
+                                                                                     EVs as a share of new car sales, 2025
+
+
+    The EV Dynamic: Toyota led the hybrid segment in 2025 with a 51% share,
+    driven by the Kijang Innova Zenix Hybrid. EVs have fewer parts that
+    wear out, and fully electric models need far less routine servicing.             51%
+                                                                                     Toyota’s share of hybrid sales, 2025
+
+
+
+
+                                                                                     ≈4%
+    The Digiroom Gap: Digiroom has 500,000+ downloads, but only about
+    4% are active each month. Customers open it only when they need a
+    specific transaction, mostly to book a service.
+
+
+                                                                                     Digiroom downloads that are active
+    The Mandate: How to maintain a strong market share for Toyota in                 each month
+    Indonesia within the ecosystem through both offline and digital channels
+
+
+
+
+Auto2000 Case | Digiroom                                                       IBSC 2026 Business Case Competition Casebook   3
+Auto2000 | The Reimagined Challenge
+
+
+
+  EVs reached 21.8% of Indonesia’s new car sales in   Only about 4% of Digiroom’s 500,000+ downloads
+  2025, up from 11.9% in 2024 and less than 1% in     are active each month; customers open it only
+  2020.                                               when they need a specific transaction.
+
+  Toyota led the hybrid segment in 2025 with a 51%    EVs need less routine servicing, and owners worry
+  share, driven by the Kijang Innova Zenix Hybrid.    about battery health, charging and resale value.
+                                                      Chinese brands are growing fast: BYD sold 46,711
+  Auto2000 relaunched Digiroom on 6 December          units in 2025, about 45% of all battery electric
+  2025, combining car purchase, service booking,      sales.
+  test drive, trade-in, loyalty and tracking in one
+  app.                                                More active users will not fix this alone. Unless
+                                                      engagement turns into EV transactions, Auto2000
+                                                      will lose EV-related revenue.
+
+
+
+Auto2000 Case | Digiroom
+Auto2000 Case | Digiroom
+                                                               IBSC 2026 Business Case Competition Casebook | 6
+                                                                 IBSC 2026 Business Case Competition Casebook     4
+Main Objective to Solve
+You are part of Auto2000’s Digital Business and Strategy team, responsible for Digiroom’s performance and its
+contribution to Auto2000’s profitability. EVs are a fast-growing part of Auto2000’s customer base, yet Digiroom is used
+only occasionally, and more active users do not create profit by themselves. You are asked to design how Digiroom can
+engage EV owners and buyers, and turn that engagement into profitable transactions.
+
+
+
+
+                                         Problem statement
+
+
+
+
+Auto2000 Case | Digiroom                                                  IBSC 2026 Business Case Competition Casebook    5
+What Participants Must Deliver
+
+  Participant Requirements                                   Constraints
+       Identify and prioritize why Digiroom’s active usage     Incremental investment is capped at IDR 150 billion
+   1
+       is low, especially among EV owners and buyers.          for 2026–2028.
+
+       Design differentiated digital innovations that give     Digital technology and innovation must be the core
+   2
+       them reasons to use Digiroom regularly.                 driver.
+
+
+       Show how that engagement turns into EV sales and        Respect data privacy and customers’ reluctance to
+   3
+       after-sales, and estimate the gross profit impact.      share personal data.
+
+
+       Assess cost, feasibility and risks, with an             Keep assumptions realistic, clearly stated and
+   4
+       implementation roadmap.                                 consistent with the case facts.
+
+
+   5   Back the analysis with credible evidence and            External references beyond the casebook are
+       clearly stated assumptions.                             permitted.
+
+
+
+
+Auto2000 Case | Digiroom                                              IBSC 2026 Business Case Competition Casebook   6
+Initial Feedback from Stakeholders
+  We have more than 500,000 downloads,      EV owners come to our workshops less
+  but only a small fraction open the app    often. If we only wait for them to come
+  each month. A busy app means nothing      in, we lose touch, and someone else
+  unless people buy something through it    may end up looking after their car.
+
+                                                                                           Every new feature costs
+  -Digital Business Director                -After-Sales Director
+                                                                                           money to build and run.
+                                                                                           Show me how more active
+                                                                                           users turn into gross profit,
+                                                                                           not just more downloads.
+  Our EV sales are growing fast, mostly    Single ID tells us a lot about our
+  hybrids. How we treat these customers    customers, but sales teams cannot use it       -Finance Director
+  between visits will shape where they     easily yet, and many customers are careful
+  buy their next car.                      about sharing personal information.
+
+  -Sales Director                           -CRM and Data Director
+
+
+
+Auto2000 Case | Digiroom                                                  IBSC 2026 Business Case Competition Casebook     7
+Exhibit 1 | EV Market Development
+ EV share of new car sales (wholesales)       EV sales by type, 2025
+
+                                                 Type                        Share of     Share of
+                                                                 Units
+                                      21.8%                                    EVs         Market
+
+                                                  BEV            103,931      59.3%        12.9%
+
+
+                                                  HEV            65,943       37.7%        8.2%
+
+                            11.9%
+                                                  PHEV           5,270        3.0%         0.7%
+
+
+
+                                                Total EVs        175,144      100%         21.8%
+
+
+
+       <1%           1.2%
+                                                National wholesales in 2025: 803,687 units, down
+                                                7.2% from 2024.
+     2020           2022    2024      2025      EV sales grew 69.7%, from 103,228 units in 2024.
+
+
+
+Auto2000 Case | Digiroom                                 IBSC 2026 Business Case Competition Casebook   8
+Exhibit 2 | Toyota Performance
+                   Indicator                          Data                               Period
+
+   Toyota wholesales and market share         250,431 units (31.2%)                       2025
+
+
+                                        ±33,950 units (19.4% of EV market),
+   Toyota electric vehicle (EV) sales                                                     2025
+                                                    estimated
+
+                                         Innova Zenix Hybrid, Yaris Cross
+   Leading Toyota EV models               Hybrid, new in Nov 2025: Veloz                  2025
+                                        Hybrid EV, bZ4X, Urban Cruiser EV
+
+
+   Toyota orders at GIIAS               4,250 orders (SPK), 34% electrified            GIIAS 2025
+
+
+
+
+Auto2000 Case | Digiroom                                     IBSC 2026 Business Case Competition Casebook   9
+Exhibit 3 | P&L by Business Line, 2025
+         IDR Billion         Vehicle Sales      Services       Spare Parts      Body + Paint         Total
+
+  Revenue                      60,000            2,400            4,800             1,800           69,000
+
+
+  Gross profit                  3,600            1,320             1,200             630             6,750
+
+
+  Gross margin (GM%)             6.0%            55.0%            25.0%            35.0%             9.8%
+
+
+  Share of revenue              87.0%             3.5%             7.0%             2.6%             100%
+
+
+  Share of gross profit         53.3%            19.6%             17.8%            9.3%             100%
+
+
+
+After-sales (service, spare parts, body & paint) make    Operating expenses (not allocated by line): IDR 4,620
+    up 13.0% of revenue but 46.7% of gross profit.       bn. Operating profit: IDR 2,130 bn, or 3.1% of revenue.
+
+
+
+Auto2000 Case | Digiroom                                              IBSC 2026 Business Case Competition Casebook   10
+Exhibit 4 | Digiroom at a Glance
+
+ 500,000+
+ Total downloads
+                                ≈21,000 ≈4%
+                                Monthly active users              MAU as a share of
+                                                                                      10–20%
+                                                                                      Consumer traffic
+                                                                                                              1.6*
+                                                                                                              Avg. Sessions per
+                                (20,000–22,000)                   downloads           from digital channels   active user per month
+
+
+
+  Main activity of monthly active users*                                              Service bookings by channel*
+  Service booking                                                               46%   Walk-in and phone                     46%
+  Vehicle catalog and prices                                22%
+                                                                                      WhatsApp                        38%
+  Promotions and loyalty                              14%
+  Order and service tracking                    10%                                   Digiroom                16%
+  Test drive and trade-in                  8%
+
+
+ Age of monthly active users
+
+    6%                             37%                                                 41%                             16%
+
+    18–24        25–35         36–50      51 and above
+
+
+
+
+Auto2000 Case | Digiroom                                                              IBSC 2026 Business Case Competition Casebook    11
+  SEMIFINAL
+INFORMATION
+Ibsc 2026 · auto2000
+          Important Notes:
+          Please be informed that the case presented in the semifinal
+          round is a new case developed in collaboration with our case
+          collaborator. Therefore, it is independent of the case presented
+          in the preliminary round and does not require participants to
+          continue or refer to their previous case analysis or solutions.
+
+
+
+
+Auto2000 Case | Digiroom                           IBSC 2026 Business Case Competition Casebook   13
+   Rules  and Submission
+   Rules and Requirements Requirements
+       Parameter                               Specification
+                                                                                     Submission
+Paper Size                    A4
+                                                                                      Submit Paper and Statement
+Font                          Times New Roman, 12pt                                   of     Originality through
+                                                                                      official IBSC 2026 Google
+Sub Title Size                Times New Roman, 13pt, Bold
+                                                                                      Form no longer than 16
+Title Size                    Times New Roman 14pt, Bold                              November 2026, 11:59 PM
+                                                                                      (GMT+7)
+Line Spacing                  Single
+                                                                                         https://bit.ly/Semifinal-
+Paragraph Alignment           Justified
+                                                                                         SubmissionIBSC2026
+Margin                        Left 2 cm, Top 4 cm, Bottom 3 cm, Right 2 cm
+
+Maximum Length
+                              15 pages, excluding Cover, References and              Late Submission Penalty
+                              Appendix                                               Participants are granted a 5-minute grace
+                                                                                     period after the official submission
+Reference Syle                APA Style                                              deadline. After the grace period, a penalty
+                                                                                     of 1 point per minute of delay will be
+IBSC & Auto2000 Logo          Must be included in the document                       applied    to    the   submission    score.
+                                                                                     Submissions received more than 3 hours
+File Format                   PDF                                                    after the official deadline will not be
+                                                                                     accepted and will be disqualified from
+File Name                     Team Name_Semifinal_IBSC2026
+                                                                                     evaluation.
+Maximum File Size             30 MB
+   Auto2000 Case | Digiroom
+   Auto2000 Case | Digiroom
+                                                                           IBSC 2026 Business Case Competition Casebook | 21
+                                                                          IBSC 2026 Business Case Competition Casebook             14
+     Semi-final Stage Judging Criteria
+Problem Analysis                                                       Impact and Feasibility
+Evaluates the participant’s ability to systematically
+                                                                                Impact and Feasibility
+                                                                       Evaluates the participant’s solution based on their impact
+                                                                       on users and the business supported by arguments that
+                                                        20%                                                                           30%
+break down complex business problems into
+                                                                       are strong, realistic, measurable, and relevant to the
+logically structured and relevant sub-components,
+                                                                       case, as well as their feasibility for implementation,
+to uncover their fundamental root causes, and their                    accompanied by a convincing explanation regarding the
+level of impact and urgency.                                           feasibility under real constraints.
+
+
+
+
+Strategic Solution                                                     Design and Essay Structure
+  Strategic
+Evaluates     Solution ability to propose
+          the participant's                                            Alignment of the essay with the structure and
+innovative,
+   Evaluates differentiated
+beyond
+                              solutions
+               the participant's
+         generic standard
+                                          that
+                                    ability
+                            approaches   and
+                                             to moves
+                                              logically 30%
+                                                 propose innovative,
+   differentiated solutions that moves beyond generic standard
+                                                                       specifications required by the guidebook, as well
+                                                                       as the neatness of the work.                                     5%
+aligns with the identified root causes.
+   approaches and logically aligns with the identified root causes.
+
+
+
+
+Quality of Data & Evidence                                                          Finality of judging decisions
+Evaluates the participants’s use of data and its                           All judging decisions and scores are final and binding. Participants
+relevance with everything they have included, as
+well as arguments regarding their objectivity.
+                                                        15%                 may not dispute, appeal, or request a reassessment of the judges'
+                                                                           decisions. The judges' evaluations shall be conducted in accordance
+                                                                                           with the established judging criteria.
+
+
+
+
+    Auto2000 Case | Digiroom                                                          IBSC 2026 Business Case Competition Casebook                15
+CONTACT US
+  081314360550 (Shakeela)
+
+  087808670093 (Alya)
+ GLOSSARY
+Ibsc 2026 · auto2000
+Glossary (1/2)
+                                 Term                                              Definition
+
+EV (Electric Vehicle)                   In this case, any vehicle with an electric drivetrain: HEV, PHEV or BEV.
+
+HEV (Hybrid Electric Vehicle)           Petrol engine plus electric motor; the battery charges while driving and cannot be plugged in.
+
+PHEV (Plug-in Hybrid)                   A hybrid with a larger battery that can also be charged from a plug.
+
+BEV (Battery Electric Vehicle)          Powered only by a battery and electric motor, with no petrol engine.
+
+ICE (Internal Combustion Engine)        A conventional vehicle powered only by a fuel-burning engine.
+
+Wholesales                              Vehicles sold by the manufacturer or distributor to dealers.
+
+Market share                            Sales of a brand or vehicle type as a percentage of total national sales.
+
+GIIAS                                   Gaikindo Indonesia International Auto Show, Indonesia’s main annual car exhibition.
+
+SPK (Surat Pesanan Kendaraan)           The vehicle order form a customer signs to confirm a purchase.
+
+4S                                      Dealer business model covering Sales, Service, Spare parts and Body & Paint.
+
+Toyota Sales Operation                  The Toyota dealer business of PT Astra International Tbk, run under the Auto2000 brand.
+
+B2C / B2B                               B2C: sales to individual customers. B2B: sales to companies, including fleet buyers.
+
+
+
+        Auto2000 Case | Digiroom
+        Auto2000 Case | Digiroom
+                                                                              IBSC 2026 Business Case Competition Casebook | 24
+                                                                               IBSC 2026 Business Case Competition Casebook              18
+Glossary (2/2)
+                             Term                                                        Definition
+
+After-sales                                Revenue earned after the vehicle sale: service, spare parts, and body & paint.
+
+Home Service                               A Toyota technician services the car at the customer’s chosen location.
+
+Trade-in                                   Using a customer’s current car as part payment for a new one.
+
+OLXmobbi                                   Used-car platform that values trade-in vehicles for Auto2000.
+
+Kinto                                      Toyota’s car subscription service: a monthly fee to use a car instead of buying it.
+
+                                           Auto2000’s app for car purchase, service booking, test drive, trade-in, loyalty and tracking,
+Digiroom
+                                           relaunched 6 December 2025.
+
+MAU (Monthly Active Users)                 Unique users who actively use the app in a given month.
+
+Session                                    One visit in which a user opens and uses the app.
+
+CRM (Customer Relationship Management)     Systems used to manage and analyze customer data and interactions.
+
+Single ID                                  CRM feature that combines all of a customer’s interactions into one profile.
+
+Gross profit (GP) and gross margin (GM%)   GP is revenue minus the direct cost of what was sold; GM% is GP as a percentage of revenue.
+
+Operating profit                           Gross profit minus operating expenses such as salaries, rent and marketing.
+
+
+
+        Auto2000 Case | Digiroom
+        Auto2000 Case | Digiroom                                                     IBSC 2026 Business Case Competition Casebook          19
+

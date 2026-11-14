@@ -1,0 +1,40 @@
+{
+  "calculation_type": "Descriptive arithmetic and accounting identity; no causal identification or forecast",
+  "inputs": {
+    "total_2024": 291566,
+    "total_2025": 251954,
+    "xev_2024": 37693,
+    "xev_2025": 31668,
+    "source_ids": [
+      "FC-N12",
+      "FC-N13",
+      "FC-N14",
+      "FC-N15"
+    ]
+  },
+  "xev_change_units": -6025,
+  "xev_change_pct": -15.984400286525347,
+  "total_change_pct": -13.585946235157731,
+  "xev_mix_2024_pct": 12.92777621533375,
+  "xev_mix_2025_pct": 12.56896100081761,
+  "mix_change_percentage_points": -0.3588152145161394,
+  "accounting_decomposition": {
+    "identity": "x1-x0 = (t1-t0)*m0 + t1*(m1-m0)",
+    "total_sales_scale_component_units": -5120.950714418005,
+    "within_portfolio_mix_component_units": -904.0492855819939,
+    "expected_xev_at_2024_mix": 32572.049285581998,
+    "interpretation": "The terms allocate the observed change algebraically. They do not identify market conditions, product availability, pricing or Digiroom as causes; order of decomposition matters."
+  },
+  "national_comparison": {
+    "toyota_lexus_mix_pct": 12.56896100081761,
+    "national_reported_rounded_mix_pct": 22,
+    "gap_percentage_points": -9.43103899918239,
+    "interpretation": "Cross-scope new-sales comparison only. Not Auto2000 adoption, owner installed base or customer intent. Rounded national figure and channel consistency limit precision."
+  },
+  "non_identification": [
+    "xEV sales decline does not identify Digiroom causality.",
+    "New sales are flows, not the service-eligible installed base.",
+    "Dealer profit cannot be inferred from group/brand sales counts.",
+    "Reported digital infrastructure does not establish customer or advisor adoption."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "markets": [
+    {
+      "market": "Surabaya",
+      "bbox": [
+        112.64,
+        -7.38,
+        112.84,
+        -7.18
+      ],
+      "destination_bbox": [
+        112.56,
+        -7.46,
+        112.92,
+        -7.1
+      ],
+      "grid_n": 9,
+      "destinations_csv": "surabaya_destinations.csv"
+    },
+    {
+      "market": "Medan",
+      "bbox": [
+        98.59,
+        3.48,
+        98.77,
+        3.69
+      ],
+      "destination_bbox": [
+        98.51,
+        3.4,
+        98.85,
+        3.77
+      ],
+      "grid_n": 9,
+      "destinations_csv": "medan_destinations.csv"
+    },
+    {
+      "market": "Bandung",
+      "bbox": [
+        107.51,
+        -6.99,
+        107.74,
+        -6.82
+      ],
+      "destination_bbox": [
+        107.43,
+        -7.07,
+        107.82,
+        -6.74
+      ],
+      "grid_n": 9,
+      "destinations_csv": "bandung_destinations.csv"
+    },
+    {
+      "market": "Palembang",
+      "bbox": [
+        104.66,
+        -3.07,
+        104.85,
+        -2.88
+      ],
+      "destination_bbox": [
+        104.58,
+        -3.15,
+        104.92999999999999,
+        -2.8
+      ],
+      "grid_n": 9,
+      "destinations_csv": "palembang_destinations.csv"
+    }
+  ]
+}

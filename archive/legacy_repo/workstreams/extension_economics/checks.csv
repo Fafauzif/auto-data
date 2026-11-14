@@ -1,0 +1,20 @@
+check_id,claim,observed,expected,passed
+"EE-C01-Scale first, then mix",Accounting terms exactly reconcile,-6024.999999999999,-6025,True
+"EE-C01-Mix first, then scale",Accounting terms exactly reconcile,-6024.999999999999,-6025,True
+EE-C01-Symmetric Shapley average,Accounting terms exactly reconcile,-6024.999999999999,-6025,True
+EE-C02,Shapley term equals average of order-specific terms,-5049.883773030939,-5049.883773030939,True
+EE-C03,Shapley mix equals average of order-specific terms,-975.1162269690604,-975.1162269690604,True
+EE-C04-valid_offer,Same pooled unit-state values under both joint arrangements,"[160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000]","[160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 160000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000, 260000000]",True
+EE-C04-shortfall,Same pooled unit-state values under both joint arrangements,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000, 40000000]",True
+EE-C04-conditional_recovery_before_aggregate,Same pooled unit-state values under both joint arrangements,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000, 15000000]",True
+EE-C05-Losses dispersed across two stress states,Each constructed unit has one low and one high offer across stress states,True,True,True
+EE-C05-Losses synchronized in one stress state,Each constructed unit has one low and one high offer across stress states,True,True,True
+EE-C06-Losses dispersed across two stress statesA,Gross shortfall equals recovery plus dealer residual,400000000,400000000,True
+EE-C06-Losses dispersed across two stress statesB,Gross shortfall equals recovery plus dealer residual,400000000,400000000,True
+EE-C06-Losses synchronized in one stress stateA,Gross shortfall equals recovery plus dealer residual,800000000,800000000,True
+EE-C06-Losses synchronized in one stress stateB,Gross shortfall equals recovery plus dealer residual,0,0,True
+EE-C07,Constructed maximum dealer residual dispersed300m,300000000,300000000,True
+EE-C08,Constructed maximum dealer residual synchronized700m,700000000,700000000,True
+EE-C09,Four Yaris dated estimates total8.5m,8500000,8500000,True
+EE-C10,Four bZ4X dated estimates total9.101m,9101000,9101000,True
+EE-C11,Legacy six-event table ends at recommended month30,30,30,True

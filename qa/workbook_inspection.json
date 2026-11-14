@@ -1,0 +1,85 @@
+{
+  "overview": {
+    "recordCount": 1,
+    "truncated": false,
+    "metadata": {
+      "revision": "fxrddh",
+      "target": {
+        "id": "wb/4322zn",
+        "beforeLines": 0,
+        "afterLines": 0
+      },
+      "kind": {
+        "requested": "table",
+        "tokens": [
+          "table"
+        ]
+      },
+      "include": {
+        "requested": "values,formulas",
+        "tokens": [
+          "values",
+          "formulas"
+        ]
+      },
+      "exclude": {
+        "tokens": []
+      },
+      "notices": []
+    }
+  },
+  "economics": {
+    "recordCount": 1,
+    "truncated": false,
+    "metadata": {
+      "revision": "a8rkw4",
+      "target": {
+        "id": "wb/42cz8t",
+        "beforeLines": 0,
+        "afterLines": 0
+      },
+      "kind": {
+        "requested": "table",
+        "tokens": [
+          "table"
+        ]
+      },
+      "include": {
+        "requested": "values,formulas",
+        "tokens": [
+          "values",
+          "formulas"
+        ]
+      },
+      "exclude": {
+        "tokens": []
+      },
+      "notices": []
+    }
+  },
+  "errors": {
+    "recordCount": 1,
+    "truncated": false,
+    "metadata": {
+      "revision": "8iql8a",
+      "target": {
+        "id": "wb/qae335",
+        "beforeLines": 0,
+        "afterLines": 0
+      },
+      "kind": {
+        "requested": "match",
+        "tokens": [
+          "match"
+        ]
+      },
+      "include": {
+        "tokens": []
+      },
+      "exclude": {
+        "tokens": []
+      },
+      "notices": []
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "filename": "Semifinal Casebook IBSC 2026.pdf",
+  "bytes": 31140159,
+  "sha256": "237a96926c9da3ca8ffc5b4a311dbf41a9e12f6177a65b42e35d1e9a06df72dd",
+  "pages": 19,
+  "source_role": "User supplied competition casebook; primary case baseline, not audited public company accounts",
+  "text_extraction": "original_casebook.txt",
+  "read_status": "Full 19-page extracted text inspected by research agent",
+  "authority": "Original case facts and participant constraints"
+}

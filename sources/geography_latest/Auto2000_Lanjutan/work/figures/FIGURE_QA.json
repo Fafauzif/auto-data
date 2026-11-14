@@ -1,0 +1,133 @@
+{
+  "checks": [
+    {
+      "check": "Same paired origins before/after coordinates",
+      "passed": true,
+      "detail": {
+        "Surabaya": 59,
+        "Medan": 78,
+        "Bandung": 78,
+        "Palembang": 69
+      }
+    },
+    {
+      "check": "Palembang initial tail9",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Owned network removes tail >5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Owned network7parity2residual",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Surabaya two selected branches each11origins",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Opposite gap signs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:01_pembanding_dan_koreksi.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:02_surabaya_dua_mandat.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:03_palembang_kantong_utara.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:04_suci_mengubah_prioritas.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:05_otoxpert_marginal.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:06_operator_alternatif_lokal.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:07_palembang_ox_menutup_gap.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:08_satu_kunjungan_tambahan.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:09_bridge_jakarta_selatan.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:10_robustness_origin_keputusan.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "PNGdecodes:11_sidoarjo_batas_jendela.png",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Registry11figures",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 18,
+  "failed": 0,
+  "visual_review": "All11figures inspected. Fixed panel title overlap, map annotation/tick overlap, legends, changed-origin NaN handling and paired-metric definition. Final access66origins/5604directionalOD.",
+  "access_final_receipt": {
+    "new_directional_od_rows": 5604,
+    "origins": 66,
+    "unique_od_direction_rows": true,
+    "roundtrip_joins": 2802,
+    "max_asymmetry_seconds": 668.0999999999999,
+    "median_asymmetry_seconds": 55.0,
+    "both_directions_acquired": true,
+    "numeric_nonnegative": true,
+    "model": "OSRM publicprofile; hypothetical visit-count/queue scenarios labelled; no observed queue or service duration",
+    "building_origins": 42,
+    "building_max_target_displacement_m": 167.73582409189274,
+    "outbound_minimum_separate_from_roundtrip": true,
+    "source_building_query_bytes": 270953241,
+    "source_building_query_files": 16,
+    "final": true
+  },
+  "figure_hashes": {
+    "03_palembang_kantong_utara.png": "c3fa00c5e1de2ca6203bc88d1c2591c51d0b6b1d56d8eea8a08cc6b8884c0c2a",
+    "02_surabaya_dua_mandat.png": "88119e9a68e83bb5c97dc6f7af659f43822ece391a9c3480e9afe7965e96be1b",
+    "11_sidoarjo_batas_jendela.png": "a168f9aea679a6c4cf90d65956727a16a33ba6f2e96e5b83adb024d5d316a4f4",
+    "07_palembang_ox_menutup_gap.png": "71c33227b40a73b5a576bd8c604ddaccbe1093f316cbc4d1a0dca61f31ae0abf",
+    "05_otoxpert_marginal.png": "e3dac12e3af9bcbb42e37cc3ddfb1e0dc858a3a535252c5d225e2ef43149b6c2",
+    "10_robustness_origin_keputusan.png": "763a29aefbebf97e6b31dda0c9f3de7b886baaa1a420342538647e70ce3d2c9b",
+    "06_operator_alternatif_lokal.png": "57588d890963251c7a2d76c7476c4037f9e749540b761992e8aae10c13cfab3c",
+    "01_pembanding_dan_koreksi.png": "61bac79eded64c46b7e596108ded018c7e373f71b7f92797f8f9e35942e0f5b1",
+    "04_suci_mengubah_prioritas.png": "2934e1e5fdfdf42245b1ec70a34bb823511dbc734dcd9fc2776017eef0c8078a",
+    "08_satu_kunjungan_tambahan.png": "96cd00ca85bc9881679122b3351eaa80340ffd574b7e8230337bbfe496b643cb",
+    "09_bridge_jakarta_selatan.png": "d652d1daed440119350d76853649aecb2b139f0d589ccf805f087772144d7b0b"
+  },
+  "final_inputs": "ACCESS_QA.final=true; 66origins,42buildinganchors,24shifted,5604directionalOD; branchrecompute648rowsinclNaNunknowns"
+}

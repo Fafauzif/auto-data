@@ -1,0 +1,32 @@
+[
+  {
+    "source_file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json",
+    "sha256": "7f6188740bf60f9d71ae7e870c0aa825ca29d94ae3ad10d7da8e950977e98683",
+    "rows": 3147,
+    "cohort": "earlier_jabodetabek_selected_outlets"
+  },
+  {
+    "source_file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json",
+    "sha256": "2272e644c16ae2ec80478c9e5e15cd150d5eb5a6ce88dcccc93b1b007a9c4d78",
+    "rows": 829,
+    "cohort": "earlier_jabodetabek_selected_outlets"
+  },
+  {
+    "source_file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json",
+    "sha256": "0825c9d8ad5fad2ec125a56ae87b78530bd43fe52ab35ce2968a32e0235f7126",
+    "rows": 1915,
+    "cohort": "latest_auto2000_four_markets_since2025"
+  },
+  {
+    "source_file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json",
+    "sha256": "959c485e9eb89f36d93902fa84a2e7269062716fb740352164268ee6b71f8d69",
+    "rows": 932,
+    "cohort": "latest_shopdrive_four_markets_since2025"
+  },
+  {
+    "source_file": "dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json",
+    "sha256": "6c36487244db1c5f33ec778568ee212ac5dc9a0ba1292341b81fdc8adf464bc6",
+    "rows": 1562,
+    "cohort": "lowest_ranking_diagnostic_all_years"
+  }
+]

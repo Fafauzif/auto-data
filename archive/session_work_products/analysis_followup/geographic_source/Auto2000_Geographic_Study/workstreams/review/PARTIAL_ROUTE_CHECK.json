@@ -1,0 +1,11 @@
+{
+  "markets": [
+    "Medan",
+    "Surabaya"
+  ],
+  "od_rows": 45117,
+  "origin_scenario_rows": 324,
+  "all_pair_nearest_comparisons": 648,
+  "errors": [],
+  "review": "Independent reviewer recomputation with csv/stdlib; partial run only"
+}

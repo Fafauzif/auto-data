@@ -1,0 +1,17 @@
+source_id,filename,platform,rows,bytes,sha256,cohort
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390,dataset_Google-Maps-Reviews-Scraper_2026-11-14_10-51-23-390.json,maps,3147,7924884,7f6188740bf60f9d71ae7e870c0aa825ca29d94ae3ad10d7da8e950977e98683,jabodetabek_selected
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774,dataset_Google-Maps-Reviews-Scraper_2026-11-14_11-08-53-774.json,maps,829,2028890,2272e644c16ae2ec80478c9e5e15cd150d5eb5a6ce88dcccc93b1b007a9c4d78,jabodetabek_selected
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471,dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-04-38-471.json,maps,1915,4595712,0825c9d8ad5fad2ec125a56ae87b78530bd43fe52ab35ce2968a32e0235f7126,four_city_auto2000_latest
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895,dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-10-895.json,maps,932,2325520,959c485e9eb89f36d93902fa84a2e7269062716fb740352164268ee6b71f8d69,four_city_shopdrive_latest
+dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259,dataset_Google-Maps-Reviews-Scraper_2026-11-14_12-13-55-259.json,maps,1562,3581446,6c36487244db1c5f33ec778568ee212ac5dc9a0ba1292341b81fdc8adf464bc6,lowest_rating_diagnostic
+dataset_x-tweet-scraper_2026-11-14_09-21-02-237,dataset_x-tweet-scraper_2026-11-14_09-21-02-237.json,x,434,2816573,300a770514ef3a642895bf700791c5d88e49fecf769156aa3bfd1f744da45fff,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-38-04-072,dataset_x-tweet-scraper_2026-11-14_09-38-04-072.json,x,1,10247,aed16a8fd9744334e2ab72dcfc647a1cbd165f7213b0075d7fb5dc8979e33ffe,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-40-55-137,dataset_x-tweet-scraper_2026-11-14_09-40-55-137.json,x,24,206389,8e75ec4b5694761744cb5893386c6afd95d44a8c171e827092a5c6f7223be068,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-41-47-486,dataset_x-tweet-scraper_2026-11-14_09-41-47-486.json,x,25,216636,4e7115c24431ad02bb9aa83104d752284db8bf750e1a2acb672b593ebe617bb0,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-46-07-948,dataset_x-tweet-scraper_2026-11-14_09-46-07-948.json,x,198,1714256,5ffc1e310d55bf24ffbf9691f5fd28751da91dd6aff2234885403169d50e2144,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-53-55-576,dataset_x-tweet-scraper_2026-11-14_09-53-55-576.json,x,309,2608286,2b94c683829f037ef4a11803c32c6183a2c50a5596eeb38cb027272914615d83,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_09-56-07-477,dataset_x-tweet-scraper_2026-11-14_09-56-07-477.json,x,66,534044,6c676a4963b3b96053aedb0be7b610e1c3a832036f6d2cab8cc1a8d99b090014,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_10-08-40-188,dataset_x-tweet-scraper_2026-11-14_10-08-40-188.json,x,3424,19242812,e6d8f3c99fb5b5a45d503e97fd0142ce6bb0bebb3fdadfbc27d90d109c4ceb00,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_10-09-51-533,dataset_x-tweet-scraper_2026-11-14_10-09-51-533.json,x,2003,12597213,c20e0a8e94cc8454b4d7a49c26919b3cfc92bbe636999a5ce2fc6f0d832f98d6,selected_query_run
+dataset_x-tweet-scraper_2026-11-14_10-14-55-218,dataset_x-tweet-scraper_2026-11-14_10-14-55-218.json,x,8408,51608836,b6b7e0e5d20ee48e893dd86eb33c2652904bb587f6fa719747d533246967d392,selected_query_run
+dataset_youtube-comments-scraper_2026-11-14_11-08-14-195,dataset_youtube-comments-scraper_2026-11-14_11-08-14-195.json,youtube,74,41702,89a4736c03db8dc544ed3b12f8b108bc1f4f40f9c3aa674e22cac66b9c28deaa,selected_videos_comments

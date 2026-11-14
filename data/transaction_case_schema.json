@@ -1,0 +1,218 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Proposed Digiroom ownership transaction case",
+  "description": "Design proposal derived from the integrated analysis. This is not an exported operational CRM schema.",
+  "type": "object",
+  "required": [
+    "case_id",
+    "prong",
+    "job_type",
+    "current_state",
+    "events"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "prong": {
+      "enum": [
+        "new_to_auto2000_xev_acquisition",
+        "eligible_paid_aftersales",
+        "repeat_xev_upgrade"
+      ]
+    },
+    "entry_channel": {
+      "enum": [
+        "digiroom",
+        "whatsapp",
+        "phone",
+        "walk_in",
+        "other"
+      ]
+    },
+    "job_type": {
+      "type": "string"
+    },
+    "vehicle_powertrain": {
+      "enum": [
+        "HEV",
+        "PHEV",
+        "BEV",
+        "ICE",
+        "unknown"
+      ]
+    },
+    "customer_relationship": {
+      "enum": [
+        "new_to_auto2000_confirmed",
+        "existing_auto2000_confirmed",
+        "unconfirmed"
+      ]
+    },
+    "identity_reference": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Purpose-bound existing Single ID reference, if authorized and needed. No identity inferred from social handles."
+    },
+    "consented_purposes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "payer_lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "scope_line": {
+            "type": "string"
+          },
+          "payer": {
+            "enum": [
+              "customer",
+              "oem_reimbursement",
+              "warranty",
+              "recall",
+              "prepaid",
+              "mixed",
+              "unknown"
+            ]
+          },
+          "entitlement_checked_at": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          }
+        }
+      }
+    },
+    "destination": {
+      "type": "object",
+      "properties": {
+        "branch_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "operator": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "job_fit_basis": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "parts_readiness": {
+          "enum": [
+            "confirmed",
+            "not_confirmed",
+            "not_applicable"
+          ]
+        },
+        "resource_acceptance": {
+          "enum": [
+            "requested",
+            "accepted",
+            "declined",
+            "unconfirmed"
+          ]
+        },
+        "acknowledged_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "current_state": {
+      "enum": [
+        "requested",
+        "received",
+        "resource_confirmed",
+        "arrived",
+        "scope_authorized",
+        "work_in_progress",
+        "completed",
+        "handover_closed",
+        "cancelled",
+        "escalated"
+      ]
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "state",
+          "timestamp"
+        ],
+        "properties": {
+          "state": {
+            "type": "string"
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "actor_role": {
+            "type": "string"
+          },
+          "scope_version": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "exception_reason": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "economic_outcome": {
+      "type": "object",
+      "description": "Commercial ledger entry only after the relevant recognized outcome. Counterfactual evaluation is separate.",
+      "properties": {
+        "recognized_entity": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "recognized_gp_idr": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "completed_transaction_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "programme_cost_idr": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

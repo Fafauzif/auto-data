@@ -1,0 +1,17 @@
+{
+  "original_logical_path": "archive/legacy_repo/raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv",
+  "original_size_bytes": 100007213,
+  "original_sha256": "1b7a80d5eaedb2a69d0662d2b7d09d5f3bf9e09ea174ffa4ee80c6fda44295a5",
+  "parts": [
+    {
+      "path": "archive/legacy_repo/raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv.parts/part-00001.bin",
+      "size_bytes": 80000000,
+      "sha256": "7a0aca6b91c098300aaaed3e5bc280aa3c3a1164eedf7d80e8c09596274c787c"
+    },
+    {
+      "path": "archive/legacy_repo/raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv.parts/part-00002.bin",
+      "size_bytes": 20007213,
+      "sha256": "84fc3994a94ad63842a0a59617ca99937c3bd21a04a4ccca0deaf2893e9d1862"
+    }
+  ]
+}

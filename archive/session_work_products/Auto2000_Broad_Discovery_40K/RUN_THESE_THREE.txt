@@ -1,0 +1,42 @@
+BROAD AUTOMOTIVE SOCIAL LISTENING: THREE LARGE INPUTS
+Prepared 14 November 2026 for xquik/x-tweet-scraper.
+
+RUN ORDER
+1. 01_SHOWROOM_AND_BUYING_BIG.json: 60 themes x 8 windows = 480 searches, at most 24,000 delivered posts. Result-fee allocation $3.60 at $0.00015 per delivered row.
+2. 02_WORKSHOP_AND_OWNERSHIP_BIG.json: 25 themes x 8 windows = 200 searches, at most 10,000 posts. Allocation $1.50.
+3. 03_REPLACEMENT_AND_TRADEIN_BIG.json: 15 themes x 8 windows = 120 searches, at most 6,000 posts. Allocation $0.90.
+TOTAL: 100 thematic seed searches, 800 dated search targets, at most 40,000 delivered posts, $6.00 in conditional result fees. Dates: 1 January 2025 through 13 November 2026 UTC. The final until boundary is 14 November 00:00 UTC / 07:00 WIB.
+
+Open the exact Actor. Paste the full contents of one numbered JSON into its Input JSON tab, replacing previous input. Run the files sequentially in order 1, 2, 3. No additional preflight round or interim response is required. Do not also run the earlier narrower main inputs for this discovery wave. These are three separate complete inputs, not an array to paste together.
+
+Before the first run, check the rate shown in your own Console and the actual remaining account balance. The public listing checked today says $0.00015 per delivered result, with platform usage billed separately. The $6 event allocation leaves nominal room within the original $10 envelope for earlier consumption, platform usage and contingencies; it does NOT establish your actual remaining balance. If available funds are insufficient for all three plus usage, lower the Console charge caps rather than incur extra spending. This may reduce topic coverage, so retain that fact in the run record.
+
+Set the run's maximum charge setting to the corresponding allocation: $3.60, $1.50, $0.90. These are RUN settings, not extra Actor input JSON fields. Keep a finite timeout; 15 minutes per run is a reasonable initial operating limit for these large inputs, not a tested runtime estimate. Do not automatically restart a timed-out or failed run. Preserve partial results and logs; a restart can repeat already collected results and incur additional cost. Stop further runs if actual usage would exceed your total budget.
+
+At completion, export each dataset as JSON and retain exact submitted input, log, run ID and actual usage. Send all three exports and logs together for combined analysis. There is no need to return between successful runs. If a file fails visibly, do not spend on repeated retries to force its cap.
+
+WHAT IS BROADER
+No Toyota, Auto2000, model or xEV requirement. All brands and powertrains qualify for discovery. We no longer insist on an exact phrase describing a completed purchase before listening. Most searches use one everyday phrase or two simple anchors. The buyer file covers showroom treatment, feeling ignored, sales pressure, independent browsing, household agreement, physical fit, luggage, child seats, demo access, finance, offers, refunds, waiting, handover, positive recommendations and digital exploration.
+
+Service remains a distinct stream because showroom accounts cannot establish paid workshop demand. Its searches cover providers, costs, quality, trust, bookings, queues, parts, protection and repairs. The replacement stream covers retaining/replacing, selling independently, trade-in, appraisal, resale, loan settlement and condition records.
+
+Both favorable and unfavorable experiences remain eligible. There is no minimum likes, followers or verification filter. Links, receipts, screenshots, mentions, replies and quote posts remain eligible. Native reposts are excluded to reduce repeated amplification. No account is excluded in this broader cross-brand wave; corporate publications and promotions remain source-role categories to separate later. Do not produce brand satisfaction rankings from this corpus.
+
+LANGUAGE AND SOURCE SCOPE
+Every query keeps lang:id to reduce the Turkish/Czech spillover observed in Run 1. It does not prove Indonesian residence, exclude every Malay record or guarantee proper classification of code-switching. Some broad anchors such as test drive, showroom, dealer and bengkel can describe motorcycles, furniture or other contexts. That is an intentional recall/precision trade-off in discovery, not permission to treat them as car evidence. Code vehicle and country explicitly; otherwise unknown. No generic hybrid-family search is used, limiting the earlier non-automotive hybrid contamination.
+
+Why eight windows and only 50 results each? Broad anchors such as beli mobil can be dominated by one recent period. Smaller date targets distribute the ceiling across 2025 and 2026. Windows have different lengths and fixed quotas; raw counts do not measure monthly demand or population prevalence. Recent and historical information must be reported separately. Product offers, eligibility and features can change between years.
+
+These searches intentionally overlap. The sum of target quotas is the row ceiling, not a prediction of yield or number of unique posts. Cross-run and cross-pilot duplicates must be removed globally by string post ID, retaining source-run memberships. One incident can produce several posts and one author can write several times. A source_exhausted result does not establish complete coverage of X. Larger row caps do not guarantee more results.
+
+HOW WE WILL ANALYZE THE OUTPUT
+First partition vehicle/market relevance and source role: firsthand experience, shopping consideration, question, advice, seller account, media, operator statement, campaign-like promotion, satire/fiction or unclear. Campaign-like language is a review flag, not proof of sponsorship or falsehood.
+Reconstruct useful decision episodes: need -> options -> uncertainty or obstacle -> interaction -> reported action -> outcome or unresolved status. Code favorable examples and contrary cases alongside complaints. Public claims remain self-reported; missing parents and quotes must be checked for decision-critical examples.
+Keep current vehicle/powertrain, locality, date, job, payer, quote status and retailer purchase history explicit. First car, first EV and first Auto2000 purchase are different. Retaining the current car is a meaningful decision, not an automatic lost conversion. An asking price is not a valid offer or realized sale. Zero customer cash is not zero dealer reimbursement. Recall and safety actions are not discretionary paid upsell.
+Use discovered needs to specify tests for Digiroom. Existing finance/comparison, Hybrid Health Check, trade-in, economical care channels and app-to-branch capabilities in the repository remain the baseline. Competitor accounts generate hypotheses; they do not prove Auto2000 has the same failure or establish incremental sales/GP. Customer interviews, matched real offers and work orders are still needed to establish the commercial effect.
+
+REPRODUCIBILITY
+QUERY_REGISTER.csv contains the 800 requested targets and their families. It is a request register, not recovered output-query provenance or 800 independent findings. BUDGET_AND_SCOPE.json records allocations. GENERATE_INPUTS.py preserves this pack's generation logic in its original workspace; adjust its output-root path elsewhere. JSON parsing, documented field names/enums, date-window continuity, unique strings and total cap arithmetic were checked locally. No paid Actor run has been performed by this pack.
+Reference schema: https://apify.com/xquik/x-tweet-scraper/input-schema
+Pricing: https://apify.com/xquik/x-tweet-scraper/pricing
+Context: user-supplied 14 November strategy and auto-data commit 34498fe033ae4dcd1a52c8d2e039f870b00d08fe. No repository files were changed.

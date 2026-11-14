@@ -1,0 +1,178 @@
+[
+  {
+    "program": "GBSB",
+    "service_event": 1,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 2,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 3,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 4,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 5,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 6,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 7,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 8,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 9,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 10,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "GBSB",
+    "service_event": 11,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 6,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 1,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 2,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 3,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 4,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 5,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 6,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 7,
+    "in_this_base_program_covered_event_window": true,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 8,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 9,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 10,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  },
+  {
+    "program": "T-CARE",
+    "service_event": 11,
+    "in_this_base_program_covered_event_window": false,
+    "program_event_boundary": 7,
+    "data_status": "Structural ordinal comparison, not customer panel or paid-demand forecast",
+    "limitation": "Eligibility, specified work, earlier km/time limits and other cover still apply. Outside this program does not identify payer, invoice or GP."
+  }
+]

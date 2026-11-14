@@ -1,0 +1,164 @@
+[
+  {
+    "file": "figures/providers_surabaya.png",
+    "title": "Published workshop locations in Surabaya",
+    "caption": "Thin grey lines show selected illustrative OSRM routes, not the full road network. Dashed rectangle is the origin-study window, not a city boundary. Blue candidates are Overture automotive records without confirmed Toyota/job capability. Official branch map links are location candidates, not field-verified entrances. Provider points cover the expanded destination window; the inner dashed rectangle defines sampled origins.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/gap_surabaya.png",
+    "title": "Additional modelled travel in Surabaya",
+    "caption": "Screened scenario: origin and destination snap displacement \u2264250 m. Each coloured square is a paired sampled origin; grey crosses have no paired result after screening. No interpolation or customer weighting. Positive values mean the nearest listed Auto2000 destination has a longer modelled route than the nearest mapped repair/service candidate. Comparison is geographic and does not establish equivalent service capability. Fixed colour scale across all markets; values beyond its limits are saturated. This screen changes the paired-origin denominator and does not prove retained coordinates are correct.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_examples_surabaya.png",
+    "title": "Illustrative routed journeys in Surabaya",
+    "caption": "All-routed illustrations, including potentially large snaps. Three origins selected by minimum, median and maximum paired time gap in the all-routed grid. Black stars are snapped route starts; endpoints are returned road-graph positions. A=Auto2000, C=mapped repair/service candidate. Each panel has its own geographic extent. Lines are actual returned illustrative OSRM routes, not the full road network; route-request durations can differ from matrix values. Candidate job/model equivalence remains unverified.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_detail_surabaya.png",
+    "title": "One returned route-pair example in Surabaya",
+    "caption": "Median-gap origin selected from the all-routed scenario. This may fail the \u2264250 m snapping screen, as the annotated displacement shows. Lines are returned OSRM routes; stars are snapped starts. It is a model illustration, not a representative customer journey or an equivalent-job comparison. Three-case maps and exact records remain in the ZIP.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/providers_medan.png",
+    "title": "Published workshop locations in Medan",
+    "caption": "Thin grey lines show selected illustrative OSRM routes, not the full road network. Dashed rectangle is the origin-study window, not a city boundary. Blue candidates are Overture automotive records without confirmed Toyota/job capability. Official branch map links are location candidates, not field-verified entrances. Provider points cover the expanded destination window; the inner dashed rectangle defines sampled origins.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/gap_medan.png",
+    "title": "Additional modelled travel in Medan",
+    "caption": "Screened scenario: origin and destination snap displacement \u2264250 m. Each coloured square is a paired sampled origin; grey crosses have no paired result after screening. No interpolation or customer weighting. Positive values mean the nearest listed Auto2000 destination has a longer modelled route than the nearest mapped repair/service candidate. Comparison is geographic and does not establish equivalent service capability. Fixed colour scale across all markets; values beyond its limits are saturated. This screen changes the paired-origin denominator and does not prove retained coordinates are correct.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_examples_medan.png",
+    "title": "Illustrative routed journeys in Medan",
+    "caption": "All-routed illustrations, including potentially large snaps. Three origins selected by minimum, median and maximum paired time gap in the all-routed grid. Black stars are snapped route starts; endpoints are returned road-graph positions. A=Auto2000, C=mapped repair/service candidate. Each panel has its own geographic extent. Lines are actual returned illustrative OSRM routes, not the full road network; route-request durations can differ from matrix values. Candidate job/model equivalence remains unverified.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_detail_medan.png",
+    "title": "One returned route-pair example in Medan",
+    "caption": "Median-gap origin selected from the all-routed scenario. This may fail the \u2264250 m snapping screen, as the annotated displacement shows. Lines are returned OSRM routes; stars are snapped starts. It is a model illustration, not a representative customer journey or an equivalent-job comparison. Three-case maps and exact records remain in the ZIP.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/providers_bandung.png",
+    "title": "Published workshop locations in Bandung",
+    "caption": "Thin grey lines show selected illustrative OSRM routes, not the full road network. Dashed rectangle is the origin-study window, not a city boundary. Blue candidates are Overture automotive records without confirmed Toyota/job capability. Official branch map links are location candidates, not field-verified entrances. Provider points cover the expanded destination window; the inner dashed rectangle defines sampled origins.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/gap_bandung.png",
+    "title": "Additional modelled travel in Bandung",
+    "caption": "Screened scenario: origin and destination snap displacement \u2264250 m. Each coloured square is a paired sampled origin; grey crosses have no paired result after screening. No interpolation or customer weighting. Positive values mean the nearest listed Auto2000 destination has a longer modelled route than the nearest mapped repair/service candidate. Comparison is geographic and does not establish equivalent service capability. Fixed colour scale across all markets; values beyond its limits are saturated. This screen changes the paired-origin denominator and does not prove retained coordinates are correct.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_examples_bandung.png",
+    "title": "Illustrative routed journeys in Bandung",
+    "caption": "All-routed illustrations, including potentially large snaps. Three origins selected by minimum, median and maximum paired time gap in the all-routed grid. Black stars are snapped route starts; endpoints are returned road-graph positions. A=Auto2000, C=mapped repair/service candidate. Each panel has its own geographic extent. Lines are actual returned illustrative OSRM routes, not the full road network; route-request durations can differ from matrix values. Candidate job/model equivalence remains unverified.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_detail_bandung.png",
+    "title": "One returned route-pair example in Bandung",
+    "caption": "Median-gap origin selected from the all-routed scenario. This may fail the \u2264250 m snapping screen, as the annotated displacement shows. Lines are returned OSRM routes; stars are snapped starts. It is a model illustration, not a representative customer journey or an equivalent-job comparison. Three-case maps and exact records remain in the ZIP.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/providers_palembang.png",
+    "title": "Published workshop locations in Palembang",
+    "caption": "Thin grey lines show selected illustrative OSRM routes, not the full road network. Dashed rectangle is the origin-study window, not a city boundary. Blue candidates are Overture automotive records without confirmed Toyota/job capability. Official branch map links are location candidates, not field-verified entrances. Provider points cover the expanded destination window; the inner dashed rectangle defines sampled origins.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/gap_palembang.png",
+    "title": "Additional modelled travel in Palembang",
+    "caption": "Screened scenario: origin and destination snap displacement \u2264250 m. Each coloured square is a paired sampled origin; grey crosses have no paired result after screening. No interpolation or customer weighting. Positive values mean the nearest listed Auto2000 destination has a longer modelled route than the nearest mapped repair/service candidate. Comparison is geographic and does not establish equivalent service capability. Fixed colour scale across all markets; values beyond its limits are saturated. This screen changes the paired-origin denominator and does not prove retained coordinates are correct.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_examples_palembang.png",
+    "title": "Illustrative routed journeys in Palembang",
+    "caption": "All-routed illustrations, including potentially large snaps. Three origins selected by minimum, median and maximum paired time gap in the all-routed grid. Black stars are snapped route starts; endpoints are returned road-graph positions. A=Auto2000, C=mapped repair/service candidate. Each panel has its own geographic extent. Lines are actual returned illustrative OSRM routes, not the full road network; route-request durations can differ from matrix values. Candidate job/model equivalence remains unverified.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/route_detail_palembang.png",
+    "title": "One returned route-pair example in Palembang",
+    "caption": "Median-gap origin selected from the all-routed scenario. This may fail the \u2264250 m snapping screen, as the annotated displacement shows. Lines are returned OSRM routes; stars are snapped starts. It is a model illustration, not a representative customer journey or an equivalent-job comparison. Three-case maps and exact records remain in the ZIP.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/candidate_filter_retention.png",
+    "title": "Map discovery is not equivalent to a qualified workshop inventory",
+    "caption": "Logarithmic y-axis. Counts cover expanded study windows. Deterministic name/category/confidence/duplicate filters remove many records but do not verify ownership, Toyota fitment or job capability. Exact rules and each exclusion reason are retained in provider_inventory.csv.",
+    "sources": "Overture Maps Places release 2026-10-21.0; this study's documented candidate filters."
+  },
+  {
+    "file": "figures/travel_cdf.png",
+    "title": "Travel-time access by channel",
+    "caption": "All-routed scenario. Cumulative shares use all sampled grid origins as the denominator. Missing or unreachable origins do not become successful access. Curves beyond 60 minutes are outside the display. These grid shares are not population, vehicle-owner or customer shares.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/access_20_minutes.png",
+    "title": "Twenty-minute modelled access",
+    "caption": "All-routed scenario. The threshold is an analytical sensitivity setting, not a validated willingness-to-travel limit. Candidate garages do not have verified Toyota/job equivalence. Finite destination inventory and baseline routing apply.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/snap_sensitivity.png",
+    "title": "Sensitivity to large endpoint snapping",
+    "caption": "The 250 m screen is an analyst-defined coordinate/routing sensitivity, not a diagnosis of wrong coordinates. Its paired-origin denominator may change across scenarios; inspect the accompanying tables.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/gap_distributions.png",
+    "title": "Origin-level travel burdens are uneven within markets",
+    "caption": "All-routed scenario. Boxes show medians and interquartile ranges of paired grid-origin time differences; whiskers use 1.5 IQR. Points are grid calculations, not independent customers or evidence of switching.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/destination_boundary_sensitivity.png",
+    "title": "Administrative-style clipping can hide relevant destinations",
+    "caption": "Nearest means fastest among listed, routable destinations in the expanded window. Outside refers to the origin-study rectangle, not a city boundary. The expanded window is still finite; this diagnostic does not prove all relevant providers are captured.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/origin_snapping.png",
+    "title": "Road snapping is a measurable source of uncertainty",
+    "caption": "Large snapping can reflect inaccessible origin points, network gaps or coordinate placement. It is not automatically source error. The routing tables retain source and destination displacement separately.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/official_oil_alternatives.png",
+    "title": "Documented network offerings sharpen the oil-service comparison",
+    "caption": "Official directory coordinates for Auto2000, OtoXpert and Shop & Drive. Network-level oil/filter advertising provides a stronger service lead than a generic map tag, but Toyota fitment, exact parts, price and current slots remain unconfirmed. These are locations, not exclusive or independent ownership classes. Dashed rectangles are the origin windows; some margin destinations are outside the display.",
+    "sources": "Official Auto2000, OtoXpert and Shop & Drive directories retrieved 14 Nov 2026; network service evidence in sources register."
+  },
+  {
+    "file": "figures/oil_access_comparison.png",
+    "title": "Modelled access to collected advertised oil-service channels",
+    "caption": "All-routed scenario. The specific-service comparator uses the collected official network/local advertised oil-service destinations, not all Overture candidates. It is a finite public-source inventory, not all equivalent workshops. Exact Toyota model/year fitment, parts availability, current price and appointment capacity remain unconfirmed. Grid shares are not customer shares; these are baseline routing times.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs. Shop & Drive official directory and additional advertised-provider evidence in supplemental routing inputs."
+  },
+  {
+    "file": "figures/branch_influence.png",
+    "title": "Focal branch leave-one-out access sensitivity",
+    "caption": "Screened scenario, both endpoints snap \u2264250 m. Three branches per market selected by nearest grid-origin count, with the stated tie-break rule in focal12_branches.csv. Left counts are geographic assignment, not workloads or customers. Right shows the median extra modelled travel only among origins affected by omitting that branch; n is the affected-origin count. Omission is a computational sensitivity, not a closure recommendation or economic estimate.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs."
+  },
+  {
+    "file": "figures/candidate_sensitivity_comparison.png",
+    "title": "Candidate-definition uncertainty changes the travel-burden estimate",
+    "caption": "All-routed scenarios using the same 81 origins per market and frozen OD matrix. Provider confidence is an upstream source score, not audited capability. Explicit car-name selection is a lexical screen, not verified Toyota fitment or job equivalence. Compare magnitude changes rather than treating any candidate rule as ground truth. Main screened maps use a separate \u2264250 m snapping rule.",
+    "sources": "Official Auto2000/OtoXpert directories collected 14 Nov 2026; Overture Places 2026-10-21.0; OSRM retrieval in packaged logs. Derived candidate_sensitivity_summary.csv."
+  }
+]

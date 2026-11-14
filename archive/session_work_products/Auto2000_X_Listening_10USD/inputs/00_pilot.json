@@ -1,0 +1,19 @@
+{
+  "mode": "search",
+  "searchTerms": [
+    "(\"mobil listrik\" OR \"mobil hybrid\") (\"akhirnya pilih\" OR \"akhirnya beli\" OR \"jadi beli\" OR \"batal beli\" OR \"gak jadi beli\" OR \"nggak jadi beli\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Toyota OR Zenix OR Yaris OR \"Corolla Cross\" OR bZ4X) (hybrid OR listrik OR BEV OR PHEV) (beli OR pilih OR pertimbangan OR pengalaman) lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(\"mobil hybrid\" OR \"mobil listrik\" OR \"Zenix hybrid\" OR \"Yaris Cross hybrid\") (DP OR cicilan OR kredit OR leasing OR \"uang muka\" OR \"bunga kredit\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Toyota OR Avanza OR Calya OR Agya OR Rush OR Innova OR Fortuner) (\"bengkel resmi\" OR \"bengkel umum\" OR \"bengkel langganan\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Toyota OR Auto2000 OR \"Auto 2000\") (\"biaya servis\" OR \"biaya service\" OR \"tagihan\" OR \"estimasi biaya\" OR \"tambahan biaya\" OR \"tanpa persetujuan\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Toyota OR Zenix OR \"Yaris Cross\" OR \"Corolla Cross\") (hybrid OR HEV) (servis OR service OR bengkel OR \"health check\" OR \"cek baterai\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(\"Chery E5\" OR \"Omoda E5\" OR \"Chery J6\" OR \"Tiggo Cross CSH\" OR \"Tiggo 8 CSH\") (servis OR service OR bengkel OR baterai OR garansi OR klaim) lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Toyota OR Auto2000 OR \"Auto 2000\" OR Avanza OR Innova OR Fortuner OR Zenix) (\"tukar tambah\" OR \"trade in\" OR \"trade-in\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(\"mobil hybrid\" OR \"mobil listrik\" OR \"Zenix hybrid\" OR \"Yaris Cross hybrid\" OR bZ4X) (\"harga jual\" OR \"harga bekas\" OR depresiasi OR \"jual lagi\" OR \"nilai jual\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14",
+    "(Digiroom OR \"Digi Room\" OR \"Auto2000 app\" OR \"aplikasi Auto2000\" OR \"aplikasi Auto 2000\") lang:id -filter:nativeretweets since:2026-01-01 until:2026-11-14"
+  ],
+  "queryType": "Latest",
+  "maxItems": 1000,
+  "maxItemsPerTarget": 100,
+  "outputVariant": "rich"
+}

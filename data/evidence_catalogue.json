@@ -1,0 +1,790 @@
+[
+  {
+    "evidence_ref": "C1",
+    "type": "original_case",
+    "paths": [
+      "sources/case/Semifinal_Casebook_IBSC_2026.pdf",
+      "analysis/research/original_casebook.txt",
+      "analysis/research/original_case_kpis.csv"
+    ]
+  },
+  {
+    "evidence_ref": "G1",
+    "type": "recomputed_model",
+    "paths": [
+      "analysis/geography/tables/raw_independent_audit.json",
+      "analysis/geography/tables/raw_recomputed_markets.csv"
+    ]
+  },
+  {
+    "evidence_ref": "G2",
+    "type": "recomputed_model",
+    "paths": [
+      "analysis/geography/tables/branch_portfolio.csv",
+      "analysis/geography/tables/market_portfolio.csv",
+      "analysis/geography/tables/raw_branch_checks.csv"
+    ]
+  },
+  {
+    "evidence_ref": "G3",
+    "type": "original_source_map",
+    "paths": [
+      "analysis/geography/GEOGRAPHY_INTEGRATION_REPORT.md",
+      "manifests/source_inventory.jsonl"
+    ]
+  },
+  {
+    "evidence_ref": "S1",
+    "type": "cleaning_metadata",
+    "paths": [
+      "analysis/social/corpus_metrics.json",
+      "analysis/social/source_runs.csv",
+      "analysis/social/record_run_membership.csv"
+    ]
+  },
+  {
+    "evidence_ref": "S2",
+    "type": "selected_accounts",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl",
+      "analysis/social/cleaned/x.jsonl"
+    ]
+  },
+  {
+    "evidence_ref": "S3",
+    "type": "selected_video_comments",
+    "paths": [
+      "analysis/social/youtube_video_summary.csv",
+      "analysis/social/youtube_analyst_annotations.jsonl"
+    ]
+  },
+  {
+    "evidence_ref": "R1",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R1"
+  },
+  {
+    "evidence_ref": "R2",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R2"
+  },
+  {
+    "evidence_ref": "R3",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R3"
+  },
+  {
+    "evidence_ref": "R4",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R4"
+  },
+  {
+    "evidence_ref": "R5",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R5"
+  },
+  {
+    "evidence_ref": "R6",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R6"
+  },
+  {
+    "evidence_ref": "R7",
+    "type": "namespaced_prior_evidence",
+    "paths": [
+      "analysis/research/master_report_reference_crosswalk.json",
+      "analysis/research/legacy_evidence_union.jsonl"
+    ],
+    "crosswalk_key": "R7"
+  },
+  {
+    "evidence_ref": "M01",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT210cVRXZzNTVXhPUXpoaFJrNVFPVzlrZERCTmJWRRAB",
+    "place_id": "ChIJBUhlR43maC4RgnFZR0MEcFE"
+  },
+  {
+    "evidence_ref": "M02",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2poUVJXRnRiMVZrUjFSSU4wcFdNMVpHVGxBMWExRRAB",
+    "place_id": "ChIJC6tmIjguMTARaNNvdrUZf10"
+  },
+  {
+    "evidence_ref": "M03",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVFXTnFjM0puV1U5RFVFVTFVR1JOTlhGbk9FRRAB",
+    "place_id": "ChIJj1x9rHkxMTARmjmVXxb5GgQ"
+  },
+  {
+    "evidence_ref": "M04",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSU9GcFdTakpWVld4eFgzQlZPV3BUTjI0NWNGRRAB",
+    "place_id": "ChIJKaNhBPWdOy4RMK7FpOXscbg"
+  },
+  {
+    "evidence_ref": "M05",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSUR2M1lTMmdnRRAB",
+    "place_id": "ChIJV_CVLT_61y0RwXcBTtvcj0M"
+  },
+  {
+    "evidence_ref": "M06",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVk1ITTRkVnBNVDBsTlZrcEtNamcwYTFWSVUxRRAB",
+    "place_id": "ChIJKaNhBPWdOy4RMK7FpOXscbg"
+  },
+  {
+    "evidence_ref": "M07",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT21odWEweHNhVUpZV25sRWQwNDBRVkZ1TlcxblkwRRAB",
+    "place_id": "ChIJV_CVLT_61y0RwXcBTtvcj0M"
+  },
+  {
+    "evidence_ref": "M08",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSUR1MGJqMmxnRRAB",
+    "place_id": "ChIJue527f3paC4RWh2tx_qoE3U"
+  },
+  {
+    "evidence_ref": "M09",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKemJqbHphSEZUVVRjNWFEUlNhV3B3YlRSSWVGRRAB",
+    "place_id": "ChIJue527f3paC4RWh2tx_qoE3U"
+  },
+  {
+    "evidence_ref": "M10",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSUNyc1p2QzRBRRAB",
+    "place_id": "ChIJKaNhBPWdOy4RMK7FpOXscbg"
+  },
+  {
+    "evidence_ref": "M11",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChZDSUhNMG9nS0VJQ0FnSUNScmRESVdBEAE",
+    "place_id": "ChIJrzNXr5pzOy4R1lQjVZCr8yk"
+  },
+  {
+    "evidence_ref": "M12",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNE1WUlRibmhqVW5NMU5USkVZVXRQTWxFdFNtYxAB",
+    "place_id": "ChIJv51mMe_xaS4RV_I_75Nvssk"
+  },
+  {
+    "evidence_ref": "M13",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChRDSUhNMG9nS0VJQ0FnTURRMjdrWhAB",
+    "place_id": "ChIJv51mMe_xaS4RV_I_75Nvssk"
+  },
+  {
+    "evidence_ref": "M14",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChZDSUhNMG9nS0VJQ0FnSURHOGJxZVh3EAE",
+    "place_id": "ChIJj1x9rHkxMTARmjmVXxb5GgQ"
+  },
+  {
+    "evidence_ref": "M15",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNk1tZE1ia3B3WjJJd1dFcGpNQzFCTkV0aWNFRRAB",
+    "place_id": "ChIJBUhlR43maC4RgnFZR0MEcFE"
+  },
+  {
+    "evidence_ref": "M16",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUlYzVXRNRlpJUTJoWWFVeFpjRVZ2UlRKSE0zYxAB",
+    "place_id": "ChIJBUhlR43maC4RgnFZR0MEcFE"
+  },
+  {
+    "evidence_ref": "M17",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT20welpVeDZaMXBKVUc1Nk0xVnBlWEZ6UzBKNmVsRRAB",
+    "place_id": "ChIJC6tmIjguMTARaNNvdrUZf10"
+  },
+  {
+    "evidence_ref": "M18",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTWR6Tm9ObkIwV0hORVFVOWpaSEo0VFV3MFNHYxAB",
+    "place_id": "ChIJZ32DkRf71y0RTGjgMFPlW3A"
+  },
+  {
+    "evidence_ref": "M19",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU2FtWldkMnhmTlZkclRreE9Wbkp3ZUVWSFpYYxAB",
+    "place_id": "ChIJV_CVLT_61y0RwXcBTtvcj0M"
+  },
+  {
+    "evidence_ref": "M20",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2xad1IwYzVhVEIyVjBWWFlsRnpkSFJsYm1GT04zYxAB",
+    "place_id": "ChIJV_CVLT_61y0RwXcBTtvcj0M"
+  },
+  {
+    "evidence_ref": "M21",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChZDSUhNMG9nS0VJQ0FnSURqbDhDVU1REAE",
+    "place_id": "ChIJC6tmIjguMTARaNNvdrUZf10"
+  },
+  {
+    "evidence_ref": "M22",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMmFtMHpXa3R3ZURaelpVVjZjREp4Ym5WRU1uYxAB",
+    "place_id": "ChIJxdHWEVDzaS4RPlMKsUCSxsU"
+  },
+  {
+    "evidence_ref": "M23",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkR2NrMDVhVmRMVGw5cU1VNWlZMUJrTkdGWFVGRRAB",
+    "place_id": "ChIJxdHWEVDzaS4RPlMKsUCSxsU"
+  },
+  {
+    "evidence_ref": "M24",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMlNHNTVXRkpVU0VkTVZucEZlVTlHUmxoTU9GRRAB",
+    "place_id": "ChIJmw5166GNaS4RXgzfZ-a4Vn4"
+  },
+  {
+    "evidence_ref": "M25",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoS1NrOVhNWFF6YUMxNU5UZEJkaTFFWmxSdU9YYxAB",
+    "place_id": "ChIJw_cxiT_paC4RfDFyghr_5uM"
+  },
+  {
+    "evidence_ref": "M26",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChZDSUhNMG9nS0VJQ0FnTURBd3RhZkFnEAE",
+    "place_id": "ChIJnRfcxFD71y0RqTVxUsY-4Ng"
+  },
+  {
+    "evidence_ref": "M27",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNVQxcFdZMEoyZUVsNE5YZE9kbXRyWjFOTFVtYxAB",
+    "place_id": "ChIJVQQpYbR2Oy4RYTivGzs9MMY"
+  },
+  {
+    "evidence_ref": "M28",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMGRXTmFURWMzYlVGcE4yeENXWEo0UzJVNU9HYxAB",
+    "place_id": "ChIJVQQpYbR2Oy4RYTivGzs9MMY"
+  },
+  {
+    "evidence_ref": "M29",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMmVqUmZSRU5KZWpOb1lVUnZibkZDYW1zeGExRRAB",
+    "place_id": "ChIJnRfcxFD71y0RqTVxUsY-4Ng"
+  },
+  {
+    "evidence_ref": "M30",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKb2RrcGpNbWhWY2s1NE9GOTZkM1F6YVdrelNVRRAB",
+    "place_id": "ChIJnRfcxFD71y0RqTVxUsY-4Ng"
+  },
+  {
+    "evidence_ref": "M31",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSUNScmFiVDF3RRAB",
+    "place_id": "ChIJrzNXr5pzOy4R1lQjVZCr8yk"
+  },
+  {
+    "evidence_ref": "M32",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbWRscEJSbUpwZGs5U2RrSlJOMTlMYkV4T2FsRRAB",
+    "place_id": "ChIJZ32DkRf71y0RTGjgMFPlW3A"
+  },
+  {
+    "evidence_ref": "M33",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSUNxNXB5X3Z3RRAB",
+    "place_id": "ChIJZ32DkRf71y0RTGjgMFPlW3A"
+  },
+  {
+    "evidence_ref": "M34",
+    "type": "selected_maps_account",
+    "paths": [
+      "analysis/social/maps_deep/curated_maps_evidence.json"
+    ],
+    "record_id": "ChdDSUhNMG9nS0VJQ0FnSURuN05fOTBBRRAB",
+    "place_id": "ChIJZ32DkRf71y0RTGjgMFPlW3A"
+  },
+  {
+    "evidence_ref": "SX01",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "1988319241666441699"
+  },
+  {
+    "evidence_ref": "SX02",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2003711716526563346"
+  },
+  {
+    "evidence_ref": "SX03",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2034986684908281886"
+  },
+  {
+    "evidence_ref": "SX04",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "1899585834845962351"
+  },
+  {
+    "evidence_ref": "SX05",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2067793260903645526"
+  },
+  {
+    "evidence_ref": "SX06",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2068876979131355331"
+  },
+  {
+    "evidence_ref": "SX07",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2068881419091542064"
+  },
+  {
+    "evidence_ref": "SX08",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2097968572232609912"
+  },
+  {
+    "evidence_ref": "SX09",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "1969347534247071968"
+  },
+  {
+    "evidence_ref": "SX10",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2068240559026954670"
+  },
+  {
+    "evidence_ref": "PILOT_C01",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2049810646704013512"
+  },
+  {
+    "evidence_ref": "PILOT_C02",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2068999183290523945"
+  },
+  {
+    "evidence_ref": "PILOT_C03",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2063092512814956729"
+  },
+  {
+    "evidence_ref": "PILOT_C04",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2078826616005018077"
+  },
+  {
+    "evidence_ref": "PILOT_C05",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2016791056826925086"
+  },
+  {
+    "evidence_ref": "PILOT_C06",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2016790363852374438"
+  },
+  {
+    "evidence_ref": "PILOT_C07",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2121182184698675449"
+  },
+  {
+    "evidence_ref": "PILOT_C08",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2068881419091542064"
+  },
+  {
+    "evidence_ref": "PILOT_C09",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2019662611365916830"
+  },
+  {
+    "evidence_ref": "PILOT_C10",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2060397962019418305"
+  },
+  {
+    "evidence_ref": "PILOT_C11",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2057054771178340840"
+  },
+  {
+    "evidence_ref": "PILOT_C12",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2022612864893358106"
+  },
+  {
+    "evidence_ref": "PILOT_C13",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2030456418005029373"
+  },
+  {
+    "evidence_ref": "PILOT_C14",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2031187982250872835"
+  },
+  {
+    "evidence_ref": "PILOT_C15",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2079236915660984632"
+  },
+  {
+    "evidence_ref": "PILOT_C16",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2039246881386365108"
+  },
+  {
+    "evidence_ref": "PILOT_C17",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2044236490885214623"
+  },
+  {
+    "evidence_ref": "PILOT_C18",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2065091258612392243"
+  },
+  {
+    "evidence_ref": "PILOT_C19",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2086334255047856413"
+  },
+  {
+    "evidence_ref": "PILOT_C20",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2039259261071716597"
+  },
+  {
+    "evidence_ref": "PILOT_C21",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2036228623557075259"
+  },
+  {
+    "evidence_ref": "PILOT_C22",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2044218888720928893"
+  },
+  {
+    "evidence_ref": "PILOT_C23",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2098306411902230541"
+  },
+  {
+    "evidence_ref": "PILOT_C24",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2075051820364566707"
+  },
+  {
+    "evidence_ref": "PILOT_C25",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2046495968766644545"
+  },
+  {
+    "evidence_ref": "PILOT_C26",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2078741603662078325"
+  },
+  {
+    "evidence_ref": "PILOT_C27",
+    "type": "selected_x_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "2064271614028677183"
+  },
+  {
+    "evidence_ref": "SY06",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "Ugx1gHnDHm3utVgTu-F4AaABAg"
+  },
+  {
+    "evidence_ref": "SY02",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgxCY9rAOypo_Qc9iRZ4AaABAg"
+  },
+  {
+    "evidence_ref": "SY05",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgxDyU5itR1nPBIx2u94AaABAg"
+  },
+  {
+    "evidence_ref": "SY03",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgxRfRERl5YxHfDQRmp4AaABAg"
+  },
+  {
+    "evidence_ref": "SY04",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "Ugxhpwx85X4Cn7LzmTt4AaABAg"
+  },
+  {
+    "evidence_ref": "SY08",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgyR_0kEx2h68i04KGl4AaABAg"
+  },
+  {
+    "evidence_ref": "SY07",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgyXIT_9H0GbQHIhpzl4AaABAg"
+  },
+  {
+    "evidence_ref": "SY01",
+    "type": "selected_youtube_account",
+    "paths": [
+      "analysis/social/curated_social_evidence.jsonl"
+    ],
+    "record_id": "UgzHqp507BS99rKy69d4AaABAg"
+  }
+]

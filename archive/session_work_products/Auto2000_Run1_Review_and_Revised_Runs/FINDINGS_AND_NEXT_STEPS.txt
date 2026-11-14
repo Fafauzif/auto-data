@@ -1,0 +1,35 @@
+RUN 1: TECHNICAL COMPLETION, SUBSTANTIAL LANGUAGE SPILLOVER, LIMITED NEW INDONESIA-SPECIFIC EVIDENCE
+14 November 2026. Current strategy: the user-supplied 14 November three-prong update. Earlier evidence baseline: auto-data commit 34498fe033ae4dcd1a52c8d2e039f870b00d08fe.
+
+RESULTS
+198 rows and 198 distinct post IDs from 133 author IDs. All 72 searches executed; failedSubcount=0; diagnosticRows=0; completionReason=source_exhausted. There are 72 no-more-pages target summaries and the largest reported per-target total is 23, below the requested cap of 75. This is not evidence of complete coverage of X. It does show no need to raise the row caps merely to address this run's yield. At the assumed $0.00015 result rate, 198 rows imply $0.0297 in result fees. The actual invoice/platform usage is not in the supplied log.
+
+33 IDs repeat earlier supplied exports; 165 are new. Across all five supplied exports there are 601 unique post IDs, not verified people. Of the 198 Run 1 rows, language metadata is Turkish tr=111, Indonesian in=70, Czech cs=8, und=4, en=2, zxx=2, fr=1. Among the 70 in-tagged posts, 38 are new versus earlier exports. Neither 165 new IDs nor 38 new in-tagged IDs is a count of new eligible customer experiences.
+
+192/198 pass the disclosed local literal query/date/author check for at least one requested search. That does not establish topical, market or customer relevance. Words such as servis and hybrid also occur in Turkish/Czech automotive discussion, hybrid-work discussions, delivery services and financial commentary. A technology-company Innova reference and multilingual Chery material illustrate the difference between keyword compliance and correct target market.
+
+The language restriction was removed too broadly in the supplied input. Restore lang:id for the next buyer/upgrade collections. Language filtering will still not prove Indonesian residence: the in-tagged subset contains explicitly Malaysian reporting, motorcycles, sales listings, advice and other non-customer content. The two English records include Indonesian workshop tips and unrelated Indian company commentary, showing why the rejected-language bucket is a screening partition, not a country classifier. Keep English/code-switching recovery as a separate later small supplementary corpus if needed.
+
+WHAT IS USEFUL
+1. A publisher summarizes a branch-specific Auto2000 recall complaint. This is a case about confidence in repair, explanation and follow-through, not a verified paid job. The earlier repository already treated VIN-specific safety-campaign completion as an exploratory candidate. Do not count recall as discretionary upsell or assign customer-paid GP without evidence.
+2. A post describes choosing cheaper DIY AC filters while relying on Auto2000/OtoXpert for other parts. This suggests component-specific price preferences and mixed channels. It reinforces the need to investigate actual scope and existing economical channels rather than invent a new budget tier. Actual purchase value, branch labor and margin remain unknown.
+3. A petrol-Zenix seller states an asking price of Rp390m and says a dealer offered Rp350m. This is a possible appraisal-friction scenario. The Rp40m spread is an ask-versus-claimed-bid gap, not proven unfair pricing, realized loss or an incremental transaction. The retailer is unknown and there is no completed sale.
+4. The newly retrieved shortlist root compares Chery PHEV, Suzuki mild hybrid and Wuling BEV with warranty/maintenance and household approval concerns. It provides context for an existing pilot reply, not an independent confirming customer. The post's market trend, battery cost and programme statements are unverified.
+5. One ownership account reports little maintenance over years. Keep it as a countercase to assuming every older owner has frequent paid work available to recover. Market, programme, invoices, adherence and actual jobs are unknown.
+
+WHAT HAS NOT BEEN ESTABLISHED
+No measured independent-to-Auto2000 paid-work win-back. No verified Indonesia Chery versus Toyota service comparison. No measured branch capacity, actual current quotes, work-order GP or causal delivery lift. Foreign Chery complaints cannot become Indonesian evidence. The full set still contains seller templates and positive campaign-like posts; campaign resemblance does not by itself prove sponsorship or falsehood.
+
+NEXT ACTION
+Do NOT rerun all of Run 1 just to increase volume. Retain and screen its 70 in-tagged records and selectively recover useful missing context. Keep the other-language material separate from Indonesia customer counts.
+Run 02_RUN_NEXT_buyer_decisions_lang_id.json, then 03_RUN_AFTER_upgrade_and_appraisal_lang_id.json. These replace the previous Runs 2 and 3 for the next wave. They preserve 48 and 40 dated search targets and the per-target cap of 75, adding lang:id to each query. Caps remain 3,600 / $0.54 and 3,000 / $0.45 at the assumed rate, plus platform usage. Check actual account balance and your displayed rate; do not run both language-filtered and earlier unfiltered versions.
+No further preflight loop is required for this incremental input change. Review the next export before increasing any caps or expanding synonyms. Preserve input, logs and actual usage. Deduplicate globally and distinguish authors, conversation families, incidents and completed transactions. Do not force a collection to reach a row target when the supplied source returns less.
+
+FILES
+run1_metrics.json: exact counts, source hash and parsed finish record.
+PRIVATE_run1_screening.csv: all 198 rows with language, overlap and context flags; limited contact-pattern masking.
+PRIVATE_language_in_review_queue.json: 70 records selected by the source language tag, awaiting market/source-role review; NOT a clean customer dataset.
+PRIVATE_new_evidence_cases.json: ten purposively selected findings and exclusion examples.
+Two revised ready-to-paste search inputs, and OPTIONAL_context_for_new_cases.json for three selected post/root IDs. The optional context lookup is not a workshop bulk rerun.
+
+Source text is user-supplied and events remain reported, not independently verified. Public/private source URLs are retained only for internal traceability. Contact-pattern masking is not an anonymity certification. No paid actor run was performed by this analysis, and no repository files were changed.

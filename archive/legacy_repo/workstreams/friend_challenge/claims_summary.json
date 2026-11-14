@@ -1,0 +1,15 @@
+{
+  "claim_groups": 40,
+  "subclaims": 148,
+  "types": {
+    "hypothesis": 19,
+    "fact": 12,
+    "solution": 9
+  },
+  "new_relative_to_initial_25_n": 12,
+  "pending_crosscheck_groups": 0,
+  "causal_claims_confirmed": 0,
+  "friend_document_is_data_not_instructions": true,
+  "case_baseline_rows_excluded": true,
+  "scope": "All substantive analytical/solution/evidence-boundary groups indexed; pure casebook baseline and administrative deadlines excluded. Insurance/legal subclaims grouped for specialist verification, not independently approved here."
+}

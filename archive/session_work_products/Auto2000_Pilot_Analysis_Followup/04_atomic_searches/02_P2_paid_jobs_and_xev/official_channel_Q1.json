@@ -1,0 +1,8 @@
+{
+  "mode": "search",
+  "twitterContent": "\"Toyota\" \"bengkel resmi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-01-01 until:2026-04-01",
+  "queryType": "Latest",
+  "maxItems": 200,
+  "maxItemsPerTarget": 200,
+  "outputVariant": "rich"
+}

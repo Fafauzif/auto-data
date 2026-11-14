@@ -1,0 +1,24 @@
+field,rule
+record_id,Post ID preserved as a string; one unique post can have several prong labels.
+author_id_private,Pseudonymous author key for counts; keep raw identifiers private.
+conversation_id,Thread ID where available; retain context before interpreting replies.
+experience_type,self_reported_experience / consideration / advice / hearsay / media / official / dealer_promotion / unclear
+prong_tags,P1 / P2_petrol_paid / P2_xEV_support / P3 / shared_handoff; allow multiple tags.
+auto2000_purchase_history,explicit_no_prior_purchase / explicit_prior_purchase / unknown; first EV is a different variable.
+powertrain,ICE / HEV / PHEV / BEV / ambiguous; retain exact model and variant evidence.
+brand_model_variant,Record exactly what is stated; do not classify every Zenix or Yaris Cross as hybrid.
+location_evidence,Explicit city/branch / indirect / absent; Indonesian language alone is not proof of residence.
+journey_stage,consideration / quote / confirmed_test_drive / attended_test_drive / SPK / delivery / requested_booking / confirmed_slot / attendance / work_completed / claim_resolved / appraisal / valid_trade_offer / trade_completed / unknown
+reported_outcome,Separate observed post text from claimed offline events; offline completion remains self-reported.
+previous_provider,Auto2000 / other_Toyota_dealer / independent / other_brand / unknown
+alternative_considered,Competing car/dealer/garage/channel or postpone/retain; unknown if unstated.
+friction_or_enabler,price / finance / household_fit / charging / stock / demo / advisor_response / quote_scope / extra_work_approval / time / capability / parts / warranty / appraisal / trust / convenience / other
+service_job,"Record job, powertrain, mileage/age and whether paid, covered or unknown."
+payer_and_economics,customer / OEM_programme / warranty / insurer / unknown; no GP inference from customer bill alone.
+sentiment_target,Identify target and mixed/positive/negative/neutral/unclear; sentiment alone is not the mechanism.
+resolution,resolved / unresolved / pending / unknown; distinguish reassurance from an actual completed job.
+counterevidence,"Evidence that weakens a proposed solution, plus competing explanation."
+interpretation,What the account suggests and what evidence is still needed.
+evidence_excerpt_private,Short contextual excerpt for internal review; anonymize public case illustrations.
+source_url,Original post link and collection date for internal traceability.
+review_status,AI_suggested / checked_against_post / context_missing / ambiguous; AI agreement is not human validation.

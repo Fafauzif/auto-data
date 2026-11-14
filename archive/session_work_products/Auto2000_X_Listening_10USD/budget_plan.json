@@ -1,0 +1,39 @@
+{
+  "actor": "xquik/x-tweet-scraper",
+  "budget_usd": 10,
+  "assumed_event_price_usd": 0.00015,
+  "event_price_must_be_checked_in_console": true,
+  "collection_plan": [
+    {
+      "run": "00_pilot",
+      "maximum_rows": 1000,
+      "event_fee_upper_bound_usd": 0.15
+    },
+    {
+      "run": "01_first_time_buyers",
+      "maximum_rows": 12000,
+      "event_fee_upper_bound_usd": 1.8
+    },
+    {
+      "run": "02_workshop_and_xev_support",
+      "maximum_rows": 18000,
+      "event_fee_upper_bound_usd": 2.7
+    },
+    {
+      "run": "03_repeat_purchase",
+      "maximum_rows": 10000,
+      "event_fee_upper_bound_usd": 1.5
+    },
+    {
+      "run": "04_digital_handoff",
+      "maximum_rows": 4000,
+      "event_fee_upper_bound_usd": 0.6
+    }
+  ],
+  "adaptive_followup_maximum_rows": 5000,
+  "adaptive_followup_event_fee_usd": 0.75,
+  "total_event_row_ceiling": 50000,
+  "total_event_fees_usd": 7.5,
+  "platform_and_contingency_reserve_usd": 2.5,
+  "warning": "These are conditional event-fee ceilings, not guaranteed yields or a guaranteed all-in cost. Check actual cumulative usage after every run. No scraping has been executed."
+}

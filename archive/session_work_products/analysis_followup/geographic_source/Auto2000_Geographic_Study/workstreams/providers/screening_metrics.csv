@@ -1,0 +1,16 @@
+market,role,core_area_km2,source_automotive_records,candidate_with_margin,core_candidates,core_candidates_per100km2,explicit_car_name_core_candidates,high_confidence_0_9_core_candidates,ambiguous_motor_name_core_candidates,candidate_with_website,all_source_auto2000_name_records,all_source_otoxpert_name_records,verified_Toyota_job_records
+Surabaya,deep_dive,488.5,4156,330,246,50.36,50,48,35,168,25,1,0
+Medan,deep_dive,464.4,2709,205,191,41.13,38,52,16,89,52,1,0
+Bandung,deep_dive,477.89,4487,293,260,54.41,51,61,38,144,25,1,0
+Palembang,deep_dive,443.77,1580,77,75,16.9,21,14,10,33,15,1,0
+Jabodetabek,screening,9359.86,23198,1818,1818,19.42,375,392,367,916,124,6,0
+Bandar Lampung,screening,926.52,1089,76,76,8.2,25,13,9,41,12,0,0
+Balikpapan,screening,959.9,665,48,48,5.0,15,7,5,19,17,0,0
+Banjarmasin,screening,862.68,625,34,34,3.94,9,4,5,16,3,0,0
+Samarinda,screening,999.46,1047,67,67,6.7,18,21,7,31,4,1,0
+Pekanbaru,screening,1107.78,1958,122,122,11.01,25,30,19,44,0,2,0
+Padang,screening,923.07,701,54,54,5.85,6,4,13,15,17,0,0
+Cirebon,screening,646.8,810,68,68,10.51,24,18,13,32,3,0,0
+Malang,screening,701.12,1271,100,100,14.26,31,23,11,49,5,1,0
+Jember,screening,914.05,384,30,30,3.28,14,7,2,16,2,0,0
+Kediri,screening,914.86,522,37,37,4.04,16,8,3,16,4,0,0

@@ -1,0 +1,28 @@
+NEXT STEP: CONTROLLED THREE-PRONG COLLECTION
+Prepared 14 November 2026; supplements the existing pilot analysis.
+
+WHAT THE NEW CHECKS SHOW
+Single workshop search: 24 posts, 15 author IDs.
+Batch control: exactly those same 24 post IDs plus the same unrelated DigiroomCRTV post seen in the prior single Digiroom check. No workshop IDs were lost or added in this batch comparison.
+The simple local checker found 22/24 workshop posts contained both required terms in their own text. The two remaining posts discuss vehicle parts or workshop/insurance matters but do not explicitly contain Toyota. This is 91.7% literal compliance, not a validated customer-experience precision rate.
+The returned set includes advice, news, three retellings of the same Alphard incident, three vehicle-sale listings, a dealer giveaway and some self-reported service/provider accounts. Do not count all 24 as customers or independent experiences.
+23/24 workshop posts were already present in the 434-post pilot. The sole additional post is generic English-language workshop advice. This was a retrieval control, not 24 new independent findings.
+Both supplied logs report source_exhausted with no next cursor and no diagnostic rows. Batch logs report two executed terms and failedSubcount 0. This is evidence about the actor's supplied response, not complete coverage of X or proof that every later query will behave identically.
+
+DECISION
+Proceed with the THREE capped main files in this folder, sequentially. They replace the earlier larger files for the next wave. Do not run both old and new versions, and do not also run their equivalent atomic searches. Leave the Digiroom-only bulk search aside; its observed yield was an unrelated account.
+
+1. 01_RUN_FIRST_workshop_and_xev.json: 72 dated targets x 75 = 5,400 posts, $0.81 result fees at $0.00015 per delivered row.
+2. 02_RUN_SECOND_buyer_decisions.json: 48 dated targets x 75 = 3,600 posts, $0.54 result fees.
+3. 03_RUN_THIRD_upgrade_and_appraisal.json: 40 dated targets x 75 = 3,000 posts, $0.45 result fees.
+Combined ceiling: 12,000 delivered posts / $1.80 result fees. Platform usage is additional, and actual account balance is unknown. These are limits, not predicted yields or unique-post counts.
+
+The lower per-target cap keeps coverage spread across the supplied topics and four 2026 date windows. All files retain simple mandatory quoted terms, Latest order, the two dominant brand-author exclusions and no language filter. No main paid run has been executed by this analysis. Most other topic queries have not individually been tested; inspect the first main export before committing to the next one.
+
+In Console, check your displayed rate and set the run's event-charge ceiling to the file allocation above. This is a run setting, not an extra input JSON key. Watch total usage, including platform consumption. Start with file 01; inspect the first main export for relevance and repeated templates before files 02 and 03. If file 01 is dominated by unrelated material, stop and refine rather than spend the remaining allocations.
+
+Keep positive accounts, failures and contrary cases. Separate person-reported experiences from advice, media, seller listings, official promotions and fiction. Keep ICE/HEV/PHEV/BEV, job, payer, location and reported outcome explicit. Prior Auto2000 purchase history remains unknown unless stated. Recover missing context for decision-critical cases using the earlier supplied context inputs.
+
+Export JSON, exact submitted input, log, run ID and actual usage after each run. Deduplicate against the original pilot and all earlier checks. Repeated news versions of one incident are a single incident family. Posts, authors, conversations, app-store reviews and repository narrative annotations are different units and must not be added as a unique customer total.
+
+The 14 November strategy remains current. Repository auto-data commit 34498fe033ae4dcd1a52c8d2e039f870b00d08fe supplies the earlier evidence baseline. Nothing here establishes completed Auto2000 transactions, switching prevalence or incremental GP.

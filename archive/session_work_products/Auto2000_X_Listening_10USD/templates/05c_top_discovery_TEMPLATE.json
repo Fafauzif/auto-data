@@ -1,0 +1,10 @@
+{
+  "mode": "search",
+  "searchTerms": [
+    "REPLACE_WITH_A_VALIDATED_UNDERSAMPLED_QUERY_WITH_DATE_BOUNDS"
+  ],
+  "queryType": "Top",
+  "maxItems": 2000,
+  "maxItemsPerTarget": 250,
+  "outputVariant": "rich"
+}

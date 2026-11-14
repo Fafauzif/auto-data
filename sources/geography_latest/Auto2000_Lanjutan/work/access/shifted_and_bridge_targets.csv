@@ -1,0 +1,43 @@
+market,case,baseline_origin_id,baseline_longitude,baseline_latitude,baseline_oil_gap_minutes,baseline_nearest_branch,baseline_auto2000_seconds,baseline_oil_seconds,origin_id,origin_type,longitude,latitude
+Surabaya,AYani,g00_00,112.6511111111111,-7.368888888888889,-0.96,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,495.2,552.8,shift_AYani_00,half_cell_shift,112.66222222222221,-7.357777777777778
+Surabaya,AYani,g01_00,112.67333333333333,-7.368888888888889,-0.96,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,511.3,568.9,shift_AYani_01,half_cell_shift,112.68444444444444,-7.357777777777778
+Surabaya,AYani,g02_01,112.69555555555556,-7.346666666666667,-0.96,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,404.5,462.1,shift_AYani_02,half_cell_shift,112.70666666666666,-7.335555555555556
+Surabaya,AYani,g03_01,112.71777777777778,-7.346666666666667,-0.96,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,198.4,256.0,shift_AYani_03,half_cell_shift,112.72888888888889,-7.335555555555556
+Surabaya,AYani,g02_02,112.69555555555556,-7.3244444444444445,0.818333333333,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,710.6,661.5,shift_AYani_04,half_cell_shift,112.70666666666666,-7.3133333333333335
+Surabaya,AYani,g05_01,112.76222222222222,-7.346666666666667,5.308333333333,Auto2000 Surabaya A. Yani - Dealer dan Bengkel Resmi Toyota,565.3,246.8,shift_AYani_05,half_cell_shift,112.77333333333333,-7.335555555555556
+Surabaya,Kertajaya,g06_03,112.78444444444445,-7.302222222222222,-0.901666666667,Auto2000 Kertajaya,237.9,292.0,shift_Kertajaya_06,half_cell_shift,112.79555555555555,-7.291111111111111
+Surabaya,Kertajaya,g05_04,112.76222222222222,-7.279999999999999,1.08,Auto2000 Kertajaya,161.7,96.9,shift_Kertajaya_07,half_cell_shift,112.77333333333333,-7.268888888888888
+Surabaya,Kertajaya,g07_04,112.80666666666667,-7.279999999999999,2.133333333333,Auto2000 Kertajaya,391.1,263.1,shift_Kertajaya_08,half_cell_shift,112.81777777777778,-7.268888888888888
+Surabaya,Kertajaya,g06_02,112.78444444444445,-7.3244444444444445,3.445,Auto2000 Kertajaya,413.3,206.6,shift_Kertajaya_09,half_cell_shift,112.79555555555555,-7.3133333333333335
+Surabaya,Kertajaya,g07_00,112.80666666666667,-7.368888888888889,5.516666666667,Auto2000 Kertajaya,899.5,568.5,shift_Kertajaya_10,half_cell_shift,112.81777777777778,-7.357777777777778
+Surabaya,Kertajaya,g06_01,112.78444444444445,-7.346666666666667,6.791666666667,Auto2000 Kertajaya,477.0,69.5,shift_Kertajaya_11,half_cell_shift,112.79555555555555,-7.335555555555556
+Palembang,TanjungApiApi,g02_08,104.71277777777777,-2.8905555555555553,-3.721666666667,Auto2000 Tanjung Api - Api,314.0,537.3,shift_TanjungApiApi_12,half_cell_shift,104.72333333333333,-2.88
+Palembang,TanjungApiApi,g01_05,104.69166666666666,-2.953888888888889,0.22,Auto2000 Tanjung Api - Api,473.1,459.9,shift_TanjungApiApi_13,half_cell_shift,104.70222222222222,-2.9433333333333334
+Palembang,TanjungApiApi,g01_06,104.69166666666666,-2.9327777777777775,2.251666666667,Auto2000 Tanjung Api - Api,300.7,165.6,shift_TanjungApiApi_14,half_cell_shift,104.70222222222222,-2.922222222222222
+Palembang,TanjungApiApi,g01_07,104.69166666666666,-2.9116666666666666,4.256666666667,Auto2000 Tanjung Api - Api,304.1,48.7,shift_TanjungApiApi_15,half_cell_shift,104.70222222222222,-2.901111111111111
+Palembang,TanjungApiApi,g04_06,104.755,-2.9327777777777775,6.253333333333,Auto2000 Tanjung Api - Api,618.9,243.7,shift_TanjungApiApi_16,half_cell_shift,104.76555555555555,-2.922222222222222
+Palembang,TanjungApiApi,g08_08,104.83944444444444,-2.8905555555555553,6.585,Auto2000 Tanjung Api - Api,1449.2,1054.1,shift_TanjungApiApi_17,half_cell_shift,104.85,-2.88
+Bandung,SoekarnoHatta,g02_02,107.57388888888889,-6.942777777777778,-1.366666666667,Auto2000 Soekarno - Hatta,216.2,298.2,shift_SoekarnoHatta_18,half_cell_shift,107.58666666666666,-6.933333333333334
+Bandung,SoekarnoHatta,g01_04,107.54833333333333,-6.905,1.693333333333,Auto2000 Soekarno - Hatta,430.0,328.4,shift_SoekarnoHatta_19,half_cell_shift,107.5611111111111,-6.895555555555556
+Bandung,SoekarnoHatta,g04_01,107.625,-6.961666666666667,2.711666666667,Auto2000 Soekarno - Hatta,589.3,426.6,shift_SoekarnoHatta_20,half_cell_shift,107.63777777777777,-6.952222222222223
+Bandung,SoekarnoHatta,g01_02,107.54833333333333,-6.942777777777778,5.098333333333,Auto2000 Soekarno - Hatta,606.6,300.7,shift_SoekarnoHatta_21,half_cell_shift,107.5611111111111,-6.933333333333334
+Bandung,SoekarnoHatta,g01_08,107.54833333333333,-6.829444444444444,6.743333333333,Auto2000 Soekarno - Hatta,1040.9,636.3,shift_SoekarnoHatta_22,half_cell_shift,107.5611111111111,-6.82
+Bandung,SoekarnoHatta,g00_08,107.52277777777778,-6.829444444444444,9.566666666667,Auto2000 Soekarno - Hatta,909.3,335.3,shift_SoekarnoHatta_23,half_cell_shift,107.53555555555555,-6.82
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_0_0,bridge_design_grid,106.765,-6.237
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_0_1,bridge_design_grid,106.78,-6.237
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_0_2,bridge_design_grid,106.795,-6.237
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_0_3,bridge_design_grid,106.81,-6.237
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_1_0,bridge_design_grid,106.765,-6.259
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_1_1,bridge_design_grid,106.78,-6.259
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_1_2,bridge_design_grid,106.795,-6.259
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_1_3,bridge_design_grid,106.81,-6.259
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_2_0,bridge_design_grid,106.765,-6.281
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_2_1,bridge_design_grid,106.78,-6.281
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_2_2,bridge_design_grid,106.795,-6.281
+JakartaBridge,Cilandak-RadioDalam-Simprug,,,,,,,,bridge_2_3,bridge_design_grid,106.81,-6.281
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_0_0,southern_boundary_extension,112.7,-7.425
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_0_1,southern_boundary_extension,112.72,-7.425
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_0_2,southern_boundary_extension,112.74,-7.425
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_1_0,southern_boundary_extension,112.7,-7.445
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_1_1,southern_boundary_extension,112.72,-7.445
+Surabaya,Sidoarjo_extension,,,,,,,,sidoarjo_1_2,southern_boundary_extension,112.74,-7.445

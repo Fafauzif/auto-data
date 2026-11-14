@@ -1,0 +1,162 @@
+{
+  "source_doi": "10.17632/z2bvd5r574.2",
+  "source_license": "CC BY-NC 3.0",
+  "snapshot": "2026-06-16",
+  "input_sha256": {
+    "raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_stations.csv": "b315c8fa8dc87a436a494ed8f99702921d95374bd9fb3d177a916193553d20ef",
+    "raw_licensed_data/SPKLU_CC_BY_NC_3_0/data/spklu_chargers.csv": "a0063074a802c8fcd6f5bf58ee5798b07ac60c5116a39acfd048ce92a245bc3a",
+    "raw_licensed_data/SPKLU_CC_BY_NC_3_0/spklu_data_dictionary.csv": "474e3ce3caae879790d90b687bf9bfb9e3495c6969b36cd56dbdc966b1c7138b",
+    "workstreams/datasets/bps_vehicle_stock_long.csv": "288a65361a9b92f505338de0cda5906fb42a4d5d51289212be466b6fa4f507d1",
+    "workstreams/datasets/five_branch_coordinate_crosscheck.csv": "9491882b33b12e5e058631b544a2c40b0f5711525b7fa4d26b7c97cdf9aca7ea"
+  },
+  "station_rows": 2454,
+  "charger_box_rows": 3767,
+  "source_charger_unit_sum": 7593,
+  "source_connector_sum": 4665,
+  "represented_raw_source_rows": 3029,
+  "unique_exact_coordinates": 2454,
+  "already_consolidated_colocation_flag_rows": 53,
+  "source_coordinate_flag_rows": 17,
+  "explicit_restriction_name_rows": 140,
+  "toyota_lexus_permitted_restriction_name_rows": 43,
+  "all_status_flags_one": true,
+  "verified_current_access_not_identifiable": true,
+  "confirmed_access_nearby_anchor_count_lower_bound": 0,
+  "all_mapped_candidate_5km_optimistic_anchor_count": 27,
+  "preregistered_proxy_falsification": {
+    "retain_less_than_21_of_28": false,
+    "six_or_more_increase_at_least_2km": false,
+    "actual_conservative_proxy_within5km": 26,
+    "actual_anchors_increase_at_least2km": 5,
+    "scope": "Tests descriptive mapped proximity only. Customer value and verified usability are not identified."
+  },
+  "coordinate_clusters": [
+    {
+      "threshold_m": 20,
+      "global_connected_components": 2433,
+      "components_with_multiple_station_rows": 21,
+      "station_rows_in_multi_station_components": 42,
+      "max_component_site_rows": 2,
+      "near_pair_edges": 21,
+      "cross_province_components": 6,
+      "interpretation": "Proximity components, not verified duplicate facilities; transitive chains allowed"
+    },
+    {
+      "threshold_m": 50,
+      "global_connected_components": 2418,
+      "components_with_multiple_station_rows": 35,
+      "station_rows_in_multi_station_components": 71,
+      "max_component_site_rows": 3,
+      "near_pair_edges": 36,
+      "cross_province_components": 7,
+      "interpretation": "Proximity components, not verified duplicate facilities; transitive chains allowed"
+    },
+    {
+      "threshold_m": 100,
+      "global_connected_components": 2376,
+      "components_with_multiple_station_rows": 74,
+      "station_rows_in_multi_station_components": 152,
+      "max_component_site_rows": 3,
+      "near_pair_edges": 80,
+      "cross_province_components": 14,
+      "interpretation": "Proximity components, not verified duplicate facilities; transitive chains allowed"
+    }
+  ],
+  "cross_province_pairs_within100m": 15,
+  "exploratory_provinces_with_absolute_published_stock_change_over25pct_2022_2023": 8,
+  "boundary_reconciliation": [
+    {
+      "year": 2022,
+      "boundary_scenario": "direct_34_code_join",
+      "national_source_passenger_stock": 17168862.0,
+      "matched_34_province_stock": 17168862.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 17168862.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2022,
+      "boundary_scenario": "pooled_historical_34_boundaries",
+      "national_source_passenger_stock": 17168862.0,
+      "matched_34_province_stock": 17168862.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 17168862.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2023,
+      "boundary_scenario": "direct_34_code_join",
+      "national_source_passenger_stock": 19710434.0,
+      "matched_34_province_stock": 19710434.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 19710434.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2023,
+      "boundary_scenario": "pooled_historical_34_boundaries",
+      "national_source_passenger_stock": 19710434.0,
+      "matched_34_province_stock": 19710434.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 19710434.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2024,
+      "boundary_scenario": "direct_34_code_join",
+      "national_source_passenger_stock": 20444507.0,
+      "matched_34_province_stock": 20444507.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 20444507.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2024,
+      "boundary_scenario": "pooled_historical_34_boundaries",
+      "national_source_passenger_stock": 20444507.0,
+      "matched_34_province_stock": 20444507.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 20444507.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2025,
+      "boundary_scenario": "direct_34_code_join",
+      "national_source_passenger_stock": 20907972.0,
+      "matched_34_province_stock": 20837172.0,
+      "unmatched_stock": 70800.0,
+      "full_source_province_stock_sum": 20907972.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    },
+    {
+      "year": 2025,
+      "boundary_scenario": "pooled_historical_34_boundaries",
+      "national_source_passenger_stock": 20907972.0,
+      "matched_34_province_stock": 20907972.0,
+      "unmatched_stock": 0.0,
+      "full_source_province_stock_sum": 20907972.0,
+      "note": "Child-province missing values in 2023\u201324 do not imply zero fleets; parent reports carry published totals in those tables. Pooling sums nonmissing published cells."
+    }
+  ],
+  "files_generated": [
+    "province_numerator_unit_sensitivity.csv",
+    "near_coordinate_component_membership.csv",
+    "stock_boundary_audit_cells.csv",
+    "province_rank_sensitivity.csv",
+    "boundary_stock_conservation.csv",
+    "province_coordinate_cluster_units.csv",
+    "province_ratio_scenarios.csv",
+    "anchor_nearest_alternative_scenarios.csv",
+    "cross_province_near_coordinate_pairs.csv",
+    "published_stock_discontinuity_diagnostics.csv",
+    "anchor_pool_distance_penalty.csv",
+    "station_classification_receipt.csv",
+    "coordinate_cluster_sensitivity.csv",
+    "nearest_scenario_summary.csv",
+    "03_units_and_point_locations.png",
+    "02_boundary_ratio_sensitivity.png",
+    "01_nearest_candidate_robustness.png"
+  ],
+  "distance_unit": "Great-circle km, a lower bound on feasible road distance if coordinates are correct; no time/cost estimate",
+  "computed_pairwise_matrix_is_not_new_observations": true
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "figures/01_pembanding_dan_koreksi.png",
+    "title": "Pembanding mengubah keputusan, koreksi koordinat mengubah Bandung",
+    "caption": "Origin berpasangan yang sama, snap kedua endpoint≤250m. Angka generik dan jaringan oli adalah skenario pembanding, bukan dampak intervensi. Koreksi menambahkan kandidat koordinat Suci dan Sidoarjo; cakupan pelayanan aktual tetap berbeda dari akses model.",
+    "source": "work/branch_analysis/market_recomputed.csv; corrected/market_recomputed.csv; work/coordinates/coordinate_corrections.csv"
+  },
+  {
+    "file": "figures/02_surabaya_dua_mandat.png",
+    "title": "A. Yani dan Kertajaya sama-sama 11 origin, tetapi peran jaringan berlawanan",
+    "caption": "Koordinat Suci/Sidoarjo dipulihkan; origin berpasangan, snap≤250m. Selisih negatif berarti Auto2000 lebih dekat daripada jaringan oli. Penalti ke Auto2000 kedua adalah substitusi geografis internal, bukan kapasitas kosong, omzet, atau dasar penutupan. Segitiga=cabang; kotak=origin model.",
+    "source": "work/branch_analysis/corrected/all_27_branches_recomputed.csv; corrected/origin_channels_recomputed.csv; baseline routing inputs"
+  },
+  {
+    "file": "figures/03_palembang_kantong_utara.png",
+    "title": "Prioritaskan kantong Tanjung Api-Api, bukan narasi penyeberangan Plaju",
+    "caption": "Sembilan origin berpasangan memiliki gap awal ke jaringan oli >5 menit. TAA memiliki tujuh origin unik dan satu seri dengan Veteran. Urutan baseline mengalokasikan seri ke TAA, sehingga menghasilkan 8/9; Veteran memiliki satu unik dan satu seri; Plaju 0. Peta ini tidak menetapkan sungai atau jembatan sebagai penyebab. Lihat figur07 untuk solusi menggunakan OtoXpert milik Auto2000.",
+    "source": "work/branch_analysis/corrected/origin_channels_recomputed.csv; work/review/NEAREST_BRANCH_TIES.json"
+  },
+  {
+    "file": "figures/04_suci_mengubah_prioritas.png",
+    "title": "Koreksi Suci mengurangi tekanan Cibiru; Soekarno-Hatta tetap kantong utama",
+    "caption": "Origin berpasangan Bandung tetap sama(n=78). Suci menggunakan kandidat koordinat alternatif yang sejalan dengan alamat resmi dan Overture. Baseline mengecualikannya karena tautan koordinat menyalin Setiabudi. Koreksi juga memasukkan Sidoarjo ke jendela destinasi Surabaya; hasil lengkap tersedia di CSV.",
+    "source": "work/coordinates/coordinate_corrections.csv; work/branch_analysis/coordinate_before_after_origins.csv; corrected/all_27_branches_recomputed.csv"
+  },
+  {
+    "file": "figures/05_otoxpert_marginal.png",
+    "title": "OtoXpert-owned terutama memperkaya tawaran; Palembang punya penghematan lokal",
+    "caption": "Bandingkan minimum Auto2000 umum dengan minimum Auto2000 ditambah OtoXpert yang berlabel dioperasikan Auto2000. n=59/78/78/69; snap≤250m; koordinat dikoreksi. Tambahan cakupan 20 menit adalah 0/0/0/2. Penghematan waktu bukan margin tambahan; label operator tidak menunjukkan pembagian GP.",
+    "source": "work/branch_analysis/corrected/owned_otoxpert_marginal.csv"
+  },
+  {
+    "file": "figures/06_operator_alternatif_lokal.png",
+    "title": "Perimeter operator mengubah arti memenangkan kembali pekerjaan",
+    "caption": "Klasifikasi jaringan oli terdekat per origin pada catchment Auto2000 umum terpilih, snap≤250m, koordinat diperbaiki. Shop&Drive dan OtoXpert operator lain bukan otomatis GP Auto2000. Label jaringan menunjukkan penawaran oli, bukan konfirmasi parts, slot, atau model individual.",
+    "source": "work/branch_analysis/corrected/all_27_branches_recomputed.csv"
+  },
+  {
+    "file": "figures/07_palembang_ox_menutup_gap.png",
+    "title": "OtoXpert Palembang menghapus seluruh kantong gap oli>5menit tanpa cabang baru",
+    "caption": "Origin berpasangan yang sama(n=69), snap≤250m, koordinat diperbaiki. Sembilan origin awal dengan gap >5 menit menjadi tujuh origin paritas dan dua origin dengan gap 1,005 menit setelah Auto2000 umum digabungkan dengan OtoXpert miliknya. Ini akses model ke penawaran jaringan oli, bukan hasil intervensi yang diobservasi atau bukti kapasitas. Channel tidak dijumlahkan sebagai bisnis baru.",
+    "source": "work/branch_analysis/corrected/origin_channels_recomputed.csv; baselineofficialOtoXpertinventory"
+  },
+  {
+    "file": "figures/08_satu_kunjungan_tambahan.png",
+    "title": "Konfirmasi penyelesaian mengubah perbandingan total perjalanan",
+    "caption": "A dan C adalah durasi pergi+pulang yang dirutekan terpisah untuk Auto2000 umum dan jaringan oli pada origin yang sama. Tambahan kunjungan adalah skenario, bukan frekuensi kegagalan yang diobservasi. Mode perjalanan diasumsikan profil mobil yang sama; waktu menunggu/kerja tidak dimasukkan. Origin bangunan bukan rumah penulis ulasan.",
+    "source": "work/access/new_bidirectional_od.csv; origin_trip_scenarios.csv; customer_journey evidence ledger"
+  },
+  {
+    "file": "figures/09_bridge_jakarta_selatan.png",
+    "title": "Bridge Cilandak memisahkan lokasi, harga dan kepastian selesai",
+    "caption": "Titik lingkaran adalah lokasi outlet dalam ekspor ulasan, bukan rumah penulis. Akun positif/negatif digunakan untuk mekanisme, bukan prevalensi keluhan. Destinasi rute mencakup jendela lebih luas daripada peta detail ini. Listing B-Quik Lebak Bulus berstatus tutup tidak dijadikan endpoint aktif.",
+    "source": "work/customer_journey/maps_listing_inventory.csv; social_evidence_ledger.csv; work/access/new_destinations.csv; origin_trip_scenarios.csv"
+  },
+  {
+    "file": "figures/10_robustness_origin_keputusan.png",
+    "title": "Soekarno-Hatta bertahan sebagai kantong akses; kontras Surabaya tidak universal",
+    "caption": "Setiap garis membandingkan baseline pada subset origin yang sama dengan origin baru; titik kosong=baseline, wajik=baru. N berbeda antar skenario, bukan estimasi populasi. Bangunan dipakai sebagai jangkar aktivitas fisik, tidak diklasifikasikan otomatis sebagai permukiman atau pemilik Toyota. Sensitivitas ini memakai minimum durasi pergi yang dihitung ulang per kanal; snap pergi≤250m, sehingga tidak mencampur perubahan origin dengan optimasi pergi+pulang.",
+    "source": "work/access/origin_robustness_summary.csv; origin_trip_scenarios.csv; selected_building_footprints.geojson"
+  },
+  {
+    "file": "figures/11_sidoarjo_batas_jendela.png",
+    "title": "Nol origin pada grid lama bukan alasan menurunkan prioritas Sidoarjo",
+    "caption": "Enam origin bangunan yang ditambahkan di sekitar Sidoarjo semuanya memiliki Sidoarjo sebagai Auto2000 terdekat setelah koordinat dipulihkan. Median gap pergi+pulang ke jaringan oli sekitar 0,02 menit. Ini uji batas studi, bukan tambahan enam pelanggan atau bukti jumlah permintaan.",
+    "source": "work/access/origin_trip_scenarios.csv; selected_building_footprints.geojson; work/coordinates/coordinate_corrections.csv"
+  }
+]

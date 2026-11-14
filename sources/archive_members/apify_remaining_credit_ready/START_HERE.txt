@@ -1,0 +1,29 @@
+RUN EACH JSON ONCE. Paste each file into the matching actor Input > JSON tab, replacing the previous input.
+
+01_youtube_comments.json
+Actor: streamers/youtube-comments-scraper
+https://apify.com/streamers/youtube-comments-scraper
+Console Maximum charge: USD 2.05 (set outside the input JSON).
+6 videos x 166 comments per video = at most 996 top-level comments; available comments since 2025-01-01 may be fewer. Listed Free rate: USD 2/1000 comments, platform usage included. The charge cap also limits any additional billable output.
+
+02_workshop_reviews.json
+Actor: compass/google-maps-reviews-scraper
+https://apify.com/compass/google-maps-reviews-scraper
+Console Maximum charge: USD 0.95 (set outside the input JSON).
+6 new workshop listings x 250 reviews = at most 1500 reviews. Listed Free rate: USD 0.60/1000 reviews plus USD 0.00005 actor start, platform usage included. Newest reviews since 2025-01-01, all stars, reviewer profile collection disabled.
+
+Combined maximum-charge settings total USD 3.00, leaving USD 0.20 of the stated USD 3.20 budget. Run each JSON once; do not enable schedules or rerun unchanged inputs. Do not change actor pricing tier or add other paid options.
+
+All six workshop listings were checked on Google Maps on 14 November 2026 and were not marked permanently or temporarily closed. CARfix Sawangan and the old Dokter Mobil Bintaro RC Veteran listing were excluded because Google Maps marked them permanently closed. Source URLs and target names are in targets.csv.
+
+YouTube videos were located using public search metadata. Live video/comment availability has not been execution-tested. Older educational videos are included to capture recent discussion of maintenance for older Toyotas and hybrid ownership. The date filter concerns comment dates, not video upload dates. Promotional or official videos should be tagged as such in analysis. Do not infer current service prices from older videos.
+
+These are purposive qualitative samples, not representative customer surveys. Keep workshops, new-car dealers and used-car channels separate; distinguish owners from prospective buyers and general commenters. Owner replies do not prove a complaint was resolved. Comments and review text may themselves contain personal details even when profile fields are omitted.
+
+Pricing and schema sources:
+https://apify.com/streamers/youtube-comments-scraper/pricing
+https://apify.com/streamers/youtube-comments-scraper/input-schema
+https://apify.com/compass/google-maps-reviews-scraper/pricing
+https://apify.com/compass/google-maps-reviews-scraper/input-schema
+
+No paid actor has been run by the assistant.

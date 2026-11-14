@@ -1,0 +1,123 @@
+[
+  {
+    "id": "EXT-H-S01",
+    "authors": "Petrov, I.; Carroll, J.; Denny, E.",
+    "year": 2025,
+    "title": "Communicating car costs: Results from stated and revealed preference experiments",
+    "url": "https://doi.org/10.1016/j.trd.2025.104921",
+    "primary_locator": "Publisher-indexed abstract, discussion and conclusion; Transportation Research Part D 147, 104921. DOI redirect failed in read tool; original publisher search text available.",
+    "design": "Irish online discrete choice experiment and showroom randomized controlled trial",
+    "observed_endpoint": "Hypothetical drivetrain choice versus actual showroom car choices",
+    "finding": "Longer-horizon monetary cost information affected hypothetical BEV choice; the showroom trial did not detect an overall effect on drivetrain choice or efficiency/emissions of cars sold.",
+    "limits": "A null detected effect in this setting is not proof of zero effect everywhere. No verified Auto2000 effect size or portable uplift.",
+    "hypothesis_links": [
+      "H05",
+      "H15",
+      "H19",
+      "H20"
+    ],
+    "transferability": "Mechanism counterevidence, not Indonesian effect estimation."
+  },
+  {
+    "id": "EXT-H-S02",
+    "authors": "Bernardic, U.; Cerruti, D.; Filippini, M.; Savelsberg, J.; Ugazio, G.",
+    "year": 2024,
+    "title": "De-biasing electric vehicle adoption with personalized nudging",
+    "url": "https://doi.org/10.3929/ethz-b-000663125",
+    "primary_locator": "ETH Zurich working paper 24/390 and author-hosted abstract; UK sample described in official presentation.",
+    "design": "Randomized information experiment with 3,181 car owners; working paper",
+    "observed_endpoint": "Stated purchase preference, not confirmed vehicle delivery",
+    "finding": "Personalized driving/parking-based information, especially TCO, increased BEV purchase preference in the reported experiment.",
+    "limits": "Working-paper evidence; selection and foreign context; preferences do not establish sales, margins or branch adoption.",
+    "hypothesis_links": [
+      "H05",
+      "H15",
+      "H24"
+    ],
+    "transferability": "Supports plausibility of personalized fit information while leaving commercial realization unresolved."
+  },
+  {
+    "id": "EXT-H-S03",
+    "authors": "Gore, C.; Iogansen, X.; Kneifel, J.; Helveston, J. P.",
+    "year": 2025,
+    "title": "Data Collection Instrument: Consumer Valuation of Battery Health Information in Used Electric Vehicle Markets",
+    "url": "https://doi.org/10.6028/NIST.DCI.008",
+    "primary_locator": "NIST DCI 008, abstract PDF p4 and survey instrument; November2025.",
+    "design": "Proposed survey and discrete choice instrument",
+    "observed_endpoint": "Study design, not reported estimated price premium",
+    "finding": "The instrument varies ordinary used-car attributes and battery-specific information to investigate valuation. It does not itself report a measured certificate premium.",
+    "limits": "Cannot be cited as completed causal evidence that certification raises trade-in offers.",
+    "hypothesis_links": [
+      "H24"
+    ],
+    "transferability": "A useful distinction between a research question and a result."
+  },
+  {
+    "id": "EXT-H-S04",
+    "authors": "Webb, D.; Gore, C.; Kneifel, J.",
+    "year": 2025,
+    "title": "Consumer Perspectives on Battery Electric Vehicles: An Analysis of Battery Information and Knowledge",
+    "url": "https://doi.org/10.6028/NIST.TN.2328",
+    "primary_locator": "NIST TN2328, abstract PDF p4; validated sample printed p8/PDF16; survey design printed p4; question wording printed p6.",
+    "design": "2023 U.S. survey of1,490 individuals, including490 BEV owners",
+    "observed_endpoint": "Perceived usefulness, concerns and stated next-vehicle likelihood",
+    "finding": "Respondents found battery lifetime/range information useful; source questions distinguish guarantee, federal rating, manufacturer warranty and industry rating.",
+    "limits": "Neither actual appraiser acceptance nor a causal transaction-price premium is measured. Source-specific sample differs from other NIST analyses.",
+    "hypothesis_links": [
+      "H09",
+      "H24"
+    ],
+    "transferability": "Information types are separable; magnitude is not an Indonesian estimate."
+  },
+  {
+    "id": "EXT-H-S05",
+    "authors": "Roberson, L. A.; Helveston, J. P.",
+    "year": 2022,
+    "title": "Not all subsidies are equal: Measuring preferences for electric vehicle financial incentives",
+    "url": "https://doi.org/10.1088/1748-9326/ac7df3",
+    "primary_locator": "Author-hosted original abstract; Environmental Research Letters17,084003.",
+    "design": "U.S. conjoint survey of2,170 respondents",
+    "observed_endpoint": "Stated valuation of incentive design",
+    "finding": "Immediate rebates were valued more than delayed or differently delivered tax benefits, with subgroup differences.",
+    "limits": "Tax incentives differ from financing insurance premiums. No dollar value or policy effect is transferred to Auto2000.",
+    "hypothesis_links": [
+      "H05"
+    ],
+    "transferability": "Qualitative support for separating timing and nominal amount."
+  },
+  {
+    "id": "EXT-H-S06",
+    "authors": "Roberson, L. A.; Pantha, S.; Helveston, J. P.",
+    "year": 2024,
+    "title": "Battery-powered bargains? Assessing electric vehicle resale value in the United States",
+    "url": "https://doi.org/10.1088/1748-9326/ad3fce",
+    "primary_locator": "Author-hosted original abstract; Environmental Research Letters19,054053.",
+    "design": "Published observational analysis of roughly9million U.S. online used-car listings2016-2022",
+    "observed_endpoint": "Listing values and modeled retention, not necessarily completed transaction prices",
+    "finding": "Retention patterns vary by model year, range and brand, while incentives and market shocks also matter.",
+    "limits": "The9million rows were used by that study, not acquired by this project. Listed value differs from transaction price; no Indonesian certificate effect.",
+    "hypothesis_links": [
+      "H24",
+      "H25"
+    ],
+    "transferability": "Challenges a battery-only explanation of resale value."
+  },
+  {
+    "id": "EXT-H-S07",
+    "authors": "Loh, W. S.; Noland, R. B.",
+    "year": 2024,
+    "title": "Concerns expressed by used electric vehicle owners based on surveying social media",
+    "url": "https://doi.org/10.1016/j.trd.2024.104086",
+    "primary_locator": "Rutgers authors institutional publication record and original publisher abstract.",
+    "design": "Survey recruited through used-EV Facebook/Reddit communities, Sep-Oct2022;1,669responses,1,167usable",
+    "observed_endpoint": "Reported concerns among self-selected U.S. used-EV owners",
+    "finding": "Price, battery performance and public charging are prominent concerns; lower-income concern differs.",
+    "limits": "This is a recruited survey, not passive social-media scraping or a representative Indonesia sample. Underlying Rutgers data page returned403; raw survey was not acquired.",
+    "hypothesis_links": [
+      "H05",
+      "H24",
+      "H25"
+    ],
+    "transferability": "Highlights household heterogeneity and survivor/selection limits."
+  }
+]

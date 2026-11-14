@@ -1,0 +1,25 @@
+{
+  "mode": "search",
+  "searchTerms": [
+    "\"Digiroom\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-01-01 until:2026-04-01",
+    "\"Digiroom\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-04-01 until:2026-07-01",
+    "\"Digiroom\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-07-01 until:2026-10-01",
+    "\"Digiroom\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-10-01 until:2026-11-14",
+    "\"Auto2000\" \"aplikasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-01-01 until:2026-04-01",
+    "\"Auto2000\" \"aplikasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-04-01 until:2026-07-01",
+    "\"Auto2000\" \"aplikasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-07-01 until:2026-10-01",
+    "\"Auto2000\" \"aplikasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-10-01 until:2026-11-14",
+    "\"Auto2000\" \"WhatsApp\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-01-01 until:2026-04-01",
+    "\"Auto2000\" \"WhatsApp\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-04-01 until:2026-07-01",
+    "\"Auto2000\" \"WhatsApp\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-07-01 until:2026-10-01",
+    "\"Auto2000\" \"WhatsApp\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-10-01 until:2026-11-14",
+    "\"Auto2000\" \"konfirmasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-01-01 until:2026-04-01",
+    "\"Auto2000\" \"konfirmasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-04-01 until:2026-07-01",
+    "\"Auto2000\" \"konfirmasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-07-01 until:2026-10-01",
+    "\"Auto2000\" \"konfirmasi\" -from:AUTO2000ID_ -from:ToyotaID -filter:nativeretweets since:2026-10-01 until:2026-11-14"
+  ],
+  "queryType": "Latest",
+  "maxItems": 800,
+  "maxItemsPerTarget": 50,
+  "outputVariant": "rich"
+}
