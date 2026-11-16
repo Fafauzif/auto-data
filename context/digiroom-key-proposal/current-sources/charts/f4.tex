@@ -1,0 +1,32 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,2.75);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.13,2.49) {Cash due upfront};
+\fill[pale] (0.1,0.73) rectangle (7.78,1.98);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.35,1.53) {154.85};
+\draw[arr] (2.09,1.52) -- (2.97,1.52);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (3.2,1.53) {109.53};
+\node[anchor=west,inner sep=0pt,text=red] at (5.19,1.53) {45.31 less};
+\node[anchor=west,inner sep=0pt,] at (0.35,1.0) {Paid upfront};
+\node[anchor=west,inner sep=0pt,] at (3.2,1.0) {Financed};
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (8.430000000000001,2.49) {Monthly instalment};
+\fill[pale] (8.4,0.73) rectangle (16.080000000000002,1.98);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (8.65,1.53) {9.27};
+\draw[arr] (10.39,1.52) -- (11.270000000000001,1.52);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (11.5,1.53) {10.40};
+\node[anchor=west,inner sep=0pt,text=red] at (13.490000000000002,1.53) {1.13 more};
+\node[anchor=west,inner sep=0pt,] at (8.65,1.0) {Paid upfront};
+\node[anchor=west,inner sep=0pt,] at (11.5,1.0) {Financed};
+\node[anchor=west,inner sep=0pt,font=\sffamily\fontsize{9}{10}\selectfont] at (0.12,0.28) {Amounts in Rp million. Upfront payments include instalment 1.};
+\end{tikzpicture}\end{document}

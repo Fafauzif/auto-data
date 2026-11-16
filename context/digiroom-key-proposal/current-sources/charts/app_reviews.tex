@@ -1,0 +1,25 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,3.1);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.05,2.85) {Digiroom reviews by publication date};
+\node[anchor=west,inner sep=0pt,] at (0.06,1.9) {Before relaunch};
+\fill[pale] (4.6,1.65) rectangle (13.479999999999999,2.15);
+\fill[red] (4.6,1.65) rectangle (9.16,2.15);
+\node[anchor=west,inner sep=0pt,] at (13.68,1.9) {19 of 37};
+\node[anchor=west,inner sep=0pt,] at (0.06,0.91) {On or after relaunch};
+\fill[pale] (4.6,0.66) rectangle (7.72,1.1600000000000001);
+\fill[red] (4.6,0.66) rectangle (6.039999999999999,1.1600000000000001);
+\node[anchor=west,inner sep=0pt,] at (7.92,0.91) {6 of 13};
+\node[anchor=west,inner sep=0pt,] at (0.06,0.21) {Relaunch date: 6 Dec 2025. Red: specific self-reported app interactions.};
+\end{tikzpicture}\end{document}

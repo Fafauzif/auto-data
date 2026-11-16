@@ -1,0 +1,30 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,2.05);
+\fill[pale] (0,0.42999999999999994) rectangle (3.78,1.8599999999999999);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.16,1.5799999999999998) {Check in};
+\node[anchor=west,inner sep=0pt,align=left] at (0.16,1.02) {Paid arrival went\\unacknowledged};
+\fill[pale] (4.2,0.42999999999999994) rectangle (7.98,1.8599999999999999);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (4.36,1.5799999999999998) {Explain the scope};
+\node[anchor=west,inner sep=0pt,align=left] at (4.36,1.02) {Avanza owner faced\\different repair scopes};
+\fill[pale] (8.4,0.42999999999999994) rectangle (12.18,1.8599999999999999);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (8.56,1.5799999999999998) {Get payer approval};
+\node[anchor=west,inner sep=0pt,align=left] at (8.56,1.02) {Yaris driver visits;\\family approves extras};
+\fill[pale] (12.6,0.42999999999999994) rectangle (16.38,1.8599999999999999);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (12.76,1.5799999999999998) {Close the job};
+\node[anchor=west,inner sep=0pt,align=left] at (12.76,1.02) {Record work, payment\\and any open issue};
+\draw[arr] (3.82,1.2) -- (4.13,1.2);
+\draw[arr] (8.02,1.2) -- (8.33,1.2);
+\draw[arr] (12.22,1.2) -- (12.530000000000001,1.2);
+\end{tikzpicture}\end{document}

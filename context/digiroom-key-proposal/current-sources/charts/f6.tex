@@ -1,0 +1,30 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,2.03);
+\fill[pale] (0.25,0.94) rectangle (13.6,1.84);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.4,1.6) {2026--2028 investment window};
+\draw[arr] (0.5,1.13) -- (15.9,1.13);
+\fill[red] (0.7,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (0.7,0.68) {Jan 2026};
+\node[align=center,inner sep=0pt,text=gray] at (0.7,0.25) {Delivery};
+\fill[red] (2.6,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (2.6,0.68) {Feb 2026};
+\node[align=center,inner sep=0pt,text=gray] at (2.6,0.25) {Visit 1};
+\fill[red] (6.67,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (6.67,0.68) {2027};
+\node[align=center,inner sep=0pt,text=gray] at (6.67,0.25) {Included visits};
+\fill[red] (10.78,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (10.78,0.68) {2028};
+\node[align=center,inner sep=0pt,text=gray] at (10.78,0.25) {Included visits};
+\fill[red] (13.6,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (13.6,0.68) {Jan 2029};
+\node[align=center,inner sep=0pt,text=gray] at (13.6,0.25) {Visit 7};
+\fill[red] (15.58,1.13) circle (2.2pt);\node[align=center,inner sep=0pt,] at (15.58,0.68) {Jul 2029};
+\node[align=center,inner sep=0pt,text=gray] at (15.58,0.25) {Visit 8};
+\end{tikzpicture}\end{document}

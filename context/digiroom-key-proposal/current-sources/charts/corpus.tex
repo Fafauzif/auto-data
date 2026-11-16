@@ -1,0 +1,29 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,3.85);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.08,3.58) {X posts};
+\fill[pale] (4.03,3.05) rectangle (11.9724,3.6999999999999997);
+\fill[gray] (4.03,3.05) rectangle (11.651866666666667,3.44);
+\node[anchor=west,inner sep=0pt,] at (12.1224,3.3) {14,892 / 14,291};
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.08,2.5300000000000002) {Maps reviews};
+\fill[pale] (4.03,2.0) rectangle (8.502,2.65);
+\fill[gray] (4.03,2.0) rectangle (8.360133333333334,2.39);
+\node[anchor=west,inner sep=0pt,] at (8.652000000000001,2.25) {8,385 / 8,119};
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.08,1.4799999999999998) {YouTube comments};
+\fill[pale] (4.03,0.9499999999999997) rectangle (4.069466666666667,1.5999999999999996);
+\fill[gray] (4.03,0.9499999999999997) rectangle (4.069466666666667,1.3399999999999999);
+\node[anchor=west,inner sep=0pt,] at (4.28,1.1399999999999997) {74 rows  /  74 unique};
+\node[anchor=west,inner sep=0pt,text=gray] at (0.08,0.28) {Pale: export rows};
+\node[anchor=west,inner sep=0pt,] at (4.03,0.28) {Dark: unique platform IDs};
+\end{tikzpicture}\end{document}

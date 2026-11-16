@@ -1,0 +1,25 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,3.2);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.05,2.95) {Comments returned by video};
+\node[anchor=west,inner sep=0pt,] at (0.05,2.24) {Neta resale price};
+\fill[gray] (5.25,2.0300000000000002) rectangle (13.935,2.45);
+\node[anchor=west,inner sep=0pt,] at (14.155000000000001,2.24) {45};
+\node[anchor=west,inner sep=0pt,] at (0.05,1.43) {BYD M6 owner experience};
+\fill[gray] (5.25,1.22) rectangle (10.268,1.64);
+\node[anchor=west,inner sep=0pt,] at (10.488,1.43) {26};
+\node[anchor=west,inner sep=0pt,] at (0.05,0.64) {BYD M6 editorial review};
+\fill[gray] (5.25,0.43000000000000005) rectangle (5.829,0.85);
+\node[anchor=west,inner sep=0pt,] at (6.0489999999999995,0.64) {3};
+\end{tikzpicture}\end{document}

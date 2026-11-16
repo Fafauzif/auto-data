@@ -1,0 +1,39 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,5.28);
+\fill[pale] (0.02,2.97) rectangle (3.09,4.4);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.18,4.12) {Transaction loss};
+\node[anchor=west,inner sep=0pt,align=left] at (0.18,3.56) {xEV sales and\\paid service};
+\fill[pale] (3.89,3.7300000000000004) rectangle (9.3,5.16);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (4.05,4.880000000000001) {Buy};
+\node[anchor=west,inner sep=0pt,align=left] at (4.05,4.32) {Household fit and cash due};
+\fill[pale] (10.15,3.7300000000000004) rectangle (16.34,5.16);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (10.31,4.880000000000001) {Commercial outcome};
+\node[anchor=west,inner sep=0pt,align=left] at (10.31,4.32) {Confirmed drive and offer\\New-to-Auto2000 xEV delivery};
+\draw[arr] (9.38,4.54) -- (10.07,4.54);
+\draw[arr] (3.14,3.74) -- (3.49,3.74) -- (3.49,4.54) -- (3.8,4.54);\fill[pale] (3.89,1.88) rectangle (9.3,3.31);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (4.05,3.03) {Service};
+\node[anchor=west,inner sep=0pt,align=left] at (4.05,2.4699999999999998) {Eligible outlet and agreed work};
+\fill[pale] (10.15,1.88) rectangle (16.34,3.31);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (10.31,3.03) {Commercial outcome};
+\node[anchor=west,inner sep=0pt,align=left] at (10.31,2.4699999999999998) {Confirmed scope and completion\\Eligible paid work order};
+\draw[arr] (9.38,2.69) -- (10.07,2.69);
+\draw[arr] (3.14,3.74) -- (3.49,3.74) -- (3.49,2.69) -- (3.8,2.69);\fill[pale] (3.89,0.030000000000000027) rectangle (9.3,1.46);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (4.05,1.18) {Upgrade};
+\node[anchor=west,inner sep=0pt,align=left] at (4.05,0.6200000000000001) {Usable equity and settlement};
+\fill[pale] (10.15,0.030000000000000027) rectangle (16.34,1.46);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (10.31,1.18) {Commercial outcome};
+\node[anchor=west,inner sep=0pt,align=left] at (10.31,0.6200000000000001) {Inspected offer and reserved unit\\Repeat xEV delivery};
+\draw[arr] (9.38,0.8400000000000001) -- (10.07,0.8400000000000001);
+\draw[arr] (3.14,3.74) -- (3.49,3.74) -- (3.49,0.8400000000000001) -- (3.8,0.8400000000000001);\end{tikzpicture}\end{document}

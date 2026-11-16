@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sell the Finished Idea"
+  short_description: "Present the finished competition solution first"
+  default_prompt: "Use $sell-the-finished-idea to turn this competition work into a judge-ready solution and work backward into delivery."

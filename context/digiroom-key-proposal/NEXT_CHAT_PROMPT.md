@@ -1,0 +1,7 @@
+# Copy this into the next chat
+
+I’m continuing the IBSC 2026 Auto2000 proposal in https://github.com/Fafauzif/auto-data. Read `context/digiroom-key-proposal/START_HERE.md`, `PROPOSAL_CONTEXT.md`, and the latest editable DOCX before doing anything substantive. Read `context/digiroom-key/START_HERE.md`, the solution overview and the evidence files as needed. Use the bundled Sell the Finished Idea instructions and the Essay Studio writing and visual guidance for this work.
+
+Chapters 1 and 2 plus their linked appendices are drafted. Preserve the original Word template’s numbering, indentation, styles, and other chapter structure, and keep the required margins of 2 cm left and right, 4 cm top, and 3 cm bottom. Let the chapters and appendices flow naturally. Chapter 1 is about half a page, and Chapter 2 aims for about five pages of analysis excluding the contents page, with one figure per insight and the consolidated issue tree last. Write naturally and clearly, show the actual customer decision and its evidence, and keep assumptions labelled.
+
+I’ll tell you what to work on next. If I ask to work on Chapter 3, start from the current Digiroom KEY solution and connect Know Your Fit, Easy Service, and Your Next Toyota to the three decisions in the issue tree. Ask before making new material assumptions or producing additional chapters. The old proposal in the history folder is superseded.

@@ -1,0 +1,5 @@
+# Regenerate the editable document
+
+The current editable Word document in `../drafts/` is the working copy. This folder preserves the chapter text, appendix text, document assembly source, each of the 16 TeX figure inputs, compiled figure PDFs and embedded PNGs. Most edits can be done directly in Word.
+
+For a clean rebuild, stage `current-sources/` as `draft_work/`, `reference-files/` as `upload/`, and link or copy the root of the auto-data checkout to `repo/` within a temporary working directory. Create `draft_work/output/` and, from that working directory, run `python draft_work/build.py` with python-docx available. The checked-in PNGs avoid a TeX dependency for rebuilding Word. Rebuild charts when their data changes with `python draft_work/figures.py`, then compile the affected `.tex` files with LaTeX plus TikZ and PGFPlots and rasterize them for Word. The controlling map and branch data paths refer to the existing auto-data checkout. Render and verify the changed Word document and all updated links after any material edit or reflow.

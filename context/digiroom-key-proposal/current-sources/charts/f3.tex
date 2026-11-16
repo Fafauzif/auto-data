@@ -1,0 +1,27 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,3.3);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.14,3.05) {Reported household experiences};
+\fill[pale] (0.02,1.31) rectangle (5.27,2.74);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.18,2.46) {Wuling Air EV};
+\node[anchor=west,inner sep=0pt,align=left] at (0.18,1.9000000000000001) {Apartment charging fits\\the routine};
+\fill[pale] (5.52,1.31) rectangle (10.77,2.74);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (5.68,2.46) {BYD Atto};
+\node[anchor=west,inner sep=0pt,align=left] at (5.68,1.9000000000000001) {Low charge changed one trip\\and prompted a charger search};
+\fill[pale] (11.02,1.31) rectangle (16.27,2.74);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (11.18,2.46) {Auto2000 prospect};
+\node[anchor=west,inner sep=0pt,align=left] at (11.18,1.9000000000000001) {Reported being unable to\\find a test-drive vehicle};
+\draw[line] (0.1,0.93) -- (16.25,0.93);
+\node[anchor=west,inner sep=0pt,] at (0.12,0.47) {Use the actual vehicle to check regular routes, parking, passengers and charging where relevant.};
+\end{tikzpicture}\end{document}

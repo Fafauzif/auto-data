@@ -1,0 +1,30 @@
+\documentclass[tikz,border=2pt]{standalone}
+\pdfmapfile{+cm.map}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta}
+\definecolor{ink}{HTML}{202B30}
+\definecolor{red}{HTML}{971D2C}
+\definecolor{soft}{HTML}{F4E9EB}
+\definecolor{gray}{HTML}{51636D}
+\definecolor{line}{HTML}{D6DDE0}
+\definecolor{pale}{HTML}{F0F3F4}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,font=\sffamily\fontsize{10.5}{12}\selectfont,text=ink,arr/.style={-{Stealth[length=2mm]},draw=gray,thick}]
+\path[use as bounding box] (0,0) rectangle (16.4,2.8);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (0.1,2.35) {Share of service bookings};
+\fill[red] (0,1.02) rectangle (1.78,1.86);
+\node[align=center,inner sep=0pt,text=white,font=\sffamily\bfseries] at (0.89,1.44) {16\%};
+\fill[gray] (1.78,1.02) rectangle (6.0,1.86);
+\node[align=center,inner sep=0pt,text=white,font=\sffamily\bfseries] at (3.8899999999999997,1.44) {38\%};
+\fill[ink] (6,1.02) rectangle (11.11,1.86);
+\node[align=center,inner sep=0pt,text=white,font=\sffamily\bfseries] at (8.555,1.44) {46\%};
+\node[anchor=west,inner sep=0pt,] at (0.0,0.58) {Digiroom};
+\node[anchor=west,inner sep=0pt,] at (2.65,0.58) {WhatsApp};
+\node[anchor=west,inner sep=0pt,] at (7.4,0.58) {Phone or walk-in};
+\draw[line] (11.48,0.22) -- (11.48,2.62);
+\node[anchor=west,inner sep=0pt,font=\sffamily\bfseries] at (11.82,2.36) {App audience};
+\node[anchor=west,inner sep=0pt,] at (11.82,1.67) {21,000 active monthly};
+\node[anchor=west,inner sep=0pt,] at (11.82,1.06) {1.6 sessions per active user};
+\node[anchor=west,inner sep=0pt,] at (11.82,0.45) {500,000+ total downloads};
+\end{tikzpicture}\end{document}
