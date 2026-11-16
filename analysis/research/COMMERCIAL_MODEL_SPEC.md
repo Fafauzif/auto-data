@@ -50,6 +50,10 @@ These expressions require consistent periods and an incremental-share definition
 
 Ordinary petrol paid-job pilots can test the shared workflow, but the main case report must explicitly show how the digital mechanism serves HEV/PHEV/BEV customers. Do not infer BEV scheduled oil demand. A health check, safety campaign or warranty repair is not automatically discretionary paid upsell.
 
+## Interview pilot measurement
+
+For the proposed Yaris Cross Hybrid service test, use verified customer-paid or mixed eligibility to define the commercial cohort. Keep covered completion and reimbursement available as distinct outcomes. Include normal WhatsApp or assisted service in both comparison groups. Measure actual approvals, completed paid work, recognized contribution and meaningful Digiroom return, then reconcile displacement, costs and capacity once. Interview reactions enter the pilot design and hypotheses. Leave completion uplift, per-vehicle economics and guarantee redemption blank until operational observations support them. [Pilot decision](../interviews/pilot_decision.json)
+
 ## Cost, investment and future promises
 
 The original case p6 caps incremental investment at IDR150bn during2026–2028. This does not require spending the cap. Show implementation cash, operating cost, direct cost, depreciation and post-horizon obligations on appropriate ledgers. A future price guarantee is not bounded by a three-year software budget merely because it was launched within that budget.

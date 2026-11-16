@@ -1,0 +1,337 @@
+{
+  "edition": "Auto2000 interview update",
+  "distribution": "private",
+  "base_commit": "bc1b282378bf1500c231ced1f82cac12781550ff",
+  "integration_date": "2026-11-16",
+  "extract_into": "root of existing integrated repository working tree",
+  "deleted_paths": [],
+  "manifest_self_entry_excluded": true,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 3677,
+      "sha256": "33c0fc2da04166c27380d647ef747ed28e0fe19a792ad60de76a4feaefef3164",
+      "action": "replace",
+      "baseline_sha256": "101f002a5b47deb024ff171ec940a28fcc754158f717303ee5579540406336bd"
+    },
+    {
+      "path": "DATA_GUIDE.md",
+      "size_bytes": 4048,
+      "sha256": "f872d508c1ca122a03506d85b30ceadd79e7296be016fcf3f68692a450098ded",
+      "action": "replace",
+      "baseline_sha256": "5369d20cf078fee735f13078e04c2d8bb97469b0543bcbd3583107125c9cfc98"
+    },
+    {
+      "path": "INTERVIEW_UPDATE.md",
+      "size_bytes": 2075,
+      "sha256": "e8d9da4279e4bc2274c789294008d1e241c62ebc79ffcc0b893c49b8fa31ff1f",
+      "action": "add"
+    },
+    {
+      "path": "PROJECT_CONTEXT.md",
+      "size_bytes": 7864,
+      "sha256": "a72919e1265b9eb3abc2088009e3692fb7ca2298ca2069dcfd9d6a2dc9410e0c",
+      "action": "replace",
+      "baseline_sha256": "dd7e061b0797fd773380435f5ad4734d4fbe3f44dd0f6918eb7c7f984ed28735"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4895,
+      "sha256": "aed90420bd8443032df1893c6f53177423f48fac104ebd6f248b5e1a609a6a54",
+      "action": "replace",
+      "baseline_sha256": "7a763cd0bb2a68d0652dbfe293ba01c749702564c0005e538cd62e5edae73471"
+    },
+    {
+      "path": "REPOSITORY_MAP.md",
+      "size_bytes": 2412,
+      "sha256": "f902e0aba7f66a225c456121486d4a480895d1dbbcf6e948638b05e89a969968",
+      "action": "replace",
+      "baseline_sha256": "e9842c5a0fce360d65d5929c05bf70835ca5ca23a2eb08bd88b6b152dae53353"
+    },
+    {
+      "path": "analysis/geography/GEOGRAPHY_INTEGRATION_REPORT.md",
+      "size_bytes": 15453,
+      "sha256": "3e358e432a865813ab6a967a259957d6f692acafdf7a3009a7e436b0cbf5666e",
+      "action": "replace",
+      "baseline_sha256": "5d04c73d3ec4567c13979006e51e33ca57a6aeb98662fb18f30cf18976db847f"
+    },
+    {
+      "path": "analysis/interviews/INTERVIEW_SYNTHESIS.md",
+      "size_bytes": 17680,
+      "sha256": "577dcb38a2b3c2a6b06fc40e5f894e748ba49b185c610d54b93f3b2d927723f2",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/cross_source_matrix.csv",
+      "size_bytes": 4680,
+      "sha256": "807d1aea110b5333b1ba395286bb13dab12edbda98ca64c1997f176cba69f317",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/evidence_records.csv",
+      "size_bytes": 13464,
+      "sha256": "58807868b1ef5f3865c31e0f349b95b20bc07d0797edae1013aa13cbf748b123",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/evidence_records.json",
+      "size_bytes": 19903,
+      "sha256": "04d7dcf74856ac6a08de999fc4155a71c0aabd55f9609203d6033906f51b08ce",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/guide_hypothesis_bridge.csv",
+      "size_bytes": 2439,
+      "sha256": "38a5dc5ab899b7b9d5e568c4051d4c5500b6ad27ffc52b17991e35981c052bcb",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/legacy_hypothesis_bridge.csv",
+      "size_bytes": 5891,
+      "sha256": "199a1875bcec41dc2841f6bbb93d7ea76dbc78a9aa09ef463a8fe2d8dad3166f",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/pilot_decision.json",
+      "size_bytes": 2835,
+      "sha256": "ced6c655756312ad09eccd3009916ba6b39cc7e9c6e8182a38f83fc90b7799d6",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/solution_priority_update.csv",
+      "size_bytes": 6695,
+      "sha256": "b7df6ad96125f988bb4ee6a85e21d295df87134cdcace9159e61f5b66597a78e",
+      "action": "add"
+    },
+    {
+      "path": "analysis/interviews/source_register.json",
+      "size_bytes": 2526,
+      "sha256": "7601b4b4d14153eaa40d344ab237f6628d7996ce10f9f0d6c4bcb3232c2ce72c",
+      "action": "add"
+    },
+    {
+      "path": "analysis/research/COMMERCIAL_MODEL_SPEC.md",
+      "size_bytes": 7642,
+      "sha256": "29c60d830b3c01ac59943164779ff842dfef2ba301b760608bd0c9b0b71127ae",
+      "action": "replace",
+      "baseline_sha256": "aa9691c685fdcb2dee39ac8a71ef2bacf6fcc3725a6b89ebef03543e6cb77976"
+    },
+    {
+      "path": "analysis/research/RESEARCH_SYNTHESIS.md",
+      "size_bytes": 29865,
+      "sha256": "f8e35bc7ea992fe526a8fb245755a6bbd142521bc97755baa483f936a94f81dd",
+      "action": "replace",
+      "baseline_sha256": "d7aab968b77f567b187485e32c040144c51527da19c068a8bce82c88c2d513f5"
+    },
+    {
+      "path": "analysis/social/SOCIAL_SYNTHESIS.md",
+      "size_bytes": 16506,
+      "sha256": "f7fe35b7c75eba89fb98513f3addf7f8a7d1a024c62b97b6fc92acee4ae6ffcf",
+      "action": "replace",
+      "baseline_sha256": "1eb8bd10a9efeb37ea22a8c15e102a9d3086e60bb0c1b216bc9d6bd256e3aa1a"
+    },
+    {
+      "path": "context/CONTINUATION_FAQ.json",
+      "size_bytes": 8425,
+      "sha256": "0e40c00426594927641199b6c560dd0de3ba03605fb1f4cb2d9c817ee67e2473",
+      "action": "replace",
+      "baseline_sha256": "b10062d75712c8c877d2e196486dae8f44ad3a00a76f0f6efb5c4a8d6e0228e0"
+    },
+    {
+      "path": "context/CURRENT_STATUS.json",
+      "size_bytes": 1016,
+      "sha256": "488152590a3ef57a7593dc2f393dfbf55b564300e90b78df3529ffd2c79834df",
+      "action": "replace",
+      "baseline_sha256": "83b4628a29e77db6635b313e02746b7fb61d54ec2e9d77a383d55d6ab5fd69f4"
+    },
+    {
+      "path": "context/NEXT_RESEARCH_DECISIONS.md",
+      "size_bytes": 1750,
+      "sha256": "0d50825af282d894a69086d6c1cd81d3ca1e2afdd58df820c9ed8b813f4922ad",
+      "action": "replace",
+      "baseline_sha256": "ce58b47937deefb2a9bc9723ccee778a784c9159dba053477f5b7b4241acce15"
+    },
+    {
+      "path": "context/SESSION_DECISIONS.json",
+      "size_bytes": 736,
+      "sha256": "b0ac94cca8a52f077e9d9f4965f2f125097c6fbe05bc88f9e15a99580ad5684e",
+      "action": "replace",
+      "baseline_sha256": "01e7a4b86881fa0588f387cfb16916bd831539691be222b41e6e29887ff019a1"
+    },
+    {
+      "path": "context/START_NEXT_CHAT.txt",
+      "size_bytes": 1017,
+      "sha256": "ac52e2b8da21d8a83fd39217a6d44d98041fd5c416659fdc824e9cc71e56c432",
+      "action": "replace",
+      "baseline_sha256": "087f3d71bf2cc953c7ab598dbe4755c3a4824be5624e587d8ef4e2eedccafe40"
+    },
+    {
+      "path": "context/SUPERSESSION.md",
+      "size_bytes": 1737,
+      "sha256": "f80b370d8d7467d7083b3e76acaebc7e7f6109fa17576a69472a0667bebdc333",
+      "action": "replace",
+      "baseline_sha256": "0ec7e244ac8ce6e73333cfca14a689a9eef5762d8f8fbbcfbc42fa340c1c4e48"
+    },
+    {
+      "path": "data/evidence_catalogue.json",
+      "size_bytes": 31118,
+      "sha256": "254604089d664bb5410b2da2c22a789525469c383d9e21ccc80943c331a76915",
+      "action": "replace",
+      "baseline_sha256": "e2a6832353ba5271507173096df9bc64d6077569a0c924b1bc96646f472f0b96"
+    },
+    {
+      "path": "data/insights.csv",
+      "size_bytes": 6756,
+      "sha256": "3fdfb577bd78fab512c43dc10f1e7f378e2d6140614f7114990b6efe36b00647",
+      "action": "replace",
+      "baseline_sha256": "c83af418ae3346c9c990ad277e49cd5da10102a9761a9f610276ef8d08203173"
+    },
+    {
+      "path": "data/insights.json",
+      "size_bytes": 10165,
+      "sha256": "32e879d5aa91474ea98908fb2572faa595a4f5ca13601683aad3edaf7d03470c",
+      "action": "replace",
+      "baseline_sha256": "b905dbb1f44d0399f647b4fe51c0e5eccd54968476623734667fa2fb97288774"
+    },
+    {
+      "path": "manifests/release_files.jsonl",
+      "size_bytes": 308544,
+      "sha256": "4c95fdc47b0c715ee23667ec7caa9aed7c4f1df5f5348365c78b6f73357bf859",
+      "action": "replace",
+      "baseline_sha256": "841ef02da695b9adf6ff658aa547e253245ebd19197e20ba2c898cd975bd37a3"
+    },
+    {
+      "path": "manifests/source_inventory.jsonl",
+      "size_bytes": 1654571,
+      "sha256": "e3b9b5deb8ad5a19698fd953cdbf6af9475f28b7f1a0d8687a6a2252c2e0abb3",
+      "action": "replace",
+      "baseline_sha256": "07333fcbc3ee58fc74d52d14cbc7bf46f9e3918b6d1053545aac152a7202a2b9"
+    },
+    {
+      "path": "qa/INTERVIEW_UPDATE_QA.json",
+      "size_bytes": 930,
+      "sha256": "c7b472041a71167106495345aaf7901ed9a932ccd9fe9093ac6bc2a9f22034c3",
+      "action": "add"
+    },
+    {
+      "path": "reports/Auto2000_Integrated_Decision_Workbook.xlsx",
+      "size_bytes": 31133,
+      "sha256": "67e94d4ead8d9d84794854af028594bce6152b215a35e65da770b30c141454a3",
+      "action": "replace",
+      "baseline_sha256": "45cd85738c76396c6fa63d578b5e79b4d40dd12170ae6a780101ab6496e4f9f1"
+    },
+    {
+      "path": "reports/Auto2000_Integrated_Research_Report.docx",
+      "size_bytes": 191608,
+      "sha256": "a2633ed13c112d8440388657c294d4bc0ef3d3ec6f1784741384e3e37023d78c",
+      "action": "replace",
+      "baseline_sha256": "2e8b697ccbb885b14bed38eafa2687d1a2d796b3811debda3e8e54f30e7a0c16"
+    },
+    {
+      "path": "reports/Auto2000_Integrated_Research_Report.pdf",
+      "size_bytes": 405420,
+      "sha256": "dc229bdd71ef5a88ea2f92b1b23ffd10a2b7a7f8ff0f5831e44454849b002db5",
+      "action": "replace",
+      "baseline_sha256": "6ace39b7aa8d631aabb9a4af7678b2e212f551a79a00b4e0931b7f0041050b3b"
+    },
+    {
+      "path": "reports/EXECUTIVE_FINDINGS.md",
+      "size_bytes": 4837,
+      "sha256": "cd751e7ebe3869a2f9fbc7443e64bf921a1dd2ee0e9c30448ac827bbc4f3cfa8",
+      "action": "replace",
+      "baseline_sha256": "d7712c0dc6121a171f06cecce557f3d74e721a3f973554f899e901298655d7d9"
+    },
+    {
+      "path": "reports/HYPOTHESIS_ASSESSMENT_NOTES.md",
+      "size_bytes": 3825,
+      "sha256": "66a55fee7efa179d44a84552c86bf5eb119a5aebe3559ec8b092057c1ed17a3d",
+      "action": "replace",
+      "baseline_sha256": "da6b74b1eb53afebe9e951ebcad1f523b262b0ac249918c1c0a2c89c8aca559f"
+    },
+    {
+      "path": "reports/INTEGRATED_REPORT.md",
+      "size_bytes": 51708,
+      "sha256": "a61ca72ddc9fba8944f4f1cd550121794f1c0fb056198d7e0d79bd21dcf05f1d",
+      "action": "replace",
+      "baseline_sha256": "881664e38c32f054430119ff7dbd498fd231c4a00ff7fa6101f9577626dd40a8"
+    },
+    {
+      "path": "scripts/presentation/README.md",
+      "size_bytes": 3916,
+      "sha256": "3242a5d2df3f3bc1191a6ae1e5afc43f2d7fac8ae05884817381b46bd1667c9b",
+      "action": "replace",
+      "baseline_sha256": "4bc306cfba89a61e8cbf2f26772a037983548f7449c84164a1945813cbddb0c3"
+    },
+    {
+      "path": "scripts/presentation/build_workbook.mjs",
+      "size_bytes": 20526,
+      "sha256": "0b3f25f7f9c0209b4c51c11332e764155881da2ed6cff74fe2a195c45b66019b",
+      "action": "replace",
+      "baseline_sha256": "9f90d3b009509f1ee8b3aadce5cee2c8b373affaee5eadde656c924f15f556c5"
+    },
+    {
+      "path": "scripts/presentation/prepare_workbook.py",
+      "size_bytes": 2105,
+      "sha256": "2f9f2684a192b91717e90ef6e5a917c76dbd377c007b129c3f9a8d8880dc65b5",
+      "action": "replace",
+      "baseline_sha256": "a8c790a92bc8040732c9810c657779654ea7bfa6f5f34bcfadeb11101ed4cd1e"
+    },
+    {
+      "path": "scripts/presentation/workbook_inputs.json",
+      "size_bytes": 55633,
+      "sha256": "b041998aedda88d1008e74e6b516383b2ea0c9f351ddb3aff776008fdf9cb3ff",
+      "action": "replace",
+      "baseline_sha256": "63024fe6767b0699e0f6a4fc09d7948d402eb08baa3cbc3bd07894ae8b2c9528"
+    },
+    {
+      "path": "scripts/verify_analysis.py",
+      "size_bytes": 4384,
+      "sha256": "9c097e247b280decb2e79b2a4c558451c8e96e78abe08755a8a026d4f1e7fb30",
+      "action": "replace",
+      "baseline_sha256": "ba74d2aae4bebc7f0d72c49653333be73585a2016dd0338e686a599ee80ee87f"
+    },
+    {
+      "path": "scripts/verify_interview_update.py",
+      "size_bytes": 6213,
+      "sha256": "b7b29c75263b1fa11d072a7c9906a6a74a154326bb9acf7d86db70cb38e46fa4",
+      "action": "add"
+    },
+    {
+      "path": "scripts/verify_release.py",
+      "size_bytes": 1910,
+      "sha256": "8aaf99121b2e858d5c26b35a9015d6f7aee446880479f0b1198532aaa80d3b2b",
+      "action": "replace",
+      "baseline_sha256": "0f71b94f46e8500e6f2769db844c18ce65a7ae41e43c5d4d87bf7b1bbe14a69a"
+    },
+    {
+      "path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "size_bytes": 1215,
+      "sha256": "4e5f02f654e634a67528a3003938c25d8ecb47343038b1eb1bfe67b106698977",
+      "action": "add"
+    },
+    {
+      "path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "size_bytes": 278075,
+      "sha256": "9bac5e122a67ce36eea3125327c4889fd3e54f46ca223687d7d1021dcb7c998c",
+      "action": "add"
+    },
+    {
+      "path": "sources/interviews/Panduan_Wawancara_Auto2000_Digiroom.docx",
+      "size_bytes": 45366,
+      "sha256": "2dca96ef4f684040ce09f303efafe4226030b209bde70ed58e1f0581f302ad4e",
+      "action": "add"
+    },
+    {
+      "path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "size_bytes": 261971,
+      "sha256": "99b09dab9eef9e25c113456306020eda5006cb4bf68bae6aa7a42dc3b16c7808",
+      "action": "add"
+    },
+    {
+      "path": "sources/interviews/README.md",
+      "size_bytes": 1424,
+      "sha256": "1e35231fcbec422720c9d7cc6364230f2d7f69b2aeba5d268f6fa53a3d615dba",
+      "action": "add"
+    }
+  ]
+}

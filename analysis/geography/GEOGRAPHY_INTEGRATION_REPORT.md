@@ -75,6 +75,10 @@ Use the same accepted-handoff logic with different completion events. A first-Au
 
 Decision: share context and acknowledgment infrastructure across the three prongs, while keeping their commercial outcomes and payer rules separate. Do not count a submitted request, app-channel migration, included HHC check or internal referral as incremental gross profit.
 
+## Interview comparison
+
+The Atto Sidoarjo–Surabaya and Rungkut episodes add a route-specific illustration of public charging and backup transport. The origin model here measures workshop access and has no incident-level charge or trip data. Soekarno-Hatta is a candidate for a Yaris Cross Hybrid service-record test because of the repeat-travel burden and distinct selected Auto2000 accounts. Confirm branch capability, eligible work and case ownership separately. The Wuling interview describes a different operator's site on Soekarno-Hatta. The Yaris interview does not name its branch. [Interview synthesis](../interviews/INTERVIEW_SYNTHESIS.md)
+
 ## Reproduction and audit
 
 The independent standard-library audit reads the original 76,221 main OD rows, 5,913 supplementary rows and 162 corrected outbound rows. The corrected source also retains the separately calculated reverse directions. It derives nearest endpoints after the joint origin/destination snap screen of 250 metres, classifies OtoXpert operators from the official inventory and recomputes the corrected branch table. Across 29 endpoints and ten fields per endpoint, all 290 checks match the saved release within 1e-9 minutes where numerical comparison applies. The strict paired origin counts are 59,78,78,69. No network requests were used.

@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-11-16",
+  "pilot_id": "HEV_SERVICE_RECORD",
+  "preferred_branch": "Auto2000 Soekarno-Hatta, Bandung",
+  "fallback_branch": "Auto2000 Setiabudi, Bandung",
+  "cohort": "Yaris Cross Hybrid service due, with verified paid or mixed eligibility for the commercial endpoint",
+  "branch_readiness": "unverified",
+  "design_summary": "Normal WhatsApp or assisted service in both groups; add the Digiroom work and delegated approval record in the pilot group.",
+  "primary_endpoint": "Completed customer-paid work orders per eligible paid or mixed opportunity",
+  "secondary_endpoints": [
+    "Recognized Auto2000 contribution",
+    "Meaningful voluntary Digiroom return",
+    "Approval turnaround",
+    "Repeat visits and rework",
+    "Wholly covered completion and reimbursement"
+  ],
+  "economic_input_policy": "Interview cases do not populate financial or adoption inputs.",
+  "evidence_refs": [
+    "I03",
+    "I04",
+    "I07",
+    "I10",
+    "I11",
+    "WA-K1",
+    "YH-Q06",
+    "YH-K1",
+    "G2",
+    "M08",
+    "M09"
+  ],
+  "workbook_rows": [
+    {
+      "topic": "Proposed pilot",
+      "decision": "Yaris Cross Hybrid service record at Auto2000 Soekarno-Hatta, Bandung. Setiabudi is the fallback.",
+      "boundary": "Branch capacity, paid/mixed eligibility and ownership require confirmation.",
+      "refs": "I03, I11, G2, M08, M09"
+    },
+    {
+      "topic": "Intervention",
+      "decision": "Keep WhatsApp booking; add accepted scope, coverage, approval and completion status in Digiroom.",
+      "boundary": "Make delegated approval revocable. Maintain assisted access.",
+      "refs": "WA-K1, YH-Q06, YH-K1"
+    },
+    {
+      "topic": "Comparison",
+      "decision": "Compare usual workflow with usual workflow plus the record. Assign eligible households or comparable branch weeks where feasible.",
+      "boundary": "Record capacity and contamination. Use descriptive results if comparison is weak.",
+      "refs": "I04, I10"
+    },
+    {
+      "topic": "Paid completion",
+      "decision": "Completed paid work orders per eligible paid or mixed opportunity. Include actual recognized contribution.",
+      "boundary": "Track covered service separately. Count one work order across channels.",
+      "refs": "I07, I10"
+    },
+    {
+      "topic": "Useful Digiroom return",
+      "decision": "Voluntary return for status, approval, completion or a later distinct ownership task.",
+      "boundary": "Track repeat work, rework, authorization time and service effort.",
+      "refs": "YH-K1, I11"
+    },
+    {
+      "topic": "Follow-on tests",
+      "decision": "Confirmed xEV demonstration and inspected net-upgrade offer. Compare funding mechanisms later.",
+      "boundary": "The interviews supply no conversion, uplift or realized price-floor effect.",
+      "refs": "I06, I08, I09, BA-A06"
+    }
+  ]
+}

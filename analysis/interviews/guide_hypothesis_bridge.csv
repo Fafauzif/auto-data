@@ -1,0 +1,13 @@
+guide_id,local_hypothesis_id,topic,assessment,interview_refs,decision_boundary
+WA,H1,BEV trip-fit and adaptation,case_contrast,WA-Q03;WA-Q04;BA-A01,"Wuling routine worked within the recalled period; Atto illustrates actual adaptation under low charge. Scope is conditional on trip, charging access and schedule."
+WA,H2,Initial cash and divided roles,roles_only,WA-Q01;WA-Q02;WA-Q08,Role separation is clear; initial-cash blockage is untested.
+WA,H3,Established charging routine reduces search need,case_support,WA-Q04;BA-A01,The known apartment arrangement worked for Wuling. The Atto incidents show when ongoing assistance could matter.
+WA,H4,Work acceptance and approval versus distance or discounts,partial,WA-Q05;WA-Q06,Quality and trust mattered to the driver. No discount or distance trade-off was tested.
+WA,H5,App adds value beyond the adviser or chat,positive_comparator,WA-Q09;WA-K1;YH-K1,The Wuling driver would keep WhatsApp. The hybrid respondent identifies a possible distinct work-record task.
+WA,H6,Condition evidence alone cannot close replacement,untested,WA-Q10;WA-K2K3,Family changed a vehicle and the driver did not handle the process.
+YH,H1,Hybrid choice can extend beyond fuel savings,qualified,YH-Q01;YH-Q07;YH-Q08,"Reported fuel savings explain the model shift, while the established sales relationship helps explain dealer choice. Avoid treating the two choices as the same."
+YH,H2,"User, scheduler and payer need distinct authority",case_support,YH-Q02;YH-Q06;YH-K1,The authorization split is present. A shareable entry is a concept response with untested behavior.
+YH,H3,Benefits coexist with work that becomes paid,untested,YH-Q05;YH-Q06,"The described service remains covered. Timing, eligibility and payer of paid work need branch records."
+YH,H4,Scope and outcome can matter more than distance or price,partial,YH-Q05;YH-Q06;YH-K1,"Location influenced branch choice, and the driver describes technical justification as the basis for additional approval. A specific cross-branch or price comparison is absent."
+YH,H5,Frequent driving does not itself create an app task,case_support,YH-Q03;YH-Q09;YH-K1,WhatsApp completed the current booking and work records are a separate potential reason to open Digiroom.
+YH,H6,Accepted condition evidence must lead to an executable offer,concept_only,YH-Q10;YH-K3,Actual behavior stops at reference prices; no evidence acceptance or replacement transaction was observed.

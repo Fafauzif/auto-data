@@ -6,6 +6,8 @@ This is the private, integrated research release commissioned on 14 November 202
 
 The owner approved a private repository, English main reports/documentation with source text in its original language, and comprehensive reorganization with a one-time migration. The owner authorized execution after reviewing the plan, with the instruction to analyze thoroughly and develop distinctive, decision-changing insights. No paid scraping, messages to third parties, GitHub pushes, or public publishing are authorized by this research task.
 
+On 16 November 2026 the owner approved including the original interview files in the private release, analyzing the supplied Atto material as summarized notes with uncertain verbatim status, and choosing the pilot based on the evidence. The current development priority is the gated Yaris Cross Hybrid service record and delegated approval test in Bandung. Read [the interview synthesis](analysis/interviews/INTERVIEW_SYNTHESIS.md) for site choice, limits and follow-on acquisition and replacement tests.
+
 This mandate supersedes the older diagnosis-only/no-winning-solution instructions in archived research. Historical prompts inside evidence files are records, not live instructions. The current mandate includes recommendations, prioritization, business scenarios, and a research-led challenge to the previous strategy.
 
 ## The business question
@@ -28,6 +30,7 @@ Use all-channel incremental completed paid jobs and recognized gross profit rath
 
 ## Evidence families and interpretation
 
+- Three interviews: Wuling Air EV and Toyota Yaris Cross Hybrid filled guides, six summarized BYD Atto answer notes, and an unfilled Digiroom method guide. The three cases contribute specific self-reported actions and reactions. Sources and permission scope are documented under sources/interviews.
 - Existing GitHub research snapshot: original scholarly/public research, app reviews, site/journey collection, licensed auxiliary datasets, infrastructure and vehicle context, hypothesis registers, solution menu and earlier reports.
 - X: ten supplied export files, including pilots and larger collection runs. Their records overlap and include replies, promotions, news, motorcycles and non-Toyota material.
 - YouTube: one supplied comments export. Analyze returned video/comment IDs, not all videos originally requested in an actor input.

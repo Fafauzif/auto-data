@@ -179,5 +179,22 @@
       "PROJECT_CONTEXT.md",
       "context/SESSION_TIMELINE.csv"
     ]
+  },
+  {
+    "question": "Where are the three interview records and their analysis?",
+    "answer": "Use the private source register and question-by-question evidence ledger. The Atto responses are summarized notes for analytical purposes.",
+    "paths": [
+      "analysis/interviews/source_register.json",
+      "analysis/interviews/evidence_records.json",
+      "analysis/interviews/INTERVIEW_SYNTHESIS.md"
+    ]
+  },
+  {
+    "question": "Which pilot does the integrated interview evidence support?",
+    "answer": "First test a Yaris Cross Hybrid service and delegated approval record alongside WhatsApp at Auto2000 Soekarno-Hatta. Validate eligible cohort volume and branch ownership first.",
+    "paths": [
+      "analysis/interviews/pilot_decision.json",
+      "reports/EXECUTIVE_FINDINGS.md"
+    ]
   }
 ]

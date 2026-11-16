@@ -786,5 +786,347 @@
       "analysis/social/curated_social_evidence.jsonl"
     ],
     "record_id": "UgzHqp507BS99rKy69d4AaABAg"
+  },
+  {
+    "evidence_ref": "WA-Q01",
+    "type": "reported_family_context",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 2, Q01"
+  },
+  {
+    "evidence_ref": "WA-Q02",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 3, Q02"
+  },
+  {
+    "evidence_ref": "WA-Q03",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 4, Q03"
+  },
+  {
+    "evidence_ref": "WA-Q04",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 4, Q04"
+  },
+  {
+    "evidence_ref": "WA-Q05",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 5, Q05"
+  },
+  {
+    "evidence_ref": "WA-Q06",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 5, Q06"
+  },
+  {
+    "evidence_ref": "WA-Q07",
+    "type": "knowledge_boundary",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 6, Q07"
+  },
+  {
+    "evidence_ref": "WA-Q08",
+    "type": "knowledge_boundary",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 6, Q08"
+  },
+  {
+    "evidence_ref": "WA-Q09",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7, Q09"
+  },
+  {
+    "evidence_ref": "WA-Q10",
+    "type": "reported_family_context",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7, Q10"
+  },
+  {
+    "evidence_ref": "WA-Q11",
+    "type": "respondent_assessment",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 9, Q11"
+  },
+  {
+    "evidence_ref": "WA-Q12",
+    "type": "interviewer_record",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 9, Q12"
+  },
+  {
+    "evidence_ref": "WA-K1",
+    "type": "elicited_concept_reaction",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 8, K1"
+  },
+  {
+    "evidence_ref": "WA-K2K3",
+    "type": "interviewer_interpretation",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 8, K2K3"
+  },
+  {
+    "evidence_ref": "WA-SYN",
+    "type": "interviewer_interpretation",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 10–12, SYN"
+  },
+  {
+    "evidence_ref": "YH-Q01",
+    "type": "reported_family_context",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 2, Q01"
+  },
+  {
+    "evidence_ref": "YH-Q02",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 3, Q02"
+  },
+  {
+    "evidence_ref": "YH-Q03",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 4, Q03"
+  },
+  {
+    "evidence_ref": "YH-Q04",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 4, Q04"
+  },
+  {
+    "evidence_ref": "YH-Q05",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 5, Q05"
+  },
+  {
+    "evidence_ref": "YH-Q06",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 5, Q06"
+  },
+  {
+    "evidence_ref": "YH-Q07",
+    "type": "reported_family_context",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 6, Q07"
+  },
+  {
+    "evidence_ref": "YH-Q08",
+    "type": "mixed_self_report_and_family_context",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 6, Q08"
+  },
+  {
+    "evidence_ref": "YH-Q09",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7, Q09"
+  },
+  {
+    "evidence_ref": "YH-Q10",
+    "type": "firsthand_self_report",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7, Q10"
+  },
+  {
+    "evidence_ref": "YH-Q11",
+    "type": "respondent_assessment",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 8, Q11"
+  },
+  {
+    "evidence_ref": "YH-Q12",
+    "type": "interviewer_record",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 8, Q12"
+  },
+  {
+    "evidence_ref": "YH-K1",
+    "type": "elicited_concept_reaction",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7–8, K1"
+  },
+  {
+    "evidence_ref": "YH-K2",
+    "type": "elicited_concept_reaction",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 8, K2"
+  },
+  {
+    "evidence_ref": "YH-K3",
+    "type": "elicited_concept_reaction",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 7–8, K3"
+  },
+  {
+    "evidence_ref": "YH-SYN",
+    "type": "interviewer_interpretation",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "PDF page 9–11, SYN"
+  },
+  {
+    "evidence_ref": "BA-A01",
+    "type": "summarized_firsthand_account",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 1"
+  },
+  {
+    "evidence_ref": "BA-A02",
+    "type": "summarized_firsthand_account",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 2"
+  },
+  {
+    "evidence_ref": "BA-A03",
+    "type": "summarized_firsthand_account",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 3"
+  },
+  {
+    "evidence_ref": "BA-A04",
+    "type": "summarized_firsthand_account",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 4"
+  },
+  {
+    "evidence_ref": "BA-A05",
+    "type": "summarized_firsthand_account",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 5"
+  },
+  {
+    "evidence_ref": "BA-A06",
+    "type": "elicited_concept_reaction",
+    "paths": [
+      "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "analysis/interviews/evidence_records.json"
+    ],
+    "locator": "Answer 6"
+  },
+  {
+    "evidence_ref": "IG-PROTOCOL",
+    "type": "interview_protocol",
+    "paths": [
+      "sources/interviews/Panduan_Wawancara_Auto2000_Digiroom.docx",
+      "analysis/interviews/source_register.json"
+    ],
+    "locator": "Sections on session selection, concept comparison and decision worksheet"
   }
 ]

@@ -31,6 +31,7 @@ payload={
  'branches':typed(table('analysis/geography/tables/branch_portfolio.csv')),
  'maps':typed(table('analysis/social/maps_branch_cohort_summary.csv')),
  'youtube':typed(table('analysis/social/youtube_video_summary.csv')),
+ 'interview_pilot':json.loads((root/'analysis/interviews/pilot_decision.json').read_text(encoding='utf-8')),
 }
 insights=root/'data/insights.json'
 if insights.exists():payload['insights']=json.loads(insights.read_text(encoding='utf-8'))

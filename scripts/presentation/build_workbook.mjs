@@ -10,7 +10,7 @@ await fs.mkdir(outputDir,{recursive:true});
 await fs.mkdir(path.join(work,'qa'),{recursive:true});
 const data=JSON.parse(await fs.readFile(path.join(work,'workbook_inputs.json'),'utf8'));
 const wb=Workbook.create();
-const names=['Overview','Economics','Case P&L','Market access','Branch portfolio','Maps cohorts','YouTube','Method'];
+const names=['Overview','Economics','Case P&L','Market access','Branch portfolio','Maps cohorts','YouTube','Interview pilot','Method'];
 const sheets=Object.fromEntries(names.map(n=>[n,wb.worksheets.add(n)]));
 const C={navy:'#17324D',blue:'#2457C5',green:'#147546',gray:'#64748B',pale:'#F1F5F9',amber:'#FFF2CC',red:'#FDE9E7'};
 const font='Arial';
@@ -39,7 +39,7 @@ function rowsTable(s,start,rows,keys,labels,widths){
 // Overview contains the actual corpus and model results once.
 {
  const s=sheets.Overview;setup(s,'Auto2000 integrated research workbook','L',38);s.tabColor=C.navy;
- note(s,'B4','Research cutoff 14 November 2026. Sources retain their original languages.');
+ note(s,'B4','Interviews integrated 16 November 2026. Secondary research cutoff 14 November 2026.');
  const rows=data.coverage;
  rowsTable(s,6,rows,['platform','source_rows','unique_records','duplicate_excess_rows','record_unit'],['Platform','Source rows','Unique IDs','Duplicate rows','Unit'],[18,17,17,17,23]);
  s.getRange('C7:E9').setNumberFormat('#,##0');
@@ -168,6 +168,19 @@ function rowsTable(s,start,rows,keys,labels,widths){
  note(s,'B14','Comment counts are not verified-owner counts. Two channel-owner messages occur in the three-row Setir Kanan cohort.');
 }
 {
+ const s=sheets['Interview pilot'];
+ setup(s,'Yaris Cross Hybrid service record pilot','E',22);
+ s.tabColor=C.green;
+ note(s,'B4','Proposed pilot. Branch readiness and eligible work must be confirmed before launch.');
+ const pilot=data.interview_pilot;
+ const {last}=rowsTable(s,6,pilot.workbook_rows,['topic','decision','boundary','refs'],
+  ['Decision area','Pilot design','Measurement and guardrail','Evidence IDs'],[24,53,47,24]);
+ s.getRange(`B7:E${last}`).format.wrapText=true;
+ s.getRange(`B7:E${last}`).format.rowHeight=57;
+ note(s,`B${last+2}`,'References resolve in data/evidence_catalogue.json and data/insights.json.');
+ note(s,`B${last+3}`,'The three interviews supply no numeric assumptions for the Economics sheet.');
+}
+{
  const s=sheets.Method;setup(s,'Definitions and update method','D',22);s.tabColor='#94A3B8';
  const rows=[
  ['Unit of evidence','A post, review or comment is a source record. Records do not identify verified owners or completed jobs unless the content supports that interpretation.'],
@@ -202,7 +215,7 @@ wb.recalculate();
 await fs.writeFile(path.join(work,'qa/economics_formula_tests.json'),JSON.stringify(tests,null,2));
 
 // Render every sheet's opening view with fitted source columns.
-const renders={'Overview':'B2:P29','Economics':'C5:F20','Case P&L':'B2:F24','Market access':'B2:H16','Branch portfolio':'B2:J13','Maps cohorts':'B2:L12','YouTube':'B2:G14','Method':'B2:C15'};
+const renders={'Overview':'B2:P29','Economics':'C5:F20','Case P&L':'B2:F24','Market access':'B2:H16','Branch portfolio':'B2:J13','Maps cohorts':'B2:L12','YouTube':'B2:G14','Interview pilot':'B2:E15','Method':'B2:C15'};
 for(const [name,range] of Object.entries(renders)){
  const img=await wb.render({sheetName:name,range,scale:1.5,format:'png'});
  await fs.writeFile(path.join(work,'qa',name.replaceAll(' ','_').replaceAll('&','and')+'.png'),new Uint8Array(await img.arrayBuffer()));

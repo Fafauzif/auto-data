@@ -1,0 +1,62 @@
+{
+  "integration_date": "2026-11-16",
+  "interview_cases": 3,
+  "source_files": 4,
+  "permission_basis": "Owner confirmed all interview sources agreed for sharing and requested originals in this private release. Filled WA and YH guides record anonymous quotation and recording permission.",
+  "audio_supplied": false,
+  "sources": [
+    {
+      "source_id": "WA",
+      "label": "Wuling Air EV",
+      "kind": "filled_interview_guide",
+      "path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "language": "id",
+      "date": null,
+      "distribution": "private",
+      "size_bytes": 278075,
+      "sha256": "9bac5e122a67ce36eea3125327c4889fd3e54f46ca223687d7d1021dcb7c998c",
+      "provenance": "Project owner, supplied interview document: Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+      "pages": 12
+    },
+    {
+      "source_id": "YH",
+      "label": "Toyota Yaris Cross Hybrid",
+      "kind": "filled_interview_guide",
+      "path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "language": "id",
+      "date": null,
+      "distribution": "private",
+      "size_bytes": 261971,
+      "sha256": "99b09dab9eef9e25c113456306020eda5006cb4bf68bae6aa7a42dc3b16c7808",
+      "provenance": "Project owner, supplied interview document: Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+      "pages": 11
+    },
+    {
+      "source_id": "BA",
+      "label": "BYD Atto (exact model unconfirmed)",
+      "kind": "owner_supplied_answer_notes",
+      "path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+      "language": "id",
+      "date": null,
+      "distribution": "private",
+      "size_bytes": 1215,
+      "sha256": "4e5f02f654e634a67528a3003938c25d8ecb47343038b1eb1bfe67b106698977",
+      "provenance": "Project owner, six numbered Indonesian answers supplied in chat",
+      "answer_count": 6,
+      "verbatim_status": "uncertain; treat all six as summarized"
+    },
+    {
+      "source_id": "IG",
+      "label": "Digiroom interview protocol",
+      "kind": "interview_protocol",
+      "path": "sources/interviews/Panduan_Wawancara_Auto2000_Digiroom.docx",
+      "language": "id",
+      "date": null,
+      "distribution": "private",
+      "size_bytes": 45366,
+      "sha256": "2dca96ef4f684040ce09f303efafe4226030b209bde70ed58e1f0581f302ad4e",
+      "provenance": "Project owner, supplied interview document: Panduan_Wawancara_Auto2000_Digiroom.docx",
+      "evidentiary_role": "Protocol and candidate pilot only; no respondent outcome"
+    }
+  ]
+}

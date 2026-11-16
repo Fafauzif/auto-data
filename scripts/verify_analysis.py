@@ -35,10 +35,11 @@ def main():
  for ref,row in catalogue.items():check('evidence locator paths exist '+ref,all((R/p).is_file() for p in row['paths']))
  for item in js('data/insights.json'):check('insight '+item['insight_id']+' resolves its evidence',all(x in catalogue for x in item['evidence_refs']))
  faq=js('context/CONTINUATION_FAQ.json')
- check('continuation context questions resolve evidence and authority',len(faq)==24 and all(all((R/p).is_file() for p in row['paths']) for row in faq) and js('context/SESSION_DECISIONS.json')['private_repository'])
+ check('continuation context questions resolve evidence and authority',len(faq)>=24 and all(all((R/p).is_file() for p in row['paths']) for row in faq) and js('context/SESSION_DECISIONS.json')['private_repository'])
  case=R/'sources/case/Semifinal_Casebook_IBSC_2026.pdf'
  check('original casebook hash retained',hashlib.sha256(case.read_bytes()).hexdigest()=='237a96926c9da3ca8ffc5b4a311dbf41a9e12f6177a65b42e35d1e9a06df72dd')
  check('case arithmetic and prior research checks passed',all(x['pass'] for x in js('analysis/research/integration_research_checks.json')['checks']))
- check('all ten active insights and current mandate retained',len(js('data/insights.json'))==10 and all((R/p).is_file() for p in ['AGENTS.md','PROJECT_CONTEXT.md','reports/INTEGRATED_REPORT.md']))
+ insight_ids={item['insight_id'] for item in js('data/insights.json')}
+ check('ten baseline insights, interview pilot insight and current mandate retained',{f'I{index:02}' for index in range(1,12)}<=insight_ids and all((R/p).is_file() for p in ['AGENTS.md','PROJECT_CONTEXT.md','reports/INTEGRATED_REPORT.md']))
  print(json.dumps({'passed':True,'checks_n':len(checks),'checks':checks},indent=2))
 if __name__=='__main__':main()

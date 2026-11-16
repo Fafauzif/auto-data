@@ -84,6 +84,10 @@ Conversely, the comments asserting universal battery failure or harmful charging
 
 The Maps mechanism report and geographic branch matrix should determine where each process is most relevant. Social narratives do not supply branch capacity, vehicle stock or demand weights for origin points. Modelled travel minutes must not be added to anecdotal hours of waiting as if both were measured averages.
 
+## Interview comparison
+
+The later interviews add two examples of WhatsApp completing routine work (WA-Q09 and YH-Q09), and a possible approval-record task (YH-K1). Compare these with the specific breakdowns in M01, M03, M08 and M09. The interviews contain no comparison of existing versus proposed Digiroom performance. The Atto notes add a realized rideshare fallback and charger search (BA-A01), while the Wuling interview adds a functioning apartment routine (WA-Q04). Keep both alongside SX05 and SY02. The Yaris price search and Atto floor reaction are separate pieces of evidence alongside the trade-in discourse. Platform counts and original sampling design remain the same. [Interview comparison](../interviews/cross_source_matrix.csv)
+
 ## Reproduction and audit trail
 
 `build_social.py --input-dir PATH_TO_ORIGINAL_EXPORTS --output-dir OUTPUT` rebuilds all three cleaned corpora, run membership, source hashes, branch/cohort coverage, YouTube video coverage and metrics using Python's standard library. `curate_social.py --social-dir OUTPUT --pilot-cases PATH_TO_PILOT_CASES_JSON` attaches explicit analyst judgments to stable IDs. `maps_deep/build_maps_deep.py --input PATH_TO_ORIGINAL_EXPORTS --output OUTPUT` rebuilds the 34 Maps cases and coverage tables.

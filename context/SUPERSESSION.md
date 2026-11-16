@@ -9,4 +9,7 @@
 - Existing official capability observations take precedence over an inference of universal feature absence from a failed search or a negative review.
 - Case assumptions, Astra group figures, Toyota/Lexus brand scopes, national wholesales, dealer performance and origin-model metrics remain separately attributed.
 
+- The 16 November interview update sets the first test to shared service and delegated approval at a gated Bandung branch. The Veloz Hybrid Kertajaya concept in the interview protocol remains a candidate. Existing sources with a statement that no interviews were done refer to the earlier release. The interview update leaves their original date and analysis intact.
+- Legacy H01–H25 and local guide H1–H6 remain distinct registers. Use the interview bridges to see which components the new cases inform.
+
 See analysis/research/DISCREPANCIES_AND_PRECEDENCE.md for 18specificconflicts and analysis/social for source-role corrections.

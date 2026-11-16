@@ -8,6 +8,7 @@
 | `analysis/social/` |All X/Maps/YouTube normalized records, run membership, codebook, curated cases and scripts |README.md, SOCIAL_SYNTHESIS.md |
 | `analysis/social/maps_deep/` |Branch-specific qualitative mechanisms and selected positive/negative contrasts |MAPS_MECHANISM_REPORT.md |
 | `analysis/geography/` |Independent raw-route audit and new branch/job portfolio analysis |GEOGRAPHY_INTEGRATION_REPORT.md |
+| `analysis/interviews/`, `sources/interviews/` | Private interview originals, coded episodes, cross-source comparisons and prospective pilot | INTERVIEW_SYNTHESIS.md |
 | `analysis/research/` |Original case, prior capabilities, market, economics, external studies and 27alternatives |RESEARCH_SYNTHESIS.md |
 | `archive/legacy_repo/` |Original repository snapshot excluding Git internals |Original READ_FIRST.md is historical |
 | `sources/session/uploads/` |Original supplied exports, PDFs, text and context |Resolve through source inventory |

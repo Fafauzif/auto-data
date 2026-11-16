@@ -6,13 +6,14 @@ This is a private integrated Auto2000/Digiroom research repository. The owner re
 
 ## Read in this order
 
-Read README.md, PROJECT_CONTEXT.md, reports/EXECUTIVE_FINDINGS.md and context/CURRENT_STATUS.json. Use REPOSITORY_MAP.md and data/insights.json for focused retrieval. Load source-specific reports and original evidence when the question requires them. Do not begin by loading the entire historical master-context file.
+Read README.md, PROJECT_CONTEXT.md, reports/EXECUTIVE_FINDINGS.md and context/CURRENT_STATUS.json. For the 16 November update read analysis/interviews/INTERVIEW_SYNTHESIS.md and pilot_decision.json. Use REPOSITORY_MAP.md and data/insights.json for focused retrieval. Load source-specific reports and original evidence when the question requires them. Do not begin by loading the entire historical master-context file.
 
 ## Business and evidence rules
 
 - Answer all three prongs: new-to-Auto2000 xEV acquisition, eligible customer-paid aftersales recovery, repeat xEV replacement/trade-in. First Toyota, first EV and first Auto2000 are different statuses.
 - The original case requires digital innovation, meaningful regular use, xEV sales/aftersales GP and a realistic roadmap. Petrol-only operations cannot be the final answer.
 - Model origins are not customers or demand weights. Post/review/comment IDs are not people, verified owners or completed transactions.
+- The private interviews introduce respondent-reported actions, family context, interviewer interpretations and elicited reactions. Keep them distinct and cite question or answer IDs. Do not upgrade any of these to observed dealer transactions or conversion rates.
 - Keep platform/cohort/date/operator/payer/powertrain and evidence type explicit. Do not pool diagnostic low-rating reviews into population complaint rates.
 - Existing booking, appraisal, health-check and CRM capabilities form the baseline. Test novelty and completion before claiming a capability is absent.
 - Separate observed source facts, self-reports, model calculations, analyst interpretation, recommendation and illustrative scenario assumptions.

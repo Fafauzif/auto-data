@@ -35,16 +35,18 @@
     "headline": "Soekarno-Hatta combines residual access with reported return-visit mechanisms",
     "prongs": "P2",
     "evidence_type": "Cross-source interpretation",
-    "evidence_basis": "Eight residual model origins plus selected M08/M09 accounts",
+    "evidence_basis": "Eight residual model origins plus selected M08/M09 accounts | Interview update: The HEV interview branch is undisclosed.",
     "inference_boundary": "Selected accounts do not estimate failure prevalence",
-    "recommended_decision": "Prioritize prepared scope, parts and diagnostic continuity",
+    "recommended_decision": "Add approved scope and the driver-to-approver handoff to the preparedness test; verify the actual branch cohort.",
     "lower_priority_alternative": "Pickup without resolving repeated work",
     "evidence_refs": [
       "G2",
       "M08",
-      "M09"
+      "M09",
+      "YH-K1",
+      "YH-Q06"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -52,17 +54,19 @@
     "headline": "Intended paid service can be lost at acknowledgement",
     "prongs": "P2/shared",
     "evidence_type": "Self-reported mechanism and recommendation",
-    "evidence_basis": "M01explicitpaidVelozarrival;M03walk-inqueue;M02historicalunnamedapp",
+    "evidence_basis": "M01explicitpaidVelozarrival;M03walk-inqueue;M02historicalunnamedapp | Interview update: The interviews supply successful routine comparators, not a measured failure rate.",
     "inference_boundary": "Not a network failure rate or proof of current Digiroom defect",
-    "recommended_decision": "Shared case and arrival acknowledgement across all channels",
+    "recommended_decision": "Keep successful WhatsApp entry and test all-channel acknowledgement and closure in a defined cohort.",
     "lower_priority_alternative": "Acquisition or app-install campaigns before reception control",
     "evidence_refs": [
       "M01",
       "M02",
       "M03",
-      "M04"
+      "M04",
+      "WA-Q09",
+      "YH-Q09"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -86,16 +90,19 @@
     "headline": "Toyota HEV continuity and BEV acquisition require different task paths",
     "prongs": "P1/P2/P3",
     "evidence_type": "Case fact and evidence-scope interpretation",
-    "evidence_basis": "Case mostly hybrid; external modelmix; YouTubeBYD/Neta sample",
+    "evidence_basis": "Case mostly hybrid; external modelmix; YouTubeBYD/Neta sample | Interview update: The cases contrast fixed residential charging and low-charge travel adaptations.",
     "inference_boundary": "External hybrid denominator differs from caseToyotaEVestimate",
-    "recommended_decision": "Lead with HEV ownership tasks and retain distinct BEV demonstration/charging path",
+    "recommended_decision": "Lead HEV ownership with relevant tasks and offer route/fallback support to BEV households where charging conditions warrant it.",
     "lower_priority_alternative": "Using selected BEV resale discourse as Toyota-owner demand prevalence",
     "evidence_refs": [
       "C1",
       "R3",
-      "S3"
+      "S3",
+      "WA-Q04",
+      "YH-Q03",
+      "BA-A01"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -103,14 +110,17 @@
     "headline": "Entitlement timing limits near-horizon paid routine-service claims",
     "prongs": "P2",
     "evidence_type": "Programme terms and conditional calendar model",
-    "evidence_basis": "Sevencoveredtime-basedevents;month42example;paidXTRAconditions",
+    "evidence_basis": "Sevencoveredtime-basedevents;month42example;paidXTRAconditions | Interview update: The reported covered service does not establish customer-paid work.",
     "inference_boundary": "Mileage and uncovered work differ; not a BEV schedule forecast",
-    "recommended_decision": "Use actual cohort/job/payer eligibility in2026–2028economics",
+    "recommended_decision": "Track covered, reimbursed and customer-paid work separately; validate paid or mixed HEV opportunities at the branch.",
     "lower_priority_alternative": "Assuming every2026saleproducesimmediatepaidperiodicmaintenance",
     "evidence_refs": [
-      "R4"
+      "R4",
+      "YH-Q02",
+      "YH-Q06",
+      "WA-Q02"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -118,9 +128,9 @@
     "headline": "Accepted evidence must lead to an executable net-upgrade offer",
     "prongs": "P3",
     "evidence_type": "Capability baseline and recommendation",
-    "evidence_basis": "ExistingHHC/tradein;TRIVAreviewmentionsM19/M20;finance/settlement dependencies",
+    "evidence_basis": "ExistingHHC/tradein;TRIVAreviewmentionsM19/M20;finance/settlement dependencies | Interview update: Actual research ended at an indicative price range; a stated floor preference does not establish a purchase response.",
     "inference_boundary": "Not a validated battery premium or universal residual guarantee",
-    "recommended_decision": "Connect accepted documents, appraisal, finance settlement and replacement net cash",
+    "recommended_decision": "Test an inspected written net-upgrade offer; treat top-up and full-floor choices as separate later commercial tests.",
     "lower_priority_alternative": "Another detached certificate or speculative universal price floor",
     "evidence_refs": [
       "R1",
@@ -128,9 +138,13 @@
       "M19",
       "M20",
       "M21",
-      "M22"
+      "M22",
+      "YH-Q10",
+      "YH-K3",
+      "BA-A05",
+      "BA-A06"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -138,9 +152,9 @@
     "headline": "A confirmed household-relevant demonstration addresses an acquisition obstruction",
     "prongs": "P1",
     "evidence_type": "Selectedaccountsandcapabilitybaseline",
-    "evidence_basis": "SX02unitavailabilityaccount;M15/M16hybridpurchase;SY02installationcash",
+    "evidence_basis": "SX02unitavailabilityaccount;M15/M16hybridpurchase;SY02installationcash | Interview update: No interview documents a new-to-Auto2000 delivery or a failed demonstration.",
     "inference_boundary": "No national demonstrator shortage or measured sales uplift established",
-    "recommended_decision": "Confirm model/resource/adviser and preserve household context into quotation",
+    "recommended_decision": "Confirm the demonstrator and test driver needs and household buyer authority separately before the executable offer.",
     "lower_priority_alternative": "Generic education as substitute for attendable matched demonstration",
     "evidence_refs": [
       "SX02",
@@ -149,9 +163,13 @@
       "M15",
       "M16",
       "R1",
-      "R6"
+      "R6",
+      "YH-Q07",
+      "BA-A02",
+      "BA-A03",
+      "WA-Q07"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
   },
   {
@@ -159,16 +177,43 @@
     "headline": "All-channel incremental recognized contribution is the relevant profit bridge",
     "prongs": "All",
     "evidence_type": "Accounting identity and case-specific recommendation",
-    "evidence_basis": "Case84%bookingsoutsideapp;operatorandpayerperimeter",
+    "evidence_basis": "Case84%bookingsoutsideapp;operatorandpayerperimeter | Interview update: Routine WhatsApp bookings already closed in two accounts; repeated digital use is a testable hypothesis.",
     "inference_boundary": "Channel migration and ecosystem capture are distinct from incrementalAuto2000GP",
-    "recommended_decision": "Evaluate completed outcomes, costs, displacement and useful repeated digital use",
+    "recommended_decision": "Measure incremental completion and payer-specific contribution against normal service, alongside useful digital return.",
     "lower_priority_alternative": "Adding appbookings, referrals and hypothetical future purchases as newGP",
     "evidence_refs": [
       "C1",
       "R7",
-      "SX08"
+      "SX08",
+      "WA-Q09",
+      "WA-K1",
+      "YH-Q09",
+      "YH-K1"
     ],
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-16",
     "status": "active_recommendation_with_explicit_evidence_scope"
+  },
+  {
+    "insight_id": "I11",
+    "headline": "A driver can run the service visit while a different family member controls added spend",
+    "prongs": "P2/shared",
+    "evidence_type": "Interview self-reports, elicited concept and cross-source pilot hypothesis",
+    "evidence_basis": "Wuling driver approves and pays before reimbursement; Yaris driver runs service while father approves paid extra work. Yaris driver interested in a work record. M08/M09 describe scope/return problems at a different branch.",
+    "inference_boundary": "The interview cases establish roles and current channel sufficiency. Pilot branch eligibility, app use and commercial effect remain to be measured.",
+    "recommended_decision": "Test a Digiroom service and approval record alongside WhatsApp with Yaris Cross Hybrid owners at Auto2000 Soekarno-Hatta, conditional on branch readiness.",
+    "lower_priority_alternative": "Compulsory app booking or an upfront resale guarantee as the first pilot",
+    "evidence_refs": [
+      "WA-Q02",
+      "WA-K1",
+      "YH-Q02",
+      "YH-Q06",
+      "YH-Q09",
+      "YH-K1",
+      "G2",
+      "M08",
+      "M09"
+    ],
+    "as_of": "2026-11-16",
+    "status": "proposed_pilot_with_readiness_gate"
   }
 ]

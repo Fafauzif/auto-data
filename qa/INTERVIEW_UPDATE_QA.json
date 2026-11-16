@@ -1,0 +1,27 @@
+{
+  "status": "checks_passed",
+  "base_commit": "bc1b282378bf1500c231ced1f82cac12781550ff",
+  "integration_date": "2026-11-16",
+  "analytical_checks_passed": 188,
+  "source_storage_objects_verified": 1371,
+  "attached_document_copies_byte_matched": 3,
+  "offline_reproduction_steps_passed": 7,
+  "integrated_report_pages_reviewed": 16,
+  "integrated_report_tables": 4,
+  "workbook_sheets_reviewed": 9,
+  "workbook_native_formula_errors": 0,
+  "baseline_workbook_formula_sheets_matched": 8,
+  "workbook_economics_scenario_checks_passed": 5,
+  "blank_economics_inputs_verified": 63,
+  "baseline_checkout_size_issues": [
+    {
+      "path": "raw_licensed_data/IGAR_CC_BY_4_0/Rating_labeled.csv",
+      "size_bytes": 100007213
+    },
+    {
+      "path": "raw_licensed_data/EV_TELEMETRY_CC_BY_NC_3_0/Drive/Folder16/Raw.mat",
+      "size_bytes": 95036227
+    }
+  ],
+  "pilot_status": "recommendation with unverified branch readiness"
+}

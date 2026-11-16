@@ -12,6 +12,8 @@ Run from the project root using a Node environment in which `@oai/artifact-tool`
 AUTO2000_PRESENTATION_WORK=/absolute/path/to/presentation AUTO2000_OUTPUT_DIR=/absolute/path/to/reports node build_workbook.mjs
 ```
 
+The Interview pilot sheet uses the decision and guardrails in analysis/interviews/pilot_decision.json. It leaves the Economics inputs blank.
+
 The builder recalculates the workbook, inspects formula errors, runs zero/positive/missing-input economics checks, restores empty operational assumptions, renders each worksheet opening view and exports the workbook. The independent native-engine check receipt records a separate LibreOffice recalculation of the final workbook. Page and worksheet PNGs are internal QA artifacts.
 
 ## Interpretation of the economics model

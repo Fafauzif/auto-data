@@ -15,6 +15,10 @@ Maps has 37places and 5,504reviews with text. The diagnostic all-years lowest-ra
 
 X has 8,162 author keys, 6,186 replies and 5,704reply records without the immediate parent. Public author keys do not authenticate owners. YouTube covers three actual returned videos, 56top-levelcomments and 18 replies; no Toyota video is present. Relative YouTube publication strings remain relative.
 
+## Private interview research
+
+Three cases yield an answer-level ledger with 37 coded entries, including question answers, concept reactions and interviewer notes. The entries are not independent participants. The four originals include the separate unfilled protocol. Use analysis/interviews/source_register.json for scope and provenance, evidence_records.json or CSV for locators, and cross_source_matrix.csv for relationships to the integrated evidence. Keep the older 25-hypothesis register separate from the two filled guides' local H1–H6 numbering.
+
 ## Geography
 
 Current independent audit uses 82,296distinct outbound origin/destination comparisons across 324distinct baseline origin keys. The strict paired analysis retains 284 origins:Surabaya 59,Medan 78,Bandung 78,Palembang 69. Corrected general-workshop destination count is 29. Five-minute gaps and 15-minute accessibility are analytic definitions. The network model is not live traffic, customer demand or branch capacity.

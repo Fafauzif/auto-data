@@ -13,6 +13,12 @@ Make Digiroom the customer-visible place where an ownership task becomes an acce
 7. **Turn accepted condition evidence into net upgrade cash.** Existing health-check/trade-in functionality and appraisal-review mentions weaken generic feature novelty. Finance settlement, offer validity, replacement readiness and accepted evidence make the transaction executable.
 8. **Measure useful digital return and incremental completed contribution together.** The case requires regular Digiroom use and xEVGP. Channel migration, covered service and related-operator routing do not automatically create new Auto2000 GP.
 
+## First pilot from the interviews
+
+Pilot a Yaris Cross Hybrid service record and delegated approval handoff at **Auto2000 Soekarno-Hatta, Bandung**, subject to eligible case volume and branch readiness. Use Setiabudi as fallback. Both service respondents reported successful WhatsApp booking. The Yaris driver could handle the visit while a family member controlled added spend, and expressed interest in a work and approval record. The branch accounts of forgotten or repeated work provide a separate reason to test reliable scope handoff at Soekarno-Hatta. Keep usual WhatsApp service in both comparison groups and add Digiroom status and approval only to the pilot group. Measure completed customer-paid work per eligible paid or mixed opportunity, recognized contribution, and voluntary Digiroom return. Keep covered service separate.
+
+Offer BEV fit and fallback support where it addresses the household route. The Atto driver changed transport on one low-battery trip and looked for a charger on another; the Wuling driver's apartment routine worked. For replacement, start with an inspected net offer. The Yaris driver actually looked up a price range, and the Atto driver expressed a preference for a minimum set at purchase. Test the later promise with an actual buyer, terms and a funder before taking on a guarantee. [Full interview analysis](../analysis/interviews/INTERVIEW_SYNTHESIS.md)
+
 ## Evidence and impact
 
 The source corpus includes 14,291 XIDs, 8,119 MapsreviewIDs and 74 YouTubecommentIDs, plus the original repository research and complete available geographic source content. These are distinct units, not a verified customer sample. Maps diagnostic sampling remains separate from latest selected cohorts.

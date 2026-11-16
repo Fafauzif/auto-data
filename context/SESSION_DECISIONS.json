@@ -11,5 +11,11 @@
   "distribution": "private",
   "file_ceiling_bytes": 90000000,
   "context_type": "reconstructed_project_context_with_preserved_available_sources",
-  "prior_diagnosis_only_mandate": "superseded_by_current_user"
+  "prior_diagnosis_only_mandate": "superseded_by_current_user",
+  "interview_update": {
+    "date": "2026-11-16",
+    "include_original_private_interview_sources": true,
+    "interpret_atto_as_summarized_notes": true,
+    "pilot_selected_by_evidence": true
+  }
 }

@@ -2,7 +2,7 @@
 
 **Start with the current findings and project context.** This release integrates X, YouTube, Google Maps, the original repository research, the original casebook, mentoring notes, collection plans and all available geographic source versions. It is designed to let a new analyst continue without the originating chat.
 
-Research cutoff: **14 November 2026**. Original repository snapshot: `34498fe033ae4dcd1a52c8d2e039f870b00d08fe` (see manifest for authoritative full hash). This is a private research release with original-language sources. Main analyses and documentation are English.
+Secondary research cutoff: **14 November 2026**. The **16 November 2026 interview integration** adds three interviews and a proposed Yaris Cross Hybrid service-record pilot. Original repository snapshot: `34498fe033ae4dcd1a52c8d2e039f870b00d08fe` (see manifest for authoritative full hash). This is a private research release with original-language sources. Main analyses and documentation are English.
 
 ## Reading route
 
@@ -10,7 +10,8 @@ Research cutoff: **14 November 2026**. Original repository snapshot: `34498fe033
 2. [Integrated report](reports/INTEGRATED_REPORT.md): full argument, three prongs, geography, digital proposition, economics and roadmap. PDF/DOCX and the decision workbook are in `reports/`.
 3. [Project context](PROJECT_CONTEXT.md): current mandate, decisions, boundaries and continuation instructions.
 4. [Repository map](REPOSITORY_MAP.md) and [data guide](DATA_GUIDE.md): where to find specific evidence and reproduce results.
-5. [Active insight register](data/insights.json): structured facts, interpretations, recommendations and source locators.
+5. [Interview analysis](analysis/interviews/INTERVIEW_SYNTHESIS.md): all three cases, evidence comparisons, pilot decision and gates.
+6. [Active insight register](data/insights.json): structured facts, interpretations, recommendations and source locators.
 
 The original case requires digital innovation at the core, meaningful regular Digiroom use, xEV sales and aftersales GP, and a roadmap within IDR 150 billion for 2026–2028. Ordinary petrol workshop recovery supports the architecture and economics; it does not replace the xEV answer.
 
@@ -24,13 +25,13 @@ Digiroom should connect vehicle, job, entitlement, destination, accepted scope a
 
 ## Complete evidence and private originals
 
-The source index records 2,656 logical source entries, including 596 original repository files, 22 uploads, all 535 members of the newest full geographic package and historical work products. Counts are source entries, not independent evidence or customers. Byte-identical aliases resolve through the index instead of occupying duplicate files.
+The source index records 2,660 logical source entries, including four private interview files, including 596 original repository files, 22 uploads, all 535 members of the newest full geographic package and historical work products. Counts are source entries, not independent evidence or customers. Byte-identical aliases resolve through the index instead of occupying duplicate files.
 
-No stored file exceeds 90,000,000 bytes. Large originals have exact byte parts, hashes and a restoration index. The separate Source Container Vault is optional: it preserves original ZIP containers exactly. All their source-member content is already represented in this main repo.
+The integrated release contents follow a 90,000,000-byte ceiling. Older checkouts can still contain duplicated legacy files above that ceiling. Large originals have exact byte parts, hashes and a restoration index. The separate Source Container Vault is optional: it preserves original ZIP containers exactly. All their source-member content is already represented in this main repo.
 
 ## Installation and checks
 
-Read [MIGRATION.md](MIGRATION.md) before overlaying an existing checkout. Extract/Replace All does not delete old files. Run the migration dry run, review conflicts, then apply as instructed. The script protects `.git`, changed files and unknown user files.
+For the November interview ZIP on an existing integrated checkout, see [INTERVIEW_UPDATE.md](INTERVIEW_UPDATE.md). For the earlier full release migration, read [MIGRATION.md](MIGRATION.md) before overlaying an existing checkout. Extract/Replace All does not delete old files. Run the migration dry run, review conflicts, then apply as instructed. The script protects `.git`, changed files and unknown user files.
 
 ```console
 python scripts/verify_release.py

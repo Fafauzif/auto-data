@@ -12,6 +12,16 @@ The customer evidence also changes what must be sold. A Setiabudi reviewer expli
 
 The three prongs should share that transaction architecture but retain different propositions. For acquisition, confirm a suitable demonstrator and a household-relevant ownership scenario. For paid aftersales, establish eligibility, exact scope, parts and destination before promising the visit. For replacement, connect accepted vehicle evidence and an executable appraisal to the actual net cash required to upgrade. A general battery certificate, national charger directory or trade-in button is not sufficient differentiation against the existing capability baseline. [R1,SX02,SY02]
 
+## What the interviews change
+
+Three vehicle-user interviews add two contrasts that affect the design. The Air EV driver reported routine apartment charging and no recent travel substitutions. Low charge led the Atto driver to take Gojek on one occasion and to look for nearby charging in Rungkut on a separate occasion. Build BEV fit around usable access, time and the fallback trip. The corrected Sidoarjo workshop model still measures an independent outcome. [WA-Q03,WA-Q04,BA-A01,G3]
+
+Both service accounts describe successful routine booking on WhatsApp. The Wuling driver handles work and is reimbursed by family. The Yaris Cross Hybrid driver handles visits while the father approves additional work. That driver said they would revisit a digital record for scope, estimates or approval. The service in the Yaris example was reportedly covered. It gives a reason to test delegated approval and a useful digital return, with paid completion requiring separate eligible work. [WA-Q02,WA-Q09,WA-K1,YH-Q02,YH-Q06,YH-Q09,YH-K1]
+
+At the replacement stage, the Yaris driver checked market and dealer prices and stopped at a range. The Atto driver had not checked resale prices and expressed confidence in a floor stated at purchase. Actual price research and a stated purchase preference suggest different tests. Start with a written, inspected net-upgrade offer and treat an upfront floor as a later buyer and financing decision. [YH-Q10,YH-K3,BA-A05,BA-A06,M19,M20]
+
+**First pilot:** a Yaris Cross Hybrid service record and delegated approval handoff at Auto2000 Soekarno-Hatta, Bandung, subject to branch readiness, eligible case volume and authority to fulfill the steps. Auto2000 Setiabudi is the fallback under the same gates. This is a prospective site choice based on separate branch evidence. The Yaris interview does not identify its Auto2000 branch. [G2,M01,M08,M09,M15,YH-K1]
+
 ## What this release adds
 
 This release integrates the original repository, all supplied social exports, the mentoring notes, the original recovered casebook and the newest geographic source package. It preserves previous work and its source material while separating current findings from historical prompts and superseded calculations. The repository contains structured context so a future analyst can continue without access to the originating chat.
@@ -29,6 +39,7 @@ The original casebook was initially absent from the local source set but was rec
 | Legacy narratives |95 annotation units from 38 URLs | Prior qualitative research and counterexamples, not 95 independently verified customers |
 | Legacy structured registers |319 entries across ten registers | Searchable prior claims, alternatives and supporting material, with overlap preserved |
 | Geography |284 strict paired baseline origins;29 corrected general-service endpoints | Relative access, operator scenarios, branch alternatives and destination corrections |
+| Interviews |Three vehicle users across two filled guides and six Atto answer notes; one separate method guide | Episode mechanisms, working alternatives and elicited concept reactions |
 | Primary casebook and mentoring |Original case PDF and supplied mentoring PDF | Binding case requirements and the standard for decision-changing insight |
 | Auxiliary datasets |IGAR government-app records and one Audi telemetry subset | Preserved scope-specific research; not Toyota customer demand or battery-health validation |
 
@@ -197,17 +208,17 @@ Digiroom should maintain a customer-visible ownership case whose fields are reus
 
 The customer selects or describes a job and vehicle. The system distinguishes covered, prepaid, warranty/recall, reimbursed and customer-paid work. A suitable destination is then selected using job fit, operator, vehicle support, parts readiness, appointment acceptance and relative travel. Before arrival, the customer sees the agreed scope, estimate basis, responsible adviser and next confirmation. Additional work requires recorded authorization. Handover records completion, payment and any unresolved symptom.
 
-A walk-in or WhatsApp interaction can create the same case. Digiroom gives the customer continuing visibility and a reusable record, supplying a practical reason to return to the app. Privacy-sensitive information should be requested when needed for a specific action, with a clear purpose and a correction route. An exploratory showroom comparison need not require the same identifiers as a vehicle-specific entitlement check.
+The adviser can create the same case from WhatsApp or a walk-in. Where the driver and decision-maker differ, the driver can send an authorized, revocable view of the relevant work scope and estimate to the person who approves added cost. Record the exact scope version that person accepted. The report of a covered Yaris visit is a useful baseline for service completion. The test requires branches to confirm paid and mixed opportunities separately. [YH-Q02,YH-Q06,YH-K1] Digiroom gives the customer continuing visibility and a reusable record, supplying a practical reason to return to the app. Privacy-sensitive information should be requested when needed for a specific action, with a clear purpose and a correction route. An exploratory showroom comparison need not require the same identifiers as a vehicle-specific entitlement check.
 
 ### xEV acquisition
 
-The path starts with the household task and the relevant powertrain. It confirms the demonstrator, branch, adviser and session, then preserves the customer's stated constraints into the quotation. BEV charging and installation are shown when relevant. HEV buyers receive a maintenance, usage and ownership comparison suited to their vehicle rather than an irrelevant home-charging checklist. PHEV cases combine applicable combustion-maintenance eligibility with charging and high-voltage support using vehicle-specific terms.
+The path starts with the household task and the relevant powertrain. It confirms the demonstrator, branch, adviser and session, then preserves the customer's stated constraints into the quotation. For BEV households, show installation feasibility and a practical fallback for relevant routes and times. A working apartment charging routine and a trip disrupted by low battery are different cases. Record the driver’s trip needs and the buyer’s offer decision separately. [WA-Q04,BA-A01,BA-A02,BA-A03] HEV buyers receive a maintenance, usage and ownership comparison suited to their vehicle rather than an irrelevant home-charging checklist. PHEV cases combine applicable combustion-maintenance eligibility with charging and high-voltage support using vehicle-specific terms.
 
 The digital value is a useful next step that remains visible after the session: quotation, financing conditions, trade-in requirements and responsibility for follow-up. Capture request, confirmation, attendance, quotation, order and delivery as different states. The unavailable-unit account is a reason to validate confirmation logic, not proof of a universal fleet shortage.
 
 ### Replacement and trade-in
 
-The owner can see which vehicle and condition evidence is accepted, obtain an appraisal with validity and conditions, understand outstanding finance settlement and compare replacement offers on net cash. A health-check document should appear in the decision where it is used, rather than as a detached content item. Keep unresolved warranty/service cases visible so replacement is not used to conceal an unfinished obligation.
+The owner can see which vehicle and condition evidence is accepted, obtain an appraisal with validity and conditions, understand outstanding finance settlement and compare replacement offers on net cash. A health-check document should appear in the decision where it is used, rather than as a detached content item. Keep unresolved warranty and service cases visible during the replacement decision. A marketplace range is a starting point. The first replacement test asks whether a written inspected offer and actionable settlement move a qualified customer toward a completed upgrade. A capped top-up and a full guaranteed floor entail different customer promises and funding. Price each separately only after buyer behavior and counterparty commitments can be observed. [YH-Q10,YH-K3,BA-A06,R7]
 
 The three prongs share identifiers and state history but should not share one indiscriminate eligibility rule. A household may rationally choose to repair the present vehicle, complete a covered intervention or delay replacement. Measuring only immediate vehicle conversion would undervalue useful ownership continuity, while counting every retained owner as future incremental sales would overstate it.
 
@@ -242,7 +253,7 @@ Repair-versus-replacement choices need an owner-level scenario. Do not claim an 
 
 Begin with a limited digital case and branch workflow on existing systems. Expand only after the programme can connect consented eligibility, accepted job, acknowledged arrival, authorized scope, completion and recognized economics. The first release should prove that these states are usable by customers and staff; a download campaign is not the acceptance criterion.
 
-Evaluate a bounded set of interventions against the all-channel baseline: prepared service and resolution in Soekarno-Hatta, general-workshop/arrival continuity in Pancing, and eligible oil routing in Palembang. These locations are recommendations from different evidence mechanisms, not statistically selected national representatives. Add the xEV demonstration and evidence-to-appraisal paths within the same digital architecture so the programme remains responsive to the case rather than a petrol-workshop-only project.
+Validate Auto2000 Soekarno-Hatta for the first Yaris Cross Hybrid service-record pilot, with Setiabudi as fallback. Confirm service categories, acceptable scope, eligible customer-paid or mixed work, adviser ownership, and a measurable baseline. Compare normal WhatsApp or assisted service with the same workflow plus Digiroom status and delegated approval. Measure completed customer-paid work orders per eligible opportunity and recognized Auto2000 contribution. Monitor wholly covered visits and voluntary Digiroom return separately. Pancing and Palembang remain differentiated workshop and routing opportunities under their existing scopes. Add confirmed xEV demonstrations and evidence-to-appraisal paths after the first test establishes that the shared record works. [G2,M01,M08,M09,YH-Q06,YH-K1]
 
 A randomized invitation or a feasible branch/week rollout can identify incremental outcomes more credibly than comparing app users with nonusers, who may already differ in loyalty, income or intent. Capacity, pre-existing campaigns, cancellations and price changes should be recorded. Where assignment is not randomized, document the comparison design and avoid a causal claim stronger than the design supports.
 
@@ -282,13 +293,15 @@ Reframe broad calls for app engagement into the specific recurring tasks that ju
 
 ## How to continue from this repository
 
-Read README.md, PROJECT_CONTEXT.md and the current executive findings before opening archived reports. Use the active insight register to find supporting tables and curated record IDs. Use the source inventory to locate immutable originals and any split-file restoration index. Historical documents retain their original claims, prompts and context, so consult the supersession record before reusing a headline.
+Read README.md, PROJECT_CONTEXT.md and the current executive findings before opening archived reports. The interview analysis is in [INTERVIEW_SYNTHESIS.md](../analysis/interviews/INTERVIEW_SYNTHESIS.md). It contains the pilot design and links to the answer-level evidence ledger, all ten earlier insight assessments and the legacy hypothesis bridge. Use the active insight register to find supporting tables and curated record IDs. Use the source inventory to locate immutable originals and any split-file restoration index. Historical documents retain their original claims, prompts and context, so consult the supersession record before reusing a headline.
 
 The primary package contains available source content and current analyses. A separate source-container vault preserves exact original ZIP bytes. No tracked file exceeds the 90,000,000-byte build ceiling. The migration script is needed for an overlay of an existing checkout because Replace All does not delete old files. It defaults to a dry run and protects.git, modified files and unknown user content.
 
 This is a private research release. The original-language source corpus can include identifiable public posts and reviews. Main reports minimize unnecessary personal identifiers. No paid actor was run, no lead or booking was submitted, no messages were sent and no GitHub push was performed as part of the integrated analysis.
 
 ## Evidence locators
+
+WA, YH and BA identify the Wuling Air EV, Toyota Yaris Cross Hybrid and BYD Atto interviews. Q is a filled-guide question, A is a numbered Atto note and K is a concept reaction. Each identifier resolves in analysis/interviews/evidence_records.json to a source and location. IG-PROTOCOL identifies the separate, unfilled Digiroom guide. Sources and consent scope are documented under sources/interviews. Atto answers are analyzed as notes with uncertain verbatim status.
 
 C1:Semifinal Casebook IBSC 2026.pdf, original recovered PDF. Pages 5–7 define the task and constraints; pp8–11 supply market, P&L and app exhibits; p18 defines EV. See sources/case and the source inventory.
 

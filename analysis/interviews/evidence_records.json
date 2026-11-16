@@ -1,0 +1,372 @@
+[
+  {
+    "evidence_id": "WA-Q01",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 2, Q01",
+    "topic": "purchase_roles",
+    "evidence_type": "reported_family_context",
+    "summary_en": "The driver has used the Air EV since 2023. Their father chose the vehicle and seller, handled the transaction and financed it. The driver reports no personal purchase or service at Auto2000.",
+    "inference_boundary": "Exact variant, new or used status, seller and family Auto2000 history unknown."
+  },
+  {
+    "evidence_id": "WA-Q02",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 3, Q02",
+    "topic": "service_roles",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver books, brings in, approves and pays for service; their father reimburses costs described for service or tires.",
+    "inference_boundary": "A transfer by the driver does not establish ultimate payer or authority for every future expense."
+  },
+  {
+    "evidence_id": "WA-Q03",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 4, Q03",
+    "topic": "mobility",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "Routine journeys including Bandung–Jatinangor worked. The driver recalled no cancellation, diversion or switch to another car in the preceding two to four weeks.",
+    "inference_boundary": "Personal recall in a bounded window; a family Toyota exists, but the account does not establish it was needed or immediately available."
+  },
+  {
+    "evidence_id": "WA-Q04",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 4, Q04",
+    "topic": "charging",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver charges at the apartment around 30% state of charge and can rest in the unit while charging.",
+    "inference_boundary": "Tariff, charger inventory, charging times and conditions elsewhere were not established."
+  },
+  {
+    "evidence_id": "WA-Q05",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 5, Q05",
+    "topic": "service_episode",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver booked routine three-month servicing at Wuling Soekarno-Hatta via WhatsApp and used a trusted regular tire workshop in Jakarta for a tire replacement.",
+    "inference_boundary": "Two tasks and providers; Wuling Soekarno-Hatta is not the Auto2000 branch."
+  },
+  {
+    "evidence_id": "WA-Q06",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 5, Q06",
+    "topic": "service_outcome",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "Service quality was the decision criterion. The driver reported completed work with no unresolved return, cancellation or move to another workshop and paid upfront with family reimbursement.",
+    "inference_boundary": "The file does not contain an invoice or a tested price-quality trade-off."
+  },
+  {
+    "evidence_id": "WA-Q07",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 6, Q07",
+    "topic": "purchase_comparison",
+    "evidence_type": "knowledge_boundary",
+    "summary_en": "The driver could not identify the alternatives or dealers their father considered.",
+    "inference_boundary": "Auto2000 consideration and household shortlist unknown."
+  },
+  {
+    "evidence_id": "WA-Q08",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 6, Q08",
+    "topic": "purchase_finance",
+    "evidence_type": "knowledge_boundary",
+    "summary_en": "The driver did not know vehicle price, down payment, installments or initial cost calculations.",
+    "inference_boundary": "No evidence about affordability, negotiation or terms."
+  },
+  {
+    "evidence_id": "WA-Q09",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 7, Q09",
+    "topic": "channel",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "WhatsApp completed the driver's routine booking task. The driver reported no use of Digiroom, mTOYOTA or other dedicated vehicle app for this workflow.",
+    "inference_boundary": "Non-Toyota case; tests sufficiency of the existing channel for this task, rather than Digiroom's experience."
+  },
+  {
+    "evidence_id": "WA-Q10",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 7, Q10",
+    "topic": "replacement",
+    "evidence_type": "reported_family_context",
+    "summary_en": "A family sale or replacement was recalled, with the father handling it.",
+    "inference_boundary": "No car, appraisal, offer, price or settlement outcome confirmed."
+  },
+  {
+    "evidence_id": "WA-Q11",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 9, Q11",
+    "topic": "priority",
+    "evidence_type": "respondent_assessment",
+    "summary_en": "The driver identified no car, app or ownership issue worth fixing in their own experience.",
+    "inference_boundary": "Scoped to respondent and tasks discussed."
+  },
+  {
+    "evidence_id": "WA-Q12",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 9, Q12",
+    "topic": "member_check",
+    "evidence_type": "interviewer_record",
+    "summary_en": "No correction was entered in the closing check.",
+    "inference_boundary": "The note is the available record of the check."
+  },
+  {
+    "evidence_id": "WA-K1",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 8, K1",
+    "topic": "concept",
+    "evidence_type": "elicited_concept_reaction",
+    "summary_en": "The driver preferred the existing WhatsApp service workflow and saw no additional app benefit in their case.",
+    "inference_boundary": "Stated reaction; no prototype adoption or behavior was observed."
+  },
+  {
+    "evidence_id": "WA-K2K3",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 8, K2K3",
+    "topic": "concept_scope",
+    "evidence_type": "interviewer_interpretation",
+    "summary_en": "The guide marked purchase feasibility and trade-in readiness outside the driver's personal role because the father controls those transactions.",
+    "inference_boundary": "Relevance judgment in the guide, not evidence of the father's preferences."
+  },
+  {
+    "evidence_id": "WA-SYN",
+    "source_id": "WA",
+    "source_path": "sources/interviews/Panduan_Wawancara_A_Wuling_Air_EV_Terisi.pdf",
+    "locator": "PDF page 10–12, SYN",
+    "topic": "source_analyst_judgment",
+    "evidence_type": "interviewer_interpretation",
+    "summary_en": "The filled guide treats residential charging and WhatsApp as sufficient in the reported routine and suggests narrowing targeting.",
+    "inference_boundary": "This is a derivative of the same interview; do not count it as corroboration."
+  },
+  {
+    "evidence_id": "YH-Q01",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 2, Q01",
+    "topic": "purchase_roles",
+    "evidence_type": "reported_family_context",
+    "summary_en": "Family acquired a new 2024 Yaris Cross Hybrid through Auto2000 and the driver started using it in January 2025. Their father chose model and seller and handled the transaction through a longstanding relationship. The driver advised on color and model-year preference.",
+    "inference_boundary": "Exact dealer branch and finance terms not confirmed; family account is not a new-to-Auto2000 conversion."
+  },
+  {
+    "evidence_id": "YH-Q02",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 3, Q02",
+    "topic": "service_roles",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver books, drops off and collects the car for currently covered routine service; the father has final authority over added work or cost.",
+    "inference_boundary": "Operating the visit is distinct from buying the vehicle, approving additional work or funding it."
+  },
+  {
+    "evidence_id": "YH-Q03",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 4, Q03",
+    "topic": "mobility",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "On a long Jatinangor–Tasikmalaya return trip with friends, the driver chose the available Yaris and reported slower throttle response under passenger load on uphill roads.",
+    "inference_boundary": "Approximate journey duration; Q03 calls the trip nonstop while Q04 describes stop decisions. No exact stop count or objective performance difference is inferred."
+  },
+  {
+    "evidence_id": "YH-Q04",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 4, Q04",
+    "topic": "mobility",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "Passenger needs and the ability to stop before mountain and forest stretches shaped stop decisions. Performance and fuel use broadly met expectations.",
+    "inference_boundary": "No logs, fuel totals or exact route timestamps were supplied."
+  },
+  {
+    "evidence_id": "YH-Q05",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 5, Q05",
+    "topic": "service_episode",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "Routine work at a nearby Auto2000 workshop associated with the selling dealer was booked, dropped off with a service booklet, and collected after a completion notification.",
+    "inference_boundary": "Named branch, time in workshop and covered items verified by provider are unknown."
+  },
+  {
+    "evidence_id": "YH-Q06",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 5, Q06",
+    "topic": "entitlement_and_approval",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "Routine work reportedly matched expectations under the original coverage package. The father would approve additional work on technical advice; no cancellation or switch was recalled.",
+    "inference_boundary": "Package name, dealer reimbursement and a completed customer-paid work item were not established."
+  },
+  {
+    "evidence_id": "YH-Q07",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 6, Q07",
+    "topic": "purchase_comparison",
+    "evidence_type": "reported_family_context",
+    "summary_en": "Reported fuel savings versus a Raize Turbo motivated the family choice; the father used a longstanding Auto2000 sales relationship. The account identifies no other vehicle actively considered for that purchase.",
+    "inference_boundary": "Fuel savings and consideration set reported from the household; no independent costs or competing quote."
+  },
+  {
+    "evidence_id": "YH-Q08",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 6, Q08",
+    "topic": "purchase_finance",
+    "evidence_type": "mixed_self_report_and_family_context",
+    "summary_en": "Vehicle price and fuel running cost were discussed. The driver says use matched fuel savings expectations broadly, despite a fuel-price increase, and reports installments arranged for the 2024 unit.",
+    "inference_boundary": "Initial cash, lender decision, financing amounts and observed savings not documented."
+  },
+  {
+    "evidence_id": "YH-Q09",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 7, Q09",
+    "topic": "channel",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver uses the Auto2000 WhatsApp admin to book or adjust routine service and says the task gets completed.",
+    "inference_boundary": "This is a successful workflow case and does not establish channel performance at other branches."
+  },
+  {
+    "evidence_id": "YH-Q10",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 7, Q10",
+    "topic": "replacement",
+    "evidence_type": "firsthand_self_report",
+    "summary_en": "The driver checked marketplace and dealer prices for family vehicles and stopped after identifying a plausible range.",
+    "inference_boundary": "The record does not identify a binding offer, inspected appraisal, settlement, completed trade-in or necessarily this Yaris as the vehicle priced."
+  },
+  {
+    "evidence_id": "YH-Q11",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 8, Q11",
+    "topic": "priority",
+    "evidence_type": "respondent_assessment",
+    "summary_en": "The driver identified no current ownership or service task needing improvement.",
+    "inference_boundary": "Positive current workflow limits the urgency of optional concept interest."
+  },
+  {
+    "evidence_id": "YH-Q12",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 8, Q12",
+    "topic": "member_check",
+    "evidence_type": "interviewer_record",
+    "summary_en": "No correction was entered and the respondent was open to a later clarification.",
+    "inference_boundary": "The note is the available record of the check."
+  },
+  {
+    "evidence_id": "YH-K1",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 7–8, K1",
+    "topic": "concept",
+    "evidence_type": "elicited_concept_reaction",
+    "summary_en": "The driver would revisit a work record for scope, estimate or approval status, alongside the WhatsApp relationship.",
+    "inference_boundary": "Stated use case; actual sharing, revisits and additional approvals have not been tested."
+  },
+  {
+    "evidence_id": "YH-K2",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 8, K2",
+    "topic": "concept",
+    "evidence_type": "elicited_concept_reaction",
+    "summary_en": "Purchase feasibility was the concept they would remove because their father works directly with the sales contact.",
+    "inference_boundary": "A recurring driver's response cannot resolve the father's needs or binding cash constraints."
+  },
+  {
+    "evidence_id": "YH-K3",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 7–8, K3",
+    "topic": "concept",
+    "evidence_type": "elicited_concept_reaction",
+    "summary_en": "The driver preferred adding trade-in readiness for greater certainty than marketplace research and was willing to provide relevant inputs.",
+    "inference_boundary": "This is appraisal readiness interest, with no documented appetite for a full guaranteed floor."
+  },
+  {
+    "evidence_id": "YH-SYN",
+    "source_id": "YH",
+    "source_path": "sources/interviews/Panduan_Wawancara_B_Yaris_Cross_Hybrid_Terisi.pdf",
+    "locator": "PDF page 9–11, SYN",
+    "topic": "source_analyst_judgment",
+    "evidence_type": "interviewer_interpretation",
+    "summary_en": "The guide recommends supplementing WhatsApp with a shareable service record and scoping the trade-in concept to users who research prices.",
+    "inference_boundary": "This is a derivative of the same interview; post-coverage paid retention remains open."
+  },
+  {
+    "evidence_id": "BA-A01",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 1",
+    "topic": "mobility_and_charging",
+    "evidence_type": "summarized_firsthand_account",
+    "summary_en": "For Sidoarjo–Surabaya commuting, the driver favors sites with multiple chargers such as PLN. Around 12% and in a hurry, they took Gojek. In a second low-battery episode in Rungkut they sought nearby charging.",
+    "inference_boundary": "Separate incidents; PLN is a general preference and is not identified as the actual Rungkut stop. Charger completion, queues, date, home charging and exact vehicle variant unknown."
+  },
+  {
+    "evidence_id": "BA-A02",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 2",
+    "topic": "purchase_comparison",
+    "evidence_type": "summarized_firsthand_account",
+    "summary_en": "The driver considered Wuling and favored newly launched Atto for an appealing price and the chance to try an EV. The parents managed the purchase.",
+    "inference_boundary": "No family budget, outside quote, dealer shortlisting or Toyota consideration is documented."
+  },
+  {
+    "evidence_id": "BA-A03",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 3",
+    "topic": "purchase_finance",
+    "evidence_type": "summarized_firsthand_account",
+    "summary_en": "The driver recalls a lower perceived price and comparable perceived quality, and could not speak to rejected offers or negotiation handled by the parents.",
+    "inference_boundary": "A personal comparison with no matching price or financing documentation; buyer authority not established."
+  },
+  {
+    "evidence_id": "BA-A04",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 4",
+    "topic": "service_boundary",
+    "evidence_type": "summarized_firsthand_account",
+    "summary_en": "The driver reported no vehicle fault that made the car unusable and no need to switch transport to campus because it broke down.",
+    "inference_boundary": "No inference about routine servicing, channel choice, repair readiness, claims or charging incidents."
+  },
+  {
+    "evidence_id": "BA-A05",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 5",
+    "topic": "replacement",
+    "evidence_type": "summarized_firsthand_account",
+    "summary_en": "The driver has not sought resale prices or a replacement. Perceived running-cost savings would soften concern over a lower later selling price.",
+    "inference_boundary": "No quantified operating savings, actual depreciation, search, offer or transaction."
+  },
+  {
+    "evidence_id": "BA-A06",
+    "source_id": "BA",
+    "source_path": "sources/interviews/BYD_Atto_Original_Notes_id.txt",
+    "locator": "Answer 6",
+    "topic": "concept",
+    "evidence_type": "elicited_concept_reaction",
+    "summary_en": "The driver said knowing a minimum trade-in price from the start would increase purchase confidence.",
+    "inference_boundary": "Transcript status and full concept stimulus uncertain; no buying action, willingness to pay, preference under terms or parents' decision documented."
+  }
+]

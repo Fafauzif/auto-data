@@ -143,6 +143,12 @@ Applied here, 'customers want convenient service' fails because its opposite is 
 
 Headings in the final report should therefore state decisions and findings. The appendix can carry the model definitions, sampling limits, contradictory evidence, coordinate scenarios, source tables and code. Confidence comes from exact scope, reproducible contrasts and a chosen course of action. It does not require converting public testimony into verified outcomes or suppressing a source conflict.
 
+## Interview update
+
+The comparative cases sharpen the distinction among everyday driver, purchaser, payer and approver. They support testing a delegated service record alongside the current advisor relationship. Covered HEV routine work and an operational BEV fallback inform different prongs. Actual marketplace/dealer browsing and elicited interest in a full floor inform different commercial stages. Keep the existing solution priority bridge as the baseline and use the [interview comparison](../interviews/cross_source_matrix.csv) for changed priorities and remaining gates.
+
+The [27-option interview update](../interviews/solution_priority_update.csv) records the revised priority or remaining evidence gate for each existing option.
+
 ## Source map and retained context
 
 `legacy_document_map.csv` indexes all Markdown documents in the inherited repo by original path, hash, title, headings, bytes and word count. `legacy_register_inventory.csv` records the structured registers integrated here. `legacy_evidence_union.jsonl` preserves the complete selected records with namespaced IDs and source-array locators, avoiding collisions such as FC01 in two workstreams. It is an access layer, not another independent evidence sample.

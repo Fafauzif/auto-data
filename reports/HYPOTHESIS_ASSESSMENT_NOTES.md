@@ -8,6 +8,8 @@ No original hypothesis was marked supported or contradicted merely because a few
 
 Separate `proxy_claim_tests` reject six narrower universal assumptions using explicit counterexamples. A favorable rating does not necessarily mean a job completed; useful finance preview did not always require contact data; a comparison can work while a specific field is malformed; a published battery certificate already exists; channel migration can produce zero transaction GP; and one initial no-branch result is not a universal route failure. These tests establish the inadequacy of those blanket claims. They do not estimate prevalence, causal uplift or the main business problem.
 
+The 16 November primary research re-assesses the relevance of each frozen hypothesis in the [interview hypothesis bridge](../analysis/interviews/legacy_hypothesis_bridge.csv). This assessment keeps its original input freeze and statuses.
+
 ## Evidence boundaries preserved
 
 - Digiroom, mToyota and competitor apps remain separate. A mToyota allegation is not a confirmed Auto2000 failure.
