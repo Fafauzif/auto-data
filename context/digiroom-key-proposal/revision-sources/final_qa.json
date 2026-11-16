@@ -1,0 +1,16 @@
+{
+  "pages": 29,
+  "figures": 26,
+  "tables": 12,
+  "docx_internal_links": 130,
+  "pdf_internal_links": 134,
+  "missing_targets": [],
+  "duplicate_bookmarks": [],
+  "interview_rows": [
+    16,
+    16,
+    6
+  ],
+  "casebook_mentions": false,
+  "visual_review": "All 29 final page images inspected; intermediate overlap and orphan-row issues corrected."
+}

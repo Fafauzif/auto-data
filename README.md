@@ -1,5 +1,10 @@
 # Auto2000 integrated private research
 
+## Current proposal continuation —16 November 2026
+
+The current IBSC Digiroom KEY working proposal is [Chapters I–III](context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.docx). Read [START_HERE](context/digiroom-key-proposal/START_HERE.md) and the [session handoff](context/digiroom-key-proposal/SESSION_HANDOFF_2026-11-16.md) for the latest writing decisions, 43 appendices, persona, technical exhibits and final QA. This proposal state supersedes earlier proposal-only draft/pilot framing for document continuation; underlying evidence and research limits remain applicable. The executive summary and Chapters IV–V are still placeholders. No numeric budget/GP scenario has been adopted and no further writing task is automatic.
+
+
 **Start with the current findings and project context.** This release integrates X, YouTube, Google Maps, the original repository research, the original casebook, mentoring notes, collection plans and all available geographic source versions. It is designed to let a new analyst continue without the originating chat.
 
 Secondary research cutoff: **14 November 2026**. The **16 November 2026 interview integration** adds three interviews and a proposed Yaris Cross Hybrid service-record pilot. Original repository snapshot: `34498fe033ae4dcd1a52c8d2e039f870b00d08fe` (see manifest for authoritative full hash). This is a private research release with original-language sources. Main analyses and documentation are English.

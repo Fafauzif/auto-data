@@ -1,5 +1,10 @@
 # Auto2000 integrated research context
 
+## Current proposal continuation —16 November 2026
+
+The current IBSC Digiroom KEY working proposal is [Chapters I–III](context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.docx). Read [START_HERE](context/digiroom-key-proposal/START_HERE.md) and the [session handoff](context/digiroom-key-proposal/SESSION_HANDOFF_2026-11-16.md) for the latest writing decisions, 43 appendices, persona, technical exhibits and final QA. This proposal state supersedes earlier proposal-only draft/pilot framing for document continuation; underlying evidence and research limits remain applicable. The executive summary and Chapters IV–V are still placeholders. No numeric budget/GP scenario has been adopted and no further writing task is automatic.
+
+
 ## Current mandate and authority
 
 This is the private, integrated research release commissioned on 14 November 2026. The owner explicitly asked for every available evidence family, including X, YouTube, Google Maps, prior repository research, geographic source files and analyses, scraping inputs, and project context. The owner must be able to close the originating chat and continue from this repository.

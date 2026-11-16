@@ -1,8 +1,20 @@
 # Proposal decisions and evidence
 
-## Current work
+## Current working revision
 
-Chapters 1 and 2 are the only chapter drafts authorized so far. Preserve the customer's Word template apart from the corrected margins. The user rejected resetting the template's numbering and indentation. Let chapters, headings, figures and appendix exhibits flow without arbitrary chapter or exhibit page breaks. Add substantive prose rather than spacing out headings to reach a page target. Keep the original executive summary and later chapter placeholders.
+The user authorised revision of the annotated Chapters 1–2 and drafting Chapter 3. The current working file is `drafts/Digiroom_KEY_Chapters_1_to_3.docx`, with a matching PDF proof. Earlier drafts and the annotated input remain preserved. The executive summary and Chapters 4–5 remain placeholders.
+
+Chapter 3 uses the NutriSari-style Overview / How It Works / Why This Works / Expected Impact structure for Know Your Fit, Easy Service, and Your Next Toyota. One actual interface screenshot per solution appears in the main chapter. The remaining relevant screens, technology stack, proposed production architecture, research preparation, operating workflows, KPI definitions and exception controls are linked in appendices A24–A43. Numeric targets and GP projections are deferred to Chapter 4.
+
+The full issue tree has three branches, nine customer subproblems and an underlying-cause layer. A targeting paragraph follows it and links the supplied Practical Toyota Household persona in A24. The persona is an evidence-informed composite, not a fourth interview; its 36–50 / 41% reference describes the supplied MAU age baseline, not interview demographics or market size.
+
+Reader-facing casebook citations and reference entries are removed while supplied baseline figures remain. External, interview and calculation labels are retained. A21–A23 contain interpreted Q&A for Wuling Air EV, Yaris Cross Hybrid and BYD Atto, with reconstructed Atto topic prompts identified. The app screenshots use sample records; production integrations are proposed and not presented as deployed services.
+
+Body paragraphs retain first-line indentation and no extra paragraph-after spacing. Headings have breathing space. All appendix tables use full grids, 10-point text and repeating headers. See `chapter3-sources/final_qa.json` for final structural checks. These directions supersede conflicting earlier guidance below.
+
+## Earlier work and decisions
+
+At the earlier stage, only Chapters 1 and 2 had been authorised; the current scope above supersedes that limit. Preserve the customer's Word template apart from the corrected margins. The user rejected resetting the template's numbering and indentation. Let chapters, headings, figures and appendix exhibits flow without arbitrary chapter or exhibit page breaks. Add substantive prose rather than spacing out headings to reach a page target. Keep the original executive summary and later chapter placeholders.
 
 Chapter 1 sets up Auto2000, Digiroom, Indonesian xEV wholesales and Toyota's hybrid position in about half a page. Chapter 2 puts the finding first, the evidence and interpretation next, and closes with the consolidated issue tree. The TOC is outside the five-page analysis target. The user chose the booking and handoff insight first and asked to merge overlapping issue-tree causes.
 

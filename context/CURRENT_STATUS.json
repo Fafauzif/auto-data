@@ -24,5 +24,27 @@
   "interview_cases": 3,
   "interview_source_files": 4,
   "interview_analysis": "analysis/interviews/INTERVIEW_SYNTHESIS.md",
-  "current_pilot_decision": "analysis/interviews/pilot_decision.json"
+  "current_pilot_decision": "analysis/interviews/pilot_decision.json",
+  "proposal_continuation": {
+    "as_of": "2026-11-16",
+    "entry_point": "context/digiroom-key-proposal/START_HERE.md",
+    "handoff": "context/digiroom-key-proposal/SESSION_HANDOFF_2026-11-16.md",
+    "current_docx": "context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.docx",
+    "current_pdf": "context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.pdf",
+    "completed_chapters": [
+      1,
+      2,
+      3
+    ],
+    "placeholder_sections": [
+      "Executive summary",
+      "Chapter IV",
+      "Chapter V"
+    ],
+    "appendix_ids": 43,
+    "rendered_pages": 49,
+    "numeric_targets_and_gp": "Deferred to Chapter IV; historical scenarios not adopted",
+    "next_task": "Await user instruction",
+    "git_push_performed": false
+  }
 }

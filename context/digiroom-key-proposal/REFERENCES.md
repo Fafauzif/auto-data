@@ -5,6 +5,7 @@ The original files supplied in this chat are preserved byte for byte under `refe
 | File | Use |
 |---|---|
 | Semifinal Casebook IBSC 2026_compressed.pdf | Governing case and submission requirements. |
+| NutriSari_Full_Reference.docx | Full NutriSari reference supplied during this continuation, originally named `MKPR2026_Proposal_Furry Fart (1).docx`; preserved byte for byte. Primary reference for natural prose and Chapter 3 structure. |
 | Copy of MKPR2026_Proposal_Furry Fart.docx | Original editable Word template. Preserve numbered headings, paragraph formatting, and indentations. |
 | MSS FEB UI Garuda.pptx | Insight-first analysis, evidence granularity, issue-tree sequence and deep linked exhibits. |
 | David Muhammad Thorique_Universitas Indonesia_ RegenCity Grid Indonesia (1).docx | Preferred appendix architecture, source and calculation detail, exact claim links and return links. |

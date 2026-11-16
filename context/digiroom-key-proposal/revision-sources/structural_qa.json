@@ -1,0 +1,21 @@
+{
+  "output": "/workspace/scratch/8c1bb646efd7/auto-data/context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_and_2_Revised.docx",
+  "tables": 12,
+  "figures": 26,
+  "internal_links": 130,
+  "missing_link_targets": [],
+  "interview_answer_rows": [
+    16,
+    16,
+    6
+  ],
+  "casebook_tokens": 0,
+  "margins_cm": [
+    {
+      "left_margin": 2.0,
+      "right_margin": 2.0,
+      "top_margin": 4.0,
+      "bottom_margin": 3.0
+    }
+  ]
+}
