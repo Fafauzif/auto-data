@@ -1,0 +1,131 @@
+\documentclass[10pt]{article}
+\usepackage[paperwidth=288mm,paperheight=162mm,margin=0mm]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{Paper}{HTML}{FAFBFC}
+\definecolor{Ink}{HTML}{172B3B}
+\definecolor{Muted}{HTML}{435A6A}
+\definecolor{Line}{HTML}{738999}
+\definecolor{Stroke}{HTML}{CAD5DC}
+\definecolor{Brand}{HTML}{BB2438}
+\definecolor{Ktone}{HTML}{A82E40}
+\definecolor{Etone}{HTML}{2C5E72}
+\definecolor{Ytone}{HTML}{45548C}
+\definecolor{Kwash}{HTML}{FDF0F1}
+\definecolor{Ewash}{HTML}{EDF5F7}
+\definecolor{Ywash}{HTML}{EFF1FA}
+
+% Each row traces one problem to its cause and the corresponding product response.
+\newcommand{\treerow}[7]{%
+  \node[issue] (#1issue) at (12.04,#2) {#3};
+  \node[cause] (#1cause) at (18.19,#2) {#4};
+  \node[response,draw=#6!42,fill=#7] (#1response) at (24.95,#2) {#5};
+  \draw[arrow] (#1issue.east) -- (#1cause.west);
+  \draw[arrow] (#1cause.east) -- (#1response.west);
+}
+
+\begin{document}
+\begin{tikzpicture}[remember picture,overlay]
+\begin{scope}[shift={(current page.south west)},x=1cm,y=1cm,
+    font=\sffamily\small,text=Ink,
+    cell/.style={draw=Stroke,fill=white,rounded corners=4pt,
+      align=left,inner xsep=7pt,inner ysep=2pt,minimum height=1.05cm},
+    issue/.style={cell,text width=4.20cm,font=\sffamily\small\bfseries},
+    cause/.style={cell,text width=5.52cm,text=Muted,font=\fontsize{9}{10.3}\selectfont},
+    response/.style={cell,text width=5.52cm,font=\fontsize{9}{10.3}\selectfont},
+    pillar/.style={cell,text width=3.27cm,minimum height=2.68cm},
+    wire/.style={draw=Line,line width=.75pt},
+    arrow/.style={wire,-{Stealth[length=1.6mm,width=1.25mm]},shorten >=.4pt},
+    header/.style={anchor=west,inner sep=0pt,font=\sffamily\small\bfseries,text=Muted}]
+
+  \fill[Paper] (0,0) rectangle (28.8,16.2);
+  \fill[Brand] (0,16.05) rectangle (28.8,16.2);
+  \node[anchor=west,text=Brand,font=\sffamily\small\bfseries]
+    at (.84,15.33) {AUTO2000 / DIGIROOM};
+  \node[anchor=west,font=\sffamily\huge\bfseries]
+    at (.80,14.63) {Digiroom KEY issue tree};
+  \node[anchor=west,text=Muted,font=\sffamily\normalsize]
+    at (.84,14.02) {Know your fit. Book your service. Find your next Toyota.};
+
+  \node[header] at (.82,13.12) {MAIN PROBLEM};
+  \node[header] at (5.27,13.12) {KEY PILLAR};
+  \node[header] at (9.71,13.12) {CUSTOMER PROBLEM};
+  \node[header] at (15.19,13.12) {ROOT CAUSE};
+  \node[header] at (21.94,13.12) {SOLUTION RESPONSE};
+  \draw[Stroke,line width=.55pt] (.82,12.85) -- (28.0,12.85);
+
+  \node[cell,fill=Ink,draw=Ink,text=white,font=\sffamily\normalsize\bfseries,
+    text width=3.10cm,minimum height=3.07cm] (main) at (2.60,7.04)
+    {Auto2000 loses xEV sales and paid workshop jobs at key points in vehicle ownership.};
+
+  \node[pillar,fill=Kwash,draw=Ktone!50] (k) at (7.17,10.86)
+    {{\color{Ktone}\Large\bfseries K}\\[3pt]
+      {\normalsize\bfseries Know Your Fit}\\[3pt]
+      Win first-time Auto2000 xEV buyers};
+  \node[pillar,fill=Ewash,draw=Etone!50] (e) at (7.17,7.04)
+    {{\color{Etone}\Large\bfseries E}\\[3pt]
+      {\normalsize\bfseries Easy Service}\\[3pt]
+      Win back paid jobs from independent garages};
+  \node[pillar,fill=Ywash,draw=Ytone!50] (y) at (7.17,3.22)
+    {{\color{Ytone}\Large\bfseries Y}\\[3pt]
+      {\normalsize\bfseries Your Next Toyota}\\[3pt]
+      Win the next xEV purchase};
+
+  \coordinate (mainhub) at (4.78,7.04);
+  \draw[wire] (main.east) -- (mainhub);
+  \draw[arrow] (mainhub) |- (k.west);
+  \draw[arrow] (mainhub) -- (e.west);
+  \draw[arrow] (mainhub) |- (y.west);
+
+  \treerow{ka}{12.08}{The household is unsure the xEV fits.}
+    {Specs leave everyday fit unresolved, from garage clearance to seats and luggage.}
+    {\textbf{Recreate your routine in 3D.} Try your garage, seating, and luggage setup.}{Ktone}{Kwash}
+  \treerow{kb}{10.86}{The buyer cannot judge the cost.}
+    {Daily energy cost and purchase payments depend on different household inputs.}
+    {\textbf{Price your own driving week.} Share the energy estimate and the dealer quote.}{Ktone}{Kwash}
+  \treerow{kc}{9.64}{The household is unsure the car works in real life.}
+    {A showroom visit leaves everyday routes, home parking, and charging untried.}
+    {\textbf{48-Hour Life Test.} Take your checklist out on your own roads, with your family.}{Ktone}{Kwash}
+
+  \treerow{ea}{8.26}{The owner trusts an outside workshop for this job.}
+    {Owners can trust the dealer for routine service and rely on a specialist for other jobs.}
+    {Show the eligible workshop, who runs it, and exactly what the job includes.}{Etone}{Ewash}
+  \treerow{eb}{7.04}{The visit takes too much time or effort.}
+    {Eligible workshops are unevenly located. Missed or unresolved work can mean extra trips.}
+    {Route by job and location. Confirm parts and timing or agree on the next diagnostic step.}{Etone}{Ewash}
+  \treerow{ec}{5.82}{The owner rejects the quoted work or price.}
+    {Workshops can quote different scopes. The person dropping off the car may need approval.}
+    {Explain the work, state the total installed price, and send changes to the payer for approval.}{Etone}{Ewash}
+
+  \treerow{ya}{4.44}{The owner only has a trade-in estimate.}
+    {A price range comes before inspection and a written offer from a buyer.}
+    {Book the inspection and show the buyer's offer, conditions, and expiry.}{Ytone}{Ywash}
+  \treerow{yb}{3.22}{The cost to upgrade is unclear.}
+    {Trade-in value, loan payoff, fees, and the replacement quote sit in separate steps.}
+    {Show net trade-in equity, cash due, and monthly payments for the chosen xEV.}{Ytone}{Ywash}
+  \treerow{yc}{2.00}{The deal can stall before handover.}
+    {Appraisal, finance, deposits, and stock reservations can run on separate timelines.}
+    {One adviser aligns the offer, unit reservation, old-loan settlement, and handovers.}{Ytone}{Ywash}
+
+  \foreach \pillarname/\midrow in {k/10.86,e/7.04,y/3.22} {
+    \coordinate (\pillarname hub) at (9.41,\midrow);
+    \draw[wire] (\pillarname.east) -- (\pillarname hub);
+    \draw[arrow] (\pillarname hub) |- (\pillarname aissue.west);
+    \draw[arrow] (\pillarname hub) -- (\pillarname bissue.west);
+    \draw[arrow] (\pillarname hub) |- (\pillarname cissue.west);
+  }
+
+  \draw[Stroke,line width=.55pt] (.82,1.16) -- (28.0,1.16);
+  \node[anchor=west,inner sep=0pt,text=Muted] at (.82,.65)
+    {\textbf{What counts:}\quad K: xEV delivered to a new Auto2000 customer
+      \quad\ensuremath{\bullet}\quad E: completed paid job won back
+      \quad\ensuremath{\bullet}\quad Y: replacement xEV delivered to a returning customer};
+\end{scope}
+\end{tikzpicture}\null
+\end{document}

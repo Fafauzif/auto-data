@@ -1,0 +1,114 @@
+\documentclass[10pt]{article}
+\usepackage[paperwidth=288mm,paperheight=162mm,margin=0mm]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,shapes.geometric}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{Ink}{HTML}{172A39}
+\definecolor{Slate}{HTML}{465B69}
+\definecolor{Line}{HTML}{637885}
+\definecolor{Red}{HTML}{BD263A}
+\definecolor{Rose}{HTML}{FCF0F1}
+\definecolor{Ice}{HTML}{EFF4F7}
+\definecolor{Stroke}{HTML}{C4D0D8}
+\definecolor{Paper}{HTML}{FBFCFD}
+
+\newcommand{\cardcopy}[2]{\textbf{#1}\\[2pt]{\small\color{Slate}#2}}
+
+\begin{document}
+\begin{tikzpicture}[remember picture,overlay]
+  \begin{scope}[shift={(current page.south west)},x=1cm,y=1cm,
+      font=\sffamily\normalsize,text=Ink,
+      box/.style={draw=Stroke,fill=white,rounded corners=6pt,
+        align=center,inner sep=5pt,text width=6.2cm,minimum height=1.06cm},
+      product/.style={box,fill=Ice},
+      lane/.style={box,align=left,inner xsep=10pt,text width=10.2cm,
+        minimum height=1.45cm},
+      choice/.style={diamond,draw=Red!55,fill=Rose,aspect=2.9,
+        inner sep=1.8pt,align=center,text width=2.04cm,font=\small\bfseries},
+      pathline/.style={draw=Line,line width=.75pt},
+      flow/.style={pathline,-{Stealth[length=2.3mm,width=1.6mm]}},
+      tag/.style={font=\small\bfseries,text=Slate,fill=Paper,inner sep=2pt}]
+
+    \fill[Paper] (0,0) rectangle (28.8,16.2);
+    \fill[Red] (0,16.04) rectangle (28.8,16.2);
+    \node[anchor=west,text=Red,font=\small\bfseries] at (1.03,15.36)
+      {AUTO2000 / DIGIROOM};
+    \node[anchor=west,font=\fontsize{23}{26}\selectfont\bfseries] at (1.01,14.67)
+      {Win the next paid workshop job};
+    \node[anchor=west,text=Slate] at (1.03,14.08)
+      {From choosing a workshop to paying for the work};
+
+    % A case opened on either channel carries the same vehicle and job context.
+    \node[box,text width=7.0cm] (start) at (8.5,12.95)
+      {\cardcopy{Owner starts in Digiroom or WhatsApp}
+        {Selects the vehicle, job, or symptom.}};
+    \node[product,text width=7.62cm] (record) at (19.75,12.95)
+      {\cardcopy{Digiroom opens one shared job record}
+        {Checks eligibility and routes the job.}};
+    \draw[flow] (start.east) -- (record.west);
+
+    % Each lane makes the relevant commercial promise before work is agreed.
+    \node[lane] (routine) at (7.25,10.69)
+      {{\small\bfseries\color{Red} ROUTINE SERVICE}\\[3pt]
+       \textbf{Get a confirmed oil-and-filter offer}\\[2pt]
+       {\small\color{Slate}
+        Digiroom shows a capable Auto2000 or Auto2000-operated OtoXpert outlet.
+        The outlet confirms fitment, reserves parts, and gives the installed price,
+        slot, and collection window.}};
+    \node[lane] (diagnose) at (21.55,10.69)
+      {{\small\bfseries\color{Red} FAULT OR REPAIR}\\[3pt]
+       \textbf{Get a diagnosis and a written estimate}\\[2pt]
+       {\small\color{Slate}
+        The adviser confirms a diagnostic visit and receives the symptom and prior work.
+        After inspection, the adviser explains findings, repair options, price, and timing.}};
+    \coordinate (split) at (19.75,12.06);
+    \draw[pathline] (record.south) -- (split);
+    \draw[flow] (split) -| (routine.north);
+    \draw[flow] (split) -| (diagnose.north);
+
+    \node[product,text width=7.1cm] (accept) at (14.4,8.51)
+      {\cardcopy{Owner accepts the written scope and price}
+        {Scope and exclusions stay on the record.}};
+    \coordinate (merge) at (14.4,9.26);
+    \draw[pathline] (routine.south) |- (merge);
+    \draw[pathline] (diagnose.south) |- (merge);
+    \draw[flow] (merge) -- (accept.north);
+
+    \node[box,text width=7.1cm] (work) at (14.4,7.05)
+      {\cardcopy{Workshop opens the work order}
+        {Check in and carry out the agreed work.}};
+    \node[choice] (newwork) at (14.4,5.62) {Extra work?};
+    \node[product,text width=4.95cm] (quote) at (23.15,5.62)
+      {\cardcopy{Send a revised quote}
+        {Show the reason, new total, and timing.}};
+    \node[choice] (approve) at (23.15,4.03) {Owner approves?};
+    \node[box,text width=7.1cm] (handover) at (14.4,4.03)
+      {\cardcopy{Hand over the vehicle}
+        {Record completed work, declined items, and any outstanding issues.}};
+    \node[box,draw=Red!40,fill=Rose,text width=7.1cm] (paid) at (14.4,2.48)
+      {\cardcopy{Owner pays and receives the service record}
+        {Digiroom keeps the receipt and work history.}};
+
+    \draw[flow] (accept.south) -- (work.north);
+    \draw[flow] (work.south) -- (newwork.north);
+    \draw[flow] (newwork.east) -- node[tag,above] {Yes} (quote.west);
+    \draw[flow] (newwork.south) -- node[tag,right] {No} (handover.north);
+    \draw[flow] (quote.south) -- (approve.north);
+    \draw[flow] (approve.west) -- node[tag,above] {No} (handover.east);
+    \draw[flow] (approve.east) -- node[tag,above] {Yes} (27.48,4.03)
+       |- node[pos=.74,above,tag] {Update accepted scope} (work.east);
+    \draw[flow] (handover.south) -- (paid.north);
+
+    \draw[Stroke,line width=.55pt] (1.03,1.25) -- (27.77,1.25);
+    \node[anchor=west,text=Red,font=\small\bfseries] at (1.03,.70)
+      {WIN-BACK MEASURE};
+    \node[anchor=west,text=Slate,font=\small] at (4.82,.70)
+      {Completed customer-paid jobs from owners who last used an independent garage for comparable work};
+  \end{scope}
+\end{tikzpicture}\null
+\end{document}
