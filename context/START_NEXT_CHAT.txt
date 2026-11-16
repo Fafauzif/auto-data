@@ -1,3 +1,7 @@
+Current Digiroom KEY continuation (16 November 2026)
+Start with context/digiroom-key/START_HERE.md. For completed demo behavior, setup and QA, read context/digiroom-key/prototype/README.md. For proposal images, open context/digiroom-key/prototype/screenshots/README.md and screenshot-index.csv in that folder. The original megaprompt remains the historical build brief. The verified responsive source changes are stored separately under context/digiroom-key/prototype/app-overlay/ for use in Auto2000-Digiroom-Demo.
+
+Previous KEY pointer and base research continuation (retained):
 For the Digiroom KEY competition pitch, product decisions, or demo build, start with context/digiroom-key/START_HERE.md. For a coding session, use context/digiroom-key/digiroom-key-megaprompt.md. The KEY handoff records the later solution decisions, including the 48-Hour Life Test, full role-based demo, bundled map fallback, and Sell the Finished Idea writing rules.
 
 Research continuation from the base release follows.

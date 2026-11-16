@@ -1,0 +1,372 @@
+[hidden] {
+  display: none !important;
+}
+.interface-language {
+  font-size: 11px;
+  color: var(--muted);
+}
+.journey-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 0 max(28px, 4vw);
+  min-height: 64px;
+  background: #fff;
+  border-bottom: 1px solid var(--line);
+}
+.journey-nav > div {
+  display: flex;
+  align-items: stretch;
+  gap: 30px;
+}
+.journey-nav button {
+  min-height: 64px;
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 650;
+  border-bottom: 2px solid transparent;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.journey-nav button.active {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+.journey-nav button:hover {
+  color: var(--accent);
+}
+.journey-nav .journey-visit {
+  color: var(--accent);
+}
+.ownership-shell {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 24px 32px 56px;
+}
+.ownership-context {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 12px;
+}
+.ownership-context .text-action {
+  width: auto;
+}
+.ownership-context p {
+  font-size: 12px;
+  color: var(--muted);
+}
+.task-panel h1 {
+  font-size: clamp(42px, 3.5vw, 62px);
+  line-height: 1.03;
+  letter-spacing: -1px;
+}
+.workspace-heading {
+  margin-bottom: 22px;
+}
+.energy-basis {
+  padding: 14px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  border-top: 1px solid var(--line);
+  margin-top: 16px;
+}
+.energy-basis strong {
+  font-size: 11px;
+}
+.energy-basis span {
+  font-size: 11px;
+}
+.energy-basis small {
+  font-size: 10px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+.ownership-link {
+  margin-top: 8px;
+  width: 100%;
+  justify-content: space-between;
+}
+.clearance-checks {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+  font-size: 10px;
+  line-height: 1.9;
+}
+.product-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 0 3px;
+}
+.product-links button {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 650;
+  min-height: 36px;
+  color: #405b46;
+}
+.product-links button:hover {
+  color: var(--accent);
+}
+.scene-recovery {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  right: 20px;
+  padding: 10px 14px;
+  border-radius: 7px;
+  background: #ffffffed;
+  color: #5d655d;
+  font-size: 11px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 3;
+}
+.scene-recovery button {
+  color: var(--accent);
+  flex-shrink: 0;
+  min-height: 32px;
+  font-weight: 650;
+}
+.stage > .scene-recovery {
+  height: auto !important;
+}
+@media (max-width: 760px) {
+  .journey-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 12px;
+    padding: 0 16px;
+  }
+  .journey-nav > div {
+    display: contents;
+  }
+  .journey-nav button {
+    min-width: 0;
+    min-height: 44px;
+    font-size: 12px;
+    text-align: left;
+  }
+  .ownership-shell {
+    padding: 16px 18px 40px;
+  }
+  .ownership-context {
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .ownership-context p {
+    font-size: 10px;
+    text-align: right;
+    max-width: 65%;
+  }
+  .task-panel h1 {
+    font-size: 48px;
+  }
+  .interface-language {
+    font-size: 9px;
+  }
+  .header-right {
+    gap: 10px;
+  }
+  .product-links {
+    flex-wrap: wrap;
+    gap: 0;
+  }
+  .scene-recovery {
+    font-size: 10px;
+    left: 10px;
+    right: 10px;
+    top: 55px;
+    padding: 8px;
+  }
+  .scene-recovery button {
+    max-width: 90px;
+    white-space: normal;
+    text-align: left;
+    font-size: 10px;
+  }
+}
+
+.catalogue-page {
+  width: calc(100% - 64px);
+  max-width: 1440px;
+  margin: 0 auto;
+}
+@media (max-width: 760px) {
+  .catalogue-page {
+    width: calc(100% - 36px);
+  }
+}
+.child-seat-tag {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff8e9;
+  color: #683d1c;
+  border: 1px solid #c78c44;
+  border-radius: 9px;
+  padding: 8px 11px;
+  white-space: nowrap;
+  box-shadow: 0 4px 14px #253b2a22;
+  font:
+    12px Manrope,
+    sans-serif;
+}
+.child-seat-tag strong,
+.child-seat-tag small {
+  display: block;
+}
+.child-seat-tag strong {
+  font-weight: 750;
+  font-size: 12px;
+}
+.child-seat-tag small {
+  font-size: 9px;
+  margin-top: 3px;
+}
+.child-seat-tag svg {
+  flex-shrink: 0;
+}
+.language-switch button {
+  min-height: 38px;
+  padding: 0 10px;
+  font-size: 11px;
+}
+.road-map-panel {
+  margin: 14px 0;
+}
+.road-map {
+  height: 300px;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #e9eee7;
+  isolation: isolate;
+  z-index: 0;
+}
+.map-view-controls {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+.map-view-controls button {
+  padding: 7px 11px;
+  min-height: 36px;
+  border-radius: 6px;
+  font-size: 11px;
+  border: 1px solid var(--line);
+}
+.map-view-controls button[aria-pressed="true"] {
+  background: #405b46;
+  color: white;
+}
+.map-status {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 11px;
+  padding: 10px 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+.map-status button {
+  font-weight: 700;
+  color: var(--accent);
+  min-height: 32px;
+  flex-shrink: 0;
+}
+.map-caption {
+  font-size: 10px;
+  line-height: 1.7;
+  color: var(--muted);
+  margin: 9px 0 0;
+}
+.road-branch-marker {
+  background: none;
+  border: 0;
+}
+.road-branch-marker span {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid #526f56;
+  color: #344b39;
+  font:
+    700 12px Manrope,
+    sans-serif;
+  box-shadow: 0 2px 6px #203d3928;
+}
+.road-branch-marker span.selected {
+  background: #cf302b;
+  color: white;
+  border-color: white;
+}
+.road-map .leaflet-control-attribution {
+  font-size: 10px !important;
+  background: #fffffff2 !important;
+}
+.road-map .leaflet-control-zoom a {
+  color: #263c2c;
+  background: #fff;
+  display: block;
+  font-size: 20px;
+  line-height: 30px;
+}
+.visit-share-actions .tasia-send {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 44px;
+  padding: 10px 12px;
+  border-radius: 7px;
+  background: #176348;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 650;
+  text-decoration: none;
+  line-height: 1.6;
+}
+.visit-share-actions .tasia-send:hover {
+  background: #104c36;
+}
+.tasia-note {
+  font-size: 11px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+@media (max-width: 760px) {
+  .road-map {
+    height: 270px;
+  }
+  .visit-share-actions .tasia-send {
+    width: 100%;
+    font-size: 11px;
+  }
+  .language-switch button {
+    padding: 0 7px;
+  }
+  .child-seat-tag {
+    transform: scale(0.8);
+    transform-origin: center bottom;
+  }
+}
+
+.scene-annotations {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 2;
+}

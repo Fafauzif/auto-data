@@ -1,29 +1,27 @@
 # Start here — Digiroom KEY
 
-This handoff records the Auto2000 competition solution after the research release and tells a fresh chat how to continue. Extract this overlay into the auto-data repository root. Open this file first when working on the KEY demo or pitch.
+**Current handoff · 16 November 2026.** The responsive Digiroom KEY demo has been built and verified. This folder links the competition argument, research evidence, runnable app changes and proposal images so work can continue without the earlier chat.
 
-## Read in this order
+## Choose where to resume
 
-1. [Build brief for the next chat](digiroom-key-megaprompt.md) — clone the demo and research repositories, inspect the existing app, and build the agreed experience.
-2. [Digiroom KEY solution overview](digiroom-key-solution-overview.md) and [issue tree](diagrams/digiroom-key-issue-tree.pdf) — the problem, nine root causes, evidence and mechanisms, named roles, and commercial finish lines.
-3. [Decision and conversation record](DECISION_RECORD.md) — the decisions, changes in direction, and why the current scope supersedes earlier drafts.
-4. [Research-to-feature index](EVIDENCE_TO_FEATURE.md) — exact repo sources, evidence limitations, and the geography join recipe.
-5. [Demo backlog](digiroom-demo-backlog.md) — an earlier screen-by-screen inventory. The updated solution overview and build brief carry the 48-Hour Life Test and full role-based scope.
-6. [Sell the Finished Idea](skills/sell-the-finished-idea.zip) — the portable writing skill. The build brief repeats the binding copy rules so they also work in a fresh chat.
+| Goal | Start with |
+|---|---|
+| Explain the solution in the proposal | [Verified prototype handoff](prototype/README.md), then the [solution overview](digiroom-key-solution-overview.md) and [issue tree](diagrams/digiroom-key-issue-tree.pdf). |
+| Find screenshots or captions | [Screenshot shortlist and gallery index](prototype/screenshots/README.md) and [screenshot-index.csv](prototype/screenshots/screenshot-index.csv). |
+| Run or extend the demo | [Rebuild and verify the demo](prototype/README.md#rebuild-and-verify-the-demo) and [application overlay](prototype/app-overlay/). The overlay targets the separate Auto2000-Digiroom-Demo repository. |
+| Trace a claim back to evidence | [Research-to-feature index](EVIDENCE_TO_FEATURE.md) and the [integrated research report](../../reports/INTEGRATED_REPORT.md). |
+| Read the decisions behind the build | [Decision record](DECISION_RECORD.md), [original build brief](digiroom-key-megaprompt.md), [earlier backlog](digiroom-demo-backlog.md) and [previous start page](START_HERE.pre-prototype.md). |
 
-## Current competition direction
+## Competition direction
 
 **Digiroom KEY — Know your fit. Book your service. Find your next Toyota.**
 
-- **K — Know Your Fit.** Build the household’s 3D routine, price its driving week, and take its own checklist to a standard drive or a 48-Hour Life Test.
+- **K — Know Your Fit.** Build the household’s 3D routine, price its driving week and take its own checklist to a standard drive or a 48-Hour Life Test.
 - **E — Easy Service.** Win one defined paid job using a capable Auto2000-operated outlet, confirmed parts and time, and a written price the payer can approve.
 - **Y — Your Next Toyota.** Turn an inspected buy offer and official loan payoff into a complete deal on the next xEV, with the unit and settlement coordinated.
 
-The user chose four usable workspaces, an interactive geography overlay with a bundled fallback, and finished-product language for screens and pitch material. [Build brief](digiroom-key-megaprompt.md)
+The build covers four workspaces, all three journeys and a versioned map with a bundled fallback. For pitch writing, keep using [Sell the Finished Idea](skills/sell-the-finished-idea.zip). It pairs commercial outcomes with explicit evidence and operational boundaries. The application's completed demo cases are sample records. The geography overlay shows modeled origins.
 
-## Repo and archive boundaries
+## Preserve the research record
 
-- This overlay was prepared against auto-data commit **0d6cc35**. It adds this folder and updates [the continuation note](../START_NEXT_CHAT.txt). The note retains the original reading instructions below the new KEY pointer. [Original note](reference/START_NEXT_CHAT.original.txt)
-- The base release manifest records the original note’s hash. The base release verifier will flag the updated note after extraction. For an exact base release check, use the original checkout or put the preserved original note in its original location in a disposable copy. The existing research, data, and historical manifests stay in the base repo.
-- Source studies and review or interview material remain in the existing private research repo. This overlay contains the Auto2000 decisions and selected directly relevant attachments, along with paths to the existing evidence. The decision record is a structured handoff from the conversation.
-- The demo source is [Auto2000-Digiroom-Demo](https://github.com/Fafauzif/Auto2000-Digiroom-Demo). The [deployed Life Test](https://auto2000demo.vercel.app/) was accessible during the conversation. The source clone returned a 404 in that workspace. Use an authorized checkout or user-supplied source ZIP if the next session has the same access issue.
+The prior handoff, build brief, backlog, original source material, findings, data and manifests remain available. The [base research continuation](../START_NEXT_CHAT.txt) still points to the research reading route. The updated prototype and screenshots sit under [prototype/](prototype/) and have a separate [SHA-256 inventory](prototype/FILES.sha256).

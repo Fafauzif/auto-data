@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "update_date": "2026-11-16",
+  "title": "Digiroom KEY responsive prototype and proposal screenshots",
+  "auto_data_base": {
+    "repository": "https://github.com/Fafauzif/auto-data",
+    "revision": "8cecb64d8ab26cbb5264c4513805dc0a6436ddbd"
+  },
+  "application": {
+    "repository": "https://github.com/Fafauzif/Auto2000-Digiroom-Demo",
+    "base_revision": "4610b8fa338fb6b00387d0b2bd8a878152d8e739",
+    "base_input": "Author-supplied GitHub source archive",
+    "overlay": "app-overlay/",
+    "overlay_file_count": 40,
+    "original_overlay_zip_sha256": "d9aa7791392f3491f2868dee1bdeaeec72d7d65af70c389a6e73fd99555e457c",
+    "deployment_version_verified": false
+  },
+  "screenshots": {
+    "directory": "screenshots/",
+    "caption_index": "screenshots/screenshot-index.csv",
+    "readme": "screenshots/README.md",
+    "capture_prompt": "SCREENSHOT_CAPTURE_PROMPT.md",
+    "language": "English",
+    "png_count": 169,
+    "numbered_screens_and_states": 120,
+    "desktop_viewport_count": 115,
+    "mobile_viewport_count": 16,
+    "companion_count": 38,
+    "source": "Local production build with sample demo accounts",
+    "original_screenshot_zip_sha256": "a8b00783b29cd89114bdd13dce01b52b2ff7417b3c9ce9a1989cb78e336e07e3"
+  },
+  "app_verification": {
+    "clean_overlay_build_passed": true,
+    "typecheck_passed": true,
+    "format_check_passed": true,
+    "unit_tests_passed": 72,
+    "responsive": {
+      "viewport_sizes": 17,
+      "routes": 12,
+      "browser_engines": [
+        "Chromium",
+        "Firefox",
+        "WebKit"
+      ]
+    },
+    "full_key_touch_walkthrough_passed_at_css_px": 440,
+    "original_showroom_suite_checks_before_final_webkit_refinements": 76,
+    "offline_map_fallback_passed": true,
+    "tested_physical_devices": false
+  },
+  "replace_in_auto_data": [
+    "context/START_NEXT_CHAT.txt",
+    "context/digiroom-key/START_HERE.md"
+  ],
+  "delete_from_auto_data": [],
+  "manifest": "FILES.sha256"
+}
