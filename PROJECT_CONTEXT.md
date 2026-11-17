@@ -1,3 +1,9 @@
+# Current proposal continuation — 17 November 2026
+
+The current complete proposal is `context/digiroom-key-proposal/latest-revision/Digiroom_KEY_IBSC2026_Proposal_Final.docx`. Read `context/digiroom-key-proposal/latest-revision/START_HERE.md`, its session handoff and lessons first. This supersedes the earlier proposal-only state below: executive summary and Chapters I–V are populated; the retained financial scenario is assumption-based and was not independently workbook-recalculated. Earlier research evidence and limits remain applicable. No next task or GitHub push is automatic.
+
+---
+
 # Auto2000 integrated research context
 
 ## Current proposal continuation —16 November 2026

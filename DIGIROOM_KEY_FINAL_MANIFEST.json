@@ -1,0 +1,142 @@
+{
+  "base_commit": "a63737583dc48c76e79982340aa36da24c33aeb1",
+  "package_date": "2026-11-17",
+  "type": "repo_relative_overlay",
+  "files": [
+    {
+      "path": "DIGIROOM_KEY_FINAL_UPDATE.md",
+      "bytes": 1347,
+      "sha256": "b667b6fb4cdd85d10a64cdefa074f610ff49a9b324c52a637aeeb2d89a97e088"
+    },
+    {
+      "path": "PROJECT_CONTEXT.md",
+      "bytes": 9214,
+      "sha256": "2e86e9b23091150f0d64ae73d2960b9675c184ca7bdf36d68c48511f4698e571"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6245,
+      "sha256": "d23d2f5925ca97b04d1c0ed0bd55069b3eaba00707da6b6887b9fce52fe8370d"
+    },
+    {
+      "path": "context/CURRENT_STATUS.json",
+      "bytes": 1663,
+      "sha256": "91356f12c132e2d70c8b9d76657e40bfca4cb636018e72570a13e774ecf55372"
+    },
+    {
+      "path": "context/START_NEXT_CHAT.txt",
+      "bytes": 2618,
+      "sha256": "87235db421c9463e665d269b7fb2b6138f4e30bed4fc47f9a75932f07393dc14"
+    },
+    {
+      "path": "context/digiroom-key-proposal/PROPOSAL_CONTEXT.md",
+      "bytes": 8051,
+      "sha256": "e7ba74c4def807544ffe4d95fa00dae794c92ed84c0e4f34f879903d138c21c5"
+    },
+    {
+      "path": "context/digiroom-key-proposal/START_HERE.md",
+      "bytes": 2825,
+      "sha256": "e3eb3724089d60fa9f897a37a831de8ccd47cf5190dfb7a793ba431d5906d83d"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/Digiroom_KEY_IBSC2026_Proposal_Final.docx",
+      "bytes": 5642768,
+      "sha256": "801c48ce26fb2e201f9a59c9659774fbc626de0c00a817371fc534c395449207"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/Digiroom_KEY_IBSC2026_Proposal_Final.pdf",
+      "bytes": 5748603,
+      "sha256": "3b35228e41e72424527a2d43d8f9a4f05b9cb76de3ae06ddaf849d0b55294765"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/FINANCIAL_BOUNDARIES.md",
+      "bytes": 1688,
+      "sha256": "d82f84b6f6ba58d8a7e3dfd920b3cbcbc9d23caba6465465cc66611545be4ffb"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/LESSONS_LEARNED.md",
+      "bytes": 3226,
+      "sha256": "9dc004727f3842c023a06596d2a0eb5be327cee069eda6418b45122911c9c482"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/NEXT_CHAT_PROMPT.md",
+      "bytes": 722,
+      "sha256": "dd4a7d4066f99e2c5baaa182a801ec2723877f2206a9d9b3b1b4a5891680b69d"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/ORIGINAL_COMMENTS.md",
+      "bytes": 5794,
+      "sha256": "395991246738014eb67fbeb124d9c6fe909951abb389ced5b3522c1686984fc3"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/QA.json",
+      "bytes": 994,
+      "sha256": "780744fcafb9334f1e177e38a2743a32042c8ff429adb032d07d7ee98a5f959d"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/SESSION_HANDOFF.md",
+      "bytes": 4496,
+      "sha256": "ec96308c358bc0f05e8b7ca31fbdadb445fb668a752f7edf5bfb086ecba1d774"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/START_HERE.md",
+      "bytes": 975,
+      "sha256": "832d994e2b7708d0f6b511fd843ed73be62d9e71ab4290f7e8b6283129c96c40"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/assets/figure-10.png",
+      "bytes": 149882,
+      "sha256": "839de1bd7812cd733e4b1bc9bd890d466efb434e7375af9e97c09bfb041b6ae6"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/assets/figure-11.png",
+      "bytes": 34423,
+      "sha256": "1cff4ecbcf4d589c7dbf69a238336295a9e7d065a19e31461520bf6bd144794b"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/assets/figure-12.png",
+      "bytes": 82848,
+      "sha256": "c0363fcaca3e54001e4d17ead27775cf66f20c568b42fc7d6f64e5856e83a133"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/assets/figure-15.png",
+      "bytes": 63821,
+      "sha256": "998e673f454e6f70f644e2d304ae50a28531b39db778eba524c7a4120b343626"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/assets/figure-8.png",
+      "bytes": 415059,
+      "sha256": "2f42e05ebe8e28ebf7b0619a5828fa5671e161b211ea9c7a721ca309da0b0ee3"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/comments.json",
+      "bytes": 7082,
+      "sha256": "21e095adb7a8ea95d4019a51fcfab85dc5a37fe7928f583aafef42b110af8204"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/final_document_text.txt",
+      "bytes": 93329,
+      "sha256": "43e47fd9ff17991f2f400ccfb6c7ccecc3028f48af80a85c56d64c5ab1a9f1dc"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/inputs/Digiroom_KEY_IBSC2026_Proposal (1).docx",
+      "bytes": 4831546,
+      "sha256": "ae74f73d38a23d41c9657c353f0ad7dadc5f1bda3bcc64694d1665ab8dcd226a"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/inputs/Digiroom_KEY_IBSC2026_Proposal_Revised.docx",
+      "bytes": 4944072,
+      "sha256": "2223eda4f734393f90b9afdd02cc561ef1424dbe0bdee226c9f5d36070b82e9a"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/tools/inspect_docx.py",
+      "bytes": 1125,
+      "sha256": "183cfa84344f5fa22a4c9799c4ca5af25a4343e93212cd50105d045fbd495976"
+    },
+    {
+      "path": "context/digiroom-key-proposal/latest-revision/tools/verify_overlay.py",
+      "bytes": 492,
+      "sha256": "f70087e3bd438844fb7dc0e4d50497372cb7d27465f5dae7e7a9e8897ca8cc76"
+    }
+  ]
+}

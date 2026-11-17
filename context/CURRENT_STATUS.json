@@ -26,25 +26,21 @@
   "interview_analysis": "analysis/interviews/INTERVIEW_SYNTHESIS.md",
   "current_pilot_decision": "analysis/interviews/pilot_decision.json",
   "proposal_continuation": {
-    "as_of": "2026-11-16",
-    "entry_point": "context/digiroom-key-proposal/START_HERE.md",
-    "handoff": "context/digiroom-key-proposal/SESSION_HANDOFF_2026-11-16.md",
-    "current_docx": "context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.docx",
-    "current_pdf": "context/digiroom-key-proposal/drafts/Digiroom_KEY_Chapters_1_to_3.pdf",
+    "as_of": "2026-11-17",
+    "entry_point": "context/digiroom-key-proposal/latest-revision/START_HERE.md",
+    "current_docx": "context/digiroom-key-proposal/latest-revision/Digiroom_KEY_IBSC2026_Proposal_Final.docx",
     "completed_chapters": [
       1,
       2,
-      3
+      3,
+      4,
+      5
     ],
-    "placeholder_sections": [
-      "Executive summary",
-      "Chapter IV",
-      "Chapter V"
-    ],
-    "appendix_ids": 43,
-    "rendered_pages": 49,
-    "numeric_targets_and_gp": "Deferred to Chapter IV; historical scenarios not adopted",
+    "executive_summary": "populated",
+    "counted_pages_including_contents": 15,
+    "historically_verified_total_pages": 52,
+    "financial_status": "supplied planning scenario; underlying workbook unavailable for independent recalculation",
     "next_task": "Await user instruction",
-    "git_push_performed": false
+    "github_pushed": false
   }
 }

@@ -1,0 +1,29 @@
+{
+  "file": "Digiroom_KEY_IBSC2026_Proposal_Final.docx",
+  "sha256": "801c48ce26fb2e201f9a59c9659774fbc626de0c00a817371fc534c395449207",
+  "tables": 35,
+  "drawings": 61,
+  "missing_anchors": [],
+  "duplicate_bookmarks": 0,
+  "comment_parts": [],
+  "tracked_changes": 0,
+  "verification_date": "2026-11-17",
+  "fresh_proof_pages": 52,
+  "historical_visual_qa": {
+    "pages_reviewed": 52,
+    "reviewer": "independent critique subagent",
+    "result": "No overlaps or clipping detected; all pages inspected at readable size",
+    "scope": "Original final delivery session; not a new full visual audit in recovery session"
+  },
+  "historical_counted_span": {
+    "physical_pages": [
+      2,
+      16
+    ],
+    "count": 15,
+    "contents_included": true
+  },
+  "financial_calculations": "Supplied scenario only; workbook unavailable",
+  "pipeline_status": "Original transient revision scripts unavailable after reset; inspection tool newly written",
+  "fresh_pdf_invalid_internal_targets": 0
+}

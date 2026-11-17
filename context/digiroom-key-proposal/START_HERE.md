@@ -1,3 +1,9 @@
+# Current proposal continuation — 17 November 2026
+
+The current complete proposal is `context/digiroom-key-proposal/latest-revision/Digiroom_KEY_IBSC2026_Proposal_Final.docx`. Read `context/digiroom-key-proposal/latest-revision/START_HERE.md`, its session handoff and lessons first. This supersedes the earlier proposal-only state below: executive summary and Chapters I–V are populated; the retained financial scenario is assumption-based and was not independently workbook-recalculated. Earlier research evidence and limits remain applicable. No next task or GitHub push is automatic.
+
+---
+
 # Continue the Digiroom KEY proposal
 
 Current endpoint:16 November 2026, Chapters I–III delivered. Extract the update ZIP at the existing `auto-data` repo root. Base checkout:`63b859b9040ba055465fec70669344d766091d52`. This overlay updates proposal files and the root context pointers; the existing research and prototype remain the evidence base.

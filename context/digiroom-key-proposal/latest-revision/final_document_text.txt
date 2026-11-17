@@ -1,0 +1,1255 @@
+Digiroom KEY for Auto2000
+A digital ownership proposal for Toyota xEV customers
+International Business Solution Competition 2026
+Semifinal business case proposal
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY3
+CHAPTER I: INTRODUCTION4
+CHAPTER II: ANALYSIS4
+CHAPTER III: RECOMMENDATIONS8
+Solution Overview8
+1. Know Your Fit8
+2. Easy Service10
+3. Your Next Toyota12
+CHAPTER IV: IMPLEMENTATION AND IMPACTS14
+CHAPTER V: CONCLUSION16
+REFERENCES16
+APPENDICES17
+EXECUTIVE SUMMARY
+Auto2000 has three chances to earn the next transaction from a household. First, it can turn interest in an electrified Toyota into a vehicle the family knows will fit its life. Then it can win the next service job by confirming the work and making the price clear to the person paying. Finally, it can help the owner turn the value of the current car into a deal on the next one. Each decision crosses the household, Digiroom and a branch. Digiroom handles 16% of service bookings, while WhatsApp, phone and walk-ins handle the rest. Appendix A1 The opportunity is to connect the decision across those channels so the customer has a reason to return when it moves.
+Know Your Fit gives the shopper a household checklist for the garage, passengers, ordinary trips and running costs, then carries it to a confirmed drive and a dated offer. Easy Service gives owners a workshop that can do the job, an agreed scope, and a current estimate the actual payer can approve. Your Next Toyota combines an inspected offer, the lender’s payoff and a reservation for a specific replacement. A named adviser carries each commitment forward. The customer can start through WhatsApp or at a branch and return to Digiroom for a confirmation, approval or completed record. Appendix A41
+Start with a Yaris Cross Hybrid service pilot at Auto2000 Soekarno-Hatta in Bandung, subject to branch readiness and enough eligible cases. Setiabudi is the fallback. Retain assisted service in both comparison groups and give the pilot group the Digiroom work record and delegated approval. Measure completed customer-paid orders, recognised contribution and voluntary returns for a specific ownership task. Appendix A44 Then run separate tests for confirmed xEV drives and inspected upgrade offers. Keep branch capacity, data permissions and what each transaction earns visible before committing to a wider rollout. Appendix A47
+By the end of FY2028, the Base case projects 457 additional new-to-Auto2000 xEV deliveries, 3,500 customer-paid work orders won from independent garages, including 1,050 xEV orders, and 311 additional repeat xEV deliveries through inspected offers. Appendix A45 These figures depend on eligible reach, branch capacity and additional completions compared with usual practice. For Easy Service, the pilot needs to show whether the team can win and fulfil paid work at a cost the contribution can support. The rollout tests those assumptions before they become expansion commitments. Appendix A44 Appendix A46
+Count a sale when the customer takes delivery, a service order when the eligible paid work is complete, and a replacement when the new xEV is delivered and the settlement is reconciled. Appendix A40 This lets Finance distinguish an additional transaction from one that simply moved into Digiroom. It also gives the team a way to measure regular use: a customer returning to confirm a drive, approve work, view a receipt or accept revised terms.
+Approve Digiroom KEY in stages. Start with the workshop handoff because it tests the shared record on a decision the branch and the payer can resolve in one visit. Then use the same discipline to help a household choose its first Auto2000 xEV, keep its Toyota serviced, and buy its next one. The customer sees who owes the next action. Auto2000 sees what happened all the way through to delivery, payment or settlement. Fund the next release when the completed transactions and their contribution warrant it.
+CHAPTER I: INTRODUCTION
+Background
+Auto2000 sells and maintains Toyota vehicles across Indonesia. Its branches handle sales, servicing, repairs and spare parts. Digiroom already supports new and used vehicle transactions, trade-in, and aftersales. Toyota owners can also book Home Service, track service status and simulate finance through Auto2000’s app (Auto2000, n.d.-b). The next opportunity is to connect these existing digital entry points to decisions that the branch, customer or payer still needs to make.
+Electrified vehicles, or xEVs, include hybrids (HEVs), plug-in hybrids (PHEVs) and battery electric vehicles (BEVs). In the supplied market baseline, their share of Indonesian new-car wholesales rose from 11.9% in 2024 to 21.8% in 2025. Appendix A1 Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO, 2026) reported 65,943 hybrid wholesales in 2025, led by the Innova Zenix Hybrid at 23,934 units. Appendix A18 Aftersales supplied 46.7% of Auto2000’s gross profit across all powertrains. Appendix A1 As more households consider xEVs, the relationship after delivery remains commercially important for the dealer.
+Problem Identification
+A family can be interested in an xEV and still hesitate over daily fit or cost. An owner can choose an Auto2000 branch and leave before agreeing to paid work. An existing customer can know the car’s resale range and still be unable to complete an upgrade. The analysis therefore follows each decision from the first sign of interest to a completed transaction and identifies where the customer needs a clearer commitment from Auto2000.
+CHAPTER II: ANALYSIS
+Most service bookings already happen elsewhere, so Digiroom needs a role beyond taking the request.
+WhatsApp accounts for 38% of service bookings and phone or walk-in for 46%. Digiroom handles 16%, although booking is the main activity for 46% of its monthly active users. Appendix A1 The Yaris Cross Hybrid driver described WhatsApp booking as practical and consistently successful. Appendix A22 Digiroom already takes requests and displays service status. Appendix A2 The opportunity is to make the app useful when the branch confirms work, a family payer needs to decide, or a receipt is ready.
+
+Figure 1. Service booking channels and Digiroom audience measures.
+Across roughly 21,000 monthly active users, Digiroom averaged 1.6 sessions per active user. Appendix A1 Measure meaningful returns alongside completed work across all channels. Appendix A40
+Choosing Auto2000 does not guarantee that the workshop wins the job.
+A Setiabudi reviewer described arriving for service and leaving without being acknowledged. A Pancing reviewer reported a walk-in registration that never entered the queue. An Avanza owner reviewing Auto2000 Kertajaya described declining a broader brake replacement estimate and choosing a cheaper repair elsewhere. Appendix A4 The Google Maps accounts identify where customers can leave the process. Whether the two brake repairs were technically equivalent is unknown.
+
+Figure 2. Where reported service journeys succeed or break down. Sources: Google Maps reviews; owner interviews.
+A Cilandak review described clear charges and consultation before extra work, while Soekarno-Hatta reviews described missed or unresolved work. Appendix A4 In the Yaris Cross Hybrid interview, the driver arranged the visit and the father decided on additional spending. Appendix A22 A versioned estimate gives the adviser, driver and payer the same scope and price to act on.
+The household needs to try the xEV against its own routine.
+The Wuling Air EV driver could charge at the apartment during ordinary downtime. Appendix A21 The BYD Atto driver reported taking Gojek during one urgent low-charge episode and searching for charging near Rungkut on another. Appendix A23 The Yaris Cross Hybrid driver noted how passenger load affected acceleration on a long trip. Appendix A22 A charger map can show nearby sites. Whether a charger or a car suits an ordinary trip depends on how the household travels. Appendix A19
+
+Figure 3. Household routines create different questions for an xEV test drive. Sources: owner interviews; selected X account.
+An X user reported being unable to find a demonstrator. Appendix A15 The household needs both a checklist and a confirmed vehicle. A longer drive is useful when a family needs to try its own route or parking space. Appendix A5
+A lower upfront payment can make the monthly commitment harder to carry.
+In a dated Innova Zenix Hybrid calculator comparison, financing insurance reduced the displayed upfront payment from Rp154.85 million to Rp109.53 million while raising each of the remaining 59 instalments from Rp9.27 million to Rp10.40 million. Both quotes used the same model, price, location and tenor (Auto2000, n.d.-a). Appendix A6.1 Buyers need to see upfront cash, ongoing commitments and expected running costs together.
+
+Figure 4. Cash due upfront and continuing instalments in the dated Zenix Hybrid comparison.
+Existing OtoXpert outlets close many oil-service access gaps, but Bandung retains most of the remainder.
+We modelled driving times from 284 starting locations across Bandung, Surabaya, Medan and Palembang. For each location we compared the fastest eligible Auto2000 oil-service route with the fastest collected alternative. Adding eligible Auto2000-operated OtoXpert outlets reduced the number of locations where Auto2000 was over five minutes slower from 39 to 20 (OtoXpert, n.d.). Appendix A7.1 Bandung retained 14 and Surabaya six. Appendix A8 Eight of Bandung’s 14 were assigned to Soekarno-Hatta, where preparing visits or testing eligible Home Service could matter most. Appendix A9.1
+
+Figure 5. Origins above the five-minute oil-access gap, before and after eligible OtoXpert routing.
+The 284 locations are modelled starting points. Appendix A7.1 General repairs require a different network check. Removing Pancing or Tanjung Api-Api leaves eight or seven locations respectively without a dealer within 15 minutes. Appendix A9.1 Route oil jobs and diagnostics according to the work each outlet can perform.
+The near-term paid-service opportunity lies in cars already on the road.
+Toyota’s T-Care can include up to seven scheduled services within three years or 60,000 km for eligible models (Toyota Astra Motor, n.d.). In a calendar-only illustration, a January 2026 delivery reaches visit eight in July 2029. Appendix A10 The interviewed Yaris driver’s routine work was still covered. Appendix A22 The near-term paid opportunity is work already due, including uncovered additions alongside scheduled maintenance.
+
+Figure 6. Included-service calendar for an eligible January 2026 delivery; time-only illustration.
+Check entitlement by vehicle and work item, distinguish the customer’s payment from programme reimbursement, and report xEV and petrol work separately. Appendix A10
+A trade-in price only becomes useful when the owner can close the next purchase.
+The Yaris Cross Hybrid driver checked marketplaces and dealers for a resale range. Appendix A22 To turn that range into a budget, the buyer needs an inspected offer, the lender’s payoff and any fees. In the sample calculation, a Rp248 million offer less Rp174 million in payoff and Rp2.5 million in fees leaves Rp71.5 million of usable equity. Appendix A12.1
+
+Figure 7. From appraisal to usable equity and a settled replacement. Sample transaction terms.
+Digiroom already gives owners a route to trade-in and appraisal. Appendix A2 Selected Google Maps accounts describe difficulty recovering a deposit and a reserved unit reportedly allocated elsewhere. Appendix A11 The owner needs the offer expiry, vehicle hold, finance, deposit terms and settlement to refer to the same replacement deal. Appendix A12
+The analysis converges on three decisions that Digiroom must help customers finish.
+The issue tree connects a shopping decision to a first Auto2000 xEV delivery, a workshop decision to a paid service order, and an upgrade decision to a repeat xEV delivery. Appendix A13 Digiroom gives customers a reason to return when the next decision is ready.
+
+Figure 8. Issue tree for lost xEV deliveries and customer-paid service opportunities.
+Digiroom KEY starts with the Practical Toyota Household: a driver who compares cars and organises visits, and the person who approves spending. The composite reflects shared purchase decisions, established WhatsApp service habits and resale research. Appendix A24
+CHAPTER III: RECOMMENDATIONS
+Solution Overview
+Digiroom KEY connects the moments when a household needs to decide what happens next. Know Your Fit helps buyers judge an xEV against their own routine and budget. Easy Service turns a workshop enquiry into an agreed job that the right person can approve. Your Next Toyota brings the inspected value of the existing car into a replacement deal the owner can complete. The three solutions give Digiroom a continuing role across purchase, ownership, and replacement, while branch advisers remain responsible for the commitments customers rely on.
+The proposition builds on Auto2000’s catalogue, service network, sales relationships, and existing appraisal routes. Its contribution is to connect the customer’s preparation with the adviser’s next action: the household checklist travels to the demonstrator appointment, the accepted estimate travels to the workshop, and the inspected offer travels into settlement. Each journey ends with a recognisable commercial outcome. The technology stack is set out in Appendix A25. The rollout connects the shared record to identity, dealer operations, finance and settlement systems. Appendix A26
+
+Figure 9. Customer decisions and the transactions they lead to.
+1. Know Your Fit
+Overview
+An xEV purchase has to work for everyone who uses and pays for the car. A specification sheet can describe dimensions and efficiency without resolving whether the garage door opens comfortably, the family fits with its luggage, or charging works around an ordinary week. Know Your Fit gives the household a way to answer those questions before committing to a purchase. The driver explores the car, saves the questions that matter, and brings them into a confirmed drive. The buyer then reviews an adviser’s offer alongside the household’s running-cost estimate.
+How It Works
+Household Fit Studio
+The household starts with the model it is considering. In the 3D studio, it enters the garage dimensions, checks clearance, and explores the cabin arrangement for passengers, a child seat, or luggage. These checks turn a broad concern into something the family can discuss: whether the car can be parked, how the seats will be used, and which questions still need a physical check. The household saves the result in a visit brief rather than repeating the information when it meets the adviser. The garage and cabin screens appear in Appendix A28.
+
+Figure 10. Garage and door clearance checks against the selected vehicle. Digiroom KEY interface; illustrative transaction.
+Price the Driving Week
+Next, the household describes its usual driving week. A hybrid estimate uses distance, consumption, and fuel price. A battery-electric estimate adds charging consumption and the household’s expected mix of charging locations. The driver can change those inputs and see which part of the routine drives the estimate. Where charging is relevant, the brief also records a practical fallback for a disrupted trip; the map alone does not confirm that a plug will be available.
+The weekly estimate answers a different question from vehicle finance. Know Your Fit therefore keeps it beside the adviser’s purchase terms, with cash due upfront, monthly instalments, tenor, and any other payment clearly separated. This prevents a lower upfront amount from being mistaken for a lower total commitment. Assumptions remain visible and editable, while a lender’s decision is recorded separately from the sales quote. The calculation fields and financing handoff are detailed in Appendix A29.
+Confirmed Drive and 48-Hour Life Test
+Once the family knows what it wants to check, it requests a standard test drive or the 48-Hour Life Test. The saved brief tells the adviser which model is needed and what the household wants to learn. The adviser reviews demonstrator availability and the proposed time before confirming the appointment. If the slot is blocked or the branch cannot provide that format, the household receives another time, branch, or standard-drive option. A submitted request remains a request until the branch accepts it.
+For an eligible take-home drive, the family uses the car on its own roads and checks the routine it prepared: parking at home, travelling with passengers, and understanding fuel or charging requirements. Pickup and return remain explicit handovers. Sales records the vehicle condition and agreed use arrangements, then discusses the household’s results at return. Demonstrator allocation, eligibility, insurance, deposits if applicable, and incident handling form the operating requirements for this offer; participating branches must confirm these arrangements before offering the take-home option. The confirmation workflow appears in Appendix A30, with the eligibility exception in Appendix A43.
+From Drive to Delivery
+The adviser uses the completed brief and drive results to prepare a dated offer for the selected variant. The driver can share that offer with the household buyer, who sees the same model and payment terms. If the quote changes, the revised version returns for review before the purchase proceeds. The journey then records financing, the order, and delivery as separate stages, giving the family a reason to return when a decision or confirmation is ready. It also identifies whether this is the customer’s first Auto2000 purchase, independently of prior Toyota or xEV ownership. Appendix A31
+Why This Works
+Know Your Fit brings digital preparation into a physical decision that Auto2000 can fulfil through its sales network. The studio makes household questions concrete; the drive answers what a screen cannot; the offer lets the buyer judge the actual commitment. Together, these steps address the fit, affordability, and demonstrator-confirmation causes in the issue tree. They also preserve the sales relationship that helped the interviewed Yaris household buy through Auto2000.
+Expected Impact
+The intended outcome is an additional xEV delivery to a customer new to Auto2000. Qualified enquiries, confirmed drives, drive completion, issued offers, and deliveries show where the journey progresses or stops. Demonstrator days and direct cost per completed drive show the resources required to support the longer experience. These measures distinguish a useful drive from a request that never receives a vehicle. The outcome definitions are set out in Appendix A40. The planning scenario below links those outcomes to the commercial model in Appendix A45.
+Base case
+FY2027
+FY2028
+FY2027–28
+Qualified new-customer leads served
+4,800
+11,500
+16,300
+Completed 48-Hour Life Tests
+400
+1,000
+1,400
+Additional new-to-Auto2000 xEV deliveries
+134
+323
+457
+Incremental gross profit (Rp bn)
+3.17
+7.84
+11.01
+2. Easy Service
+Overview
+An owner choosing a workshop is choosing a particular job, price, and visit. Familiarity with Auto2000 for scheduled maintenance can coexist with trust in an independent tyre specialist or another repairer. Easy Service competes for that next job by showing which outlet can do it, what the installed price includes, and when the car can be collected. It carries the agreement through reception, technical work, additional approval, and handover.
+The service offer includes eligible hybrid and other xEV work as well as appropriate petrol jobs. Coverage is checked at work-item level, so an included service and a customer-paid addition remain distinguishable. For owners already heading to Auto2000, the same process protects the intended visit. Recovery of a job from an outside workshop is identified separately from retaining existing Auto2000 work. Appendix A32
+How It Works
+Choose the Outlet for the Job
+The owner begins with a vehicle and a task, or describes a symptom that needs diagnosis. Easy Service compares eligible Auto2000 workshops, Auto2000-operated OtoXpert outlets, and qualifying Home Service. The offer identifies the operator, supported vehicle, included parts and labour, exclusions, and collection window. An oil-and-filter job can therefore take a different route from a recurring fault that needs a diagnostic technician.
+This is where the access model changes the offer. Eligible OtoXpert routing removes many of the modelled oil-service gaps in Medan and Palembang, while Bandung retains most of the remainder. The map makes those alternatives inspectable, but a modelled route does not reserve workshop capacity. The outlet confirms the job and time before the owner relies on the appointment. Detailed network screens and eligibility rules appear in Appendix A32.
+Prepare and Receive the Car
+For predictable work, the adviser checks fitment, reserves the required parts, and confirms a slot and expected collection time. For an unresolved symptom, the first agreement defines the diagnostic work and its cost; a repair quote follows the inspection. The owner can enter through Digiroom, WhatsApp, phone, or a walk-in, with the adviser opening the same work record. This preserves the channels that already work while giving the customer a consistent place to review the job.
+At arrival, the adviser acknowledges the car and carries the accepted request into the workshop. The technician sees the symptom, previous relevant work, and the scope already agreed. If the car cannot be handled as planned, the owner receives a revised time or another suitable option before waiting becomes an unexplained delay. The operational handoffs are shown in Appendix A33.
+Put the Decision in Front of the Payer
+Inspection may uncover additional work. The adviser explains the finding, distinguishes required work from appropriate deferrals, and issues a revised estimate with the installed total and timing. When the driver is not the payer, the current estimate can be shared with the authorised family member. That person approves the specific version, declines the additional item, or keeps the original scope. The workshop sees which decision applies before work changes.
+Version control matters because an earlier approval cannot silently carry over to a higher price or different repair. The interface therefore directs an outdated approval link to the current estimate. Production access also needs an authenticated, limited view with expiry and revocation; those controls protect the household’s information without requiring the payer to receive unrelated vehicle or account details. The approval sequence appears in Appendix A34, with the stale-link example in Appendix A43.
+
+Figure 11. The payer reviews the current estimate and chooses whether to approve. Digiroom KEY interface; illustrative transaction.
+Close the Work and Preserve the History
+At collection, the adviser checks completed items against the accepted scope, records any unresolved symptom, and issues the receipt. The record separates customer payment, covered work, and programme reimbursement. If an issue remains, the owner sees the next action and responsible adviser rather than treating a collection status as proof that every complaint was resolved. The vehicle history can later support another service decision or, with permission, an appraisal. Appendix A35
+Why This Works
+Easy Service addresses the points where the evidence shows a visit can unravel. Reception records respond to the reported unacknowledged arrivals. Written scope and price help explain why a workshop recommends a particular repair. A payer decision responds to the household role split in the Yaris interview. Appendix A22 Meanwhile, preparation and symptom continuity address the cost of returning because an item was forgotten or a fault remained unresolved.
+Expected Impact
+The commercial outcome is additional completed customer-paid work, with jobs recovered from independent workshops reported as a distinct subset. Measures follow acknowledgement, confirmed readiness, authorised scope, completed work, and recognised contribution across channels. Rework, repeat visits for the same unresolved issue, payer disputes, and adviser time show whether the added coordination improves the visit. Covered service remains visible as an ownership outcome and is accounted for separately. Appendix A40
+Base case
+FY2027
+FY2028
+FY2027–28
+Eligible outside-work opportunities served
+14,000
+36,000
+50,000
+Additional customer-paid work orders
+980
+2,520
+3,500
+Of which xEV work orders
+294
+756
+1,050
+Incremental gross profit (Rp bn)
+0.31
+0.83
+1.14
+3. Your Next Toyota
+Overview
+An owner researching resale prices is still several decisions away from buying the next car. A market range needs a buyer willing to make an inspected offer. The gross offer then needs to be reconciled with outstanding finance and fees, while the replacement must be available on terms the family can accept. Your Next Toyota brings these decisions into one upgrade journey, with an adviser coordinating the parties who control them.
+The core offer is an inspection-backed replacement deal. The owner sees what the old car contributes, what cash remains due, and how the next xEV will be financed. A guaranteed future resale floor addresses a different risk and is outside this core offer. The Atto driver’s preference for certainty supports the importance of the question, but does not establish a funded guarantee or accepted purchase terms. Appendix A11 Appendix A23
+How It Works
+Turn the Range into a Written Offer
+The owner starts with the replacement model and requests an inspection when trading in a car. Relevant service history and condition evidence are shared with permission. The appraiser identifies the evidence accepted, records the inspection, and issues a buy offer naming the buyer, conditions, amount, and expiry. This moves the household beyond a market estimate while making clear what can still change before acceptance. The inspection and offer screens appear in Appendix A36.
+Show Usable Equity and the Amount Due
+The current lender supplies the official payoff amount and its validity. The adviser reconciles that figure with the inspected offer and applicable fees to calculate usable equity. A positive amount contributes to the replacement; a shortfall becomes an explicit funding requirement. The owner reviews that result beside the exact replacement quote, cash due, instalments, term, and any balloon payment.
+The worked example illustrates the arithmetic: a Rp248 million buy offer, less Rp174 million payoff and Rp2.5 million fees, leaves Rp71.5 million. These are sample transaction terms, not a market valuation. Showing the components lets the owner understand why the trade-in price and the amount available for the next car differ. Calculation rules and zero-equity or shortfall cases appear in Appendix A37.
+Align the Offer with the Replacement
+The upgrade adviser brings together the inspected offer, lender conditions, and reservation for the specific replacement unit. The family reviews a dated set of terms before accepting a deposit or payment obligation. Each party confirms the commitment it controls: the appraiser confirms the offer, the lender confirms finance, and sales confirms the unit. Their dates must support the same transaction.
+If the offer expires, finance changes, or the unit becomes unavailable, the adviser returns revised terms to the owner. The record explains whether the family can pause, seek a different vehicle, or receive a refund under the disclosed terms. A customer should not have to infer a current deal from an old appraisal and a separate stock message. Owner review and exception states appear in Appendix A38.
+
+Figure 12. The household reviews the current replacement offer and financing terms. Digiroom KEY interface; illustrative transaction.
+Settle and Hand Over Both Vehicles
+After acceptance, the adviser coordinates custody of the old car, official lender settlement, customer credit or shortfall, and replacement delivery. The record reconciles the payments and handovers, including any deposit, fee, or refund. An accepted offer and a reserved car remain intermediate stages; completion is recorded when the replacement is delivered and the associated settlement is reconciled. The handover workflow and completed record appear in Appendix A39.
+Why This Works
+Your Next Toyota builds on appraisal functions customers can already encounter. It addresses the remaining question of whether the owner can use the offer to complete a purchase. The Yaris interview supplies an example of price research that stopped at a range. Appendix A22 The deposit and allocation accounts show how separate commitments can obstruct a deal. Appendix A11 Connecting those steps gives the adviser a practical way to carry interest into a replacement decision.
+Expected Impact
+The intended outcome is an additional repeat xEV delivery to an existing Auto2000 customer. Inspection attendance, written offers, accepted terms, confirmed reservations, reconciled settlements, and delivered replacements reveal where the journey succeeds or stalls. Expired offers, withdrawn units, refunds, and time to settlement reveal the cost of failed coordination. The KPI framework counts repeat deliveries separately from new-customer acquisition and follows recognised vehicle gross profit without counting the trade-in value as another new-car sale. Appendix A40
+Base case
+FY2027
+FY2028
+FY2027–28
+Returning trade-in leads served
+2,600
+7,500
+10,100
+Completed inspected offers
+1,430
+4,125
+5,555
+Additional repeat xEV deliveries
+80
+231
+311
+Incremental gross profit (Rp bn)
+2.09
+6.19
+8.28
+CHAPTER IV: IMPLEMENTATION AND IMPACTS
+Implementation Timeline
+In FY2026, build the shared record and confirm branch readiness. In FY2027, compare the normal assisted workflow with the same workflow plus Digiroom status and delegated approval for eligible Yaris Cross Hybrid work at Soekarno-Hatta, Bandung. Use Setiabudi as the fallback. Appendix A44 Test confirmed drives and inspected offers next. Approve each FY2028 expansion after operating, product and finance owners review the relevant pilot results. Appendix A47
+The first release needs a joint operating owner across Product, Aftersales and Finance. Product maintains the case identifier, permissions and estimate history; the branch owns parts readiness, arrival acknowledgement and completion; Finance reconciles the payer, work order and recognised contribution. Before enrolling customers, the branch must confirm eligible paid or mixed Yaris Cross Hybrid opportunities and an assisted alternative for households that do not use the digital record. Appendix A44
+The comparison preserves normal WhatsApp and adviser service in both groups. The added record is tested against usual practice using eligible households or a pre-specified branch-week rollout where feasible. Freeze eligibility before assignment and track capacity, contamination, seasonality and rework. If the comparison cannot support a causal estimate, report descriptive changes and defer expansion claims until stronger evidence is available. Appendix A44
+
+Figure 13. Proposed 2026–28 rollout. Each expansion follows its operating review.
+Financial Projection
+Base-case gross outlay through FY2028 is Rp45.63 billion, comprising capital, programme costs and working-capital draw. That leaves Rp104.37 billion under the investment ceiling. The three solutions generate Rp20.43 billion in projected incremental gross profit over the same period, calculated with FY2025 business-line margin proxies. Appendix A45
+The projection is a planning scenario rather than a measured forecast. Its lead volumes, eligible work, conversion differences and unit economics require branch validation. FY2025 business-line margin proxies are used for screening; they do not establish realised xEV or job-specific margins. Before investment approval, Finance should replace them with recognised contribution by product, work item and fulfilling operator, and reconcile direct costs, programme spending and working capital once. Appendix A45
+
+Figure 14. Base-case incremental gross profit by solution through FY2028.
+The Base case has a negative Rp23.21 billion NPV through FY2028 and projects nominal cash payback in FY2031. At the first hurdle crossing in FY2032, IRR reaches 21.96% against a 12% hurdle and NPV reaches Rp9.70 billion. Appendix A45  Appendix A46
+Easy Service generates Rp1.14 billion of modelled gross profit through FY2028, but its direct operating contribution is negative Rp2.40 billion over that period. Appendix A46 Its shared infrastructure may support the wider ownership journey, but that strategic role does not remove the cost gap. Expansion therefore depends on lower fulfilment effort or stronger incremental paid completion, with customer-paid work separated from covered service and reimbursement. The sensitivity analysis tests whether the wider portfolio can still meet the return threshold when those drivers weaken. Appendix A46
+
+Figure 15. Cumulative nominal and discounted cash flow. The shaded period is the investment window.
+Risk Mitigation
+The heatmap assigns a relative likelihood and impact rating to each operating risk. Review those ratings against branch performance and the sensitivity of returns to eligible reach and conversion lift. Appendix A46 Each named owner reviews their risk before the next release. Appendix A47
+Ratings are initial management judgements, not measured failure probabilities. Branch Operations should verify demonstrators, parts and slots before making a commitment; Product should test identity, revocation and estimate-version checks; settlement owners should reconcile offer validity, finance and unit holds. Review these controls alongside customer disputes, repeat visits and completed contribution at each release gate. Stop expansion when the branch cannot honour the promise or when the incremental work fails to cover its avoidable cost. Appendix A47
+
+Figure 16. Initial implementation risk heatmap.
+Risk
+Mitigation before expansion
+Owner
+R1. Service costs exceed value
+Compare paid completions and actual contribution with usual practice. Reduce adviser effort or narrow the job catalogue.
+Aftersales and Finance
+R2. Commitments fail at handover
+Confirm parts, slots and exact demonstrators. Track unfulfilled promises and keep assisted alternatives.
+Branch operations
+R3. Finance and stock diverge
+Align payoff, offer and unit validity. Reissue terms and reconcile deposits when they change.
+Upgrade and settlement
+R4. Wrong payer or stale approval
+Verify identity and approval version. Limit access and log revocations.
+Product and data protection
+R5. Sales or service is double counted
+Reconcile deliveries and work orders through one identifier across channels.
+Finance and Analytics
+CHAPTER V: CONCLUSION
+Approve an initial trial of Digiroom KEY and assign a named branch owner for each handoff. Begin with the Bandung Yaris Cross Hybrid cohort, where the authorised payer, the workshop’s accepted scope and the completed order can be tested in one workflow. Preserve assisted service during the trial. Measure completed eligible paid work and meaningful Digiroom returns against usual practice before deciding whether to extend the service flow. Appendix A44
+Extend the shared record to confirmed xEV drives and inspected upgrade deals as branch teams show they can honour those commitments. The Base case supports a staged investment, with a negative NPV through FY2028 and a return above the hurdle in FY2032. Appendix A45 Cost per recovered service job and delivery capacity determine whether expansion earns funding. Appendix A46 Scale each journey against completed transactions and verified contribution across all channels.
+REFERENCES
+Auto2000. (n.d.-a). All New Kijang Innova Zenix Hybrid 2026: Harga terbaru, spesifikasi dan promo. https://auto2000.co.id/mobil-baru-toyota/p/innovahybrid
+Auto2000. (n.d.-b). Tentang Auto2000. https://auto2000.co.id/tentang-kami
+Gabungan Industri Kendaraan Bermotor Indonesia. (2026, January 19). Innova Zenix pimpin penjualan mobil hybrid nasional tahun 2025. https://www.gaikindo.or.id/innova-zenix-pimpin-penjualan-mobil-hybrid-nasional-tahun-2025/
+OtoXpert. (n.d.). OtoXpert nearest workshop point of service. https://www.otoxpert.co.id/workshop
+Toyota Astra Motor. (n.d.). T-Care. https://aftersales.toyota.astra.co.id/t-care
+APPENDICES
+Category
+Exhibits
+Access
+A0  Prototype and workbook
+Business and market
+A1  Business baseline   |   A2  Existing Digiroom journeysA3  Research coverage   |   A10  Service entitlementA18  Toyota model mix   |   A19  Cars and charging sitesA20  Auxiliary methods   |   A27  Research preparation
+Ownership and field evidence
+A4  Workshop cases   |   A5  Household fitA6  Zenix payments   |   A7  Routing methodA8  Access atlas   |   A9  Branch decisionsA11  Appraisal cases   |   A12  Worked upgrade termsA13  Issue tree crosswalk   |   A14  App store reviewsA15  X accounts   |   A16  YouTube discussionsA17  Maps review cohorts   |   A21  Wuling interviewA22  Yaris interview   |   A23  BYD Atto notesA24  Household persona
+Implementation and controls
+A25  Technology stack   |   A26  Proposed integrationsA40  KPI definitions   |   A41  Operating workflowsA42  Access and exceptions   |   A43  Exception screenshots
+Know Your Fit screens
+A28  Garage and cabin   |   A29  Weekly costs and quoteA30  Drive confirmation   |   A31  Results and delivery
+Easy Service screens
+A32  Eligible outlets   |   A33  Workshop readinessA34  Payer approval   |   A35  Receipt and completion
+Your Next Toyota screens
+A36  Inspection and offer   |   A37  Equity and termsA38  Reservation and acceptance   |   A39  Settlement and delivery
+Rollout and economics
+A44  Delivery and measurement   |   A45  Base financial projectionA46  Sensitivity and simulation   |   A47  Risk register
+A0  Prototype and financial workbook
+Appendix index   |   Return to Executive Summary
+Digiroom KEY prototype
+Financial projection workbook
+Interactive journey demonstration
+Financial assumptions and projections: Appendices A45–A46
+https://auto2000demo.vercel.app/
+See Appendices A45–A46 for the supplied financial scenario.
+A1  Aftersales earns nearly half of case gross profit
+Return to related analysis   |   Appendix index
+The baseline separates market wholesales, app activity, booking channels, and gross profit. Each measure retains its own denominator.
+
+Indicator
+Value
+Denominator or interpretation
+xEV share, 2024 → 2025
+11.9% → 21.8%
+Indonesian new-car wholesales, including HEV, PHEV and BEV
+2025 xEV mix
+103,931 BEV; 65,943 HEV; 5,270 PHEV
+175,144 xEV wholesales
+Toyota hybrid share
+51%
+Supplied 2025 market baseline. GAIKINDO’s published counts imply 45.7% (30,110 of 65,943).
+Vehicle sales and aftersales GP
+Rp3,600bn; Rp3,150bn
+Business-line baseline; all powertrains
+Aftersales share of revenue and GP
+13.0%; 46.7%
+Rp9,000bn revenue and Rp3,150bn GP across service, parts and body and paint
+Digiroom audience
+500,000+ downloads; ~21,000 MAU
+Cumulative downloads versus active users in a month
+Primary Digiroom activity
+46% booking; 22% catalogue; 14% promotions; 10% tracking; 8% test drive or trade-in
+Share of active users by main activity
+Service booking channels
+16% Digiroom; 38% WhatsApp; 46% phone or walk-in
+All service bookings in the case mix
+xEV refers to HEV, PHEV and BEV.
+A2  Digiroom already takes requests and the branch still has to confirm them
+Return to related analysis   |   Appendix index
+Existing customer entry
+Evidence in the case or reviewed journey
+What is still open for the customer
+Vehicle catalogue and test drive
+Digiroom supports model browsing and test-drive requests. Selected branch-model links preserved the requested vehicle and branch.
+Is the demonstrator available, who confirms it, and what can the family check on the drive?
+Credit simulation
+A hybrid and a BEV example displayed finance estimates before contact entry in the team’s desktop review.
+Which terms does the buyer accept, and has the lender decided?
+Service booking and assisted channels
+Both interviewees reporting routine service successfully used WhatsApp. Digiroom also provides booking and tracking.
+Has the shop acknowledged the car and confirmed the work, finish time and payer decision?
+Trade-in and appraisal
+The existing trade-in route connects to OLXmobbi. Selected public reviews describe appraisal features.
+Who makes a written buy offer and coordinates payoff, a specific replacement unit, and settlement?
+Sources: Auto2000 public journeys and owner interviews.
+Digiroom relaunched in December 2025, with Single ID providing an existing CRM foundation. The public-journey review and owner interviews above distinguish the available entry points from the decisions that follow. Sources for the journey comparison: Auto2000 public pages and owner interviews.
+A3  Each source reveals a different part of the customer journey
+Return to related analysis   |   Appendix index
+
+Figure A3.1. Exported and deduplicated counts by platform. The scales describe records within each source.
+The comparison draws on three owner interviews and a routing model with 284 paired origins across four markets. X, Google Maps, and YouTube provide separate sets of public accounts, with counts shown above. These sources describe different units and cannot be combined into a customer sample.
+Platform records were deduplicated within platform. The team retained source-run membership and reviewed specific episodes in context. Reviews and posts are selected accounts rather than a representative sample of owners or completed jobs. Secondary evidence cutoff: 14 November 2026. Interviews were integrated on 16 November 2026.
+A4  Paid work can stall at reception, scope or approval
+Return to related analysis   |   Appendix index
+Case and context
+Reported episode
+Decision it informs
+Setiabudi · Aug 2026
+Veloz owner described arriving for paid service, waiting without reception and rejecting the branch.
+Assign an adviser to acknowledge arrivals, including walk-ins.
+Pancing · 2026
+Walk-in registration plate reportedly failed to enter the queue.
+Carry the case into physical reception.
+Kertajaya · Feb 2026
+Avanza owner described an assembly replacement estimate and a cheaper outside repair. Technical equivalence is unknown.
+Explain diagnosis, scope and installed cost before authorization.
+Plaju · Oct 2026
+Reviewer objected to communication and approval of work.
+Record the exact scope the payer accepted.
+Soekarno-Hatta · Jul 2024 and Oct 2025
+Two separate accounts described repeated visits or recorded complaints missed in service.
+Carry the symptom through the work order and check resolution at handover.
+Cilandak · Mar 2026
+Reviewer described prior consultation about additional work, clear charges and follow-up.
+Use accepted scope and follow-up as a positive process comparison.
+Yaris Cross Hybrid interview
+Driver booked and completed routine covered service. A family member controlled extra spend.
+Keep driver, payer and programme entitlement distinct.
+Sources: selected Google Maps reviews and Yaris Cross Hybrid interview.
+Sources: selected Google Maps reviews of the named branches and anonymized team interview. Review dates are publication dates. Reports help locate breakdowns and counterexamples. They do not establish branch performance rates or verify invoices.
+A5  Households need to answer different questions on the drive
+Return to related analysis   |   Appendix index
+Source
+Routine or decision observed
+What a confirmed drive needs to answer
+Wuling Air EV interview
+Apartment charging fit routine trips. The driver reported dealer booking via WhatsApp and used a separate tire shop.
+Whether a particular household already has usable charging and room to wait.
+BYD Atto notes
+The driver reported switching transport on one low-charge trip and searching for a charger on another. Parents handled acquisition.
+Whether regular routes still work under pressure, and what backup the household can use.
+Yaris Cross Hybrid interview
+The family chose a hybrid after a Raize and valued reported fuel efficiency. The father led the purchase.
+How fuel use, carrying capacity and routine travel fit the buyer’s decision.
+Auto2000 prospect on X
+Reported being unable to find a test-drive vehicle. The account does not identify a model or outlet.
+Whether the branch can confirm the requested car, date and adviser.
+Setiabudi hybrid purchase reviews
+Reported examples of an adviser coordinating household scheduling, financing, handover or paperwork.
+Which parts of the decision a named adviser can already coordinate.
+Sources: owner interviews, selected X account, and Google Maps reviews.
+The evidence supports designing around a household’s own questions. A 48-hour drive and a 3D fit check are design decisions. The accounts do not establish demand for a particular duration or estimate sales uplift.
+A6  Financing insurance trades upfront cash for higher instalments
+Return to related analysis   |   Appendix index
+Auto2000’s online credit calculator was observed on 11 November 2026 with New Innova Zenix 2.0 G HV CVT, Gray Metallic, Jakarta Pusat, a displayed price of Rp475,400,000, a 20% base down payment, and a 60-month term. Both calculations include instalment 1 upfront.
+Exhibit A6.1  Exact payment comparison
+Displayed amount
+Insurance paid upfront
+Insurance financed
+Financed minus upfront
+Total cash due upfront
+154,847,741
+109,533,402
+−45,314,339
+Monthly instalment
+9,271,161
+10,403,402
++1,132,241
+Remaining instalments
+59
+59
+0
+Values are in rupiah except the instalment count. The observation illustrates cash timing using the same model, price, base down payment, location and initial instalment convention. It is a dated calculator estimate. The source vehicle page is listed in References (Auto2000, n.d.-a).
+A7  Existing outlets close 19 of 39 modeled oil-service gaps
+Return to related analysis   |   Appendix index
+For each retained origin, compare modeled driving time to the corrected general-service dealer network and the collected oil-job comparator. Repeat after including eligible Auto2000-operated OtoXpert destinations. A gap is the network time minus the comparator time. Count origins with a strict gap above five minutes using the same paired sample in both scenarios.
+Exhibit A7.1  Paired routing results
+Market
+Paired origins
+Dealer only >5 min
+With OtoXpert >5 min
+Median gap before → after, min
+Bandung
+78
+17
+14
+1.74 → 1.69
+Surabaya
+59
+10
+6
+0.97 → 0.51
+Medan
+78
+3
+0
+0.35 → 0.05
+Palembang
+69
+9
+0
+2.64 → 1.56
+Total
+284
+39
+20
+—
+Interpretation. 19 of 39 origin gaps clear the threshold in the expanded network. Bandung retains 14 of 20 and Surabaya retains six. The five-minute line is an analytical threshold. Grid points are not demand weights and modeled times do not represent live traffic, workshop capacity or booking outcomes.
+OtoXpert locations carry their operator designation. The official directory identifies both Auto2000-operated and separately operated outlets. Only locations eligible for the job and attributed to the relevant operator enter the expanded scenario (OtoXpert, n.d.).
+A8  Bandung holds most of the gaps that remain
+Return to related analysis   |   Appendix index
+Each panel uses the same retained origins within its market. The plots use origin coordinates in a schematic east–west and north–south frame, with axes scaled to each market window. They show where the gap persists. Street networks, captured routes and real-time traffic are outside the map.
+
+Figure A8.1. Bandung. 17 to 14 origins above five minutes, from 78 paired origins.
+
+Figure A8.2. Surabaya. 10 to 6 origins above five minutes, from 59 paired origins.
+A8  Four-market modeled access atlas continued
+Return to related analysis   |   Appendix index
+
+Figure A8.3. Medan. 3 to 0 origins above five minutes, from 78 paired origins.
+
+Figure A8.4. Palembang. 9 to 0 origins above five minutes, from 69 paired origins.
+Source for all four panels: team’s corrected workshop routing model, using paired origin centres and scenario-specific gaps. The geographic frame preserves relative positions within each market.
+A9  A branch can matter for general repair even where oil alternatives exist
+Return to related analysis   |   Appendix index
+Branch or market
+Oil-service finding
+Implication for general repair and fulfilment
+Bandung Soekarno-Hatta
+8 remaining oil-gap origins are assigned there.
+Prepare eligible work and address the reported risk of missed items or repeat visits.
+Bandung Suci
+3 remaining oil-gap origins are assigned there after the endpoint correction.
+Use the corrected destination in comparisons. Keep job eligibility separate from travel time.
+Bandung Cibiru, Pasteur and Setiabudi
+1 remaining oil-gap origin each.
+Address outlet and job-specific pockets.
+Surabaya
+6 remaining oil-gap origins in the corrected comparison.
+Use job-specific alternatives and keep the remaining pockets visible.
+Medan Pancing
+0 remaining oil-gap origins; 8 origins lose 15-minute general-workshop access when it is removed in the model.
+Preserve its general-workshop role.
+Palembang Tanjung Api-Api
+0 remaining oil-gap origins; 7 lose 15-minute general-workshop access in the removal comparison.
+Keep general service accessible even where eligible oil routes have alternatives.
+Sources: authors’ corrected workshop-routing calculations.
+Oil-service substitution and general-workshop protection use separate destination sets. The branch-removal exercise compares modeled access and does not recommend closing or expanding any site.
+A9.1  Corrected workshop destinations
+Return to related analysis   |   Appendix index
+Assigned origins use the modeled nearest general-service dealer. The final column counts origins that lose a dealer within 15 model minutes when the assigned branch is removed. A zero indicates a result under that comparison.
+Market and outlet
+Assigned origins
+Oil tails before
+Oil tails after
+Lose access
+Surabaya · Auto2000 Basuki Rachmat
+3
+0
+0
+0
+Surabaya · Auto2000 HR Muhammad
+7
+3
+3
+0
+Surabaya · Auto2000 Jemur Sari
+4
+0
+0
+0
+Surabaya · Auto2000 Kenjeran
+4
+0
+0
+0
+Surabaya · Auto2000 Kertajaya
+11
+3
+0
+1
+Surabaya · Auto2000 Pecindilan
+11
+0
+0
+0
+Surabaya · Auto2000 Surabaya A. Yani
+11
+1
+0
+1
+Surabaya · Auto2000 Waru
+3
+2
+2
+0
+Surabaya · Auto2000 Wiyung
+4
+0
+0
+0
+Surabaya · Auto2000 Manyar
+1
+1
+1
+0
+Surabaya · Auto2000 Sidoarjo
+0
+0
+0
+0
+Medan · Auto2000 Gatot Subroto
+20
+0
+0
+2
+Medan · Auto2000 Medan Amplas
+22
+3
+0
+2
+Medan · Auto2000 Medan Binjai
+0
+0
+0
+0
+Medan · Auto2000 Medan Marelan
+7
+0
+0
+2
+A9.1  Corrected workshop destinations continued
+Return to related analysis   |   Appendix index
+Market and outlet
+Assigned origins
+Oil tails before
+Oil tails after
+Lose access
+Medan · Auto2000 Pancing
+24
+0
+0
+8
+Medan · Auto2000 Sisingamangaraja
+5
+0
+0
+0
+Medan · Auto2000 Tanjung Morawa
+0
+0
+0
+0
+Bandung · Auto2000 Asia Afrika
+6
+2
+0
+0
+Bandung · Auto2000 Cibiru
+14
+1
+1
+2
+Bandung · Auto2000 Pasteur
+3
+1
+1
+0
+Bandung · Auto2000 Rancaekek
+0
+0
+0
+0
+Bandung · Auto2000 Setiabudi
+9
+1
+1
+0
+Bandung · Auto2000 Soekarno
+21
+9
+8
+0
+Bandung · Auto2000 Soreang
+5
+0
+0
+1
+Bandung · Auto2000 Suci
+20
+3
+3
+3
+Palembang · Auto2000 Plaju
+19
+0
+0
+1
+Palembang · Auto2000 Tanjung Api
+25
+8
+0
+7
+Palembang · Auto2000 Veteran
+25
+1
+0
+2
+Source: corrected four-market workshop-routing study. Timing is scenario-based. The oil columns use the >5-minute screen.
+A10  Seven included visits can push paid scheduled work beyond 2028
+Return to related analysis   |   Appendix index
+Included scheduled service follows the vehicle’s programme, mileage, and time limits. A January 2026 delivery reaches visit seven in January 2029 in the time-only example above; earlier paid work depends on mileage or uncovered items.
+Source for programme terms: Toyota Astra Motor (n.d.). The dates are an illustrative entitlement calculation. A vehicle’s actual schedule and eligibility determine what it pays.
+Paid work by powertrain and payer
+
+Cohort
+Relevant opportunity
+How to count it
+HEV or PHEV with covered scheduled work
+Programme labor and parts eligible under vehicle terms.
+Record any reimbursement separately from customer-paid extras.
+HEV or PHEV with uncovered work
+Due or uncovered tasks confirmed for the vehicle and programme.
+Count paid work once at completion.
+BEV owners
+Vehicle-specific inspection, diagnostics or eligible wear work.
+Use actual job eligibility, payer and outlet capability.
+Petrol Toyota owners
+Customer-paid oil or general repair where the job fits the outlet.
+Identify the owner’s prior comparable workshop for the win-back count.
+A11  An appraisal can exist while the deposit or reservation remains unresolved
+Return to related analysis   |   Appendix index
+Evidence
+What happened or was reported
+What the evidence supports
+Yaris Cross Hybrid interview
+Driver consulted marketplace and dealer prices and reached a range. The account contains no closed appraisal or trade.
+Distinguish market indication, inspection and an offer a buyer has issued.
+Kertajaya reviews · Oct 2026
+Two reviews describe TRIVA estimates or appraisal inputs, including an OLX comparison.
+Appraisal interfaces are already familiar to some customers.
+Gatot Subroto trade-in account
+Reviewer reported stalled approval and difficulty recovering a deposit.
+Put the expiry, commitments and refund route in the terms.
+OLXmobbi Tamini account
+Reviewer reported the booked unit went to another buyer despite payment and reported credit approval.
+Confirm the specific replacement unit and reconcile the hold with the offer and credit timeline.
+BYD Atto answer notes
+The respondent expressed interest in knowing a minimum future value and reported no resale action.
+A stated preference for certainty is distinct from taking an actual offer.
+Sources: owner interviews and selected Google Maps reviews.
+Sources: anonymized team interviews and selected public Google Maps accounts. The deposit and allocation reports identify plausible handoff failures. Neither report identifies an xEV.
+A12  The inspected offer becomes Rp71.5m of usable equity in this example
+Return to related analysis   |   Appendix index
+Exhibit A12.1  Usable equity calculation
+Sample terms: Rp248m offer − Rp174m lender payoff − Rp2.5m fees = Rp71.5m usable equity. Replacement stock, credit and settlement are confirmed separately.
+Source: sample transaction in the Digiroom KEY demonstration. Figures illustrate the arithmetic. The sample does not establish market value, lender approval or a completed sale.
+A13  Each customer decision has a different commercial endpoint
+Return to related analysis   |   Appendix index
+Buying leads to a first xEV delivery for a customer new to Auto2000; service leads to a completed customer-paid work order; upgrade leads to a repeat xEV delivery. The issue tree connects each outcome with its own customer decision.
+Digiroom’s common role is to preserve the case, show who can act next, and give the customer a reason to return when the decision moves. Each outcome can be counted once across digital and assisted channels.
+A14  Play Store ratings can look favorable without showing a completed task
+Return to related analysis   |   Appendix index
+The team reviewed 358 unique selected app-review IDs across 21 app, storefront and language cohorts. The first wave contains 210 records from Google Play and the Apple App Store. The extension adds 148 distinct Google Play records across nine listing views. The date comparison below uses the 50 original Digiroom records only.
+
+Figure A14.1. Review publication relative to Digiroom’s relaunch. A specific interaction can describe a failed attempt as well as a successful one.
+
+Source: authors’ coding of selected Google Play reviews. In the original 20-record Indonesian-language view, 16 had four or five stars. Specific interactions can include failed attempts. Counting all five unclear records as interactions yields a coding range of 7/16–12/16. The original date comparison uses 50 Digiroom records; nine matched app-language selections showed zero overlap in displayed review IDs.
+Sources: selected Google Play and Apple App Store reviews; authors’ coding of task, rating, and publication date. Digiroom on Google Play
+A15  X accounts show why an owner might repair, buy or choose a specialist
+Return to related analysis   |   Appendix index
+The X collection covers ten exports from 1 January 2025 to 13 November 2026. Deduplication reduced 14,892 rows to 14,291 platform IDs. Of 6,186 replies, 5,704 lack the immediate parent in the export. All 37 captured post bodies explicitly naming Digiroom came from Auto2000’s named account. The collection is more useful for individual ownership choices than for measuring app usage.
+Paraphrased account
+Specific action or decision
+Implication for KEY
+Test-drive inquiry
+Prospective buyer reported wanting to buy and being unable to find a test-drive unit.
+A drive request needs a model, a confirmed vehicle and a named adviser.
+Older Toyota restoration
+Owner reported a Rp100m purchase and Rp25m in combined suspension work and audio upgrades, comparing it with a younger used car around Rp120m.
+Repair and immediate replacement can be competing outcomes for the same household. The amount bundles several costs.
+Choosing a workshop by job
+One poster separates routine servicing, body repairs, parts and specialist work. Another describes a community workshop referral during a breakdown.
+An owner may already know where to go. The offer has to earn the specific job.
+Sole-car household
+A poster admired competing technology and described keeping a Japanese option while supporting only one car.
+The family’s backup options can change what it needs to learn on a drive.
+Sources: selected X ownership accounts, paraphrased.
+Source: targeted retrieval and manual reading of selected X accounts. The examples describe reported choices. Test-drive post  |  Restoration post
+A16  Three YouTube videos surface distinct BEV concerns
+Return to related analysis   |   Appendix index
+The three returned video threads contain 74 comment records. The Neta resale thread supplies 45. Video subject, audience and replies shape what is discussed, so the excerpts are used to compare mechanisms.
+
+Figure A16.1. A single video accounts for 45 of 74 comment records.
+Observed theme
+Paraphrased example
+Implication
+Charging access
+One commenter reported relying on public charging rather than installing the supplied wall charger. Replies disputed installation-cost details.
+Ask where the household can actually charge and what it does when that option is unavailable.
+Service recovery
+One BYD M6 commenter described a window-noise remedy at a named outlet.
+An account of a completed remedy illustrates the value of a named endpoint and closure.
+Resale and support
+A Neta discussion raised dealer continuity as a rival explanation for resale concern.
+Separate resale prices, battery condition, and continued dealer or parts support.
+Sources: selected YouTube comments, paraphrased.
+Source videos  BYD M6 owner experience  |  BYD M6 editorial review  |  Neta resale discussion
+A17  Branch reviews identify specific points where jobs stall
+Return to related analysis   |   Appendix index
+Five Google Maps exports supplied 8,385 rows and 8,119 unique review IDs across 37 place IDs. The 5,504 reviews with text made it possible to distinguish physical reception, quoted scope, authorization and completion. Publication dates range from September 2011 to November 2026.
+
+Collection or screen
+Count
+How it enters the comparison
+Latest four-city Auto2000 selection
+1,915 export rows
+Provides recent selected branch accounts.
+Latest four-city Shop & Drive selection
+932 export rows
+Shows how a different workshop network is discussed under its own collection frame.
+Deliberately low-rating selection
+1,562 export rows
+Reveals specific failure mechanisms and historical cases.
+Cohort overlap
+266 IDs also occur in non-diagnostic collections
+Track membership without counting a repeated review as a second event.
+All text across exports
+5,504 unique reviews with nonempty text
+Screen for task and branch; read the cited cases in context.
+These collection counts are subsets or views of the exports. They cannot be added into a complaint-rate denominator. Compare named episodes with counterexamples in Appendix A4 and appraisal failures in Appendix A11.
+A18  Zenix accounts for about four in five Toyota hybrids in the published breakdown
+Return to related analysis   |   Appendix index
+The published 2025 model breakdown puts Toyota at 30,110 hybrid wholesales, including 23,934 Zenix and 3,380 Yaris Cross. These figures describe Toyota wholesale distribution, a different denominator from Auto2000 buyers or the case’s Toyota hybrid-share figure.
+
+Figure A18.1. Zenix accounts for 23,934 of 30,110 Toyota hybrid wholesales in the published breakdown (Gabungan Industri Kendaraan Bermotor Indonesia, 2026).
+National xEV wholesales establish market context. Toyota’s model breakdown describes brand-level distribution, while a commercial service forecast needs Auto2000’s actual vehicle and job eligibility. Wholesale shares cannot supply that installed-base denominator.
+A19  Registered cars and mapped chargers answer different questions
+Return to related analysis   |   Appendix index
+
+Dataset or comparison
+Observed result
+Scope and decision use
+BPS and Polri registered vehicles
+Seven public annual tables for 2019–2025; 20,907,972 passenger vehicles in the 2025 register.
+This describes registrations, not BEV demand, Toyota vehicles, or active Auto2000 customers.
+Indonesian public charging snapshot
+2,454 consolidated station records and 3,767 distinct charger-box IDs.
+Useful to identify where access needs checking. Registry entries do not establish uptime, queues or compatibility.
+Auto2000-name check
+15 entries by operator-brand field versus 28 by station name. The other 13 include Toyota or Lexus restriction markers.
+Check access and naming before offering a site as a usable fallback.
+Branch-coordinate sensitivity
+27/28 Auto2000-named records have another mapped site within 5 km straight line. Substituting five official direction coordinates changes that to 28/28.
+A coordinate discrepancy can change the apparent gap. Straight-line proximity does not imply drive time or an available charger.
+Sources: BPS and Polri annual registration tables, author-consolidated Indonesian SPKLU snapshot dated 16 June 2026, and the team’s coordinate comparison. Charging dataset
+A20  Sentiment and telemetry datasets have narrow roles in this case
+Return to related analysis   |   Appendix index
+
+Supporting material
+What the team examined
+Relevance to the Auto2000 claim
+Digiroom and comparable public journeys
+Public product, finance, test-drive, service and branch pages, with specific paths checked for inputs preserved and output displayed.
+Separates a visible feature from a confirmed physical outcome. See Appendix A2.
+CASA automotive sentiment set
+810 training, 90 validation and 180 test records from the IndoNLU benchmark.
+An automotive text benchmark helps frame coding choices. The records do not describe Digiroom users.
+IGAR public-service review set
+617,722 aligned rows across two label views. Labels differ on 41.35% of paired rows.
+A disagreement check shows why generic sentiment should not drive a diagnosis. Neither label view gives ground truth for Auto2000.
+Published EV telemetry
+Five driving and charging files from one Audi e-tron in the San Francisco Bay Area.
+An alignment check informs how technical signals should be handled. It provides no Toyota battery-health or resale evidence.
+Dataset sources  IndoNLU  |  IGAR  |  Real-world electric vehicle driving and charging data
+A21  Wuling Air EV owner interview
+Return to household analysis  |  Return to service analysis  |  Appendix index
+Interview A. The table translates and condenses the filled interviewer guide. Q01–Q12 follow the core questions; C1–C4 cover the recorded concept discussion. The service provider is Wuling Soekarno-Hatta, a separate business from Auto2000 Soekarno-Hatta. The interview date was not recorded in the supplied materials.
+Question or topic
+Interpreted answer
+Q01. When did you start using the car, and what part did you play in choosing it?
+The respondent has used a Wuling Air EV since 2023. Their father chose the model and dealer, arranged the transaction, and funded it. The respondent had not personally purchased or serviced a car at Auto2000; the family’s Toyota dealings were unknown to them.
+Q02. What did you handle in the most recent car-related task or payment?
+The respondent arranges service through WhatsApp, takes the car to Wuling Soekarno-Hatta in Bandung, approves the work, and pays by transfer. Their father reimburses the expenditure.
+Q03. Describe a recent journey and the decisions you made.
+Bandung–Jatinangor and ordinary university or activity trips had gone smoothly. The respondent reported no cancelled or diverted trips, or car substitution, during the previous two to four weeks.
+Q04. How did you manage charging or stops during the journey?
+The car is charged at the apartment when the battery reaches around 30%. The respondent rests or continues activities at home while it charges and reported no disruption to the routine.
+Q05. What was the latest maintenance or assistance task you handled?
+The respondent handled a tyre replacement at Nawilis in Jakarta because it was a familiar workshop. They also described routine servicing roughly every three months at Wuling Soekarno-Hatta, booked through WhatsApp.
+Q06. What had to be decided before work could proceed, and how did it end?
+Service quality was the main consideration. The respondent paid first and was reimbursed by their father. They reported satisfactory completion without repeat visits, cancelled work, or transferring an unfinished job elsewhere.
+Q07. Which alternatives were actually considered when the car was chosen?
+The respondent did not know which other cars or dealers their father had considered. Their family has a Toyota, but they did not know whether Auto2000 had been consulted.
+Q08. Which costs were discussed or changed the purchase decision?
+The respondent did not know the original price, down payment, instalments, or purchase-cost calculations because their father handled those decisions.
+Q09. What were you trying to finish the last time you used a car-related app or conversation?
+The latest conversation concerned a routine service booking through the Wuling workshop’s WhatsApp contact. The respondent did not use Digiroom, mTOYOTA, or a dedicated vehicle app for the task.
+Q10. Have you taken any steps to value, sell, or replace a car?
+The family had sold or replaced vehicles, but their father handled those transactions. The respondent could not describe offers or settlement details.
+Q11. Which part of the experience most needs improvement?
+The respondent identified no problem requiring improvement in the car, service arrangements, or ownership experience.
+Q12. Was anything in the interviewer’s summary incorrect or incomplete?
+The respondent added no correction. Their role as driver and service organiser remained distinct from their father’s purchase and funding role.
+C1. Which part of the proposed service, purchase, or trade-in support could change your action?
+The respondent saw no urgency for the proposed service support because their existing arrangements worked.
+C2. If price and technical results were the same, why choose or reject the proposed route?
+They preferred the current method when the price and technical outcome were unchanged.
+C3. If an adviser or WhatsApp supplied the same information, what would still justify opening an app?
+They identified no additional app task; WhatsApp was sufficient for workshop communication.
+C4. What would you fill in, remove, or return to next?
+They did not see a reason to use the app for their own service task. Purchase and replacement decisions belonged to their father.
+Source: anonymised wuling air ev owner interview. Answers are English interpretations of the supplied Indonesian notes, not verbatim quotations. Reported experiences and concept reactions are distinguished above.
+A22  Toyota Yaris Cross Hybrid owner interview
+Return to household analysis  |  Return to service analysis  |  Appendix index
+Interview B. The table translates and condenses the filled interviewer guide. Q01–Q12 follow the core questions; C1–C4 cover reactions to the described concepts. The Auto2000 branch is not identified. The interview date was not recorded in the supplied materials.
+Question or topic
+Interpreted answer
+Q01. When did you start using the car, and what part did you play in choosing it?
+The family bought a new 2024-model Yaris Cross Hybrid from Auto2000 and began using it in January 2025. The respondent contributed colour and model-year preferences. Their father chose the model and dealer, funded the purchase, and used an established sales relationship.
+Q02. What did you handle in the most recent car-related task or payment?
+The respondent contacts the workshop, books the visit, drops off the car, and collects it. Routine service was still covered by the purchase package. Their father retains the final decision on extra work or spending.
+Q03. Describe a recent journey and the decisions you made.
+The respondent described an approximately eight-hour return journey between Jatinangor and Tasikmalaya with friends. They chose the route and departure time. Under passenger load on hills, acceleration required more time and effort than when driving alone.
+Q04. How did you manage charging or stops during the journey?
+Stops were planned around tiredness, motion sickness, toilet needs, and stretches where stopping would be difficult. The respondent said fuel use and the trip broadly met expectations.
+Q05. What was the latest maintenance or assistance task you handled?
+The respondent described routine servicing at mileage intervals or roughly every six months. They selected the nearby Auto2000 branch associated with the purchase, booked through WhatsApp, brought the service booklet, and collected the car after notification.
+Q06. What had to be decided before work could proceed, and how did it end?
+The work matched the initial agreement and was described as covered routine maintenance. Their father decides on extra work after the adviser explains the technical need. No work had been cancelled or transferred to another workshop.
+Q07. Which alternatives were actually considered when the car was chosen?
+The family moved from a Raize Turbo to the Yaris Cross Hybrid for reported fuel efficiency. The respondent did not identify another model seriously considered at that purchase. Their father chose Auto2000 through a long-standing contact.
+Q08. Which costs were discussed or changed the purchase decision?
+The purchase discussion included vehicle price and fuel use compared with the Raize. Reported fuel savings met expectations, although fuel-price increases did not. Instalments were arranged around the selected 2024-model unit; amounts were not supplied.
+Q09. What were you trying to finish the last time you used a car-related app or conversation?
+The respondent last used the Auto2000 WhatsApp admin contact to arrange service timing. They described the task as consistently completed and preferred to keep using that channel.
+Q10. Have you taken any steps to value, sell, or replace a car?
+The respondent had checked marketplaces and official dealers for resale information. They stopped once they had found a plausible average range for the car’s condition; no completed appraisal or sale was reported.
+Q11. Which part of the experience most needs improvement?
+The respondent identified no current ownership or routine-service problem requiring improvement.
+Q12. Was anything in the interviewer’s summary incorrect or incomplete?
+The respondent reported no correction to the interviewer’s summary and was willing to provide a later clarification.
+C1. Which part of the proposed service, purchase, or trade-in support could change your action?
+The respondent favoured trade-in support as a way to move beyond manually checking market prices.
+C2. If price and technical results were the same, why choose or reject the proposed route?
+They saw little personal relevance in purchase-planning support because their father already handled buying through a dealer contact.
+C3. If an adviser or WhatsApp supplied the same information, what would still justify opening an app?
+They identified service details, cost estimates, and approval status as reasons to view a service record.
+C4. What would you fill in, remove, or return to next?
+They would fill in trade-in information, remove purchase-planning content from their own flow, and revisit service status or approval. These were reactions to a described concept.
+Source: anonymised toyota yaris cross hybrid owner interview. Answers are English interpretations of the supplied Indonesian notes, not verbatim quotations. Reported experiences and concept reactions are distinguished above.
+A23  BYD Atto driver interview
+Return to household analysis  |  Return to service analysis  |  Appendix index
+Interview C. Six numbered answer notes were supplied without the original question wording. Topic prompts below are reconstructed to organise those notes; they are not the original interview questions. Answers are interpreted summaries. The interview date and exact vehicle variant were not recorded.
+Question or topic
+Interpreted answer
+N1. Topic prompt: How do commuting and charging fit your routine?
+The Sidoarjo–Surabaya university commute was described as fairly long. The respondent prefers locations with several chargers, such as PLN sites. On one urgent occasion with around 12% battery, they took Gojek. On a separate occasion near Rungkut, low charge led them to search for a nearby charger.
+N2. Topic prompt: What attracted you to the Atto, and who handled buying?
+They had considered Wuling, then became interested in the newly released Atto because of its perceived price and the wish to try an EV. Their parents arranged the purchase.
+N3. Topic prompt: Were any offers rejected or negotiated?
+The respondent did not know the negotiations because their parents handled them. They personally perceived the Atto as cheaper while offering comparable quality; no matched prices were provided.
+N4. Topic prompt: Has a fault made the car unusable?
+They reported no fault that had immobilised the car or forced a substitute university trip because of breakdown. This is separate from the low-charge transport substitution described in N1.
+N5. Topic prompt: Have you researched resale or a replacement?
+They had not checked resale prices or sought a replacement because they were not planning to sell. They viewed lower running costs during ownership as an offset to possible future depreciation.
+N6. Topic prompt: Would knowing a minimum trade-in value at purchase affect confidence?
+They preferred knowing a minimum future trade-in value from the outset and said it would increase purchase confidence. This was a stated preference, without a quoted floor, accepted terms, or purchase commitment.
+Source: anonymised BYD Atto driver interview. Answers are English interpretations of the supplied Indonesian notes, not verbatim quotations. Reported experiences and concept reactions are distinguished above.
+A24  The Practical Toyota Household
+Return to recommendations  |  Appendix index
+Research-informed composite persona. Source: supplied persona artwork, owner interviews, and Digiroom audience baseline. This is a design synthesis, not a fourth interview participant or a representative market estimate.
+
+Figure A24.1. The target household across buying, service, and replacement.
+Persona element
+Research basis
+Design implication
+Driver and payer roles
+Yaris Q02/Q06; Wuling Q02
+Share the current decision with the person authorised to act.
+WhatsApp for service
+Yaris Q09; Wuling Q09
+Preserve assisted entry; add useful status and approval.
+Resale research
+Yaris Q10; Atto N5/N6 contrast
+Carry a price range into an inspected offer.
+36–50 reference; 41% MAU
+Digiroom audience baseline
+Audience context only; interviews do not validate this age segment.
+A25  Technology stack and implementation boundary
+Return to recommendations  |  Appendix index
+Layer
+Demonstrated stack
+Role
+Application
+React 19; TypeScript; Vite 7
+Responsive interface and typed domain logic.
+3D studio
+Three.js; React Three Fiber; Drei
+Vehicle, garage and cabin scenes.
+Maps
+Leaflet; OpenStreetMap tiles; bundled atlas
+Job-specific workshop comparisons with tile fallback.
+Sharing and display
+QR code; LZ String; Lucide icons
+Visit brief sharing and interface presentation.
+State
+Browser localStorage; journey state transitions
+One active case per journey in the sample account.
+Verification tooling
+Vitest; Testing Library; Playwright
+Unit and browser checks reported in the prototype handoff.
+Source: Digiroom KEY application source and build handoff. Package versions describe the supplied implementation, not a claim about the latest software releases.
+A26  Production integrations and transaction architecture
+Return to recommendations  |  Appendix index
+
+Figure A26.1. Proposed production architecture; system interfaces require implementation.
+Integration
+Record exchanged
+Confirmation owner
+Identity and CRM
+Customer, vehicle, consent and access grants
+Digital and CRM
+Dealer operations
+Demonstrator, unit hold, slot, parts and work order
+Sales or service adviser
+Appraisal and lending
+Inspected offer, payoff, validity and finance decision
+Appraiser and lender
+Payments and settlement
+Receipt, deposit, refund, old-loan settlement
+Authorised finance operator
+The current interface uses local sample records. Live identity, cross-device approval, appointments, inventory, lending, messaging and payments are production integrations; no active third-party connection is implied by a screenshot.
+A27  Research preparation and source separation
+Return to recommendations  |  Appendix index
+
+Figure A27.1. Evidence preparation; records remain separate from customer and transaction counts.
+A28  Household garage and cabin checks
+Return to recommendations  |  Appendix index
+
+Figure A28.1. The 3D Life Test compares a chosen Toyota with the household garage and door constraints. Source: captured Digiroom KEY interface; sample records.
+
+Figure A28.2. Close-up of the live-rendered cabin, passenger seats and child-seat annotation. Source: captured Digiroom KEY interface; sample records.
+Garage clearance and passenger configuration make household questions explicit.
+A29  Weekly costs and household quote
+Return to recommendations  |  Appendix index
+
+Figure A29.1. The BEV example estimates weekly charging needs and energy cost. Source: captured Digiroom KEY interface; sample records.
+
+Figure A29.2. The customer can hand the dated quote to the household buyer. Source: captured Digiroom KEY interface; sample records.
+Charging inputs and the household quote address different parts of affordability.
+A30  Drive availability and confirmation
+Return to recommendations  |  Appendix index
+
+Figure A30.1. The adviser receives the customer checklist and preferred pickup and return dates. Source: captured Digiroom KEY interface; sample records.
+
+Figure A30.2. The sales adviser confirms the drive and reviews the handover checklist. Source: captured Digiroom KEY interface; sample records.
+The adviser checks availability before the household relies on a drive.
+A31  Drive results and delivery progression
+Return to recommendations  |  Appendix index
+
+Figure A31.1. The household saves its results on the request. Source: captured Digiroom KEY interface; sample records.
+
+Figure A31.2. The customer can see the delivered vehicle and completed journey in the demo. Source: captured Digiroom KEY interface; sample records.
+Saved household results carry into the dated offer and delivery record.
+A32  Eligible outlets and job selection
+Return to recommendations  |  Appendix index
+
+Figure A32.1. Bandung local atlas shows 17 of 78 modeled origins facing a material oil-service time gap with dealer workshops only. Source: captured Digiroom KEY interface; sample records.
+
+Figure A32.2. Bandung local atlas shows 14 of 78 modeled origins facing a material oil-service time gap after adding eligible Auto2000-operated OtoXpert. Source: captured Digiroom KEY interface; sample records.
+The same Bandung origin set is compared with and without eligible OtoXpert destinations.
+A33  Workshop readiness and customer confirmation
+Return to recommendations  |  Appendix index
+
+Figure A33.1. The workshop adviser reserves parts and confirms a service slot. Source: captured Digiroom KEY interface; sample records.
+
+Figure A33.2. The customer sees the confirmed service slot. Source: captured Digiroom KEY interface; sample records.
+The adviser confirms resources and the customer sees the agreed slot. The workflow in A41 defines arrival acknowledgement.
+A34  Payer approval and estimate changes
+Return to recommendations  |  Appendix index
+
+Figure A34.1. The authorized payer reviews the current scope and price, then decides whether to approve it. Source: captured Digiroom KEY interface; sample records.
+
+Figure A34.2. The customer can see that the authorized payer’s decision was recorded. Source: captured Digiroom KEY interface; sample records.
+The current estimate and the recorded decision remain tied to a version.
+A35  Service completion and receipt
+Return to recommendations  |  Appendix index
+
+Figure A35.1. The workshop adviser closes the job and issues the receipt. Source: captured Digiroom KEY interface; sample records.
+
+Figure A35.2. The customer can see the completed service and download its receipt. Source: captured Digiroom KEY interface; sample records.
+Collection and payment close the accepted work; unresolved items retain a next action.
+A36  Inspection request and written offer
+Return to recommendations  |  Appendix index
+
+Figure A36.1. The owner sees a market estimate and can request an inspected buy offer. Source: captured Digiroom KEY interface; sample records.
+
+Figure A36.2. The confirmed appraisal feeds the old-loan payoff and replacement terms. Source: captured Digiroom KEY interface; sample records.
+A market indication moves to an inspected offer with payoff and fees.
+A37  Net equity and current upgrade terms
+Return to recommendations  |  Appendix index
+
+Figure A37.1. The confirmed appraisal feeds the old-loan payoff and replacement terms. Source: captured Digiroom KEY interface; sample records.
+
+Figure A37.2. The owner can review the applied trade-in credit, cash due and monthly instalments before accepting. Source: captured Digiroom KEY interface; sample records.
+Sample amounts distinguish the offer, loan payoff, fees and usable equity.
+A38  Replacement reservation and owner decision
+Return to recommendations  |  Appendix index
+
+Figure A38.1. The adviser publishes the financing terms and reserved showroom unit. Source: captured Digiroom KEY interface; sample records.
+
+Figure A38.2. The owner sees the accepted terms and next settlement step. Source: captured Digiroom KEY interface; sample records.
+Adviser commitments and owner acceptance refer to the current deal.
+A39  Settlement and replacement delivery
+Return to recommendations  |  Appendix index
+
+Figure A39.1. The adviser has a completed record for the trade-in and replacement vehicle. Source: captured Digiroom KEY interface; sample records.
+
+Figure A39.2. The completed replacement appears in the owner’s demo journey. Source: captured Digiroom KEY interface; sample records.
+The record follows settlement and handover through to replacement delivery.
+A40  Commercial outcomes and KPI definitions
+Return to recommendations  |  Appendix index
+Journey
+Outcome and denominator
+Supporting measures
+Know Your Fit
+Additional delivered xEVs to customers new to Auto2000; eligible acquisition opportunities
+Confirmed and completed drives; offers; delivery conversion; demonstrator cost.
+Easy Service
+Additional completed customer-paid work orders per eligible paid/mixed opportunity
+Readiness; approval time; rework; adviser time; independent-workshop recovery.
+Your Next Toyota
+Additional repeat xEV deliveries among eligible existing customers
+Inspections; accepted offers; reserved units; settled deals; refunds.
+Useful digital return
+Voluntary revisit for a distinct ownership task
+Confirmation review; current approval; completion record; subsequent decision.
+Count each delivery or work order once across channels. Separate new-to-Auto2000 from first Toyota or first xEV, and covered service from customer-paid work. Planning targets and GP assumptions appear in Chapter IV and Appendices A45–A46.
+A41  Operating workflows and decision rights
+Return to recommendations  |  Appendix index
+
+Acquisition workflow. Roles confirm the states they control.
+
+Service workflow. Roles confirm the states they control.
+
+Replacement workflow. Roles confirm the states they control.
+A42  Permissions and exception controls
+Return to recommendations  |  Appendix index
+Event
+Required control
+Customer response
+Extra work
+Approve the current estimate version before starting
+Approve, decline or retain original scope.
+Shared payer link
+Purpose-limited access; identity check; expiry and revocation
+Review only relevant work and charges.
+Unavailable demonstrator
+Check calendar; offer alternate model-matched slot
+Accept another time or drive format.
+Expired appraisal or lost unit
+Invalidate old terms and disclose refund route
+Review revised terms or pause.
+Unavailable map tiles
+Use bundled geography and outlet list
+Inspect the same modelled comparison without live tiles.
+A43  Drive eligibility and stale approval exceptions
+Return to recommendations  |  Appendix index
+
+The extended drive checks branch eligibility and prompts the adviser before confirmation. Source: captured Digiroom KEY interface; sample records.
+
+A superseded estimate link prompts the payer to open the latest version. Source: captured Digiroom KEY interface; sample records.
+A44  Delivery plan and pilot measurement
+Appendix index   |   Return to Chapter IV
+The proposed service pilot should confirm a named branch owner, enough eligible Yaris Cross Hybrid cases, work-order and payer data, and an agreed process for handling approval revisions. Use Soekarno-Hatta first and Setiabudi when the same readiness checks favour it. The pilot tests the workflow and can include eligible mixed work. The financial win-back estimate uses the narrower cohort of completed customer-paid jobs recovered from independent garages.
+Period
+Workstream and owner
+Evidence for the next release
+FY2026 Q4
+Digiroom and Aftersales define transaction IDs, the work-item and entitlement schema, branch capacity and consent. Finance agrees measurement rules.
+Named branch owner and control workflow. Confirm available cases, comparable periods and required event fields.
+FY2027 Q1–Q3
+Aftersales tests the service record and versioned payer approvals. Sales prepares demonstrators and insurance for a confirmed-drive test.
+Check completion, recognised contribution, return usage, approval turnaround and rework. Review staff effort and capacity.
+FY2027 Q3–Q4
+Sales and Finance test household briefs, available demonstrators and dated offers. The upgrade adviser tests inspected offers, payoff and unit holds.
+Trace confirmed cases to delivery or settlement. Review missed appointments, expired offers and exceptions.
+FY2028
+Branch operations, Digital and Finance extend eligible jobs and release proven sales flows.
+Expand only where fulfilment, consent, contribution and reconciliation meet pre-agreed thresholds.
+Use household assignment or comparable branch periods where feasible. Retain normal assisted intake in both groups. Measure completed customer-paid orders per eligible paid or mixed opportunity and contribution per completed case. Count meaningful Digiroom returns for a distinct confirmation, approval, completed record or later ownership event. Coverage, refunds, repeats and adviser effort require separate measures. Appendix A40
+A45  Base case volumes and unit economics
+Appendix index   |   Return to Chapter IV
+Figures use the supplied Base case. Fiscal year 2026 is setup with zero modelled transaction impact. All financial figures below are nominal Rp billion unless otherwise stated. The gross-outlay check adds capital expenditure, fixed and variable operating costs, and positive working-capital draw. Gross profit is calculated before programme expenses.
+Incremental outcome or input
+FY2026
+FY2027
+FY2028
+Total
+K. Qualified new-customer leads
+0
+4,800
+11,500
+16,300
+K. Completed 48-hour drives
+0
+400
+1,000
+1,400
+K. New-to-Auto2000 xEV deliveries
+0
+134
+323
+457
+E. Eligible outside-work opportunities
+0
+14,000
+36,000
+50,000
+E. Additional customer-paid orders
+0
+980
+2,520
+3,500
+Of which xEV orders
+0
+294
+756
+1,050
+Y. Completed inspected offers
+0
+1,430
+4,125
+5,555
+Y. Repeat xEV deliveries via offer
+0
+80
+231
+311
+Incremental gross profit
+0.00
+5.58
+14.85
+20.43
+Capital expenditure
+8.40
+12.00
+6.70
+27.10
+Programme operating costs
+1.05
+4.40
+8.36
+13.80
+Gross working-capital draw
+0.00
+1.77
+2.95
+4.72
+Gross outlay, including working capital
+9.45
+18.17
+18.01
+45.63
+Volume assumptions are 2.4 percentage points of incremental delivery on the standard track and 7.1 on a completed 48-hour drive, 7.0 points of incremental paid service completion, and 5.6 points of repeat delivery per inspected offer. The upgrade model assumes a written offer for 55% of returning trade-in leads. The model assumes a 30% xEV mix in eligible service jobs and full use of the modelled 48-hour slots where demand allows. Validate utilisation, reach and lift in the pilot.
+The starting acquisition and replacement tickets are Rp385 million and Rp425 million. A customer-paid service order combines labour and parts once. Aggregate margin proxies are 6% for vehicle sales, 55% for service labour and 25% for parts. These are business-line proxies across powertrains. Ticket and variable-cost escalation is 2.5% per year, working capital is 2% of incremental sales and the hurdle is 12%. Returns are nominal, pre-tax and unlevered. The workbook keeps the full FY2026–35 calculation and displays returns through the first hurdle crossing.
+Source workbook tabs: Assumption, Budgeting, Volume Projection, Revenue & Cost Projection, and Financial Projection. Totals use unrounded values. Appendix A0
+A46  Sensitivity and simulated returns
+Appendix index   |   Return to Chapter IV
+Compare scenarios at the same FY2032 endpoint. The downside uses 0.75× eligible reach and 0.70× conversion lift. The upside uses 1.20× reach and 1.15× lift. Base uses 1.00× for both. Capital and fixed operating costs are held to the workbook plan while volume-linked costs move with activity.
+Scenario
+Reach ×
+Lift ×
+NPV (Rp bn)
+IRR
+Downside
+0.75
+0.70
+−28.26
+−36.37%
+Base
+1.00
+1.00
+9.70
+21.96%
+Upside
+1.20
+1.15
+39.52
+46.93%
+The workbook runs 2,000 paths with independent triangular reach and lift multipliers, held across years within each trial. The assumed ranges are the downside and upside factors, with Base as the most likely value. At FY2032, 35.05% of simulated paths have negative NPV. These results describe the model’s selected assumptions and distributions. They cannot establish a measured likelihood of success.
+Modelled distribution
+5th percentile
+Median
+95th percentile
+NPV (Rp bn)
+−13.50
+4.47
+21.52
+IRR
+−5.05%
+16.76%
+32.63%
+Source workbook tabs: Sensitivity, Monte Carlo, and Revenue & Cost Projection. Appendix A0
+A47  Risk ratings and release decisions
+Appendix index   |   Return to Chapter IV
+Risk
+Likelihood and impact
+Release decision
+R1. Service economics
+High / High
+Aftersales and Finance review recognised margin, adviser effort and incremental paid completions. Narrow the job catalogue or revise workflow if direct contribution does not support scale.
+R2. Branch fulfilment
+Medium / High
+Branch Operations confirms exact slots, vehicles, workshop fitment and named owners. Pause expansion when repeated unfulfilled confirmations create extra trips or rework.
+R3. Upgrade settlement
+Medium / High
+The Upgrade team confirms buyer, payoff, lender terms and unit validity before acceptance. Revised terms, expiry and refunds remain visible.
+R4. Authorisation and data
+High / Medium
+Product and Data Protection validate role checks, expiry, revocation and stale-link handling. Suspend delegated approvals if the wrong person can approve.
+R5. Attribution and GP
+Low / High
+Finance and Analytics reconcile one identifier through all channels. Treat covered work, channel movement and mutually exclusive repair or replacement outcomes distinctly.
+Ratings are directional planning judgements. Pilot owners agree escalation criteria before launch and revisit them as actual case volumes and exceptions become available. Appendix A42 Appendix A44
